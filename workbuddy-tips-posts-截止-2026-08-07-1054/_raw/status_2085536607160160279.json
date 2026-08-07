@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/stellaeai099/status/2085536607160160279",
+    "id": "2085536607160160279",
+    "text": "发现 workbuddy 用来爬腾讯自家的微信公众号的信息非常高效，完全不被管控，直接写了个skill 让 claude code 和 codex 随时拉起 workbuddy 调用…😅",
+    "raw_text": {
+      "text": "发现 workbuddy 用来爬腾讯自家的微信公众号的信息非常高效，完全不被管控，直接写了个skill 让 claude code 和 codex 随时拉起 workbuddy 调用…😅",
+      "display_text_range": [
+        0,
+        93
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "stellaeai099",
+      "url": "https://x.com/stellaeai099",
+      "id": "1725387708384874496",
+      "followers": 10,
+      "following": 32,
+      "likes": 13,
+      "media_count": 25,
+      "name": "电烙铁大师兄",
+      "description": "AI+硬件开发者｜做过现实版《HER》- AI 女友「星黎」\n独立创业中 http://Stellae.AI，持续探索 AI  × Agent × 智能硬件产品\n抖音/全平台 @电烙铁大师兄 @星了个黎 ID 73123771215.",
+      "raw_description": {
+        "text": "AI+硬件开发者｜做过现实版《HER》- AI 女友「星黎」\n独立创业中 https://t.co/D1NJQZpyvF，持续探索 AI  × Agent × 智能硬件产品\n抖音/全平台 @电烙铁大师兄 @星了个黎 ID 73123771215.",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              37,
+              60
+            ],
+            "original": "https://t.co/D1NJQZpyvF",
+            "replacement": "http://Stellae.AI",
+            "display": "Stellae.AI"
+          }
+        ]
+      },
+      "location": "Hong Kong",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1725387708384874496/1753766096",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2031179394333683712/DerCCCPf_200x200.jpg",
+      "joined": "Fri Nov 17 05:37:48 +0000 2023",
+      "protected": false,
+      "website": {
+        "url": "https://www.stellae.me/",
+        "display_url": "stellae.me"
+      },
+      "verification": {
+        "verified": false,
+        "verified_at": null,
+        "type": null
+      },
+      "avatar_color": null
+    },
+    "replies": 1,
+    "retweets": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "quotes": 0,
+    "created_at": "Fri Aug 07 01:20:49 +0000 2026",
+    "created_timestamp": 1786065649,
+    "views": 60,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter for iPhone",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

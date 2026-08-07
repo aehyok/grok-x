@@ -1,0 +1,218 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Jack_FluxAI/status/2082997493672132790",
+    "id": "2082997493672132790",
+    "text": "胡楚靓最近的“AI工作台教程”很简单：\n\n下载 WorkBuddy 或 Trae，用大白话说需求；不会描述，就丢截图让AI照着做。\n\nAI圈的人看完可能会觉得：“这也算教程？”\n\n但结合她的经历就会发现，简单恰恰是她的人设核心。\n\n早期做美妆，别人展示精致妆容，她展示方脸、黑眼圈和化妆翻车；别人讲复杂技巧，她用唠嗑和吐槽让手残党也敢跟着做。\n\n现在讲AI，逻辑完全一样。\n\n别人讲Agent、MCP和工作流，她只说：\n\n“不会描述，就把截图丢给AI。”\n\n她塑造的从来不是专家，而是一个敢折腾、会赚钱、愿意带普通人尝试新东西的“搞钱闺蜜”。\n\n从早期短视频到直播电商，再到现在的AI，她总能比普通人早半步，但又不会早到让人看不懂。\n\n所以她真正厉害的，不是把AI讲得多深，而是把AI讲到所有人都觉得：\n\n“这么简单，我也能试试。”\n\n技术博主负责把AI做深，胡楚靓负责把AI做浅。\n\n但在大众传播里，后者往往更容易拿到流量。",
+    "raw_text": {
+      "text": "胡楚靓最近的“AI工作台教程”很简单：\n\n下载 WorkBuddy 或 Trae，用大白话说需求；不会描述，就丢截图让AI照着做。\n\nAI圈的人看完可能会觉得：“这也算教程？”\n\n但结合她的经历就会发现，简单恰恰是她的人设核心。\n\n早期做美妆，别人展示精致妆容，她展示方脸、黑眼圈和化妆翻车；别人讲复杂技巧，她用唠嗑和吐槽让手残党也敢跟着做。\n\n现在讲AI，逻辑完全一样。\n\n别人讲Agent、MCP和工作流，她只说：\n\n“不会描述，就把截图丢给AI。”\n\n她塑造的从来不是专家，而是一个敢折腾、会赚钱、愿意带普通人尝试新东西的“搞钱闺蜜”。\n\n从早期短视频到直播电商，再到现在的AI，她总能比普通人早半步，但又不会早到让人看不懂。\n\n所以她真正厉害的，不是把AI讲得多深，而是把AI讲到所有人都觉得：\n\n“这么简单，我也能试试。”\n\n技术博主负责把AI做深，胡楚靓负责把AI做浅。\n\n但在大众传播里，后者往往更容易拿到流量。",
+      "display_text_range": [
+        0,
+        413
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            115,
+            138
+          ],
+          "id": "2082997484817944576",
+          "display": "pic.x.com/7XAS5Xb1DO",
+          "original": "https://t.co/7XAS5Xb1DO",
+          "replacement": "https://x.com/Jack_FluxAI/status/2082997493672132790/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Jack_FluxAI",
+      "url": "https://x.com/Jack_FluxAI",
+      "id": "2035032829999075328",
+      "followers": 1933,
+      "following": 669,
+      "likes": 14295,
+      "media_count": 334,
+      "name": "Jack Flux",
+      "description": "26岁普通工程师\n在AI浪潮里重新寻找人生可能\n分享AI实战经验、工作流和Agent \n偶尔讲讲段子，个人感悟",
+      "raw_description": {
+        "text": "26岁普通工程师\n在AI浪潮里重新寻找人生可能\n分享AI实战经验、工作流和Agent \n偶尔讲讲段子，个人感悟",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2035032829999075328/1783191536",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2072156359542607872/SHqIRvOY_200x200.jpg",
+      "joined": "Fri Mar 20 16:37:00 +0000 2026",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 8,
+    "retweets": 5,
+    "likes": 57,
+    "bookmarks": 48,
+    "quotes": 0,
+    "created_at": "Fri Jul 31 01:11:17 +0000 2026",
+    "created_timestamp": 1785460277,
+    "possibly_sensitive": false,
+    "views": 8842,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2082997484817944576",
+          "url": "https://pbs.twimg.com/media/HOhLLR6bEAA4AJz.jpg?name=orig",
+          "width": 942,
+          "height": 2048
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2082997484817944576",
+          "url": "https://pbs.twimg.com/media/HOhLLR6bEAA4AJz.jpg?name=orig",
+          "width": 942,
+          "height": 2048
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/Jack_FluxAI/status/2082345252699189274",
+      "id": "2082345252699189274",
+      "text": "大家有注意到最近墙内很火的胡楚靓AI 工作台吗？\n\n正当我打开Codex 准备好好拆解一番的时候\n\n用豆包给我转化逐字稿\n\n就发现他的构建流程就是\n\n1.安装 Work Buddy 或 Trae Work。\n\n2.用大白话告诉 AI：你想要什么功能、左侧菜单放什么、右侧放什么。\n\n3.如果不会描述，直接把喜欢的工作台截图丢给 AI，说：“照着这个做，把内容换成我的。”\n\n就是这么朴实无华的口喷编程法\n\n在墙内收获了，四十多万赞\n\n多少技术大牛都做不到",
+      "raw_text": {
+        "text": "大家有注意到最近墙内很火的胡楚靓AI 工作台吗？\n\n正当我打开Codex 准备好好拆解一番的时候\n\n用豆包给我转化逐字稿\n\n就发现他的构建流程就是\n\n1.安装 Work Buddy 或 Trae Work。\n\n2.用大白话告诉 AI：你想要什么功能、左侧菜单放什么、右侧放什么。\n\n3.如果不会描述，直接把喜欢的工作台截图丢给 AI，说：“照着这个做，把内容换成我的。”\n\n就是这么朴实无华的口喷编程法\n\n在墙内收获了，四十多万赞\n\n多少技术大牛都做不到",
+        "display_text_range": [
+          0,
+          227
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              164,
+              187
+            ],
+            "id": "2082345240040771584",
+            "display": "pic.x.com/Vx4ZYrhZQ9",
+            "original": "https://t.co/Vx4ZYrhZQ9",
+            "replacement": "https://x.com/Jack_FluxAI/status/2082345252699189274/photo/1"
+          },
+          {
+            "type": "media",
+            "indices": [
+              164,
+              187
+            ],
+            "id": "2082345240053383168",
+            "display": "pic.x.com/Vx4ZYrhZQ9",
+            "original": "https://t.co/Vx4ZYrhZQ9",
+            "replacement": "https://x.com/Jack_FluxAI/status/2082345252699189274/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "Jack_FluxAI",
+        "url": "https://x.com/Jack_FluxAI",
+        "id": "2035032829999075328",
+        "followers": 1933,
+        "following": 669,
+        "likes": 14295,
+        "media_count": 334,
+        "name": "Jack Flux",
+        "description": "26岁普通工程师\n在AI浪潮里重新寻找人生可能\n分享AI实战经验、工作流和Agent \n偶尔讲讲段子，个人感悟",
+        "raw_description": {
+          "text": "26岁普通工程师\n在AI浪潮里重新寻找人生可能\n分享AI实战经验、工作流和Agent \n偶尔讲讲段子，个人感悟",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/2035032829999075328/1783191536",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2072156359542607872/SHqIRvOY_200x200.jpg",
+        "joined": "Fri Mar 20 16:37:00 +0000 2026",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 30,
+      "retweets": 24,
+      "likes": 257,
+      "bookmarks": 278,
+      "quotes": 7,
+      "created_at": "Wed Jul 29 05:59:31 +0000 2026",
+      "created_timestamp": 1785304771,
+      "possibly_sensitive": false,
+      "views": 149509,
+      "is_note_tweet": true,
+      "community_note": null,
+      "lang": "zh",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2082345240040771584",
+            "url": "https://pbs.twimg.com/media/HOX59oxbEAAih_3.jpg?name=orig",
+            "width": 942,
+            "height": 2048
+          },
+          {
+            "type": "photo",
+            "id": "2082345240053383168",
+            "url": "https://pbs.twimg.com/media/HOX59o0bgAADlRg.jpg?name=orig",
+            "width": 942,
+            "height": 2048
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2082345240040771584",
+            "url": "https://pbs.twimg.com/media/HOX59oxbEAAih_3.jpg?name=orig",
+            "width": 942,
+            "height": 2048
+          },
+          {
+            "type": "photo",
+            "id": "2082345240053383168",
+            "url": "https://pbs.twimg.com/media/HOX59o0bgAADlRg.jpg?name=orig",
+            "width": 942,
+            "height": 2048
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2082345252699189274/HOX59oxbEAAih_3/HOX59o0bgAADlRg",
+            "webp": "https://mosaic.fxtwitter.com/webp/2082345252699189274/HOX59oxbEAAih_3/HOX59o0bgAADlRg"
+          }
+        }
+      },
+      "source": "Twitter for iPhone",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter for iPhone",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

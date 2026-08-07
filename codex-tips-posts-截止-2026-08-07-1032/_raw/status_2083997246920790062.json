@@ -1,0 +1,1744 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/ErwinWu000/status/2083997246920790062",
+    "id": "2083997246920790062",
+    "text": "只需要一段提示词，用codex原生功能帮你实现小白也能用的graph engineering\n\n一个包工头帮我管着N个小弟，我只需要坐着喝茶就好",
+    "raw_text": {
+      "text": "只需要一段提示词，用codex原生功能帮你实现小白也能用的graph engineering\n\n一个包工头帮我管着N个小弟，我只需要坐着喝茶就好 https://t.co/ujhxydhKIo",
+      "display_text_range": [
+        0,
+        96
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "ErwinWu000",
+      "url": "https://x.com/ErwinWu000",
+      "id": "1679059779216633856",
+      "followers": 237,
+      "following": 196,
+      "likes": 309,
+      "media_count": 42,
+      "name": "Erwin",
+      "description": "🎓PolyU PhD | 💻前大厂开发\nAIxWeb3丨AI Builder丨HCI Research\nBTC熊市链上指标看板\nhttps://x.com/ErwinWu000/status/2082035950167921019?s=20\nX关注导入列表工具\nhttps://x.com/i/status/2078845849829093378",
+      "raw_description": {
+        "text": "🎓PolyU PhD | 💻前大厂开发\nAIxWeb3丨AI Builder丨HCI Research\nBTC熊市链上指标看板\nhttps://t.co/ZolNqQSWDB\nX关注导入列表工具\nhttps://t.co/JYuNim8om1",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              64,
+              87
+            ],
+            "original": "https://t.co/ZolNqQSWDB",
+            "replacement": "https://x.com/ErwinWu000/status/2082035950167921019?s=20",
+            "display": "x.com/ErwinWu000/sta…"
+          },
+          {
+            "type": "url",
+            "indices": [
+              98,
+              121
+            ],
+            "original": "https://t.co/JYuNim8om1",
+            "replacement": "https://x.com/i/status/2078845849829093378",
+            "display": "x.com/i/status/20788…"
+          }
+        ]
+      },
+      "location": "香港",
+      "banner_url": "",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2077329662649511936/BATq9_PG_200x200.jpg",
+      "joined": "Wed Jul 12 09:27:24 +0000 2023",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 3,
+    "retweets": 19,
+    "likes": 127,
+    "bookmarks": 299,
+    "quotes": 2,
+    "created_at": "Sun Aug 02 19:23:57 +0000 2026",
+    "created_timestamp": 1785698637,
+    "possibly_sensitive": false,
+    "views": 44059,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-02T19:23:57.000Z",
+      "modified_at": "2026-08-02T19:23:57.000Z",
+      "id": "2080864349409996800",
+      "title": "只用 Codex 原生功能，新手也能用Graph Engineering 跑起多 Agent 工作流",
+      "preview_text": "最近 Agent 圈又火了一个词：Graph Engineering。\n很多人的第一反应可能是：这是不是又要学一套新框架，画一堆节点，最后再写一个复杂的调度器？\n我先把结果摆出来：\n我利用 Codex",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOu0eD7bUAAKAAIXTTf5INpwAAAA",
+        "media_id": "2083957681132621824",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 81.86,
+                "rgb": {
+                  "blue": 15,
+                  "green": 3,
+                  "red": 1
+                }
+              },
+              {
+                "percentage": 5.44,
+                "rgb": {
+                  "blue": 182,
+                  "green": 182,
+                  "red": 182
+                }
+              },
+              {
+                "percentage": 4.11,
+                "rgb": {
+                  "blue": 82,
+                  "green": 28,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 4.06,
+                "rgb": {
+                  "blue": 223,
+                  "green": 75,
+                  "red": 1
+                }
+              },
+              {
+                "percentage": 1.84,
+                "rgb": {
+                  "blue": 140,
+                  "green": 47,
+                  "red": 1
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HOu0eD7bUAAw3bh.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2083957681132621824"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "at2dn",
+            "text": "最近 Agent 圈又火了一个词：Graph Engineering。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dq7q1",
+            "text": "很多人的第一反应可能是：这是不是又要学一套新框架，画一堆节点，最后再写一个复杂的调度器？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fk7lb",
+            "text": "我先把结果摆出来：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 45,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2hkci",
+            "text": "我利用 Codex 现有的机制，一个提示词实现了轻量的Graph Engineering。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7g7c9",
+            "text": "我没有写 Agent 编排代码，只给 Codex 准备了阶段文档、一个总目标和一段提示词。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1fduu",
+            "text": "它真的创建了一个负责等待、审核和继续派工的包工头，还有3个可以单独打开的任务，依次处理三个阶段。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 17,
+                "style": "Bold"
+              }
+            ],
+            "key": "8pp3n",
+            "text": "这篇文章我会向你展示我的做法，给你能直接运行的提示词",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "50mgm",
+            "text": "耐心看完，小白也能直接上手",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "a6gup",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4pkf0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7k2n7",
+            "text": "1.Graph Engineering 到底在做什么",
+            "type": "header-two"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 103,
+                  "text": "https://x.com/steipete/status/2078277297791189132",
+                  "toIndex": 152
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4s0pq",
+            "text": "`Graph Engineering` 是 2026 年 7 月突然进入 Agent 圈讨论的新标签。Peter Steinberger 当时在 X 问了一句：[“我们还在讨论循环，还是已经转向图了？”](https://x.com/steipete/status/2078277297791189132)",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dt33r",
+            "text": "这个词目前没有统一的行业标准，也不是 2026 年才突然出现的一项新技术。LangChain 在 2024 年发布 LangGraph 时，已经用节点、边和状态来组织循环工作流与多 Agent 协作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7j3vl",
+            "text": "最近的讨论只是把一个越来越常见的问题推到了台前：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 32,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "44kce",
+            "text": "当你让多个 Agent共同完成一个长期目标时，工作应该怎样连接？",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5pdkp",
+            "text": "用最简单的话解释：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "egsic",
+            "text": "节点：谁负责这一步，可以是 Agent、测试程序，也可以是人；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 1,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bc3ql",
+            "text": "边：这一步结束后去哪里；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2s54s",
+            "text": "状态：现在完成到哪，留下了什么结果；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2srtn",
+            "text": "门禁：凭什么进入下一阶段；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "f44ii",
+            "text": "返工：审核不通过时回到哪里；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5q2i7",
+            "text": "人工介入：什么决定必须交还给人。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8cg5a",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2ktrm",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5rlqm",
+            "text": "2.我是怎么做的",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ug8b",
+            "text": "这次任务是一个 Windows 桌面产品化项目，我已经提前写好了三个版本的阶段文档：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 14
+              },
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 30
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "banj",
+            "text": "v1.0.0  桌面入口迁移👉v1.1.0  安装与数据管理👉v1.2.0  首位外部测试者交付",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ikee",
+            "text": "我给 Codex 安排了两类角色：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "335f0",
+            "text": "T0 总包：看总目标、等待进度、独立审核、决定返工还是进入下一阶段；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "68tdp",
+            "text": "T1/T2/T3 Worker：一个任务只负责一个版本，在自己的上下文里实施和验证。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4sp35",
+            "text": "项目的状态用进度文档来传递。Worker 不需要继承上一阶段的全部聊天，只需要知道已经通过的结果、当前阶段的要求和工作区现状。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "bd229",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ja56",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eog90",
+            "text": "整个过程最终留下三个可以单独打开的任务，而不是一个任务里的三段回复。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "esgt0",
+            "text": "某一阶段出问题时，我可以直接打开对应任务，查看它做了什么、为什么没通过、后来怎样修复，不需要重读前面所有聊天。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4h5g5",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "17oj6",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6q4kq",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "53niq",
+            "text": "3.让总包来审核小弟的工作",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5oo7j",
+            "text": "总包只执行三条核心规则：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6a1p4",
+            "text": "阶段任务完成实施和验证后，由他检查实际产物、测试和真实运行结果；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1te3s",
+            "text": "审核不通过，就在原任务中追加修复，等待完成后重新审核；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "24tq9",
+            "text": "审核通过后，先更新进度文档，再创建下一阶段任务。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3lkcv",
+            "text": "下面是我的实测：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "agdn0",
+            "text": "T1 worker出现了两轮问题，总包两次都没有放行，也没有提前创建 T2。修复完成后，T1 的报告测试、验收和两轮复审都记录下来了。T0 查证据后才给出 `v1.0.0` 通过结论。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2uvs6",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f3fi8",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a3omm",
+            "text": "4.运行中仍然可以介入",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "djgig",
+            "text": "T1 运行期间，我告诉总包：从 T2 开始，新建任务统一使用 luna 的最高推理模式。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fsefg",
+            "text": "总包回复收到后，继续去监视小弟们干活了",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "clbou",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "79ud3",
+            "text": "",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "erj70",
+            "text": "",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8mi4f",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9j8b4",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "an8oe",
+            "text": "5.设置个定时任务让总包偶尔看看进度",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2370p",
+            "text": "本次实测主要使用事件等待：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "e21e6",
+            "text": "总包派发后通过 `Wait threads` 等待小弟们的状态变化，不进行高频查询。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8j7mh",
+            "text": "如果项目会跨越几个小时或几天，可以在总包所在会话设置定时任务，让 Codex 按固定间隔回到同一会话检查进度。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7v693",
+            "text": "会话内定时任务会保留已有上下文；独立定时任务每次从保存的提示词开始，更适合互不相关的周期性检查。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "99e8e",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 11
+              },
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 12
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1ebvs",
+            "text": "6.先复制这个最小模板⭐⭐",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6r4j2",
+            "text": "使用前先准备好每个阶段的目标、验收标准和进度文档，然后替换三个变量：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 17,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1fab0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7ef5g",
+            "text": "这段最小模板规定了阶段顺序、审核证据、返工路径和结束条件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 23,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8k9sb",
+            "text": "模型选择和定时唤醒可以根据你的需要加入提示词。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 18,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4674c",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e5tgl",
+            "text": "7.什么时候值得这样做",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9151q",
+            "text": "我会把它用于这些任务：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bhufl",
+            "text": "分阶段的软件开发；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e7kr6",
+            "text": "论文的“结构修改 → 内容重写 → 格式与引用检查”；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bmhng",
+            "text": "课程的“设计 → 制作 → 录制与发布”；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e05ao",
+            "text": "产品的“原型 → 开发 → 测试 → 交付”；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4mf8n",
+            "text": "数据项目的“采集 → 清洗 → 分析 → 报告”。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7ro",
+            "text": "前提是你已经写清每个阶段的完成标准。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 26,
+                "offset": 9,
+                "style": "Bold"
+              }
+            ],
+            "key": "981b9",
+            "text": "如果标准仍然模糊，多开几个 Agent 只会让它们更快地朝不同方向努力。Agent 越多，还会带来更多成本、文件冲突和共同盲点。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 19,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8bp8q",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9jmrl",
+            "text": "8.Goal、独立阶段任务和 Subagent 各管一层",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 20,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "b8jv9",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "sc7g",
+            "text": "Goal 模式负责维持长期目标，可以使用 `/goal` 启动，并在同一任务中继续调整约束。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "32fkg",
+            "text": "Subagent工作流是中，主 Agent 可以委派多个 subagent 结统一汇总。它适合并行探索和审查，但主要有两个问题：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8qq02",
+            "text": "subagent的上下文只存在于当前对话",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1k30",
+            "text": "subagent可能会因为运行过被截断",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ec4bf",
+            "text": "因此我的组合是：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 19,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "34hre",
+            "text": "总包使用 Goal 模式持续运行和监管",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "d4po",
+            "text": "小弟负责需要分别验收的阶段",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 25,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "16jo9",
+            "text": "Subagent 只处理小弟内部可以并行的小工作。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "43v89",
+            "text": "一个复杂 Bug 或一份连续报告，直接使用 Goal 更省事。多个有严格依赖的长期阶段，才需要增加独立任务和审核门。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 21,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3a6u5",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6bj63",
+            "text": "附录：我的模型与等待配置",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "68lsc",
+            "text": "如果要复现我这次的角配置，可以把下面规则追加到最小模板：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 22,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cr6ma",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 23,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8o9vj",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9uarl",
+            "text": "写在最后",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ng4n",
+            "text": "Graph Engineering 要处理的是工作关系：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 27,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "27nha",
+            "text": "谁负责、凭什么前进、失败回到哪里，以及谁有最终决定权。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "defh",
+            "text": "你不需要先开发一套调度框架。先用一个总包、几个独立 Worker 和一道审核门，把第一张工作图跑通。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3ofjd",
+            "text": "先把工作关系跑通，再决定要不要写框架。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cebbt",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 82,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4m5qg",
+            "text": "我是Erwin，PolyU在读PhD，前大厂开发，专注AI开发和web3研究。如果你也是AI Builder，欢迎关注我。我会分享最新的AI开发知识和web3动态。",
+            "type": "blockquote"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "entityKey": "5ee7a764-c6ba-4ddf-b200-f944a6213a4c",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083946681079607296"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "entityKey": "f51ebcf6-6514-49c8-a9e0-2d85fce01dd7"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "19",
+            "value": {
+              "data": {
+                "entityKey": "61c5938d-75f5-4b6a-96ae-ace8287afb40"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "23",
+            "value": {
+              "data": {
+                "entityKey": "31d79145-8c76-4fd5-a3e4-3dbba298f670"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f449.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/2b50.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "entityKey": "c29804f1-998a-443d-8ab9-e9986de55cd1"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "caption": "T1 完成修复并通过 v1.0.0 审核",
+                "entityKey": "11cf3672-117f-481a-982e-37463553b168",
+                "mediaItems": [
+                  {
+                    "localMediaId": "9",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083945417579065344"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "22",
+            "value": {
+              "data": {
+                "entityKey": "cad74960-9864-42ed-b809-86794d2bbdb8",
+                "markdown": "```plaintext\n等待与模型规则：\n\n- 总包、模块负责人和最终审核使用 gpt-5.6-sol，推理强度 xhigh；\n- 常规执行代理使用 gpt-5.6-luna，推理强度 max；\n- 如果指定模型不可用，重试一次；仍不可用时，使用当前环境可用的模型和允许的最高推理挡位，并记录降级情况；\n- 严格依赖或会修改同一批文件的阶段不得并行；\n- 如果任务跨越数小时或数天，可在 T0 会话设置定时唤醒；每次唤醒只检查状态并继续原流程，不得创建新的总包；\n- 运行中收到新指令时，只修改尚未开始的后续任务；已经运行的任务保持当前配置，除非用户明确要求改变；\n- 除非需要改变目标、超出文档范围、执行破坏性操作或进行人工验收，否则自动继续；\n- 未经用户明确要求，不得归档总包任务或执行任务。\n\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "entityKey": "27d34aeb-1e85-4c47-a16a-44b0134c0c9c"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/2b50.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f449.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "entityKey": "e6abfe16-0ea1-465c-b855-b734d5de29ee"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "21",
+            "value": {
+              "data": {
+                "entityKey": "02acc7b5-bedd-464f-a17f-97649eeacce3"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "caption": "实际使用的 Codex Agent 工作图：上层是用户、定时唤醒、共享状态与 T0，下层是三个阶段子图",
+                "entityKey": "38c24f53-3686-4d26-9c41-847e76bcb385",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083926687721705472"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "e4cf5fe5-d145-4aab-b630-27f21958f0ab"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {
+                "entityKey": "71530f0d-c19d-4147-a3dc-a294644636ea",
+                "markdown": "```plaintext\n/goal\n\n总目标：[项目或总目标]\n阶段清单：[阶段一 → 阶段二 → 阶段三]\n阶段文档位置：[需求、验收标准和进度文档所在位置]\n\n你是总包任务 T0，持续管理整个任务链，直到全部阶段完成。\n\n按照阶段顺序执行：\n1. 为当前阶段创建一个独立执行任务；\n2. 执行任务按照阶段文档完成实施和验证；\n3. 完成后由 T0 检查实际产物、测试、运行结果和验收条目；\n4. 不通过就在原任务中追加修复，等待完成后重新审核；\n5. 通过后先更新进度文档，再创建下一阶段任务。\n\n每次派发后进入事件等待，不要频繁查询。\n未经我明确要求，不得因为等待超时而结束或归档任务。\n只有全部阶段通过并完成最终进度更新，整个 Goal 才能结束。\n\n收到后直接创建第一个阶段任务。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "entityKey": "a0e525b1-8bbf-4fb2-a551-985b557fe6b7"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "caption": "包工头正在盯着小弟们干活",
+                "entityKey": "4b2ee905-16f7-4dbc-9fa9-3d5656b7dda7",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083944503862566912"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "20",
+            "value": {
+              "data": {
+                "entityKey": "fa09cf25-70c1-4e38-8572-ba2cad37df05",
+                "markdown": "方式 | 主要作用 | 适合的场景 |\n|---|---|---|\n| Goal 模式 | 让总包持续记住最终完成标准 | 一个长期但连贯的目标 |\n| 多阶段模板＋独立任务 | 管理阶段顺序、审核、返工和记录 | 严格串行、分别验收的项目 |\n| Subagent | 在当前任务内部并行处理小工作 | 查资料、跑测试、代码审查"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "caption": "Graph Engineering 概念图：不同工作节点共享状态，并通过分支、审核与人工确认形成输出",
+                "entityKey": "13276d8f-c0e1-48ad-80e0-4d929e36c5a3",
+                "mediaItems": [
+                  {
+                    "localMediaId": "21",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083930191878148096"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "18",
+            "value": {
+              "data": {
+                "entityKey": "1e291966-6278-4392-936c-2ee907833dc2"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "caption": "Codex 侧边栏中留下的三个独立阶段任务",
+                "entityKey": "abbc5c52-af0f-4da2-8dee-2f45fe332884",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083926206089695232"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "63264330-7d5e-46aa-8f71-42db41a98b17"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOupUOoacAAKAAIXTTf5INpwAAAA",
+          "media_id": "2083945417579065344",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.78,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 0.22,
+                  "rgb": {
+                    "blue": 143,
+                    "green": 142,
+                    "red": 141
+                  }
+                }
+              ]
+            },
+            "original_img_height": 483,
+            "original_img_url": "https://pbs.twimg.com/media/HOupUOoacAAP9Hl.png",
+            "original_img_width": 1170
+          },
+          "media_key": "3_2083945417579065344"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOubd+eb0AAKAAIXTTf5INpwAAAA",
+          "media_id": "2083930191878148096",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.29,
+                  "rgb": {
+                    "blue": 241,
+                    "green": 245,
+                    "red": 248
+                  }
+                },
+                {
+                  "percentage": 0.94,
+                  "rgb": {
+                    "blue": 240,
+                    "green": 206,
+                    "red": 190
+                  }
+                },
+                {
+                  "percentage": 0.44,
+                  "rgb": {
+                    "blue": 203,
+                    "green": 222,
+                    "red": 247
+                  }
+                },
+                {
+                  "percentage": 0.31,
+                  "rgb": {
+                    "blue": 133,
+                    "green": 134,
+                    "red": 133
+                  }
+                }
+              ]
+            },
+            "original_img_height": 941,
+            "original_img_url": "https://pbs.twimg.com/media/HOubd-eb0AA8R6d.jpg",
+            "original_img_width": 1672
+          },
+          "media_key": "3_2083930191878148096"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuX1+QakAAKAAIXTTf5INpwAAAA",
+          "media_id": "2083926206089695232",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.14,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 244,
+                    "red": 239
+                  }
+                },
+                {
+                  "percentage": 2.86,
+                  "rgb": {
+                    "blue": 144,
+                    "green": 140,
+                    "red": 137
+                  }
+                }
+              ]
+            },
+            "original_img_height": 183,
+            "original_img_url": "https://pbs.twimg.com/media/HOuX1-QakAAq0F_.png",
+            "original_img_width": 384
+          },
+          "media_key": "3_2083926206089695232"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuYSAeb0AAKAAIXTTf5INpwAAAA",
+          "media_id": "2083926687721705472",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.83,
+                  "rgb": {
+                    "blue": 242,
+                    "green": 246,
+                    "red": 248
+                  }
+                },
+                {
+                  "percentage": 1.18,
+                  "rgb": {
+                    "blue": 235,
+                    "green": 205,
+                    "red": 194
+                  }
+                },
+                {
+                  "percentage": 0.63,
+                  "rgb": {
+                    "blue": 183,
+                    "green": 208,
+                    "red": 248
+                  }
+                },
+                {
+                  "percentage": 0.36,
+                  "rgb": {
+                    "blue": 113,
+                    "green": 116,
+                    "red": 116
+                  }
+                }
+              ]
+            },
+            "original_img_height": 941,
+            "original_img_url": "https://pbs.twimg.com/media/HOuYSAeb0AAGdLX.jpg",
+            "original_img_width": 1672
+          },
+          "media_key": "3_2083926687721705472"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuofCxbIAAKAAIXTTf5INpwAAAA",
+          "media_id": "2083944503862566912",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.62,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 0.38,
+                  "rgb": {
+                    "blue": 146,
+                    "green": 144,
+                    "red": 143
+                  }
+                }
+              ]
+            },
+            "original_img_height": 894,
+            "original_img_url": "https://pbs.twimg.com/media/HOuofCxbIAAXcLt.png",
+            "original_img_width": 1236
+          },
+          "media_key": "3_2083944503862566912"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuqdxiasAAKAAIXTTf5INpwAAAA",
+          "media_id": "2083946681079607296",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.72,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 0.28,
+                  "rgb": {
+                    "blue": 142,
+                    "green": 141,
+                    "red": 140
+                  }
+                }
+              ]
+            },
+            "original_img_height": 306,
+            "original_img_url": "https://pbs.twimg.com/media/HOuqdxiasAAh4Ro.png",
+            "original_img_width": 1155
+          },
+          "media_key": "3_2083946681079607296"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

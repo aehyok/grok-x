@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/midudev/status/2085368038925197697",
+    "id": "2085368038925197697",
+    "text": "Colección de Skills para tu agente de IA con más de 82.000 estrellas en GitHub.\n\nDe Addy Osmani y cubre cada paso:\nspec → plan → build → test → review → ship\n\n✓ 24 flujos de ingeniería (TDD, seguridad, webperf...)\n✓ Para Claude Code, Cursor, Codex y más\n\nnpx skills add addyosmani/agent-skills",
+    "raw_text": {
+      "text": "Colección de Skills para tu agente de IA con más de 82.000 estrellas en GitHub.\n\nDe Addy Osmani y cubre cada paso:\nspec → plan → build → test → review → ship\n\n✓ 24 flujos de ingeniería (TDD, seguridad, webperf...)\n✓ Para Claude Code, Cursor, Codex y más\n\nnpx skills add addyosmani/agent-skills",
+      "display_text_range": [
+        0,
+        293
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            270,
+            293
+          ],
+          "id": "2085368032239427585",
+          "display": "pic.x.com/54YRIJ7QhN",
+          "original": "https://t.co/54YRIJ7QhN",
+          "replacement": "https://x.com/midudev/status/2085368038925197697/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "midudev",
+      "url": "https://x.com/midudev",
+      "id": "4882508632",
+      "followers": 331434,
+      "following": 372,
+      "likes": 62780,
+      "media_count": 7745,
+      "name": "Miguel Ángel Durán",
+      "description": "🧠 Enseño Programación e Inteligencia Artificial\n👨‍💻 Software Engineer y Speaker\n⭐ +18 años de experiencia · +3M comunidad\n✉️ Contacto: hi@midu.dev",
+      "raw_description": {
+        "text": "🧠 Enseño Programación e Inteligencia Artificial\n👨‍💻 Software Engineer y Speaker\n⭐ +18 años de experiencia · +3M comunidad\n✉️ Contacto: hi@midu.dev",
+        "facets": []
+      },
+      "location": "Barcelona, España",
+      "banner_url": "https://pbs.twimg.com/profile_banners/4882508632/1723896557",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1824773087323111424/-S3LUmjQ_200x200.jpg",
+      "joined": "Sat Feb 06 17:55:21 +0000 2016",
+      "protected": false,
+      "website": {
+        "url": "https://midu.dev",
+        "display_url": "midu.dev"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 14,
+    "retweets": 125,
+    "likes": 962,
+    "bookmarks": 1107,
+    "quotes": 0,
+    "created_at": "Thu Aug 06 14:10:59 +0000 2026",
+    "created_timestamp": 1786025459,
+    "possibly_sensitive": false,
+    "views": 32076,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "es",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085368032239427585",
+          "url": "https://pbs.twimg.com/media/HPC3LTOWIAErdym.jpg?name=orig",
+          "width": 1970,
+          "height": 1470,
+          "altText": "Captura de GitHub del repositorio público «addyosmani/agent-skills», con 82.400 estrellas y una portada enorme que dice «Agent Skills». Debajo aparece un flujo de trabajo para agentes de IA: definir, planificar, construir, probar, revisar y publicar"
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085368032239427585",
+          "url": "https://pbs.twimg.com/media/HPC3LTOWIAErdym.jpg?name=orig",
+          "width": 1970,
+          "height": 1470,
+          "altText": "Captura de GitHub del repositorio público «addyosmani/agent-skills», con 82.400 estrellas y una portada enorme que dice «Agent Skills». Debajo aparece un flujo de trabajo para agentes de IA: definir, planificar, construir, probar, revisar y publicar"
+        }
+      ]
+    },
+    "source": "Publer.com",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

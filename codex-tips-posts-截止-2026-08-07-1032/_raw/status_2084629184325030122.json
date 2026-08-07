@@ -1,0 +1,158 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/so_ainsight/status/2084629184325030122",
+    "id": "2084629184325030122",
+    "text": "AGENTS(.)md x Vercelの開発者、えぐい。\n\nAIコーディングで約600億トークンを使った末にたどり着いた中身が、たった8行のルールでした。AGENTS(.)mdは、CodexやCursorが毎回自動で読みにいくファイルです。\n\n132万表示・1.8万ブックマークまで伸びて、海外で話題に。\n\n・使わなくなった処理は、互換のための逃げ道ごと消させる\n・自分で書く前に、すでに入っている道具で足りないかを調べさせる\n・端から端まで通しで動く最小版を先に完成させる\n\nなど、AIに「手を動かす前に調べて決める」をやらせる8つのルールです👇",
+    "raw_text": {
+      "text": "AGENTS(.)md x Vercelの開発者、えぐい。\n\nAIコーディングで約600億トークンを使った末にたどり着いた中身が、たった8行のルールでした。AGENTS(.)mdは、CodexやCursorが毎回自動で読みにいくファイルです。\n\n132万表示・1.8万ブックマークまで伸びて、海外で話題に。\n\n・使わなくなった処理は、互換のための逃げ道ごと消させる\n・自分で書く前に、すでに入っている道具で足りないかを調べさせる\n・端から端まで通しで動く最小版を先に完成させる\n\nなど、AIに「手を動かす前に調べて決める」をやらせる8つのルールです👇",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "so_ainsight",
+      "url": "https://x.com/so_ainsight",
+      "id": "1919729970685075456",
+      "followers": 19933,
+      "following": 69,
+      "likes": 395,
+      "media_count": 581,
+      "name": "そう｜Claude Codeで始めるAI自動化",
+      "description": "Claude Code×n8n AIエージェント300以上構築｜ソロプレナーでAIエージェント組織企業を運営｜ 累計純利２億超 ｜ 非エンジニアでもできるClaude Codeで「異次元」業務効率化を発信｜ noteでマル㊙️コンテンツ配信中｜ フォローすればAIで「異次元」に時間を生み出す自動化手法が分かる",
+      "raw_description": {
+        "text": "Claude Code×n8n AIエージェント300以上構築｜ソロプレナーでAIエージェント組織企業を運営｜ 累計純利２億超 ｜ 非エンジニアでもできるClaude Codeで「異次元」業務効率化を発信｜ noteでマル㊙️コンテンツ配信中｜ フォローすればAIで「異次元」に時間を生み出す自動化手法が分かる",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1919729970685075456/1757731433",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1951625625455951872/pj57KIjJ_200x200.jpg",
+      "joined": "Tue May 06 12:25:54 +0000 2025",
+      "protected": false,
+      "website": {
+        "url": "https://note.com/soh_ainsight",
+        "display_url": "note.com/soh_ainsight"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 10,
+    "retweets": 14,
+    "likes": 259,
+    "bookmarks": 441,
+    "quotes": 4,
+    "created_at": "Tue Aug 04 13:15:02 +0000 2026",
+    "created_timestamp": 1785849302,
+    "views": 66271,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "ja",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/MarcosHernanz/status/2083954734487212511",
+      "id": "2083954734487212511",
+      "text": "After doing ~60B tokens, this is my full AGENTS.md",
+      "raw_text": {
+        "text": "After doing ~60B tokens, this is my full AGENTS.md https://t.co/VVXIwtSAcO",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              51,
+              74
+            ],
+            "id": "2083954729399500800",
+            "display": "pic.x.com/VVXIwtSAcO",
+            "original": "https://t.co/VVXIwtSAcO",
+            "replacement": "https://x.com/MarcosHernanz/status/2083954734487212511/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "MarcosHernanz",
+        "url": "https://x.com/MarcosHernanz",
+        "id": "1717163021519175680",
+        "followers": 3111,
+        "following": 278,
+        "likes": 4880,
+        "media_count": 178,
+        "name": "Marcos Hernanz",
+        "description": "Next.js @vercel",
+        "raw_description": {
+          "text": "Next.js @vercel",
+          "facets": []
+        },
+        "location": "San Francisco, CA",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1717163021519175680/1773344009",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2032179052430155776/gZ4WUoDc_200x200.jpg",
+        "joined": "Wed Oct 25 12:56:20 +0000 2023",
+        "protected": false,
+        "website": {
+          "url": "https://github.com/marcoshernanz",
+          "display_url": "github.com/marcoshernanz"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 152,
+      "retweets": 519,
+      "likes": 10801,
+      "bookmarks": 20489,
+      "quotes": 65,
+      "created_at": "Sun Aug 02 16:35:01 +0000 2026",
+      "created_timestamp": 1785688501,
+      "possibly_sensitive": false,
+      "views": 1956952,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2083954729399500800",
+            "url": "https://pbs.twimg.com/media/HOuxyP3aQAAlqYd.jpg?name=orig",
+            "width": 1200,
+            "height": 733
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2083954729399500800",
+            "url": "https://pbs.twimg.com/media/HOuxyP3aQAAlqYd.jpg?name=orig",
+            "width": 1200,
+            "height": 733
+          }
+        ]
+      },
+      "source": "Twitter for Android",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Typefully",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

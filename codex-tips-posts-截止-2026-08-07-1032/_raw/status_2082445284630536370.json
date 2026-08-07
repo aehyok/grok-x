@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/ForwardEditor/status/2082445284630536370",
+    "id": "2082445284630536370",
+    "text": "codex tip: I always use set_goal instead of /goal. It's basically like having a master level genius AI write your goal better than you could.\n\nYou can get your prompts to run longer and your output better. Ask a high effort Sol to research + plan it. Sol then spawns a new thread for a workhorse model (Luna High) to execute the work and return a result to Sol for review. LLM-as-judge to determine if Luna's output is acceptable progress toward goal",
+    "raw_text": {
+      "text": "codex tip: I always use set_goal instead of /goal. It's basically like having a master level genius AI write your goal better than you could.\n\nYou can get your prompts to run longer and your output better. Ask a high effort Sol to research + plan it. Sol then spawns a new thread for a workhorse model (Luna High) to execute the work and return a result to Sol for review. LLM-as-judge to determine if Luna's output is acceptable progress toward goal",
+      "display_text_range": [
+        0,
+        450
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "ForwardEditor",
+      "url": "https://x.com/ForwardEditor",
+      "id": "2008264275178250240",
+      "followers": 8010,
+      "following": 1163,
+      "likes": 6919,
+      "media_count": 276,
+      "name": "Forward Future Brian",
+      "description": "Obsessed with making perfect videos.\n\nhttp://modelrumor.com\nEditor for @matthewberman EX: Red Bull",
+      "raw_description": {
+        "text": "Obsessed with making perfect videos.\n\nhttps://t.co/AGUXhcHnOw\nEditor for @matthewberman EX: Red Bull",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              38,
+              61
+            ],
+            "original": "https://t.co/AGUXhcHnOw",
+            "replacement": "http://modelrumor.com",
+            "display": "modelrumor.com"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2008264275178250240/1772777572",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2029801903832363008/q7tubSuK_200x200.jpg",
+      "joined": "Mon Jan 05 19:48:24 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "http://www.futurebrian.com",
+        "display_url": "futurebrian.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 23,
+    "retweets": 8,
+    "likes": 315,
+    "bookmarks": 371,
+    "quotes": 1,
+    "created_at": "Wed Jul 29 12:37:00 +0000 2026",
+    "created_timestamp": 1785328620,
+    "views": 21546,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web Client",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

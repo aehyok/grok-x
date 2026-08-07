@@ -1,0 +1,1960 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/ZhaoHg59511/status/2081357464050761835",
+    "id": "2081357464050761835",
+    "text": "我用 3 个月 WorkBuddy 之后,关于\"AI 替你干活\"的最速上手指南",
+    "raw_text": {
+      "text": "我用 3 个月 WorkBuddy 之后,关于\"AI 替你干活\"的最速上手指南 https://t.co/vgsGgSHred",
+      "display_text_range": [
+        0,
+        63
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "ZhaoHg59511",
+      "url": "https://x.com/ZhaoHg59511",
+      "id": "1678094737042178048",
+      "followers": 202,
+      "following": 202,
+      "likes": 99,
+      "media_count": 13,
+      "name": "Hardy",
+      "description": "AI赋能  |  提效  |  工具  |  创作  \n搞钱  | 判断 | 决策 \n如需文档，可私",
+      "raw_description": {
+        "text": "AI赋能  |  提效  |  工具  |  创作  \n搞钱  | 判断 | 决策 \n如需文档，可私",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1678094737042178048/1784693418",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2080573741134974976/1Tr1a3OY_200x200.jpg",
+      "joined": "Sun Jul 09 17:32:46 +0000 2023",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 4,
+    "retweets": 1,
+    "likes": 2,
+    "bookmarks": 6,
+    "quotes": 1,
+    "created_at": "Sun Jul 26 12:34:23 +0000 2026",
+    "created_timestamp": 1785069263,
+    "possibly_sensitive": false,
+    "views": 2934,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-07-26T12:34:23.000Z",
+      "modified_at": "2026-07-26T12:34:23.000Z",
+      "id": "2081320663923515393",
+      "title": "我用 3 个月 WorkBuddy 之后,关于\"AI 替你干活\"的最速上手指南",
+      "preview_text": "2026 年腾讯出了一款桌面 AI 叫 WorkBuddy。\n我用了 3 个月,最大的感受是:它不是一个聊天工具,是一个能动手帮你干活的\"AI 同事\"。\n你说\"把桌面 PDF 按日期重命名\",它真就动手把文件归好档。\n你说\"明早 9",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOJ3MlJaEAEKAAIXScpFvNoAAAAA",
+        "media_id": "2081357035812294657",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 37.35,
+                "rgb": {
+                  "blue": 30,
+                  "green": 6,
+                  "red": 1
+                }
+              },
+              {
+                "percentage": 24.66,
+                "rgb": {
+                  "blue": 63,
+                  "green": 14,
+                  "red": 2
+                }
+              },
+              {
+                "percentage": 7.89,
+                "rgb": {
+                  "blue": 221,
+                  "green": 200,
+                  "red": 193
+                }
+              },
+              {
+                "percentage": 7.72,
+                "rgb": {
+                  "blue": 130,
+                  "green": 26,
+                  "red": 23
+                }
+              },
+              {
+                "percentage": 2.91,
+                "rgb": {
+                  "blue": 173,
+                  "green": 14,
+                  "red": 39
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HOJ3MlJaEAEvLsG.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2081357035812294657"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 30,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3g1r2",
+            "text": "2026 年腾讯出了一款桌面 AI 叫 WorkBuddy。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 29,
+                "offset": 16,
+                "style": "Bold"
+              }
+            ],
+            "key": "e4iql",
+            "text": "我用了 3 个月,最大的感受是:它不是一个聊天工具,是一个能动手帮你干活的\"AI 同事\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ee0e2",
+            "text": "你说\"把桌面 PDF 按日期重命名\",它真就动手把文件归好档。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "93kuk",
+            "text": "你说\"明早 9 点提醒我开周会\",它到点就推消息。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dq7f5",
+            "text": "你说\"整理下周的会议纪要生成 PPT\",5 分钟出活。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 21,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "am69t",
+            "text": "5 分钟装好,5 小时上手,5 周变专家。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "85olv",
+            "text": "下面是我用 3 个月 WorkBuddy 之后,关于\"最快上手\"这件事的全部心得。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "44hn9",
+            "text": "1. 为什么 2026 每个人都该用桌面 AI Agent",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ccb57",
+            "text": "很多人装上 WorkBuddy 第一反应:\"这不就是国产版 ChatGPT?\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9rob2",
+            "text": "不是。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 25
+              },
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 32
+              },
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 87
+              },
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 88
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 6,
+                "offset": 66,
+                "style": "Bold"
+              },
+              {
+                "length": 2,
+                "offset": 109,
+                "style": "Bold"
+              }
+            ],
+            "key": "dlanb",
+            "text": "维度ChatGPTWorkBuddy能不能动手干活❌ 只能给建议✅ 真能操作你电脑任务复杂度单步骤多步骤(几十步自动跑)输出形式文字可验收的成果(PPT、表格、文档)远程控制❌✅ 微信/QQ/钉钉都能遥控需不需要翻墙要不用",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 39,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "41tkd",
+            "text": "一句话:ChatGPT 是百科全书,WorkBuddy 是能替你干活的实习生。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "c7o2s",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bknbm",
+            "text": "2. 5 分钟装好 WorkBuddy",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "en0im",
+            "text": "2.1 下载(只走官方)",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 3,
+                  "text": "https://www.codebuddy.cn/work/",
+                  "toIndex": 33
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 30,
+                "offset": 3
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 30,
+                "offset": 3,
+                "style": "Bold"
+              }
+            ],
+            "key": "8nl4",
+            "text": "官网:https://www.codebuddy.cn/work/",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3q550",
+            "text": "网站会自动识别你的系统,点对应下载:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "prar",
+            "text": "Windows:WorkBuddySetup.exe(约 150-180MB)",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ak4fl",
+            "text": "macOS:WorkBuddy.dmg",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 2,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 3,
+                "style": "Bold"
+              }
+            ],
+            "key": "9f3qm",
+            "text": "⚠️ 安全提示:网上有些下载站会捆绑软件。WorkBuddy 安装包只有 150-180MB,如果你下到 500MB+,八成被改过,删了去官网重新下。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "17tej",
+            "text": "2.2 安装",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8862k",
+            "text": "Windows:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "admjm",
+            "text": "1.双击安装包",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 9,
+                "style": "Bold"
+              }
+            ],
+            "key": "e53np",
+            "text": "2.安装路径改到 D 盘(别堆 C 盘)",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 2
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3mk5e",
+            "text": "3.✅ 勾选\"创建桌面快捷方式\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "36hgt",
+            "text": "4.一路\"下一步\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9r5jg",
+            "text": "macOS:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5a1km",
+            "text": "1.双击 .dmg,把图标拖到\"应用程序\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4odi0",
+            "text": "2.第一次打开可能提示\"无法验证开发者\",去\"系统设置→隐私与安全性\"点\"仍要打开\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fbeb3",
+            "text": "2.3 登录 + 授权",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 3,
+                "style": "Bold"
+              }
+            ],
+            "key": "886tr",
+            "text": "登录:微信扫码(最省事)",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 6,
+                "style": "Bold"
+              }
+            ],
+            "key": "91l44",
+            "text": "授权文件夹:只授权 D 盘的一个工作区(别授权整个 C 盘)",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "45ar4",
+            "text": "存储路径:改到非系统盘(C 盘红了再后悔就晚了)",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 8,
+                  "text": "https://www.codebuddy.cn/profile/usage",
+                  "toIndex": 46
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 38,
+                "offset": 8
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 49,
+                "style": "Bold"
+              }
+            ],
+            "key": "c1nrs",
+            "text": "领新人福利:去 https://www.codebuddy.cn/profile/usage 领 5000 积分",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bhvmb",
+            "text": "装好就完事,不需要懂代码、不需要懂 API。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f702d",
+            "text": "3. 三个最关键的事(90% 的人卡在这里)",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2rgqm",
+            "text": "3.1 三种工作模式:Ask / Plan / Craft",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 36,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2n3rt",
+            "text": "这是 WorkBuddy 的灵魂。选错模式,要么浪费积分,要么任务跑偏。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 4,
+                "offset": 31,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 62,
+                "style": "Bold"
+              }
+            ],
+            "key": "t83b",
+            "text": "模式角色特点适用场景Ask顾问只读不写,只回答技术咨询、查资料Plan项目经理先出方案→你确认→再执行复杂任务、风险高的操作Craft执行家收到指令立即干,速度最快目标明确、简单的日常任务",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "955oi",
+            "text": "黄金法则:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "432rl",
+            "text": "不确定、复杂、有风险 → Plan",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "a0nf4",
+            "text": "明确、简单、目标清晰 → Craft",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "a5smn",
+            "text": "只是问问,不想动文件 → Ask",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7ovgc",
+            "text": "新手最容易栽的坑:上来就 Craft 复杂任务 → 跑偏 → 重新来 → 积分烧光。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1757i",
+            "text": "正确姿势:复杂任务先用 Plan,等你能预测 AI 行为,再换 Craft。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "a5u21",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9apbn",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6lmr5",
+            "text": "3.2 指令公式:你跟 AI 说话的方式决定 70% 效果",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 29,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "abcai",
+            "text": "WorkBuddy 输出质量,70% 取决于你怎么下指令。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 5,
+                "style": "Bold"
+              }
+            ],
+            "key": "eujbh",
+            "text": "指令公式:身份 + 目标 + 范围 + 格式 + 约束",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 5
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fdmro",
+            "text": "正面教材 ✅:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "30oii",
+            "text": "你是一名资深产品经理(身份),帮我写本周工作周报(目标),本周主要做了三件事:1)完成登录模块重构 2)对接支付 SDK 3)参加产品评审(范围),输出 Markdown 格式,包含\"本周进展/存在问题/下周计划\"三段(格式),语言正式简洁,800 字左右(约束)。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 5
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4i6uc",
+            "text": "反面教材 ❌:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ce1cj",
+            "text": "帮我写个方案",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "38eve",
+            "text": "3 条\"魔法词\":",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bcvqp",
+            "text": "\"请分步骤\" → AI 给你拆解",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8lkcu",
+            "text": "\"先……再……最后……\" → 强制 AI 按你指定顺序走",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "c427h",
+            "text": "\"如果……则……否则……\" → 处理多种情况",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fupaq",
+            "text": "3.3 三种文件交互方式",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 24
+              },
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 43
+              },
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 48
+              },
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 63
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 4,
+                "offset": 28,
+                "style": "Bold"
+              },
+              {
+                "length": 4,
+                "offset": 48,
+                "style": "Bold"
+              }
+            ],
+            "key": "9bv79",
+            "text": "方式用途AI 能不能改原文件拖拽临时给 AI 看❌ 不改@ 引用让 AI 长期\"盯着\"✅ 能读写📎 上传把文件内容塞进当前对话❌ AI 只看",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 25
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 17,
+                "offset": 25,
+                "style": "Bold"
+              }
+            ],
+            "key": "f64vf",
+            "text": "@ = \"去我电脑上读/改这个文件\"(有写权限) 📎 = \"我把这个文件给你看一眼\"(只读副本)",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2hdbs",
+            "text": "实操:在输入框输入 @,会弹出文件/目录选择器。选中后 AI 就\"知道\"这个文件存在了,可以读写修改。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "28m1e",
+            "text": "4. 一个真实场景演示:30 秒整理桌面",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6tpmb",
+            "text": "痛点:桌面上堆满了 PDF、Word、Excel,想整理又嫌麻烦。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "157j7",
+            "text": "WorkBuddy 解法(一条指令搞定):",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dt88e",
+            "text": "text",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "abeu9",
+            "text": "复制",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "huvj",
+            "text": "帮我把桌面上的 PDF 按日期重命名,\nWord 放到 D:\\文档,\nExcel 放到 D:\\表格,\n图片放到 D:\\图片,\n其他文件归档到 D:\\其他。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "51qhf",
+            "text": "执行过程:",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "1.AI",
+                  "toIndex": 4
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1fo03",
+            "text": "1.AI 扫描桌面所有文件",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "48p51",
+            "text": "2.按扩展名分类",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aniu5",
+            "text": "3.PDF 读取元数据获取日期,重命名(例:2026-07-15_合同.pdf)",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "4.移动",
+                  "toIndex": 4
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9qoan",
+            "text": "4.移动到对应目录",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "a7b1k",
+            "text": "耗时:50 个文件约 30 秒。手动干这事至少半小时。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6cgt2",
+            "text": "对比一下:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cpu6d",
+            "text": "传统方式:30+ 分钟",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bi8k4",
+            "text": "WorkBuddy:30 秒",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5oleo",
+            "text": "效率提升:60 倍",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 45,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ejtcq",
+            "text": "这种\"一句话让 AI 干活\"的感觉,就是 2026 年 AI 跟 2024 年最大的区别。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6hvqv",
+            "text": "5. 30 天上手 SOP(照着做就行)",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2infn",
+            "text": "第 1 周:基础建设",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "b55a",
+            "text": "Day 1:装 WorkBuddy,熟悉界面",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9jgga",
+            "text": "Day 2-3:用 Plan 模式跑通 1 个小工作流",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "drk2j",
+            "text": "Day 4-5:用 Craft 模式 + Ask 模式各跑 1 个任务",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "afi9m",
+            "text": "Day 6-7:写一段\"我目前用 WorkBuddy 的感受\"",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8net2",
+            "text": "第 2 周:深化一个场景",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cvaci",
+            "text": "把第 1 周的场景做到\"用得顺\"",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "am7s1",
+            "text": "加 1 个新场景(选跟第 1 个相关但不重复)",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "67fcn",
+            "text": "装 2-3 个常用 Skill",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bj8k7",
+            "text": "复盘 + 写总结",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fuq53",
+            "text": "第 3 周:扩展场景",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "888mh",
+            "text": "再加 1-2 个新场景",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1a4u4",
+            "text": "试 Claw 远程控制(微信/QQ/钉钉)",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fvvbm",
+            "text": "复盘,挑出 3 个\"最值得用\"的场景",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ebbv0",
+            "text": "第 4 周:沉淀与分享",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b83qm",
+            "text": "写\"我的 WorkBuddy 使用手册\"(1-2 页)",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "el894",
+            "text": "给同事做 1 次分享(15-30 分钟)",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eav7e",
+            "text": "收集反馈,优化工作流",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "66dvv",
+            "text": "制定下个月计划",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 33,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "19k5c",
+            "text": "30 天后,你会成为\"身边人里最会用 WorkBuddy 的人\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8aetg",
+            "text": "6. 我踩过的 8 个坑(看完少走 2 周弯路)",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1lbra",
+            "text": "坑 1:上来就 Craft 复杂任务",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 25,
+                "style": "Bold"
+              }
+            ],
+            "key": "ipek",
+            "text": "任务跑偏 → 重新来 → 又跑偏 → 积分烧光。 正解:复杂任务先 Plan,确认方案再执行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "baqbo",
+            "text": "坑 2:授权整个 C 盘",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 13,
+                "style": "Bold"
+              }
+            ],
+            "key": "d3vtl",
+            "text": "AI 动了不该动的文件。 正解:只授权明确的工作区文件夹,D 盘建一个 AI_WorkBuddy/ 隔离用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d3pie",
+            "text": "坑 3:指令模糊",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 21,
+                "style": "Bold"
+              }
+            ],
+            "key": "derqa",
+            "text": "\"帮我写个方案\" → AI 出一堆废话。 正解:用\"身份+目标+范围+格式+约束\"五要素公式。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "542mt",
+            "text": "坑 4:用完不签到",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 9,
+                "style": "Bold"
+              }
+            ],
+            "key": "dqqg3",
+            "text": "几天后积分见底。 正解:每天第一件事签到,设置日历提醒。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d3v1n",
+            "text": "坑 5:把核心机密文件交给 AI",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 13,
+                "style": "Bold"
+              }
+            ],
+            "key": "aat2h",
+            "text": "合同/财务报表泄露风险。 正解:涉密文件手动处理,WorkBuddy 只做非敏感任务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fd51i",
+            "text": "坑 6:装一堆技能",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 18,
+                "style": "Bold"
+              }
+            ],
+            "key": "ctt23",
+            "text": "AI 选错技能,输出质量反而下降。 正解:常用 5-8 个,装完即用,用完即禁。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bfho1",
+            "text": "坑 7:一次性下超多任务",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 11,
+                "style": "Bold"
+              }
+            ],
+            "key": "a737n",
+            "text": "任务堆积,系统卡顿。 正解:拆成 2-3 个并行任务,别贪多。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "18v83",
+            "text": "坑 8:从第三方下载站装",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 24,
+                  "text": "codebuddy.cn",
+                  "toIndex": 36
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 18,
+                "style": "Bold"
+              }
+            ],
+            "key": "6n5b1",
+            "text": "安装包 500MB+,八成被改过。 正解:只从 codebuddy.cn 官网下载,大约 150-180MB。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dfvtl",
+            "text": "写在最后",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 32,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ab7sr",
+            "text": "WorkBuddy 是不是 2026 年最值得装的 AI 工具?",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 35,
+                "offset": 9,
+                "style": "Bold"
+              }
+            ],
+            "key": "57gei",
+            "text": "我不敢说\"最\",但对于普通职场人来说,它是最容易让你立刻感受到\"AI 在替我干活\"的那个。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a26j9",
+            "text": "你不需要懂代码、不需要懂 AI、不需要懂 API。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7i2me",
+            "text": "装上它,挑一个你最痛的工作场景,跑通一个任务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 36,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1jfi4",
+            "text": "那一刻,你会意识到:2026 年真的是一个\"AI 重构工作方式\"的元年。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f215f",
+            "text": "剩下的,就是坚持用、持续学、慢慢把它变成你的\"核心技能\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 37,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bljs7",
+            "text": "未来 5 年,会用 AI 的人取代不会用 AI 的人——这件事已经在发生。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9cfel",
+            "text": "你站哪边?",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/274c.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "url": "https://www.codebuddy.cn/profile/usage"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "acd40984-77f1-4818-b17d-f5dca63a80cb",
+                "mediaItems": [
+                  {
+                    "localMediaId": "2",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2081354586460184576"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/274c.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/274c.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "entityKey": "58a12349-58e4-4704-bbb2-c0ee92f11639",
+                "mediaItems": [
+                  {
+                    "localMediaId": "8",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2081354851867410432"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/2705.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f4ce.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "url": "https://www.codebuddy.cn/work/"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/2705.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/26a0.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/2705.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f4ce.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/274c.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/274c.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/2705.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/2705.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOJ0+AmW4AAKAAIXScpFvNoAAAAA",
+          "media_id": "2081354586460184576",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 51.05,
+                  "rgb": {
+                    "blue": 240,
+                    "green": 237,
+                    "red": 233
+                  }
+                },
+                {
+                  "percentage": 25.76,
+                  "rgb": {
+                    "blue": 76,
+                    "green": 68,
+                    "red": 61
+                  }
+                },
+                {
+                  "percentage": 4.89,
+                  "rgb": {
+                    "blue": 70,
+                    "green": 66,
+                    "red": 116
+                  }
+                },
+                {
+                  "percentage": 4.57,
+                  "rgb": {
+                    "blue": 248,
+                    "green": 207,
+                    "red": 135
+                  }
+                },
+                {
+                  "percentage": 2.33,
+                  "rgb": {
+                    "blue": 36,
+                    "green": 190,
+                    "red": 249
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1536,
+            "original_img_url": "https://pbs.twimg.com/media/HOJ0-AmW4AAUm0E.jpg",
+            "original_img_width": 2752
+          },
+          "media_key": "3_2081354586460184576"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOJ1NdUXwAAKAAIXScpFvNoAAAAA",
+          "media_id": "2081354851867410432",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 80.2,
+                  "rgb": {
+                    "blue": 19,
+                    "green": 7,
+                    "red": 5
+                  }
+                },
+                {
+                  "percentage": 8.21,
+                  "rgb": {
+                    "blue": 96,
+                    "green": 47,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 2.38,
+                  "rgb": {
+                    "blue": 115,
+                    "green": 100,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 2.31,
+                  "rgb": {
+                    "blue": 181,
+                    "green": 89,
+                    "red": 126
+                  }
+                },
+                {
+                  "percentage": 2.12,
+                  "rgb": {
+                    "blue": 202,
+                    "green": 189,
+                    "red": 87
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1536,
+            "original_img_url": "https://pbs.twimg.com/media/HOJ1NdUXwAAiI1u.jpg",
+            "original_img_width": 2752
+          },
+          "media_key": "3_2081354851867410432"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

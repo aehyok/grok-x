@@ -1,0 +1,1533 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/tenctcloud_Intl/status/2082298476390719991",
+    "id": "2082298476390719991",
+    "text": "One of our teammates ran a really fun little experiment —— you can re-skin your WorkBuddy with zero code ! \nCome check it out👀.",
+    "raw_text": {
+      "text": "One of our teammates ran a really fun little experiment —— you can re-skin your WorkBuddy with zero code ! \nCome check it out👀. https://t.co/Ro4rRsSdXB",
+      "display_text_range": [
+        0,
+        151
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "tenctcloud_Intl",
+      "url": "https://x.com/tenctcloud_Intl",
+      "id": "1948262038175924224",
+      "followers": 48,
+      "following": 35,
+      "likes": 222,
+      "media_count": 16,
+      "name": "Tencent Cloud International Developer",
+      "description": "Tencent Cloud International Developer Official Account,focused on engineering practice and technical insight.\n💬:https://discord.gg/28YaJgeBvK",
+      "raw_description": {
+        "text": "Tencent Cloud International Developer Official Account,focused on engineering practice and technical insight.\n💬:https://t.co/jKa58utcHm",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              112,
+              135
+            ],
+            "original": "https://t.co/jKa58utcHm",
+            "replacement": "https://discord.gg/28YaJgeBvK",
+            "display": "discord.gg/28YaJgeBvK"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1948262038175924224/1753337185",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1948262991482560512/RHLAlk2g_200x200.jpg",
+      "joined": "Thu Jul 24 06:00:55 +0000 2025",
+      "protected": false,
+      "website": {
+        "url": "https://www.tencentcloud.com",
+        "display_url": "tencentcloud.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 5,
+    "retweets": 1,
+    "likes": 13,
+    "bookmarks": 2,
+    "quotes": 3,
+    "created_at": "Wed Jul 29 02:53:38 +0000 2026",
+    "created_timestamp": 1785293618,
+    "possibly_sensitive": false,
+    "views": 3119,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-07-29T02:53:38.000Z",
+      "modified_at": "2026-07-29T07:05:26.000Z",
+      "id": "2082076291969556481",
+      "title": "Giving WorkBuddy a Fresh Look with Zero Code (Full Tutorial Included)",
+      "preview_text": "Hi there! I'm Run Cao, a backend developer at Tencent. \nOne day, on a bit of a whim, I decided I wanted to give my desktop Agent — the one that keeps me company at work every day — a fun new skin.",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOXPKsNakAAKAAIbCZ4AWtrAAAAA",
+        "media_id": "2082298185301790720",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 33.87,
+                "rgb": {
+                  "blue": 206,
+                  "green": 92,
+                  "red": 16
+                }
+              },
+              {
+                "percentage": 18.87,
+                "rgb": {
+                  "blue": 241,
+                  "green": 233,
+                  "red": 242
+                }
+              },
+              {
+                "percentage": 11.14,
+                "rgb": {
+                  "blue": 197,
+                  "green": 63,
+                  "red": 67
+                }
+              },
+              {
+                "percentage": 9.31,
+                "rgb": {
+                  "blue": 212,
+                  "green": 161,
+                  "red": 134
+                }
+              },
+              {
+                "percentage": 3.42,
+                "rgb": {
+                  "blue": 190,
+                  "green": 32,
+                  "red": 127
+                }
+              }
+            ]
+          },
+          "original_img_height": 600,
+          "original_img_url": "https://pbs.twimg.com/media/HOXPKsNakAA_f57.jpg",
+          "original_img_width": 1500
+        },
+        "media_key": "3_2082298185301790720"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5033o",
+            "text": "Hi there! I'm Run Cao, a backend developer at Tencent. ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 2,
+                "offset": 209
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "45qnu",
+            "text": "One day, on a bit of a whim, I decided I wanted to give my desktop Agent — the one that keeps me company at work every day — a fun new skin. About fifteen minutes later, my WorkBuddy had transformed into this ⬇️:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "c19ch",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 79,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7rp3a",
+            "text": "The best part? Through the whole process, I didn't write a single line of code.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1ipis",
+            "text": "Even if you're a complete beginner with no coding background, you can easily follow these steps to create your very own workspace skin , for example:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1vh4c",
+            "text": "· Your favorite anime character",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fqvpo",
+            "text": "· That lazy little cat who never wants to get out of bed at home",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cd231",
+            "text": "· A retro pixel-game style",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dh5e0",
+            "text": "· … and anything else you can imagine",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4phqg",
+            "text": "Below, I'll use my own prompts as examples to walk you through the steps of giving WorkBuddy a new skin.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "181qp",
+            "text": "And if you happen to love the QQ 2008 style too, feel free to jump to the end of the article — you can copy a single command and have WorkBuddy install it for you in one click ∼",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e1f1p",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 82
+              },
+              {
+                "key": 3,
+                "length": 53,
+                "offset": 85
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "e2b5l",
+            "text": "Of course, the first thing you'll need is to download this handy desktop assistant👉: WorkBuddy · Your scenario-based AI all-in-one package",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "70gjk",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5po5h",
+            "text": "The Core Idea: Break the Task into Confirmable Stages",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bddh2",
+            "text": "The easiest way to derail a skin makeover is to jump straight in and tell the Agent, \"Make me an XX-style look.\" More often than not, the picture in your head and what it understands and produces won't quite match up.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "pgks",
+            "text": "The right approach is to do it in stages:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 87,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1e63g",
+            "text": "Align on the goal → Confirm feasibility → Implement safely → Fine-tune on the real app.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fkfek",
+            "text": "At each step, leave yourself a \"confirmation point\" so you can pause and adjust the moment something goes wrong. This way, you'll end up with a page you're happy with while keeping your Token usage economical.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c3k6s",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 55,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "40aa4",
+            "text": "Step 1: First, Align on \"What You Want It to Look Like\"",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "53mer",
+            "text": "Abstract style descriptions are far too vague for an AI to work with, so I'd suggest starting with a concrete target mockup.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cjrnj",
+            "text": "You'll want to prepare two images and send them to WorkBuddy:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "54biv",
+            "text": "· A full screenshot of your current WorkBuddy.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "43uqm",
+            "text": "· A style reference image you like.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 488,
+                "offset": 24,
+                "style": "Italic"
+              }
+            ],
+            "key": "53hmm",
+            "text": "> My reference prompt:  Please keep the layout and functionality of the first WorkBuddy screenshot, and redesign it into the QQ 2008 style shown in the second image. I'm looking for a distinctly old-school software feel — including glassy blue tones, three-dimensional buttons, highlighted outlines, compact lists, retro fonts, and the classic penguin. Please don't just turn it into a modern light-blue interface. Kindly generate a complete mockup that I can use as a reference for the actual makeover later on.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "c6i7p",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6affu",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cue9f",
+            "text": "At this step, you only need to confirm two things: that the mockup preserves the rough layout of the original, and that the target style is immediately recognizable. Don't worry about any typos or oddly placed buttons in the image — it's just a visual target to aim for.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "291lo",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ql99",
+            "text": "Step 2: Don't Rush to Change Anything — Let It Do a \"Checkup\" First",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "k95b",
+            "text": "Now that you have the mockup, still don't let it start making changes right away.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "53l1q",
+            "text": "Send both the \"interface screenshot\" and the \"target mockup\" to WorkBuddy together:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 463,
+                "offset": 23,
+                "style": "Italic"
+              }
+            ],
+            "key": "pusk",
+            "text": "> My reference prompt: The first image is my current WorkBuddy, and the second is the look I'm going for. Could you first take a look at whether the current version can be safely changed into this style, and roughly which parts would need to be modified? For now, please don't install or modify the actual application. Please check everything carefully on your own, and let me know how you plan to proceed, what the risks are, and whether things can be restored if something goes wrong.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6vorf",
+            "text": "This stage is mainly about confirming three things:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "adcfj",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "bgku0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "mu8",
+            "text": "· The Agent has found a feasible way to implement it.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "du1ta",
+            "text": "· A backup of the original will be kept before any changes are made.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5oo3q",
+            "text": "· Your chat history, tasks, and personal files won't be affected.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "84loc",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 66,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "sv6v",
+            "text": "Step 3: View the \"Show Home\" First, Then Decide Whether to Move In",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fi33",
+            "text": "Installing it directly, only to find it's not quite right and having to redo everything, is just too much of a waste. So first, have it create an initial HTML version that you can open right in your browser.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 544,
+                "offset": 23,
+                "style": "Italic"
+              }
+            ],
+            "key": "5f8eu",
+            "text": "> My reference prompt: Based on the target mockup, please first outline how you plan to change WorkBuddy, then create an initial HTML version I can open and view directly. In the HTML, please simulate WorkBuddy's top bar, sidebar, task list, buttons, input field, and the penguin's position. The focus is on letting me confirm the overall colors, fonts, borders, highlights, and the degree of retro feel — there's no need to implement any real functionality. When you're done, please open it for me to see, and for now, don't modify or install the actual application.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1l05g",
+            "text": "If the first version isn't heading in the right direction, be sure to add a quick note of feedback.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8je37",
+            "text": "Start by taking a full screenshot, then use your system's screenshot tool or an image annotation tool to mark the spots you're not happy with using red boxes, circles, or arrows. You don't need to write long explanations on the image — just make it clear to the Agent which button, border, or text area you're referring to. I'd suggest sending all of the following together:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dg1cr",
+            "text": "· A full screenshot, to help the Agent understand the overall effect.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bdgs5",
+            "text": "· An image with red-circle annotations, clearly pointing out the spots that need changing.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "di0ko",
+            "text": "· A sentence or two explaining what specifically feels off about those spots.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bjal5",
+            "text": "For instance, when I was working on QQ 2008, the issues I ran into were that the result looked \"too modern\" and the penguin was too small.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "emim1",
+            "text": " >.>;.",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 360,
+                "offset": 20,
+                "style": "Italic"
+              }
+            ],
+            "key": "chhqa",
+            "text": "> Follow-up prompt: Please first compare the actual result with the target mockup on your own, then focus on addressing the issues inside the red circles: enlarge the penguin in the red circle to twice its size, and tuck its lower half behind the input field. Please keep the parts you've already gotten right, and don't redesign the whole interface just to modify one small area.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "btcop",
+            "text": "It works the same way for any other style — just point out where it's straying from your goal. You don't need to look at any code for this step. You're only judging: whether the direction is right, whether the style is strong enough, and whether the main areas feel comfortable. Usually, after two or three rounds, the visual direction will settle nicely. Pointing out just the two or three most obvious issues each time tends to give you more stable results than listing a dozen requests all at once.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1167m",
+            "text": "Once you're happy, you can move on to the real build.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f5l89",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1m5gv",
+            "text": "Step 4: The Official Build and Installation",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "719vg",
+            "text": "With the direction confirmed, let it run with it. Your prompt only needs to describe the outcome and the safety boundaries — there's no need to teach it how to write the code.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 597,
+                "offset": 23,
+                "style": "Italic"
+              }
+            ],
+            "key": "8t1t5",
+            "text": "> My reference prompt: The direction of the initial HTML version is confirmed, so please start the official build using it and the target mockup as references. Please complete the skin development yourself, and first verify it works properly on a copy. Then back up the current original version and install the new one on this Mac's WorkBuddy. Please make sure not to affect the existing features, chats, tasks, or personal files, and don't have me run any commands manually. When you're done, please help me restart WorkBuddy, and let me know where the backup is stored and how to restore it if I don't like the result.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ofdh",
+            "text": "It will handle the entire process on its own — you won't need to type a single command.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ddor6",
+            "text": "Don't expect the first version to be perfect; if it installs and works, that's already a success. After restarting, focus on checking:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "adfuu",
+            "text": "· Whether you can create new tasks, type, and switch pages as normal.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2sikd",
+            "text": "· Whether the main areas are already close to the mockup.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cuq16",
+            "text": "· Whether there are any obvious issues with things being hard to read, misaligned, or nested in layers of frames.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "n9a6",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "figjq",
+            "text": "Step 5: Wrap Everything Up in One Go",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1aj91",
+            "text": "Once you're basically happy with the style, combine the remaining work into a single finishing pass — there's no need to break it into a pile of technical steps like fonts, dark mode, testing, and so on.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 645,
+                "offset": 23,
+                "style": "Italic"
+              }
+            ],
+            "key": "cpcja",
+            "text": "> My reference prompt: The overall result is pretty much there now, so please do one complete finishing pass on your own. Check the light and dark modes, whether the text is legible, whether the buttons and selected states look right, whether anything is missing from the task list or input field, whether the penguin's position stays stable, and whether anything shifts out of place when the window is resized. Please only fix the necessary issues, and don't redesign the parts that have already been confirmed. When you're finished, please verify it yourself, reinstall it, and help me restart, then just briefly let me know what you changed and where the backup is.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7rmj8",
+            "text": "If your target style has a signature sound to it, you can also add it in at this step as a fun little surprise Easter egg.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ea7vr",
+            "text": "For example, QQ 2008 has two classic sound effects: the \"beep-beep-beep\" and the \"cough.\" I set them up so that a \"beep-beep-beep\" plays when a task is completed, and a single \"cough\" plays when it needs my confirmation — and remember to spell out the boundaries clearly, too.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 367,
+                "offset": 23,
+                "style": "Italic"
+              }
+            ],
+            "key": "f653k",
+            "text": "> My reference prompt: Also, please add two notification sounds: play a \"beep-beep-beep\" once when a task is completed; play a \"cough\" once when the AI presents a multiple-choice question in the conversation and is waiting for me to confirm my intent. Please don't cough for failed tasks, don't play the same event's sound more than once, and don't retroactively play sounds for past tasks.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dbqno",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "63s5t",
+            "text": "And with that, a full custom skin is complete.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "62is1",
+            "text": "To make this bit of digital infrastructure worth replicating, I've organized the skin, the installation script, and the recovery script into a public repository:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 2,
+                "offset": 1
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "75gsg",
+            "text": "(⚠️: This is a personal hobby project and does not represent any official position.)",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 12,
+                  "text": "https://github.com/justtobeliev1/workbuddy-qq2008-theme",
+                  "toIndex": 67
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "78taf",
+            "text": "Repository: https://github.com/justtobeliev1/workbuddy-qq2008-theme",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 53,
+                "offset": 20
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fnp0h",
+            "text": "WorkBuddy download: WorkBuddy · Your scenario-based AI all-in-one package",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f6de6",
+            "text": "If you'd also like to dress up your WorkBuddy in QQ 2008 style, there's no need to burn through your Tokens all over again from scratch. Just send the following message to your own WorkBuddy Agent:",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 13,
+                  "text": "https://github.com/justtobeliev1/workbuddy-qq2008-theme",
+                  "toIndex": 68
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 55,
+                "offset": 13
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Italic"
+              },
+              {
+                "length": 234,
+                "offset": 72,
+                "style": "Italic"
+              }
+            ],
+            "key": "4n20h",
+            "text": "Please clone https://github.com/justtobeliev1/workbuddy-qq2008-theme  , first read AGENT_INSTALL.md and review the installation script, then install the QQ 2008 skin for the current macOS WorkBuddy. After completing the backup and verification, let me know how to restart it and where the recovery path is.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4dukq",
+            "text": "The Agent will first check the current version and the key interface selectors, then build the skin based on your machine's original WorkBuddy package, back up the original, and complete the installation.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 53,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8glr5",
+            "text": "Appendix: My Skin Disappeared After a Software Update",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2vjph",
+            "text": "A WorkBuddy update may overwrite your skin. Don't panic — and please don't try to paste old files over the new version.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1ne6i",
+            "text": "Simply have it re-check and re-adapt the installation based on the new version, and then just confirm the light mode, dark mode, and sound effects once more.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "71l1r",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7dqhh",
+            "text": "In Summary:",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4s9sq",
+            "text": "Throughout the entire process, there are really only three things you need to do:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a7h1c",
+            "text": "· Pick a target mockup you're happy with.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "23abe",
+            "text": "· Each round, look at the real interface and share your most direct impressions.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5uek4",
+            "text": "· Decide what to keep and what to keep changing.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8vfpq",
+            "text": "Checking the version, choosing the approach, writing the code, backing up, installing, verifying — it handles all of that entirely on its own.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "658f",
+            "text": "This method isn't picky about styles and doesn't test your coding skills. QQ 2008 is just one example — you're absolutely free to swap it out for any look you love.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2nc6l",
+            "text": "So, what skin would you like to give your WorkBuddy?",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "url": "https://github.com/justtobeliev1/workbuddy-qq2008-theme"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "entityKey": "251266e9-4d63-40f5-93a0-5df686f40a30",
+                "mediaItems": [
+                  {
+                    "localMediaId": "11",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2082078241377177600"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "caption": "A full screenshot of your current WorkBuddy.",
+                "entityKey": "b6cb41d2-de29-4352-be37-41d212e08141",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2082077372845785088"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "entityKey": "7a948658-2cf7-4c91-9b42-cc40f2a3d47b",
+                "url": "https://www.tencentcloud.com/act/pro/workbuddy?fromSource=intl.16261532.16261532.16261532&utm_medium=cpc&utm_id=intl.16261532.16261532.16261532"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "entityKey": "cc225eff-e542-4792-96c4-654130835253",
+                "mediaItems": [
+                  {
+                    "localMediaId": "13",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2082078671561797632"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "caption": "A style reference image you like.",
+                "entityKey": "61ae5364-7090-438e-84a4-e65a7ae19755",
+                "mediaItems": [
+                  {
+                    "localMediaId": "5",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2082077474511572992"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/26a0.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "caption": "Interface screenshot",
+                "entityKey": "32157e64-fec5-4d05-a83c-d08a9abc01c7",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2082077781694054401"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "75c6f7af-dd33-4382-8436-630dc17ac7c3",
+                "mediaItems": [
+                  {
+                    "localMediaId": "1",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2082076511696490496"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/2b07.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f449.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "caption": "Target mockup",
+                "entityKey": "b367c950-4381-47cb-a89e-9de9a09b1472",
+                "mediaItems": [
+                  {
+                    "localMediaId": "9",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2082077882839605248"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "f76e8f93-d030-445d-835e-9bba9caf9373",
+                "url": "https://www.tencentcloud.com/act/pro/workbuddy?fromSource=intl.16261532.16261532.16261532&utm_medium=cpc&utm_id=intl.16261532.16261532.16261532"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOUGzZlaIAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2082077882839605248",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 86.76,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 249,
+                    "red": 246
+                  }
+                },
+                {
+                  "percentage": 8.97,
+                  "rgb": {
+                    "blue": 229,
+                    "green": 175,
+                    "red": 121
+                  }
+                },
+                {
+                  "percentage": 3.67,
+                  "rgb": {
+                    "blue": 214,
+                    "green": 244,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 154,
+                    "green": 155,
+                    "red": 224
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 203,
+                    "green": 222,
+                    "red": 181
+                  }
+                }
+              ]
+            },
+            "original_img_height": 626,
+            "original_img_url": "https://pbs.twimg.com/media/HOUGzZlaIAA2iM2.jpg",
+            "original_img_width": 928
+          },
+          "media_key": "3_2082077882839605248"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOUGboca0AAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2082077474511572992",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 42.73,
+                  "rgb": {
+                    "blue": 250,
+                    "green": 248,
+                    "red": 245
+                  }
+                },
+                {
+                  "percentage": 35.14,
+                  "rgb": {
+                    "blue": 63,
+                    "green": 48,
+                    "red": 46
+                  }
+                },
+                {
+                  "percentage": 13.68,
+                  "rgb": {
+                    "blue": 238,
+                    "green": 196,
+                    "red": 112
+                  }
+                },
+                {
+                  "percentage": 2.25,
+                  "rgb": {
+                    "blue": 176,
+                    "green": 202,
+                    "red": 229
+                  }
+                },
+                {
+                  "percentage": 1.12,
+                  "rgb": {
+                    "blue": 204,
+                    "green": 204,
+                    "red": 236
+                  }
+                }
+              ]
+            },
+            "original_img_height": 404,
+            "original_img_url": "https://pbs.twimg.com/media/HOUGboca0AA2DV0.png",
+            "original_img_width": 494
+          },
+          "media_key": "3_2082077474511572992"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOUHIRPbUAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2082078241377177600",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.27,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 244,
+                    "red": 237
+                  }
+                },
+                {
+                  "percentage": 0.58,
+                  "rgb": {
+                    "blue": 117,
+                    "green": 112,
+                    "red": 111
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1122,
+            "original_img_url": "https://pbs.twimg.com/media/HOUHIRPbUAAu_YW.jpg",
+            "original_img_width": 1853
+          },
+          "media_key": "3_2082078241377177600"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOUGtgybgAEKAAIbCZ4AWtrAAAAA",
+          "media_id": "2082077781694054401",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.88,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 0.92,
+                  "rgb": {
+                    "blue": 132,
+                    "green": 132,
+                    "red": 132
+                  }
+                },
+                {
+                  "percentage": 0.1,
+                  "rgb": {
+                    "blue": 200,
+                    "green": 202,
+                    "red": 244
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1600,
+            "original_img_url": "https://pbs.twimg.com/media/HOUGtgybgAEOngE.jpg",
+            "original_img_width": 2400
+          },
+          "media_key": "3_2082077781694054401"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOUHhTzbsAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2082078671561797632",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 91.35,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 245,
+                    "red": 233
+                  }
+                },
+                {
+                  "percentage": 7.32,
+                  "rgb": {
+                    "blue": 214,
+                    "green": 148,
+                    "red": 57
+                  }
+                },
+                {
+                  "percentage": 0.79,
+                  "rgb": {
+                    "blue": 147,
+                    "green": 135,
+                    "red": 120
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1600,
+            "original_img_url": "https://pbs.twimg.com/media/HOUHhTzbsAAYd9p.jpg",
+            "original_img_width": 2400
+          },
+          "media_key": "3_2082078671561797632"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOUFjlrakAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2082076511696490496",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 91.35,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 245,
+                    "red": 233
+                  }
+                },
+                {
+                  "percentage": 7.32,
+                  "rgb": {
+                    "blue": 214,
+                    "green": 148,
+                    "red": 57
+                  }
+                },
+                {
+                  "percentage": 0.79,
+                  "rgb": {
+                    "blue": 147,
+                    "green": 135,
+                    "red": 120
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1600,
+            "original_img_url": "https://pbs.twimg.com/media/HOUFjlrakAABYGx.jpg",
+            "original_img_width": 2400
+          },
+          "media_key": "3_2082076511696490496"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOUGVttaAAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2082077372845785088",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.88,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 0.92,
+                  "rgb": {
+                    "blue": 132,
+                    "green": 132,
+                    "red": 132
+                  }
+                },
+                {
+                  "percentage": 0.1,
+                  "rgb": {
+                    "blue": 200,
+                    "green": 202,
+                    "red": 244
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1600,
+            "original_img_url": "https://pbs.twimg.com/media/HOUGVttaAAAtzfw.jpg",
+            "original_img_width": 2400
+          },
+          "media_key": "3_2082077372845785088"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

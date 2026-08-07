@@ -1,0 +1,119 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/aehyok/status/2083398834319925310",
+    "id": "2083398834319925310",
+    "text": "有没有懂行的？准备充一个，这三个哪个更划算一些？\n\n「豆包」连续包月 68大洋。\n「WorkBuddy」连续包月70大洋。\n「千问办公」连续包月78大洋。\n\n豆包里的最起码有生图？是不是更有性价比一些？",
+    "raw_text": {
+      "text": "有没有懂行的？准备充一个，这三个哪个更划算一些？\n\n「豆包」连续包月 68大洋。\n「WorkBuddy」连续包月70大洋。\n「千问办公」连续包月78大洋。\n\n豆包里的最起码有生图？是不是更有性价比一些？ https://t.co/VO80Jxr0kO",
+      "display_text_range": [
+        0,
+        101
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            102,
+            125
+          ],
+          "id": "2083397752265039872",
+          "display": "pic.x.com/VO80Jxr0kO",
+          "original": "https://t.co/VO80Jxr0kO",
+          "replacement": "https://x.com/aehyok/status/2083398834319925310/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "aehyok",
+      "url": "https://x.com/aehyok",
+      "id": "2905016819",
+      "followers": 9203,
+      "following": 381,
+      "likes": 20157,
+      "media_count": 469,
+      "name": "AI少年",
+      "description": "全栈独立开发者，CEO， 喜欢编程和爱折腾AI　　\n我的个人网站：https://aehyok.uk　\n我的武器库: https://github.com/aehyok\n我的公众号: 那个曾经的AI少年。",
+      "raw_description": {
+        "text": "全栈独立开发者，CEO， 喜欢编程和爱折腾AI　　\n我的个人网站：https://t.co/gegr7pjEwQ　\n我的武器库: https://t.co/b8VWNwyDXf\n我的公众号: 那个曾经的AI少年。",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              33,
+              56
+            ],
+            "original": "https://t.co/gegr7pjEwQ",
+            "replacement": "https://aehyok.uk",
+            "display": "aehyok.uk"
+          },
+          {
+            "type": "url",
+            "indices": [
+              65,
+              88
+            ],
+            "original": "https://t.co/b8VWNwyDXf",
+            "replacement": "https://github.com/aehyok",
+            "display": "github.com/aehyok"
+          }
+        ]
+      },
+      "location": "shenzhen",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2905016819/1767727113",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2055690787736920065/UdCIcnhl_200x200.jpg",
+      "joined": "Thu Dec 04 12:35:37 +0000 2014",
+      "protected": false,
+      "website": {
+        "url": "https://aehyok.uk",
+        "display_url": "aehyok.uk"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 58,
+    "retweets": 1,
+    "likes": 30,
+    "bookmarks": 17,
+    "quotes": 2,
+    "created_at": "Sat Aug 01 03:46:04 +0000 2026",
+    "created_timestamp": 1785555964,
+    "possibly_sensitive": false,
+    "views": 35867,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2083397752265039872",
+          "url": "https://pbs.twimg.com/media/HOm3N6Wa4AAhDP-.jpg?name=orig",
+          "width": 3540,
+          "height": 1068
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2083397752265039872",
+          "url": "https://pbs.twimg.com/media/HOm3N6Wa4AAhDP-.jpg?name=orig",
+          "width": 3540,
+          "height": 1068
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

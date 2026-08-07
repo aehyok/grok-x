@@ -1,0 +1,3258 @@
+{
+  "source": "H:\\github\\grok-x\\codex-tips-top50-截止-2026-08-07-1032.md",
+  "out_dir": "H:\\github\\grok-x\\codex-tips-posts-截止-2026-08-07-1032",
+  "entries_count": 83,
+  "jobs_count": 93,
+  "entries": [
+    {
+      "section": "top50",
+      "rank": 1,
+      "views_raw": "~1,955,000",
+      "views": 1955000,
+      "date": "2026-08-02",
+      "lang": "EN",
+      "author": "MarcosHernanz",
+      "topic": "烧约 60B tokens 的完整 `AGENTS.md`（8 条规则，Codex/Cursor 通用）",
+      "status_ids": [
+        "2083954734487212511"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/MarcosHernanz/status/2083954734487212511)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 2,
+      "views_raw": "~1,942,000",
+      "views": 1942000,
+      "date": "2026-07-22",
+      "lang": "EN",
+      "author": "sairahul1",
+      "topic": "一人公司 5-Agent 团队（含 Codex CLI runtime）搭建与提示词",
+      "status_ids": [
+        "2079817450028519801"
+      ],
+      "article_ids": [],
+      "links": "[Article](https://x.com/sairahul1/status/2079817450028519801)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 3,
+      "views_raw": "~1,577,000",
+      "views": 1577000,
+      "date": "2026-07-22",
+      "lang": "EN",
+      "author": "Qiaoqiao2001",
+      "topic": "Codex + Sol 解 6 个 Erdős 问题：选题 / 提示词 / goal 长跑工作流",
+      "status_ids": [
+        "2080003441821163958"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Qiaoqiao2001/status/2080003441821163958)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 4,
+      "views_raw": "~908,000",
+      "views": 908000,
+      "date": "2026-07-07",
+      "lang": "EN",
+      "author": "steipete",
+      "topic": "Fable 作顾问、Codex 当 workhorse 的 skill",
+      "status_ids": [
+        "2074638582418231495"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/steipete/status/2074638582418231495)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 5,
+      "views_raw": "~712,000",
+      "views": 712000,
+      "date": "2026-07-31",
+      "lang": "EN",
+      "author": "ForwardEditor",
+      "topic": "codex tip：Luna Max 默认隐藏，Settings→Configuration 开启",
+      "status_ids": [
+        "2083162509692076153"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ForwardEditor/status/2083162509692076153)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 6,
+      "views_raw": "~652,000",
+      "views": 652000,
+      "date": "2026-07-07",
+      "lang": "ZH",
+      "author": "laowangbabababa",
+      "topic": "Codex 从注册到 App/CLI/插件的完整开源教程（非程序员向）",
+      "status_ids": [
+        "2074459150323769843"
+      ],
+      "article_ids": [
+        "2074455505171521536"
+      ],
+      "links": "[帖](https://x.com/laowangbabababa/status/2074459150323769843) · [Article](https://x.com/i/article/2074455505171521536)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 7,
+      "views_raw": "~549,000",
+      "views": 549000,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "mattpocockuk",
+      "topic": "skills v1.2：完整 Codex 支持（`agents/openai.yaml`）",
+      "status_ids": [
+        "2084985277102031137"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/mattpocockuk/status/2084985277102031137)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 8,
+      "views_raw": "~484,000",
+      "views": 484000,
+      "date": "2026-07-08",
+      "lang": "EN",
+      "author": "cjzafir",
+      "topic": "Claude Code 内装官方 Codex 插件：Fable 编排 + Codex 执行（分步 setup）",
+      "status_ids": [
+        "2074875092090470469"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/cjzafir/status/2074875092090470469)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 9,
+      "views_raw": "~404,000",
+      "views": 404000,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "ziwenxu_",
+      "topic": "OpenCode Go（DeepSeek 等）接入 Codex 模型选择器",
+      "status_ids": [
+        "2084924184740663738"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ziwenxu_/status/2084924184740663738)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 10,
+      "views_raw": "~386,000",
+      "views": 386000,
+      "date": "2026-08-04",
+      "lang": "ZH",
+      "author": "AYi_AInotes",
+      "topic": "中文解读 60B tokens 的 8 条 AGENTS.md：省 Token",
+      "status_ids": [
+        "2084522269745820010"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/AYi_AInotes/status/2084522269745820010)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 11,
+      "views_raw": "~357,000",
+      "views": 357000,
+      "date": "2026-07-30",
+      "lang": "ZH",
+      "author": "riba2534",
+      "topic": "Codex 多 Agent 编排百科：Task/Subagent/Worktree/原语/八种拓扑",
+      "status_ids": [
+        "2082916383248252976"
+      ],
+      "article_ids": [
+        "2082915944100425728"
+      ],
+      "links": "[帖](https://x.com/riba2534/status/2082916383248252976) · [Article](https://x.com/i/article/2082915944100425728)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 12,
+      "views_raw": "~346,000",
+      "views": 346000,
+      "date": "2026-07-11",
+      "lang": "EN",
+      "author": "jamonholmgren",
+      "topic": "完整 agentic 配置 dump（AGENTS 路由、跨 agent review、night shift…）",
+      "status_ids": [
+        "2076001786700394610"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/jamonholmgren/status/2076001786700394610)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 13,
+      "views_raw": "~324,000",
+      "views": 324000,
+      "date": "2026-08-03",
+      "lang": "ZH",
+      "author": "BTCqzy1",
+      "topic": "GitHub 插件先调研再写代码，省 ~90% token 提示词",
+      "status_ids": [
+        "2084268294115316141"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/BTCqzy1/status/2084268294115316141)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 14,
+      "views_raw": "~297,000",
+      "views": 297000,
+      "date": "2026-08-06",
+      "lang": "EN",
+      "author": "thsottiaux",
+      "topic": "Agent Plugins 标准（含 Codex）：Skills + MCP 打包一次多端用",
+      "status_ids": [
+        "2085432978856083964"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/thsottiaux/status/2085432978856083964)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 15,
+      "views_raw": "~288,000",
+      "views": 288000,
+      "date": "2026-08-03",
+      "lang": "EN",
+      "author": "DanielLockyer",
+      "topic": "全局规则用 Simplified Technical English（常写入 `.codex`）",
+      "status_ids": [
+        "2084208311906218179"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/DanielLockyer/status/2084208311906218179)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 16,
+      "views_raw": "~260,000",
+      "views": 260000,
+      "date": "2026-08-02",
+      "lang": "EN",
+      "author": "ForwardEditor",
+      "topic": "codex tip：Luna 自动化清 headless/缓存，降温顺滑",
+      "status_ids": [
+        "2083936363657810177"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ForwardEditor/status/2083936363657810177)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 17,
+      "views_raw": "~229,000",
+      "views": 229000,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "author": "Hamburgerai",
+      "topic": "Codex Skill 跑「人生副本」长视频全流水线（踩坑固化）",
+      "status_ids": [
+        "2083419087246664038"
+      ],
+      "article_ids": [
+        "2083404529039757312"
+      ],
+      "links": "[帖](https://x.com/Hamburgerai/status/2083419087246664038) · [Article](https://x.com/i/article/2083404529039757312)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 18,
+      "views_raw": "~207,000",
+      "views": 207000,
+      "date": "2026-07-13",
+      "lang": "EN",
+      "author": "reach_vb",
+      "topic": "codex tip：先 research 再 `set_goal`，优于直接 `/goal`",
+      "status_ids": [
+        "2076813989598662816"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/reach_vb/status/2076813989598662816)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 19,
+      "views_raw": "~198,000",
+      "views": 198000,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "author": "huoshan007",
+      "topic": "推荐 Annotate/Fork/Archive/Plan/Plugin/Skill 从零到一教程",
+      "status_ids": [
+        "2084916064228626584"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/huoshan007/status/2084916064228626584)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 20,
+      "views_raw": "~161,000",
+      "views": 161000,
+      "date": "2026-07-09",
+      "lang": "EN",
+      "author": "mattshumer_",
+      "topic": "GPT-5.6 + Codex `/goal` 深度用法（goal.md、长时、安全审计分工）",
+      "status_ids": [
+        "2075267645058805896"
+      ],
+      "article_ids": [
+        "2074916560041349120"
+      ],
+      "links": "[帖](https://x.com/mattshumer_/status/2075267645058805896) · [Article](https://x.com/i/article/2074916560041349120)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 21,
+      "views_raw": "~150,000",
+      "views": 150000,
+      "date": "2026-08-04",
+      "lang": "EN",
+      "author": "RayFernando1337",
+      "topic": "更稳的 Codex agent 工作流（减 slop、省 token）",
+      "status_ids": [
+        "2084522860077568290"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/RayFernando1337/status/2084522860077568290)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 22,
+      "views_raw": "~135,000",
+      "views": 135000,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "author": "Tz_2022",
+      "topic": "Sol 主线程 + Luna Max 子代理 `luna-worker.toml` 配置提示词",
+      "status_ids": [
+        "2083568833164419449"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Tz_2022/status/2083568833164419449)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 23,
+      "views_raw": "~119,000",
+      "views": 119000,
+      "date": "2026-07-30",
+      "lang": "EN",
+      "author": "ForwardEditor",
+      "topic": "codex tip：起床前 2h 用 Luna Light 发 “hi”，拉长白天额度窗口",
+      "status_ids": [
+        "2082800122170093842"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ForwardEditor/status/2082800122170093842)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 24,
+      "views_raw": "~114,000",
+      "views": 114000,
+      "date": "2026-08-03",
+      "lang": "EN",
+      "author": "Ananth7e",
+      "topic": "codex tip：让 Codex 扫磁盘找大文件/缓存（先列清单）",
+      "status_ids": [
+        "2084333430280786115"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Ananth7e/status/2084333430280786115)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 25,
+      "views_raw": "~106,000",
+      "views": 106000,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "author": "canghe",
+      "topic": "Codex + Obsidian 公众号写作流水线（WeSight 开源插件）",
+      "status_ids": [
+        "2084949218314105068"
+      ],
+      "article_ids": [
+        "2084949005692526592"
+      ],
+      "links": "[帖](https://x.com/canghe/status/2084949218314105068) · [Article](https://x.com/i/article/2084949005692526592)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 26,
+      "views_raw": "~106,000",
+      "views": 106000,
+      "date": "2026-08-02",
+      "lang": "EN",
+      "author": "_0xpainn",
+      "topic": "AgentRouter 免费额度接入 coding agent（含 Codex 场景）",
+      "status_ids": [
+        "2083947599724175648"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/_0xpainn/status/2083947599724175648)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 27,
+      "views_raw": "~101,000",
+      "views": 101000,
+      "date": "2026-07-28",
+      "lang": "ZH",
+      "author": "Mayii0205",
+      "topic": "Codex 操控 HeyGen/MiniMax/剪映 的口播视频工作流",
+      "status_ids": [
+        "2082055667234550070"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Mayii0205/status/2082055667234550070)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 28,
+      "views_raw": "~100,000",
+      "views": 100000,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "author": "BTCqzy1",
+      "topic": "「交付工程师模式」：先 5 问 + 验收清单再写代码",
+      "status_ids": [
+        "2084910817779355868"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/BTCqzy1/status/2084910817779355868)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 29,
+      "views_raw": "~95,000",
+      "views": 95000,
+      "date": "2026-08-04",
+      "lang": "EN",
+      "author": "_0xpainn",
+      "topic": "sol-advisor + savings-prompt 多用 Luna、少撞限额",
+      "status_ids": [
+        "2084554055968280938"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/_0xpainn/status/2084554055968280938)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 30,
+      "views_raw": "~94,000",
+      "views": 94000,
+      "date": "2026-08-03",
+      "lang": "EN",
+      "author": "topmass",
+      "topic": "STE 精简英语写入全局 `.codex` / Claude MD",
+      "status_ids": [
+        "2084353571852832997"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/topmass/status/2084353571852832997)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 31,
+      "views_raw": "~93,000",
+      "views": 93000,
+      "date": "2026-08-03",
+      "lang": "EN",
+      "author": "Ananth7e",
+      "topic": "codex tip：每周自动清理 Codex 缓存/旧 thread",
+      "status_ids": [
+        "2084354538715382188"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Ananth7e/status/2084354538715382188)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 32,
+      "views_raw": "~88,000",
+      "views": 88000,
+      "date": "2026-07-12",
+      "lang": "EN",
+      "author": "shmidtqq",
+      "topic": "X Article（Codex 相关高互动长文）",
+      "status_ids": [
+        "2076307213346324568"
+      ],
+      "article_ids": [
+        "2075991510042951681"
+      ],
+      "links": "[帖](https://x.com/shmidtqq/status/2076307213346324568) · [Article](https://x.com/i/article/2075991510042951681)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 33,
+      "views_raw": "~83,000",
+      "views": 83000,
+      "date": "2026-08-05",
+      "lang": "TH/EN",
+      "author": "geegissss",
+      "topic": "Codex 批量写 prompt + 生图 + Adobe metadata CSV（Luna High）",
+      "status_ids": [
+        "2084843417671274921"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/geegissss/status/2084843417671274921)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 34,
+      "views_raw": "~80,000",
+      "views": 80000,
+      "date": "2026-08-04",
+      "lang": "EN",
+      "author": "ForwardEditor",
+      "topic": "意外技巧：USB 插手机/Kindle，让 Codex 当通用设备 UI",
+      "status_ids": [
+        "2084714793085055163"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ForwardEditor/status/2084714793085055163)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 35,
+      "views_raw": "~78,000",
+      "views": 78000,
+      "date": "2026-07-25",
+      "lang": "EN",
+      "author": "Jakubantalik",
+      "topic": "33+ UI transition skill（Claude/Cursor/Codex）",
+      "status_ids": [
+        "2081036752924352811"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Jakubantalik/status/2081036752924352811)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 36,
+      "views_raw": "~74,000",
+      "views": 74000,
+      "date": "2026-08-06",
+      "lang": "EN",
+      "author": "ziwenxu_",
+      "topic": "撞额度时：OpenCode Go 的 Luna Max 接进 Codex Router",
+      "status_ids": [
+        "2085219334280839299"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ziwenxu_/status/2085219334280839299)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 37,
+      "views_raw": "~74,000",
+      "views": 74000,
+      "date": "2026-08-04",
+      "lang": "EN",
+      "author": "0xSero",
+      "topic": "Codex App：Computer+Chrome+Gmail+Calendar+`/goal` 生产力用法",
+      "status_ids": [
+        "2084699762893463950"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/0xSero/status/2084699762893463950)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 38,
+      "views_raw": "~73,000",
+      "views": 73000,
+      "date": "2026-07-14",
+      "lang": "EN",
+      "author": "reach_vb",
+      "topic": "codex tip：让 Codex 自己 `set_goal`（可验证目标更省）",
+      "status_ids": [
+        "2077136521178517999"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/reach_vb/status/2077136521178517999)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 39,
+      "views_raw": "~72,000",
+      "views": 72000,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "author": "jinchenma_ai",
+      "topic": "Codex/WorkBuddy + 飞书 CLI 管文档",
+      "status_ids": [
+        "2083567267464511735"
+      ],
+      "article_ids": [
+        "2083566013141139456"
+      ],
+      "links": "[帖](https://x.com/jinchenma_ai/status/2083567267464511735) · [Article](https://x.com/i/article/2083566013141139456)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 40,
+      "views_raw": "~66,000",
+      "views": 66000,
+      "date": "2026-08-04",
+      "lang": "JA",
+      "author": "so_ainsight",
+      "topic": "日文解读 Vercel 8 条 AGENTS.md（Codex 自动读取）",
+      "status_ids": [
+        "2084629184325030122"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/so_ainsight/status/2084629184325030122)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 41,
+      "views_raw": "~61,000",
+      "views": 61000,
+      "date": "2026-08-02",
+      "lang": "EN",
+      "author": "MatthewBerman",
+      "topic": "codex tip：Luna Max 新线程做 deploy/merge/CI，省 Sol",
+      "status_ids": [
+        "2084060433233907875"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/MatthewBerman/status/2084060433233907875)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 42,
+      "views_raw": "~61,000",
+      "views": 61000,
+      "date": "2026-07-13",
+      "lang": "EN",
+      "author": "cjzafir",
+      "topic": "Sol Extra high 规划 + Luna Extra high 执行，不易撞 5h",
+      "status_ids": [
+        "2076483843322962341"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/cjzafir/status/2076483843322962341)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 43,
+      "views_raw": "~61,000",
+      "views": 61000,
+      "date": "2026-07-07",
+      "lang": "EN",
+      "author": "aparnadhinak",
+      "topic": "X Article（agent/eval 向，含 Codex 实践）",
+      "status_ids": [
+        "2074569427346174039"
+      ],
+      "article_ids": [
+        "2074569015369056256"
+      ],
+      "links": "[帖](https://x.com/aparnadhinak/status/2074569427346174039) · [Article](https://x.com/i/article/2074569015369056256)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 44,
+      "views_raw": "~55,000",
+      "views": 55000,
+      "date": "2026-08-06",
+      "lang": "EN",
+      "author": "reach_vb",
+      "topic": "codex tip：解释时强制 Visualize skill（写入 AGENTS.md）",
+      "status_ids": [
+        "2085408004455981272"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/reach_vb/status/2085408004455981272)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 45,
+      "views_raw": "~54,000",
+      "views": 54000,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "RoundtableSpace",
+      "topic": "3 分钟 sol-advisor + Luna 降低撞限额",
+      "status_ids": [
+        "2085119907599950307"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/RoundtableSpace/status/2085119907599950307)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 46,
+      "views_raw": "~51,000",
+      "views": 51000,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "author": "hank_aibtc",
+      "topic": "视频：装 sol-advisor、复制 savings-prompt",
+      "status_ids": [
+        "2085003542889406479"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/hank_aibtc/status/2085003542889406479)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 47,
+      "views_raw": "~48,000",
+      "views": 48000,
+      "date": "2026-07-16",
+      "lang": "EN",
+      "author": "mvanhorn",
+      "topic": "X Article（工作流/工具实践，含 agent 向）",
+      "status_ids": [
+        "2077548703410540669"
+      ],
+      "article_ids": [
+        "2077542506586365952"
+      ],
+      "links": "[帖](https://x.com/mvanhorn/status/2077548703410540669) · [Article](https://x.com/i/article/2077542506586365952)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 48,
+      "views_raw": "~48,000",
+      "views": 48000,
+      "date": "2026-08-04",
+      "lang": "ZH",
+      "author": "Youngxxxxu",
+      "topic": "OpenCodex：多模型当 Codex 子代理并行",
+      "status_ids": [
+        "2084723886717800673"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Youngxxxxu/status/2084723886717800673)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 49,
+      "views_raw": "~46,000",
+      "views": 46000,
+      "date": "2026-07-31",
+      "lang": "EN",
+      "author": "ForwardEditor",
+      "topic": "Luna 用 skill 做「Sol 规划 → 多 Luna 线程并行」",
+      "status_ids": [
+        "2083200492260262033"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ForwardEditor/status/2083200492260262033)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 50,
+      "views_raw": "~46,000",
+      "views": 46000,
+      "date": "2026-08-02",
+      "lang": "EN",
+      "author": "dair_ai",
+      "topic": "X Article（Codex 相关高互动长文）",
+      "status_ids": [
+        "2083940505746853940"
+      ],
+      "article_ids": [
+        "2083939320742703104"
+      ],
+      "links": "[帖](https://x.com/dair_ai/status/2083940505746853940) · [Article](https://x.com/i/article/2083939320742703104)",
+      "is_article_entry": true
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~44k",
+      "views": 44000,
+      "date": "08-02",
+      "lang": "",
+      "author": "ErwinWu000",
+      "topic": "一段提示词做 graph engineering（包工头管小弟）",
+      "status_ids": [
+        "2083997246920790062"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ErwinWu000/status/2083997246920790062)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~43k",
+      "views": 43000,
+      "date": "08-05",
+      "lang": "",
+      "author": "Leepriest1990",
+      "topic": "2h 中文 Codex 教程心得：Skill+自动化+并行",
+      "status_ids": [
+        "2084934945903202632"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Leepriest1990/status/2084934945903202632)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~38k",
+      "views": 38000,
+      "date": "08-06",
+      "lang": "",
+      "author": "BTCqzy1",
+      "topic": "收尾习惯：写 `PROJECT_STATUS.md` 交接省 token",
+      "status_ids": [
+        "2085340695444037966"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/BTCqzy1/status/2085340695444037966)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~34k",
+      "views": 34000,
+      "date": "08-06",
+      "lang": "",
+      "author": "Saccc_c",
+      "topic": "从近 30 天会话挖重复劳动 → Skill/Agent/Automation",
+      "status_ids": [
+        "2085275196412547133"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Saccc_c/status/2085275196412547133)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~29k",
+      "views": 29000,
+      "date": "08-06",
+      "lang": "",
+      "author": "eternityspring",
+      "topic": "小说拆角色 Skill（Claude/Codex）",
+      "status_ids": [
+        "2085328009704493196"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/eternityspring/status/2085328009704493196)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~26k",
+      "views": 26000,
+      "date": "08-05",
+      "lang": "",
+      "author": "Suu766",
+      "topic": "Codex 5 用法：AppShots、meta 线程、PLAN.md、Skill、`/goal`",
+      "status_ids": [
+        "2084944861908918558"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Suu766/status/2084944861908918558)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~22k",
+      "views": 22000,
+      "date": "08-06",
+      "lang": "",
+      "author": "Lonely__MH",
+      "topic": "Matt skills v1.2 中文解读（含 Codex 接入）",
+      "status_ids": [
+        "2085154384908796208"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Lonely__MH/status/2085154384908796208)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~21k",
+      "views": 21000,
+      "date": "08-05",
+      "lang": "",
+      "author": "Hamburgerai",
+      "topic": "并发生图反代：10 路提速",
+      "status_ids": [
+        "2085144066505822588"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Hamburgerai/status/2085144066505822588)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~18k",
+      "views": 18000,
+      "date": "08-06",
+      "lang": "",
+      "author": "xie_Dl",
+      "topic": "Sol 决策审计 + Luna Max 子代理降额度",
+      "status_ids": [
+        "2085359731854778752"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/xie_Dl/status/2085359731854778752)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~18k",
+      "views": 18000,
+      "date": "07-19",
+      "lang": "",
+      "author": "PardoCat0406",
+      "topic": "中文 X Article（Codex 相关）",
+      "status_ids": [
+        "2078816201929863225"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/PardoCat0406/status/2078816201929863225)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~15k",
+      "views": 15000,
+      "date": "08-06",
+      "lang": "",
+      "author": "Gencoin8",
+      "topic": "26 个免费 Codex Skill 合集",
+      "status_ids": [
+        "2085254041307660567"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Gencoin8/status/2085254041307660567)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~11k",
+      "views": 11000,
+      "date": "08-06",
+      "lang": "",
+      "author": "kun66666677",
+      "topic": "OpenMontage：Claude/Cursor/Codex 视频流水线",
+      "status_ids": [
+        "2085203314614972853"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/kun66666677/status/2085203314614972853)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~8k",
+      "views": 8000,
+      "date": "08-06",
+      "lang": "",
+      "author": "IndieDevHailey",
+      "topic": "Codex 里跑 Opencode / DeepSeek 等",
+      "status_ids": [
+        "2085369300769227207"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/IndieDevHailey/status/2085369300769227207)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~6.6k",
+      "views": 6600,
+      "date": "08-06",
+      "lang": "",
+      "author": "0323Zhumy",
+      "topic": "Claude Code + Codex 同时接 Telegram 互见教程",
+      "status_ids": [
+        "2085212662938624125"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/0323Zhumy/status/2085212662938624125)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-中文",
+      "rank": null,
+      "views_raw": "~5.5k",
+      "views": 5500,
+      "date": "08-06",
+      "lang": "",
+      "author": "Suu766",
+      "topic": "Skill 每周自更新提示词",
+      "status_ids": [
+        "2085286515836629151"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Suu766/status/2085286515836629151)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~41k",
+      "views": 41000,
+      "date": "08-04",
+      "lang": "",
+      "author": "daniel_mac8",
+      "topic": "sol-advisor 模式：Sol 编排 / Luna 日常",
+      "status_ids": [
+        "2084762735229685784"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/daniel_mac8/status/2084762735229685784)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~33k",
+      "views": 33000,
+      "date": "07-17",
+      "lang": "",
+      "author": "reach_vb",
+      "topic": "归档 one-off sessions、整理项目侧边栏",
+      "status_ids": [
+        "2078018760741667141"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/reach_vb/status/2078018760741667141)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~31k",
+      "views": 31000,
+      "date": "07-17",
+      "lang": "",
+      "author": "Voxyz_ai",
+      "topic": "skill 对照历史 session backtest（附完整 prompt）",
+      "status_ids": [
+        "2078175217839403150"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Voxyz_ai/status/2078175217839403150)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~29k",
+      "views": 29000,
+      "date": "08-01",
+      "lang": "",
+      "author": "talwar_divyam",
+      "topic": "Luna/Terra/Sol 三档路由省 Sol",
+      "status_ids": [
+        "2083648143615517019"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/talwar_divyam/status/2083648143615517019)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~28k",
+      "views": 28000,
+      "date": "08-06",
+      "lang": "",
+      "author": "midudev",
+      "topic": "Addy Osmani agent-skills（含 Codex）",
+      "status_ids": [
+        "2085368038925197697"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/midudev/status/2085368038925197697)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~22k",
+      "views": 22000,
+      "date": "07-29",
+      "lang": "",
+      "author": "ForwardEditor",
+      "topic": "用 `set_goal` 代替 `/goal` + Sol 裁判 Luna",
+      "status_ids": [
+        "2082445284630536370"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ForwardEditor/status/2082445284630536370)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~20k",
+      "views": 20000,
+      "date": "07-17",
+      "lang": "",
+      "author": "reach_vb",
+      "topic": "用历史 session 迭代 skill",
+      "status_ids": [
+        "2078108681678299194"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/reach_vb/status/2078108681678299194)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~18k",
+      "views": 18000,
+      "date": "07-29",
+      "lang": "",
+      "author": "reach_vb",
+      "topic": "`codex exec` 脚本化/隔离 eval/CI",
+      "status_ids": [
+        "2082609245011198432"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/reach_vb/status/2082609245011198432)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~17k",
+      "views": 17000,
+      "date": "07-23",
+      "lang": "",
+      "author": "NielsRogge",
+      "topic": "AppShots、meta、PLAN.md、skill-creator、`/goal` 清单",
+      "status_ids": [
+        "2080241986024427650"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/NielsRogge/status/2080241986024427650)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~13k",
+      "views": 13000,
+      "date": "07-29",
+      "lang": "",
+      "author": "reach_vb",
+      "topic": "任务结束邮件汇报改动摘要",
+      "status_ids": [
+        "2082445610913878295"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/reach_vb/status/2082445610913878295)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~10.5k",
+      "views": 10500,
+      "date": "08-04",
+      "lang": "",
+      "author": "Ananth7e",
+      "topic": "每周按 session 自动更新 skill",
+      "status_ids": [
+        "2084507266556801447"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Ananth7e/status/2084507266556801447)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~6.6k",
+      "views": 6600,
+      "date": "08-05",
+      "lang": "",
+      "author": "ForwardEditor",
+      "topic": "别用内置搜索：新开 chat 让 Codex 找旧线程",
+      "status_ids": [
+        "2084974449405952217"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ForwardEditor/status/2084974449405952217)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~6.6k",
+      "views": 6600,
+      "date": "08-03",
+      "lang": "",
+      "author": "RoundtableSpace",
+      "topic": "Sol 配 Luna Max 自定义 subagent 完整提示词",
+      "status_ids": [
+        "2084130890507329609"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/RoundtableSpace/status/2084130890507329609)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~6.4k",
+      "views": 6400,
+      "date": "08-04",
+      "lang": "",
+      "author": "ForwardEditor",
+      "topic": "编辑最近 prompt → 更快更便宜重生成",
+      "status_ids": [
+        "2084612061070319695"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ForwardEditor/status/2084612061070319695)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "views_raw": "~4.5k",
+      "views": 4500,
+      "date": "08-06",
+      "lang": "",
+      "author": "dkundel",
+      "topic": "高亮文本「add to chat」注解上一条（Chrome 扩展可用）",
+      "status_ids": [
+        "2085415512394326434"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/dkundel/status/2085415512394326434)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-日文",
+      "rank": null,
+      "views_raw": "~25k",
+      "views": 25000,
+      "date": "08-06",
+      "lang": "",
+      "author": "aitech_komoriya",
+      "topic": "Luna Max 默认关闭；设置打开后 25× 价差利用",
+      "status_ids": [
+        "2085327528965857745"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aitech_komoriya/status/2085327528965857745)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-日文",
+      "rank": null,
+      "views_raw": "~17k",
+      "views": 17000,
+      "date": "08-06",
+      "lang": "",
+      "author": "so_ainsight",
+      "topic": "上下文满了：新 chat 用 `@` 引用旧会话续作",
+      "status_ids": [
+        "2085247000770163037"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/so_ainsight/status/2085247000770163037)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext-日文",
+      "rank": null,
+      "views_raw": "~12k",
+      "views": 12000,
+      "date": "08-06",
+      "lang": "",
+      "author": "codex_lab_",
+      "topic": "Lightpanda 浏览器 + Codex 订阅免 Web 自动化",
+      "status_ids": [
+        "2085376012414763417"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/codex_lab_/status/2085376012414763417)",
+      "is_article_entry": false
+    }
+  ],
+  "jobs": [
+    {
+      "idx": "001",
+      "kind": "post",
+      "type": "status",
+      "id": "2083954734487212511",
+      "views": 1955000,
+      "views_raw": "~1,955,000",
+      "author": "MarcosHernanz",
+      "topic": "烧约 60B tokens 的完整 `AGENTS.md`（8 条规则，Codex/Cursor 通用）",
+      "section": "top50",
+      "rank": 1,
+      "date": "2026-08-02",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2083954734487212511"
+      ],
+      "links": "[帖](https://x.com/MarcosHernanz/status/2083954734487212511)"
+    },
+    {
+      "idx": "002",
+      "kind": "article",
+      "type": "status",
+      "id": "2079817450028519801",
+      "views": 1942000,
+      "views_raw": "~1,942,000",
+      "author": "sairahul1",
+      "topic": "一人公司 5-Agent 团队（含 Codex CLI runtime）搭建与提示词",
+      "section": "top50",
+      "rank": 2,
+      "date": "2026-07-22",
+      "lang": "EN",
+      "entry_is_article": true,
+      "article_ids": [],
+      "status_ids": [
+        "2079817450028519801"
+      ],
+      "links": "[Article](https://x.com/sairahul1/status/2079817450028519801)"
+    },
+    {
+      "idx": "003",
+      "kind": "post",
+      "type": "status",
+      "id": "2080003441821163958",
+      "views": 1577000,
+      "views_raw": "~1,577,000",
+      "author": "Qiaoqiao2001",
+      "topic": "Codex + Sol 解 6 个 Erdős 问题：选题 / 提示词 / goal 长跑工作流",
+      "section": "top50",
+      "rank": 3,
+      "date": "2026-07-22",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2080003441821163958"
+      ],
+      "links": "[帖](https://x.com/Qiaoqiao2001/status/2080003441821163958)"
+    },
+    {
+      "idx": "004",
+      "kind": "post",
+      "type": "status",
+      "id": "2074638582418231495",
+      "views": 908000,
+      "views_raw": "~908,000",
+      "author": "steipete",
+      "topic": "Fable 作顾问、Codex 当 workhorse 的 skill",
+      "section": "top50",
+      "rank": 4,
+      "date": "2026-07-07",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2074638582418231495"
+      ],
+      "links": "[帖](https://x.com/steipete/status/2074638582418231495)"
+    },
+    {
+      "idx": "005",
+      "kind": "post",
+      "type": "status",
+      "id": "2083162509692076153",
+      "views": 712000,
+      "views_raw": "~712,000",
+      "author": "ForwardEditor",
+      "topic": "codex tip：Luna Max 默认隐藏，Settings→Configuration 开启",
+      "section": "top50",
+      "rank": 5,
+      "date": "2026-07-31",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2083162509692076153"
+      ],
+      "links": "[帖](https://x.com/ForwardEditor/status/2083162509692076153)"
+    },
+    {
+      "idx": "006",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2074459150323769843",
+      "views": 652000,
+      "views_raw": "~652,000",
+      "author": "laowangbabababa",
+      "topic": "Codex 从注册到 App/CLI/插件的完整开源教程（非程序员向）",
+      "section": "top50",
+      "rank": 6,
+      "date": "2026-07-07",
+      "lang": "ZH",
+      "entry_is_article": true,
+      "article_ids": [
+        "2074455505171521536"
+      ],
+      "status_ids": [
+        "2074459150323769843"
+      ],
+      "links": "[帖](https://x.com/laowangbabababa/status/2074459150323769843) · [Article](https://x.com/i/article/2074455505171521536)"
+    },
+    {
+      "idx": "006",
+      "kind": "article",
+      "type": "article",
+      "id": "2074455505171521536",
+      "views": 652000,
+      "views_raw": "~652,000",
+      "author": "laowangbabababa",
+      "topic": "Codex 从注册到 App/CLI/插件的完整开源教程（非程序员向）",
+      "section": "top50",
+      "rank": 6,
+      "date": "2026-07-07",
+      "lang": "ZH",
+      "entry_is_article": true,
+      "article_ids": [
+        "2074455505171521536"
+      ],
+      "status_ids": [
+        "2074459150323769843"
+      ],
+      "links": "[帖](https://x.com/laowangbabababa/status/2074459150323769843) · [Article](https://x.com/i/article/2074455505171521536)"
+    },
+    {
+      "idx": "007",
+      "kind": "post",
+      "type": "status",
+      "id": "2084985277102031137",
+      "views": 549000,
+      "views_raw": "~549,000",
+      "author": "mattpocockuk",
+      "topic": "skills v1.2：完整 Codex 支持（`agents/openai.yaml`）",
+      "section": "top50",
+      "rank": 7,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084985277102031137"
+      ],
+      "links": "[帖](https://x.com/mattpocockuk/status/2084985277102031137)"
+    },
+    {
+      "idx": "008",
+      "kind": "post",
+      "type": "status",
+      "id": "2074875092090470469",
+      "views": 484000,
+      "views_raw": "~484,000",
+      "author": "cjzafir",
+      "topic": "Claude Code 内装官方 Codex 插件：Fable 编排 + Codex 执行（分步 setup）",
+      "section": "top50",
+      "rank": 8,
+      "date": "2026-07-08",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2074875092090470469"
+      ],
+      "links": "[帖](https://x.com/cjzafir/status/2074875092090470469)"
+    },
+    {
+      "idx": "009",
+      "kind": "post",
+      "type": "status",
+      "id": "2084924184740663738",
+      "views": 404000,
+      "views_raw": "~404,000",
+      "author": "ziwenxu_",
+      "topic": "OpenCode Go（DeepSeek 等）接入 Codex 模型选择器",
+      "section": "top50",
+      "rank": 9,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084924184740663738"
+      ],
+      "links": "[帖](https://x.com/ziwenxu_/status/2084924184740663738)"
+    },
+    {
+      "idx": "010",
+      "kind": "post",
+      "type": "status",
+      "id": "2084522269745820010",
+      "views": 386000,
+      "views_raw": "~386,000",
+      "author": "AYi_AInotes",
+      "topic": "中文解读 60B tokens 的 8 条 AGENTS.md：省 Token",
+      "section": "top50",
+      "rank": 10,
+      "date": "2026-08-04",
+      "lang": "ZH",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084522269745820010"
+      ],
+      "links": "[帖](https://x.com/AYi_AInotes/status/2084522269745820010)"
+    },
+    {
+      "idx": "011",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2082916383248252976",
+      "views": 357000,
+      "views_raw": "~357,000",
+      "author": "riba2534",
+      "topic": "Codex 多 Agent 编排百科：Task/Subagent/Worktree/原语/八种拓扑",
+      "section": "top50",
+      "rank": 11,
+      "date": "2026-07-30",
+      "lang": "ZH",
+      "entry_is_article": true,
+      "article_ids": [
+        "2082915944100425728"
+      ],
+      "status_ids": [
+        "2082916383248252976"
+      ],
+      "links": "[帖](https://x.com/riba2534/status/2082916383248252976) · [Article](https://x.com/i/article/2082915944100425728)"
+    },
+    {
+      "idx": "011",
+      "kind": "article",
+      "type": "article",
+      "id": "2082915944100425728",
+      "views": 357000,
+      "views_raw": "~357,000",
+      "author": "riba2534",
+      "topic": "Codex 多 Agent 编排百科：Task/Subagent/Worktree/原语/八种拓扑",
+      "section": "top50",
+      "rank": 11,
+      "date": "2026-07-30",
+      "lang": "ZH",
+      "entry_is_article": true,
+      "article_ids": [
+        "2082915944100425728"
+      ],
+      "status_ids": [
+        "2082916383248252976"
+      ],
+      "links": "[帖](https://x.com/riba2534/status/2082916383248252976) · [Article](https://x.com/i/article/2082915944100425728)"
+    },
+    {
+      "idx": "012",
+      "kind": "post",
+      "type": "status",
+      "id": "2076001786700394610",
+      "views": 346000,
+      "views_raw": "~346,000",
+      "author": "jamonholmgren",
+      "topic": "完整 agentic 配置 dump（AGENTS 路由、跨 agent review、night shift…）",
+      "section": "top50",
+      "rank": 12,
+      "date": "2026-07-11",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2076001786700394610"
+      ],
+      "links": "[帖](https://x.com/jamonholmgren/status/2076001786700394610)"
+    },
+    {
+      "idx": "013",
+      "kind": "post",
+      "type": "status",
+      "id": "2084268294115316141",
+      "views": 324000,
+      "views_raw": "~324,000",
+      "author": "BTCqzy1",
+      "topic": "GitHub 插件先调研再写代码，省 ~90% token 提示词",
+      "section": "top50",
+      "rank": 13,
+      "date": "2026-08-03",
+      "lang": "ZH",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084268294115316141"
+      ],
+      "links": "[帖](https://x.com/BTCqzy1/status/2084268294115316141)"
+    },
+    {
+      "idx": "014",
+      "kind": "post",
+      "type": "status",
+      "id": "2085432978856083964",
+      "views": 297000,
+      "views_raw": "~297,000",
+      "author": "thsottiaux",
+      "topic": "Agent Plugins 标准（含 Codex）：Skills + MCP 打包一次多端用",
+      "section": "top50",
+      "rank": 14,
+      "date": "2026-08-06",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085432978856083964"
+      ],
+      "links": "[帖](https://x.com/thsottiaux/status/2085432978856083964)"
+    },
+    {
+      "idx": "015",
+      "kind": "post",
+      "type": "status",
+      "id": "2084208311906218179",
+      "views": 288000,
+      "views_raw": "~288,000",
+      "author": "DanielLockyer",
+      "topic": "全局规则用 Simplified Technical English（常写入 `.codex`）",
+      "section": "top50",
+      "rank": 15,
+      "date": "2026-08-03",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084208311906218179"
+      ],
+      "links": "[帖](https://x.com/DanielLockyer/status/2084208311906218179)"
+    },
+    {
+      "idx": "016",
+      "kind": "post",
+      "type": "status",
+      "id": "2083936363657810177",
+      "views": 260000,
+      "views_raw": "~260,000",
+      "author": "ForwardEditor",
+      "topic": "codex tip：Luna 自动化清 headless/缓存，降温顺滑",
+      "section": "top50",
+      "rank": 16,
+      "date": "2026-08-02",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2083936363657810177"
+      ],
+      "links": "[帖](https://x.com/ForwardEditor/status/2083936363657810177)"
+    },
+    {
+      "idx": "017",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2083419087246664038",
+      "views": 229000,
+      "views_raw": "~229,000",
+      "author": "Hamburgerai",
+      "topic": "Codex Skill 跑「人生副本」长视频全流水线（踩坑固化）",
+      "section": "top50",
+      "rank": 17,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "entry_is_article": true,
+      "article_ids": [
+        "2083404529039757312"
+      ],
+      "status_ids": [
+        "2083419087246664038"
+      ],
+      "links": "[帖](https://x.com/Hamburgerai/status/2083419087246664038) · [Article](https://x.com/i/article/2083404529039757312)"
+    },
+    {
+      "idx": "017",
+      "kind": "article",
+      "type": "article",
+      "id": "2083404529039757312",
+      "views": 229000,
+      "views_raw": "~229,000",
+      "author": "Hamburgerai",
+      "topic": "Codex Skill 跑「人生副本」长视频全流水线（踩坑固化）",
+      "section": "top50",
+      "rank": 17,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "entry_is_article": true,
+      "article_ids": [
+        "2083404529039757312"
+      ],
+      "status_ids": [
+        "2083419087246664038"
+      ],
+      "links": "[帖](https://x.com/Hamburgerai/status/2083419087246664038) · [Article](https://x.com/i/article/2083404529039757312)"
+    },
+    {
+      "idx": "018",
+      "kind": "post",
+      "type": "status",
+      "id": "2076813989598662816",
+      "views": 207000,
+      "views_raw": "~207,000",
+      "author": "reach_vb",
+      "topic": "codex tip：先 research 再 `set_goal`，优于直接 `/goal`",
+      "section": "top50",
+      "rank": 18,
+      "date": "2026-07-13",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2076813989598662816"
+      ],
+      "links": "[帖](https://x.com/reach_vb/status/2076813989598662816)"
+    },
+    {
+      "idx": "019",
+      "kind": "post",
+      "type": "status",
+      "id": "2084916064228626584",
+      "views": 198000,
+      "views_raw": "~198,000",
+      "author": "huoshan007",
+      "topic": "推荐 Annotate/Fork/Archive/Plan/Plugin/Skill 从零到一教程",
+      "section": "top50",
+      "rank": 19,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084916064228626584"
+      ],
+      "links": "[帖](https://x.com/huoshan007/status/2084916064228626584)"
+    },
+    {
+      "idx": "020",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2075267645058805896",
+      "views": 161000,
+      "views_raw": "~161,000",
+      "author": "mattshumer_",
+      "topic": "GPT-5.6 + Codex `/goal` 深度用法（goal.md、长时、安全审计分工）",
+      "section": "top50",
+      "rank": 20,
+      "date": "2026-07-09",
+      "lang": "EN",
+      "entry_is_article": true,
+      "article_ids": [
+        "2074916560041349120"
+      ],
+      "status_ids": [
+        "2075267645058805896"
+      ],
+      "links": "[帖](https://x.com/mattshumer_/status/2075267645058805896) · [Article](https://x.com/i/article/2074916560041349120)"
+    },
+    {
+      "idx": "020",
+      "kind": "article",
+      "type": "article",
+      "id": "2074916560041349120",
+      "views": 161000,
+      "views_raw": "~161,000",
+      "author": "mattshumer_",
+      "topic": "GPT-5.6 + Codex `/goal` 深度用法（goal.md、长时、安全审计分工）",
+      "section": "top50",
+      "rank": 20,
+      "date": "2026-07-09",
+      "lang": "EN",
+      "entry_is_article": true,
+      "article_ids": [
+        "2074916560041349120"
+      ],
+      "status_ids": [
+        "2075267645058805896"
+      ],
+      "links": "[帖](https://x.com/mattshumer_/status/2075267645058805896) · [Article](https://x.com/i/article/2074916560041349120)"
+    },
+    {
+      "idx": "021",
+      "kind": "post",
+      "type": "status",
+      "id": "2084522860077568290",
+      "views": 150000,
+      "views_raw": "~150,000",
+      "author": "RayFernando1337",
+      "topic": "更稳的 Codex agent 工作流（减 slop、省 token）",
+      "section": "top50",
+      "rank": 21,
+      "date": "2026-08-04",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084522860077568290"
+      ],
+      "links": "[帖](https://x.com/RayFernando1337/status/2084522860077568290)"
+    },
+    {
+      "idx": "022",
+      "kind": "post",
+      "type": "status",
+      "id": "2083568833164419449",
+      "views": 135000,
+      "views_raw": "~135,000",
+      "author": "Tz_2022",
+      "topic": "Sol 主线程 + Luna Max 子代理 `luna-worker.toml` 配置提示词",
+      "section": "top50",
+      "rank": 22,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2083568833164419449"
+      ],
+      "links": "[帖](https://x.com/Tz_2022/status/2083568833164419449)"
+    },
+    {
+      "idx": "023",
+      "kind": "post",
+      "type": "status",
+      "id": "2082800122170093842",
+      "views": 119000,
+      "views_raw": "~119,000",
+      "author": "ForwardEditor",
+      "topic": "codex tip：起床前 2h 用 Luna Light 发 “hi”，拉长白天额度窗口",
+      "section": "top50",
+      "rank": 23,
+      "date": "2026-07-30",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2082800122170093842"
+      ],
+      "links": "[帖](https://x.com/ForwardEditor/status/2082800122170093842)"
+    },
+    {
+      "idx": "024",
+      "kind": "post",
+      "type": "status",
+      "id": "2084333430280786115",
+      "views": 114000,
+      "views_raw": "~114,000",
+      "author": "Ananth7e",
+      "topic": "codex tip：让 Codex 扫磁盘找大文件/缓存（先列清单）",
+      "section": "top50",
+      "rank": 24,
+      "date": "2026-08-03",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084333430280786115"
+      ],
+      "links": "[帖](https://x.com/Ananth7e/status/2084333430280786115)"
+    },
+    {
+      "idx": "025",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2084949218314105068",
+      "views": 106000,
+      "views_raw": "~106,000",
+      "author": "canghe",
+      "topic": "Codex + Obsidian 公众号写作流水线（WeSight 开源插件）",
+      "section": "top50",
+      "rank": 25,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "entry_is_article": true,
+      "article_ids": [
+        "2084949005692526592"
+      ],
+      "status_ids": [
+        "2084949218314105068"
+      ],
+      "links": "[帖](https://x.com/canghe/status/2084949218314105068) · [Article](https://x.com/i/article/2084949005692526592)"
+    },
+    {
+      "idx": "025",
+      "kind": "article",
+      "type": "article",
+      "id": "2084949005692526592",
+      "views": 106000,
+      "views_raw": "~106,000",
+      "author": "canghe",
+      "topic": "Codex + Obsidian 公众号写作流水线（WeSight 开源插件）",
+      "section": "top50",
+      "rank": 25,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "entry_is_article": true,
+      "article_ids": [
+        "2084949005692526592"
+      ],
+      "status_ids": [
+        "2084949218314105068"
+      ],
+      "links": "[帖](https://x.com/canghe/status/2084949218314105068) · [Article](https://x.com/i/article/2084949005692526592)"
+    },
+    {
+      "idx": "026",
+      "kind": "post",
+      "type": "status",
+      "id": "2083947599724175648",
+      "views": 106000,
+      "views_raw": "~106,000",
+      "author": "_0xpainn",
+      "topic": "AgentRouter 免费额度接入 coding agent（含 Codex 场景）",
+      "section": "top50",
+      "rank": 26,
+      "date": "2026-08-02",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2083947599724175648"
+      ],
+      "links": "[帖](https://x.com/_0xpainn/status/2083947599724175648)"
+    },
+    {
+      "idx": "027",
+      "kind": "post",
+      "type": "status",
+      "id": "2082055667234550070",
+      "views": 101000,
+      "views_raw": "~101,000",
+      "author": "Mayii0205",
+      "topic": "Codex 操控 HeyGen/MiniMax/剪映 的口播视频工作流",
+      "section": "top50",
+      "rank": 27,
+      "date": "2026-07-28",
+      "lang": "ZH",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2082055667234550070"
+      ],
+      "links": "[帖](https://x.com/Mayii0205/status/2082055667234550070)"
+    },
+    {
+      "idx": "028",
+      "kind": "post",
+      "type": "status",
+      "id": "2084910817779355868",
+      "views": 100000,
+      "views_raw": "~100,000",
+      "author": "BTCqzy1",
+      "topic": "「交付工程师模式」：先 5 问 + 验收清单再写代码",
+      "section": "top50",
+      "rank": 28,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084910817779355868"
+      ],
+      "links": "[帖](https://x.com/BTCqzy1/status/2084910817779355868)"
+    },
+    {
+      "idx": "029",
+      "kind": "post",
+      "type": "status",
+      "id": "2084554055968280938",
+      "views": 95000,
+      "views_raw": "~95,000",
+      "author": "_0xpainn",
+      "topic": "sol-advisor + savings-prompt 多用 Luna、少撞限额",
+      "section": "top50",
+      "rank": 29,
+      "date": "2026-08-04",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084554055968280938"
+      ],
+      "links": "[帖](https://x.com/_0xpainn/status/2084554055968280938)"
+    },
+    {
+      "idx": "030",
+      "kind": "post",
+      "type": "status",
+      "id": "2084353571852832997",
+      "views": 94000,
+      "views_raw": "~94,000",
+      "author": "topmass",
+      "topic": "STE 精简英语写入全局 `.codex` / Claude MD",
+      "section": "top50",
+      "rank": 30,
+      "date": "2026-08-03",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084353571852832997"
+      ],
+      "links": "[帖](https://x.com/topmass/status/2084353571852832997)"
+    },
+    {
+      "idx": "031",
+      "kind": "post",
+      "type": "status",
+      "id": "2084354538715382188",
+      "views": 93000,
+      "views_raw": "~93,000",
+      "author": "Ananth7e",
+      "topic": "codex tip：每周自动清理 Codex 缓存/旧 thread",
+      "section": "top50",
+      "rank": 31,
+      "date": "2026-08-03",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084354538715382188"
+      ],
+      "links": "[帖](https://x.com/Ananth7e/status/2084354538715382188)"
+    },
+    {
+      "idx": "032",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2076307213346324568",
+      "views": 88000,
+      "views_raw": "~88,000",
+      "author": "shmidtqq",
+      "topic": "X Article（Codex 相关高互动长文）",
+      "section": "top50",
+      "rank": 32,
+      "date": "2026-07-12",
+      "lang": "EN",
+      "entry_is_article": true,
+      "article_ids": [
+        "2075991510042951681"
+      ],
+      "status_ids": [
+        "2076307213346324568"
+      ],
+      "links": "[帖](https://x.com/shmidtqq/status/2076307213346324568) · [Article](https://x.com/i/article/2075991510042951681)"
+    },
+    {
+      "idx": "032",
+      "kind": "article",
+      "type": "article",
+      "id": "2075991510042951681",
+      "views": 88000,
+      "views_raw": "~88,000",
+      "author": "shmidtqq",
+      "topic": "X Article（Codex 相关高互动长文）",
+      "section": "top50",
+      "rank": 32,
+      "date": "2026-07-12",
+      "lang": "EN",
+      "entry_is_article": true,
+      "article_ids": [
+        "2075991510042951681"
+      ],
+      "status_ids": [
+        "2076307213346324568"
+      ],
+      "links": "[帖](https://x.com/shmidtqq/status/2076307213346324568) · [Article](https://x.com/i/article/2075991510042951681)"
+    },
+    {
+      "idx": "033",
+      "kind": "post",
+      "type": "status",
+      "id": "2084843417671274921",
+      "views": 83000,
+      "views_raw": "~83,000",
+      "author": "geegissss",
+      "topic": "Codex 批量写 prompt + 生图 + Adobe metadata CSV（Luna High）",
+      "section": "top50",
+      "rank": 33,
+      "date": "2026-08-05",
+      "lang": "TH/EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084843417671274921"
+      ],
+      "links": "[帖](https://x.com/geegissss/status/2084843417671274921)"
+    },
+    {
+      "idx": "034",
+      "kind": "post",
+      "type": "status",
+      "id": "2084714793085055163",
+      "views": 80000,
+      "views_raw": "~80,000",
+      "author": "ForwardEditor",
+      "topic": "意外技巧：USB 插手机/Kindle，让 Codex 当通用设备 UI",
+      "section": "top50",
+      "rank": 34,
+      "date": "2026-08-04",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084714793085055163"
+      ],
+      "links": "[帖](https://x.com/ForwardEditor/status/2084714793085055163)"
+    },
+    {
+      "idx": "035",
+      "kind": "post",
+      "type": "status",
+      "id": "2081036752924352811",
+      "views": 78000,
+      "views_raw": "~78,000",
+      "author": "Jakubantalik",
+      "topic": "33+ UI transition skill（Claude/Cursor/Codex）",
+      "section": "top50",
+      "rank": 35,
+      "date": "2026-07-25",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2081036752924352811"
+      ],
+      "links": "[帖](https://x.com/Jakubantalik/status/2081036752924352811)"
+    },
+    {
+      "idx": "036",
+      "kind": "post",
+      "type": "status",
+      "id": "2085219334280839299",
+      "views": 74000,
+      "views_raw": "~74,000",
+      "author": "ziwenxu_",
+      "topic": "撞额度时：OpenCode Go 的 Luna Max 接进 Codex Router",
+      "section": "top50",
+      "rank": 36,
+      "date": "2026-08-06",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085219334280839299"
+      ],
+      "links": "[帖](https://x.com/ziwenxu_/status/2085219334280839299)"
+    },
+    {
+      "idx": "037",
+      "kind": "post",
+      "type": "status",
+      "id": "2084699762893463950",
+      "views": 74000,
+      "views_raw": "~74,000",
+      "author": "0xSero",
+      "topic": "Codex App：Computer+Chrome+Gmail+Calendar+`/goal` 生产力用法",
+      "section": "top50",
+      "rank": 37,
+      "date": "2026-08-04",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084699762893463950"
+      ],
+      "links": "[帖](https://x.com/0xSero/status/2084699762893463950)"
+    },
+    {
+      "idx": "038",
+      "kind": "post",
+      "type": "status",
+      "id": "2077136521178517999",
+      "views": 73000,
+      "views_raw": "~73,000",
+      "author": "reach_vb",
+      "topic": "codex tip：让 Codex 自己 `set_goal`（可验证目标更省）",
+      "section": "top50",
+      "rank": 38,
+      "date": "2026-07-14",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2077136521178517999"
+      ],
+      "links": "[帖](https://x.com/reach_vb/status/2077136521178517999)"
+    },
+    {
+      "idx": "039",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2083567267464511735",
+      "views": 72000,
+      "views_raw": "~72,000",
+      "author": "jinchenma_ai",
+      "topic": "Codex/WorkBuddy + 飞书 CLI 管文档",
+      "section": "top50",
+      "rank": 39,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "entry_is_article": true,
+      "article_ids": [
+        "2083566013141139456"
+      ],
+      "status_ids": [
+        "2083567267464511735"
+      ],
+      "links": "[帖](https://x.com/jinchenma_ai/status/2083567267464511735) · [Article](https://x.com/i/article/2083566013141139456)"
+    },
+    {
+      "idx": "039",
+      "kind": "article",
+      "type": "article",
+      "id": "2083566013141139456",
+      "views": 72000,
+      "views_raw": "~72,000",
+      "author": "jinchenma_ai",
+      "topic": "Codex/WorkBuddy + 飞书 CLI 管文档",
+      "section": "top50",
+      "rank": 39,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "entry_is_article": true,
+      "article_ids": [
+        "2083566013141139456"
+      ],
+      "status_ids": [
+        "2083567267464511735"
+      ],
+      "links": "[帖](https://x.com/jinchenma_ai/status/2083567267464511735) · [Article](https://x.com/i/article/2083566013141139456)"
+    },
+    {
+      "idx": "040",
+      "kind": "post",
+      "type": "status",
+      "id": "2084629184325030122",
+      "views": 66000,
+      "views_raw": "~66,000",
+      "author": "so_ainsight",
+      "topic": "日文解读 Vercel 8 条 AGENTS.md（Codex 自动读取）",
+      "section": "top50",
+      "rank": 40,
+      "date": "2026-08-04",
+      "lang": "JA",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084629184325030122"
+      ],
+      "links": "[帖](https://x.com/so_ainsight/status/2084629184325030122)"
+    },
+    {
+      "idx": "041",
+      "kind": "post",
+      "type": "status",
+      "id": "2084060433233907875",
+      "views": 61000,
+      "views_raw": "~61,000",
+      "author": "MatthewBerman",
+      "topic": "codex tip：Luna Max 新线程做 deploy/merge/CI，省 Sol",
+      "section": "top50",
+      "rank": 41,
+      "date": "2026-08-02",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084060433233907875"
+      ],
+      "links": "[帖](https://x.com/MatthewBerman/status/2084060433233907875)"
+    },
+    {
+      "idx": "042",
+      "kind": "post",
+      "type": "status",
+      "id": "2076483843322962341",
+      "views": 61000,
+      "views_raw": "~61,000",
+      "author": "cjzafir",
+      "topic": "Sol Extra high 规划 + Luna Extra high 执行，不易撞 5h",
+      "section": "top50",
+      "rank": 42,
+      "date": "2026-07-13",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2076483843322962341"
+      ],
+      "links": "[帖](https://x.com/cjzafir/status/2076483843322962341)"
+    },
+    {
+      "idx": "043",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2074569427346174039",
+      "views": 61000,
+      "views_raw": "~61,000",
+      "author": "aparnadhinak",
+      "topic": "X Article（agent/eval 向，含 Codex 实践）",
+      "section": "top50",
+      "rank": 43,
+      "date": "2026-07-07",
+      "lang": "EN",
+      "entry_is_article": true,
+      "article_ids": [
+        "2074569015369056256"
+      ],
+      "status_ids": [
+        "2074569427346174039"
+      ],
+      "links": "[帖](https://x.com/aparnadhinak/status/2074569427346174039) · [Article](https://x.com/i/article/2074569015369056256)"
+    },
+    {
+      "idx": "043",
+      "kind": "article",
+      "type": "article",
+      "id": "2074569015369056256",
+      "views": 61000,
+      "views_raw": "~61,000",
+      "author": "aparnadhinak",
+      "topic": "X Article（agent/eval 向，含 Codex 实践）",
+      "section": "top50",
+      "rank": 43,
+      "date": "2026-07-07",
+      "lang": "EN",
+      "entry_is_article": true,
+      "article_ids": [
+        "2074569015369056256"
+      ],
+      "status_ids": [
+        "2074569427346174039"
+      ],
+      "links": "[帖](https://x.com/aparnadhinak/status/2074569427346174039) · [Article](https://x.com/i/article/2074569015369056256)"
+    },
+    {
+      "idx": "044",
+      "kind": "post",
+      "type": "status",
+      "id": "2085408004455981272",
+      "views": 55000,
+      "views_raw": "~55,000",
+      "author": "reach_vb",
+      "topic": "codex tip：解释时强制 Visualize skill（写入 AGENTS.md）",
+      "section": "top50",
+      "rank": 44,
+      "date": "2026-08-06",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085408004455981272"
+      ],
+      "links": "[帖](https://x.com/reach_vb/status/2085408004455981272)"
+    },
+    {
+      "idx": "045",
+      "kind": "post",
+      "type": "status",
+      "id": "2085119907599950307",
+      "views": 54000,
+      "views_raw": "~54,000",
+      "author": "RoundtableSpace",
+      "topic": "3 分钟 sol-advisor + Luna 降低撞限额",
+      "section": "top50",
+      "rank": 45,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085119907599950307"
+      ],
+      "links": "[帖](https://x.com/RoundtableSpace/status/2085119907599950307)"
+    },
+    {
+      "idx": "046",
+      "kind": "post",
+      "type": "status",
+      "id": "2085003542889406479",
+      "views": 51000,
+      "views_raw": "~51,000",
+      "author": "hank_aibtc",
+      "topic": "视频：装 sol-advisor、复制 savings-prompt",
+      "section": "top50",
+      "rank": 46,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085003542889406479"
+      ],
+      "links": "[帖](https://x.com/hank_aibtc/status/2085003542889406479)"
+    },
+    {
+      "idx": "047",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2077548703410540669",
+      "views": 48000,
+      "views_raw": "~48,000",
+      "author": "mvanhorn",
+      "topic": "X Article（工作流/工具实践，含 agent 向）",
+      "section": "top50",
+      "rank": 47,
+      "date": "2026-07-16",
+      "lang": "EN",
+      "entry_is_article": true,
+      "article_ids": [
+        "2077542506586365952"
+      ],
+      "status_ids": [
+        "2077548703410540669"
+      ],
+      "links": "[帖](https://x.com/mvanhorn/status/2077548703410540669) · [Article](https://x.com/i/article/2077542506586365952)"
+    },
+    {
+      "idx": "047",
+      "kind": "article",
+      "type": "article",
+      "id": "2077542506586365952",
+      "views": 48000,
+      "views_raw": "~48,000",
+      "author": "mvanhorn",
+      "topic": "X Article（工作流/工具实践，含 agent 向）",
+      "section": "top50",
+      "rank": 47,
+      "date": "2026-07-16",
+      "lang": "EN",
+      "entry_is_article": true,
+      "article_ids": [
+        "2077542506586365952"
+      ],
+      "status_ids": [
+        "2077548703410540669"
+      ],
+      "links": "[帖](https://x.com/mvanhorn/status/2077548703410540669) · [Article](https://x.com/i/article/2077542506586365952)"
+    },
+    {
+      "idx": "048",
+      "kind": "post",
+      "type": "status",
+      "id": "2084723886717800673",
+      "views": 48000,
+      "views_raw": "~48,000",
+      "author": "Youngxxxxu",
+      "topic": "OpenCodex：多模型当 Codex 子代理并行",
+      "section": "top50",
+      "rank": 48,
+      "date": "2026-08-04",
+      "lang": "ZH",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084723886717800673"
+      ],
+      "links": "[帖](https://x.com/Youngxxxxu/status/2084723886717800673)"
+    },
+    {
+      "idx": "049",
+      "kind": "post",
+      "type": "status",
+      "id": "2083200492260262033",
+      "views": 46000,
+      "views_raw": "~46,000",
+      "author": "ForwardEditor",
+      "topic": "Luna 用 skill 做「Sol 规划 → 多 Luna 线程并行」",
+      "section": "top50",
+      "rank": 49,
+      "date": "2026-07-31",
+      "lang": "EN",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2083200492260262033"
+      ],
+      "links": "[帖](https://x.com/ForwardEditor/status/2083200492260262033)"
+    },
+    {
+      "idx": "050",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2083940505746853940",
+      "views": 46000,
+      "views_raw": "~46,000",
+      "author": "dair_ai",
+      "topic": "X Article（Codex 相关高互动长文）",
+      "section": "top50",
+      "rank": 50,
+      "date": "2026-08-02",
+      "lang": "EN",
+      "entry_is_article": true,
+      "article_ids": [
+        "2083939320742703104"
+      ],
+      "status_ids": [
+        "2083940505746853940"
+      ],
+      "links": "[帖](https://x.com/dair_ai/status/2083940505746853940) · [Article](https://x.com/i/article/2083939320742703104)"
+    },
+    {
+      "idx": "050",
+      "kind": "article",
+      "type": "article",
+      "id": "2083939320742703104",
+      "views": 46000,
+      "views_raw": "~46,000",
+      "author": "dair_ai",
+      "topic": "X Article（Codex 相关高互动长文）",
+      "section": "top50",
+      "rank": 50,
+      "date": "2026-08-02",
+      "lang": "EN",
+      "entry_is_article": true,
+      "article_ids": [
+        "2083939320742703104"
+      ],
+      "status_ids": [
+        "2083940505746853940"
+      ],
+      "links": "[帖](https://x.com/dair_ai/status/2083940505746853940) · [Article](https://x.com/i/article/2083939320742703104)"
+    },
+    {
+      "idx": "051",
+      "kind": "post",
+      "type": "status",
+      "id": "2083997246920790062",
+      "views": 44000,
+      "views_raw": "~44k",
+      "author": "ErwinWu000",
+      "topic": "一段提示词做 graph engineering（包工头管小弟）",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-02",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2083997246920790062"
+      ],
+      "links": "[帖](https://x.com/ErwinWu000/status/2083997246920790062)"
+    },
+    {
+      "idx": "052",
+      "kind": "post",
+      "type": "status",
+      "id": "2084934945903202632",
+      "views": 43000,
+      "views_raw": "~43k",
+      "author": "Leepriest1990",
+      "topic": "2h 中文 Codex 教程心得：Skill+自动化+并行",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-05",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084934945903202632"
+      ],
+      "links": "[帖](https://x.com/Leepriest1990/status/2084934945903202632)"
+    },
+    {
+      "idx": "053",
+      "kind": "post",
+      "type": "status",
+      "id": "2085340695444037966",
+      "views": 38000,
+      "views_raw": "~38k",
+      "author": "BTCqzy1",
+      "topic": "收尾习惯：写 `PROJECT_STATUS.md` 交接省 token",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085340695444037966"
+      ],
+      "links": "[帖](https://x.com/BTCqzy1/status/2085340695444037966)"
+    },
+    {
+      "idx": "054",
+      "kind": "post",
+      "type": "status",
+      "id": "2085275196412547133",
+      "views": 34000,
+      "views_raw": "~34k",
+      "author": "Saccc_c",
+      "topic": "从近 30 天会话挖重复劳动 → Skill/Agent/Automation",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085275196412547133"
+      ],
+      "links": "[帖](https://x.com/Saccc_c/status/2085275196412547133)"
+    },
+    {
+      "idx": "055",
+      "kind": "post",
+      "type": "status",
+      "id": "2085328009704493196",
+      "views": 29000,
+      "views_raw": "~29k",
+      "author": "eternityspring",
+      "topic": "小说拆角色 Skill（Claude/Codex）",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085328009704493196"
+      ],
+      "links": "[帖](https://x.com/eternityspring/status/2085328009704493196)"
+    },
+    {
+      "idx": "056",
+      "kind": "post",
+      "type": "status",
+      "id": "2084944861908918558",
+      "views": 26000,
+      "views_raw": "~26k",
+      "author": "Suu766",
+      "topic": "Codex 5 用法：AppShots、meta 线程、PLAN.md、Skill、`/goal`",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-05",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084944861908918558"
+      ],
+      "links": "[帖](https://x.com/Suu766/status/2084944861908918558)"
+    },
+    {
+      "idx": "057",
+      "kind": "post",
+      "type": "status",
+      "id": "2085154384908796208",
+      "views": 22000,
+      "views_raw": "~22k",
+      "author": "Lonely__MH",
+      "topic": "Matt skills v1.2 中文解读（含 Codex 接入）",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085154384908796208"
+      ],
+      "links": "[帖](https://x.com/Lonely__MH/status/2085154384908796208)"
+    },
+    {
+      "idx": "058",
+      "kind": "post",
+      "type": "status",
+      "id": "2085144066505822588",
+      "views": 21000,
+      "views_raw": "~21k",
+      "author": "Hamburgerai",
+      "topic": "并发生图反代：10 路提速",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-05",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085144066505822588"
+      ],
+      "links": "[帖](https://x.com/Hamburgerai/status/2085144066505822588)"
+    },
+    {
+      "idx": "059",
+      "kind": "post",
+      "type": "status",
+      "id": "2085359731854778752",
+      "views": 18000,
+      "views_raw": "~18k",
+      "author": "xie_Dl",
+      "topic": "Sol 决策审计 + Luna Max 子代理降额度",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085359731854778752"
+      ],
+      "links": "[帖](https://x.com/xie_Dl/status/2085359731854778752)"
+    },
+    {
+      "idx": "060",
+      "kind": "post",
+      "type": "status",
+      "id": "2078816201929863225",
+      "views": 18000,
+      "views_raw": "~18k",
+      "author": "PardoCat0406",
+      "topic": "中文 X Article（Codex 相关）",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "07-19",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2078816201929863225"
+      ],
+      "links": "[帖](https://x.com/PardoCat0406/status/2078816201929863225)"
+    },
+    {
+      "idx": "061",
+      "kind": "post",
+      "type": "status",
+      "id": "2085254041307660567",
+      "views": 15000,
+      "views_raw": "~15k",
+      "author": "Gencoin8",
+      "topic": "26 个免费 Codex Skill 合集",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085254041307660567"
+      ],
+      "links": "[帖](https://x.com/Gencoin8/status/2085254041307660567)"
+    },
+    {
+      "idx": "062",
+      "kind": "post",
+      "type": "status",
+      "id": "2085203314614972853",
+      "views": 11000,
+      "views_raw": "~11k",
+      "author": "kun66666677",
+      "topic": "OpenMontage：Claude/Cursor/Codex 视频流水线",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085203314614972853"
+      ],
+      "links": "[帖](https://x.com/kun66666677/status/2085203314614972853)"
+    },
+    {
+      "idx": "063",
+      "kind": "post",
+      "type": "status",
+      "id": "2085369300769227207",
+      "views": 8000,
+      "views_raw": "~8k",
+      "author": "IndieDevHailey",
+      "topic": "Codex 里跑 Opencode / DeepSeek 等",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085369300769227207"
+      ],
+      "links": "[帖](https://x.com/IndieDevHailey/status/2085369300769227207)"
+    },
+    {
+      "idx": "064",
+      "kind": "post",
+      "type": "status",
+      "id": "2085212662938624125",
+      "views": 6600,
+      "views_raw": "~6.6k",
+      "author": "0323Zhumy",
+      "topic": "Claude Code + Codex 同时接 Telegram 互见教程",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085212662938624125"
+      ],
+      "links": "[帖](https://x.com/0323Zhumy/status/2085212662938624125)"
+    },
+    {
+      "idx": "065",
+      "kind": "post",
+      "type": "status",
+      "id": "2085286515836629151",
+      "views": 5500,
+      "views_raw": "~5.5k",
+      "author": "Suu766",
+      "topic": "Skill 每周自更新提示词",
+      "section": "ext-中文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085286515836629151"
+      ],
+      "links": "[帖](https://x.com/Suu766/status/2085286515836629151)"
+    },
+    {
+      "idx": "066",
+      "kind": "post",
+      "type": "status",
+      "id": "2084762735229685784",
+      "views": 41000,
+      "views_raw": "~41k",
+      "author": "daniel_mac8",
+      "topic": "sol-advisor 模式：Sol 编排 / Luna 日常",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "08-04",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084762735229685784"
+      ],
+      "links": "[帖](https://x.com/daniel_mac8/status/2084762735229685784)"
+    },
+    {
+      "idx": "067",
+      "kind": "post",
+      "type": "status",
+      "id": "2078018760741667141",
+      "views": 33000,
+      "views_raw": "~33k",
+      "author": "reach_vb",
+      "topic": "归档 one-off sessions、整理项目侧边栏",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "07-17",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2078018760741667141"
+      ],
+      "links": "[帖](https://x.com/reach_vb/status/2078018760741667141)"
+    },
+    {
+      "idx": "068",
+      "kind": "post",
+      "type": "status",
+      "id": "2078175217839403150",
+      "views": 31000,
+      "views_raw": "~31k",
+      "author": "Voxyz_ai",
+      "topic": "skill 对照历史 session backtest（附完整 prompt）",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "07-17",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2078175217839403150"
+      ],
+      "links": "[帖](https://x.com/Voxyz_ai/status/2078175217839403150)"
+    },
+    {
+      "idx": "069",
+      "kind": "post",
+      "type": "status",
+      "id": "2083648143615517019",
+      "views": 29000,
+      "views_raw": "~29k",
+      "author": "talwar_divyam",
+      "topic": "Luna/Terra/Sol 三档路由省 Sol",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "08-01",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2083648143615517019"
+      ],
+      "links": "[帖](https://x.com/talwar_divyam/status/2083648143615517019)"
+    },
+    {
+      "idx": "070",
+      "kind": "post",
+      "type": "status",
+      "id": "2085368038925197697",
+      "views": 28000,
+      "views_raw": "~28k",
+      "author": "midudev",
+      "topic": "Addy Osmani agent-skills（含 Codex）",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085368038925197697"
+      ],
+      "links": "[帖](https://x.com/midudev/status/2085368038925197697)"
+    },
+    {
+      "idx": "071",
+      "kind": "post",
+      "type": "status",
+      "id": "2082445284630536370",
+      "views": 22000,
+      "views_raw": "~22k",
+      "author": "ForwardEditor",
+      "topic": "用 `set_goal` 代替 `/goal` + Sol 裁判 Luna",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "07-29",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2082445284630536370"
+      ],
+      "links": "[帖](https://x.com/ForwardEditor/status/2082445284630536370)"
+    },
+    {
+      "idx": "072",
+      "kind": "post",
+      "type": "status",
+      "id": "2078108681678299194",
+      "views": 20000,
+      "views_raw": "~20k",
+      "author": "reach_vb",
+      "topic": "用历史 session 迭代 skill",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "07-17",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2078108681678299194"
+      ],
+      "links": "[帖](https://x.com/reach_vb/status/2078108681678299194)"
+    },
+    {
+      "idx": "073",
+      "kind": "post",
+      "type": "status",
+      "id": "2082609245011198432",
+      "views": 18000,
+      "views_raw": "~18k",
+      "author": "reach_vb",
+      "topic": "`codex exec` 脚本化/隔离 eval/CI",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "07-29",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2082609245011198432"
+      ],
+      "links": "[帖](https://x.com/reach_vb/status/2082609245011198432)"
+    },
+    {
+      "idx": "074",
+      "kind": "post",
+      "type": "status",
+      "id": "2080241986024427650",
+      "views": 17000,
+      "views_raw": "~17k",
+      "author": "NielsRogge",
+      "topic": "AppShots、meta、PLAN.md、skill-creator、`/goal` 清单",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "07-23",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2080241986024427650"
+      ],
+      "links": "[帖](https://x.com/NielsRogge/status/2080241986024427650)"
+    },
+    {
+      "idx": "075",
+      "kind": "post",
+      "type": "status",
+      "id": "2082445610913878295",
+      "views": 13000,
+      "views_raw": "~13k",
+      "author": "reach_vb",
+      "topic": "任务结束邮件汇报改动摘要",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "07-29",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2082445610913878295"
+      ],
+      "links": "[帖](https://x.com/reach_vb/status/2082445610913878295)"
+    },
+    {
+      "idx": "076",
+      "kind": "post",
+      "type": "status",
+      "id": "2084507266556801447",
+      "views": 10500,
+      "views_raw": "~10.5k",
+      "author": "Ananth7e",
+      "topic": "每周按 session 自动更新 skill",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "08-04",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084507266556801447"
+      ],
+      "links": "[帖](https://x.com/Ananth7e/status/2084507266556801447)"
+    },
+    {
+      "idx": "077",
+      "kind": "post",
+      "type": "status",
+      "id": "2084974449405952217",
+      "views": 6600,
+      "views_raw": "~6.6k",
+      "author": "ForwardEditor",
+      "topic": "别用内置搜索：新开 chat 让 Codex 找旧线程",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "08-05",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084974449405952217"
+      ],
+      "links": "[帖](https://x.com/ForwardEditor/status/2084974449405952217)"
+    },
+    {
+      "idx": "078",
+      "kind": "post",
+      "type": "status",
+      "id": "2084130890507329609",
+      "views": 6600,
+      "views_raw": "~6.6k",
+      "author": "RoundtableSpace",
+      "topic": "Sol 配 Luna Max 自定义 subagent 完整提示词",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "08-03",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084130890507329609"
+      ],
+      "links": "[帖](https://x.com/RoundtableSpace/status/2084130890507329609)"
+    },
+    {
+      "idx": "079",
+      "kind": "post",
+      "type": "status",
+      "id": "2084612061070319695",
+      "views": 6400,
+      "views_raw": "~6.4k",
+      "author": "ForwardEditor",
+      "topic": "编辑最近 prompt → 更快更便宜重生成",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "08-04",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2084612061070319695"
+      ],
+      "links": "[帖](https://x.com/ForwardEditor/status/2084612061070319695)"
+    },
+    {
+      "idx": "080",
+      "kind": "post",
+      "type": "status",
+      "id": "2085415512394326434",
+      "views": 4500,
+      "views_raw": "~4.5k",
+      "author": "dkundel",
+      "topic": "高亮文本「add to chat」注解上一条（Chrome 扩展可用）",
+      "section": "ext-英文（官方/OpenAI 周边 tip 系列）",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085415512394326434"
+      ],
+      "links": "[帖](https://x.com/dkundel/status/2085415512394326434)"
+    },
+    {
+      "idx": "081",
+      "kind": "post",
+      "type": "status",
+      "id": "2085327528965857745",
+      "views": 25000,
+      "views_raw": "~25k",
+      "author": "aitech_komoriya",
+      "topic": "Luna Max 默认关闭；设置打开后 25× 价差利用",
+      "section": "ext-日文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085327528965857745"
+      ],
+      "links": "[帖](https://x.com/aitech_komoriya/status/2085327528965857745)"
+    },
+    {
+      "idx": "082",
+      "kind": "post",
+      "type": "status",
+      "id": "2085247000770163037",
+      "views": 17000,
+      "views_raw": "~17k",
+      "author": "so_ainsight",
+      "topic": "上下文满了：新 chat 用 `@` 引用旧会话续作",
+      "section": "ext-日文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085247000770163037"
+      ],
+      "links": "[帖](https://x.com/so_ainsight/status/2085247000770163037)"
+    },
+    {
+      "idx": "083",
+      "kind": "post",
+      "type": "status",
+      "id": "2085376012414763417",
+      "views": 12000,
+      "views_raw": "~12k",
+      "author": "codex_lab_",
+      "topic": "Lightpanda 浏览器 + Codex 订阅免 Web 自动化",
+      "section": "ext-日文",
+      "rank": null,
+      "date": "08-06",
+      "lang": "",
+      "entry_is_article": false,
+      "article_ids": [],
+      "status_ids": [
+        "2085376012414763417"
+      ],
+      "links": "[帖](https://x.com/codex_lab_/status/2085376012414763417)"
+    }
+  ]
+}

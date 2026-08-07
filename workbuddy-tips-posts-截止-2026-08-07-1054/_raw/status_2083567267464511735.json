@@ -1,0 +1,984 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/jinchenma_ai/status/2083567267464511735",
+    "id": "2083567267464511735",
+    "text": "飞书 lark cli 太强了（非广）。免费，好用，易用。\n\n我现在已经不手动在飞书文档里编辑文档了。\n\nCodex/WorkBuddy + 飞书 CLI，直接让 Agent 帮忙管理文档和处理排版问题。\n\n字节飞书应该是国内 AI 生态最前卫的一个了吧。",
+    "raw_text": {
+      "text": "飞书 lark cli 太强了（非广）。免费，好用，易用。\n\n我现在已经不手动在飞书文档里编辑文档了。\n\nCodex/WorkBuddy + 飞书 CLI，直接让 Agent 帮忙管理文档和处理排版问题。\n\n字节飞书应该是国内 AI 生态最前卫的一个了吧。 https://t.co/HxYHi0PVfD",
+      "display_text_range": [
+        0,
+        152
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "jinchenma_ai",
+      "url": "https://x.com/jinchenma_ai",
+      "id": "796179107172257792",
+      "followers": 22909,
+      "following": 536,
+      "likes": 4748,
+      "media_count": 1047,
+      "name": "金尘马",
+      "description": "👨‍💻前大厂程序员，想开了，35岁危机前提桶跑路\n30天X破万粉，变现过万🚀写小白用得上的AI教程\n偶尔抽象，时常真诚，把X当朋友圈发\n来马哥OPC交流群，我们一起转型破局👇咨询&合作",
+      "raw_description": {
+        "text": "👨‍💻前大厂程序员，想开了，35岁危机前提桶跑路\n30天X破万粉，变现过万🚀写小白用得上的AI教程\n偶尔抽象，时常真诚，把X当朋友圈发\n来马哥OPC交流群，我们一起转型破局👇咨询&合作",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/796179107172257792/1781209111",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2007049139960385536/3cydt9DH_200x200.jpg",
+      "joined": "Wed Nov 09 02:34:26 +0000 2016",
+      "protected": false,
+      "website": {
+        "url": "https://my.feishu.cn/wiki/D9X4wFttSiqkFpkNvBUcvPbTnJb?from=from_copylink",
+        "display_url": "my.feishu.cn/wiki/D9X4wFttS…"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 56,
+    "retweets": 38,
+    "likes": 216,
+    "bookmarks": 418,
+    "quotes": 11,
+    "created_at": "Sat Aug 01 14:55:22 +0000 2026",
+    "created_timestamp": 1785596122,
+    "possibly_sensitive": false,
+    "views": 72109,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-01T14:55:21.000Z",
+      "modified_at": "2026-08-01T14:55:21.000Z",
+      "id": "2083566013141139456",
+      "title": "如何用飞书文档实现云端AI知识库",
+      "preview_text": "朋友们大家好啊，我是金尘马。\n有些朋友已经在用 Codex、Claude Code 这类 Agent，也想做 AI 知识库，却卡在了资料到底存哪里。\nObsidian",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOpQaBlaAAAKAAILDJit/JcQAAAA",
+        "media_id": "2083566185644425216",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 87.21,
+                "rgb": {
+                  "blue": 238,
+                  "green": 241,
+                  "red": 245
+                }
+              },
+              {
+                "percentage": 4.87,
+                "rgb": {
+                  "blue": 120,
+                  "green": 92,
+                  "red": 75
+                }
+              },
+              {
+                "percentage": 1.46,
+                "rgb": {
+                  "blue": 63,
+                  "green": 120,
+                  "red": 178
+                }
+              },
+              {
+                "percentage": 0.92,
+                "rgb": {
+                  "blue": 16,
+                  "green": 39,
+                  "red": 58
+                }
+              },
+              {
+                "percentage": 0.87,
+                "rgb": {
+                  "blue": 153,
+                  "green": 176,
+                  "red": 204
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HOpQaBlaAAAvgQ5.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2083566185644425216"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ap60n",
+            "text": "朋友们大家好啊，我是金尘马。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "avdmt",
+            "text": "有些朋友已经在用 Codex、Claude Code 这类 Agent，也想做 AI 知识库，却卡在了资料到底存哪里。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ahkrl",
+            "text": "Obsidian 是一个非常受欢迎的本地知识管理软件。它基于本地文件，开放、可迁移，也很适合 Agent 操作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aqokd",
+            "text": "但对部分刚开始接触知识库的用户来说，目录、Markdown 和多设备同步都需要学习成本。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dparr",
+            "text": "如果平时已经在飞书里写文档，又希望手机、电脑随时访问，那么飞书文档 + 官方 Lark CLI，也可以成为一条云端知识库路线。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 42,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fjffh",
+            "text": "这篇文章只解决一件事：怎样把飞书变成 Agent 可以读取、整理和回写的云端知识库。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fkqh4",
+            "text": "一、飞书文档知识库构成",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5rk9j",
+            "text": "云笔记主要解决保存、同步和搜索。AI 知识库还要能找到相关资料，理清它们的关系，并把整理结果写回文档。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "buu77",
+            "text": "一套能工作的 AI 知识库，至少有四个部分。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7mla0",
+            "text": "飞书知识库负责页面树和知识空间。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2vig5",
+            "text": "飞书文档负责保存具体内容。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ft0ib",
+            "text": "Lark CLI 负责把文档能力交给 Agent。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cegvc",
+            "text": "Agent 加工作规则负责整理和维护。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 51,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7cq59",
+            "text": "可以把飞书理解成云端资料室，CLI 是 AI 操控云端资料室的工具，Agent 是进资料室干活的助手。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9bnm7",
+            "text": "资料室搭好以后，还得给助手明确权限和规则。否则，要么资料没人整理，要么 Agent 容易改错文件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7rhpp",
+            "text": "二、这条路线适合谁",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7mkh",
+            "text": "这套方案更适合云端优先、经常跨设备使用、已经习惯飞书，并且手里有 Agent 工具的人。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b7jjk",
+            "text": "如果更看重本地开放文件、离线使用、Git 版本管理和完整迁移能力，Obsidian 或其他 Markdown 方案依然更合适。大家根据自己的情况，选择合适的方案即可。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a94qi",
+            "text": "开始前需要准备：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cbfop",
+            "text": "一个可以执行终端命令的 Agent。例如：WorkBuddy、Codex、Claude Code等。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2demi",
+            "text": "一个飞书账号。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "15sl3",
+            "text": "一台能够运行 Node.js 与 npx 的电脑，基本上是个 windows 和 Mac 电脑都支持。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4h6on",
+            "text": "创建飞书应用并完成用户授权的条件。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "50ajb",
+            "text": "第一次测试只使用无敏感信息的文档。不要直接把工作机密、客户资料或唯一原件交给 Agent。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "amees",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2eht8",
+            "text": "三、先讲清 Lark CLI 能做什么",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 8,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3dvh4",
+            "text": "Lark CLI 是飞书官方提供的命令行工具，也为 AI Agent 准备了对应的 Skills。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4429r",
+            "text": "搭这套最小知识库，只会用到三组能力。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "sd22",
+            "text": "Docs 负责创建、读取和更新文档。Wiki 负责知识空间与页面节点。Drive 负责搜索文档和 Wiki。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cvqmd",
+            "text": "这三组能力刚好对应知识库最常见的动作：找到资料、读取内容、创建页面、调整结构，再把整理结果写回飞书。不用背下所有命令，记住哪类任务交给哪组能力就够了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 38,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5djl7",
+            "text": "安装和认证也可以直接交给正在使用的 Agent，不需要自己打开终端逐条执行。 把下面这段话发给它：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "bab13",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2k11b",
+            "text": "Agent 可以代为运行命令，但填写应用信息、浏览器登录和授权确认仍可能需要自己完成。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bmcjo",
+            "text": "OAuth 可以理解为给 CLI 发一张有范围的通行证。它只能操作当前身份有权访问的资源，并不是装完以后就能读取全部飞书文档。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2kfk6",
+            "text": "等 Agent 返回当前登录身份和认证有效，再继续创建页面。如果没通过，就让它先检查应用配置和登录，暂时不要创建页面。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9n5en",
+            "text": "四、直接用 CLI 创建最小知识结构",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "54vc8",
+            "text": "第一版可以搭建这四个页面：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3gir2",
+            "text": "知识库说明",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7v9mv",
+            "text": "待整理",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3jpk8",
+            "text": "主题知识",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3lrur",
+            "text": "项目与输出",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3djpu",
+            "text": "知识库说明保存工作规则，待整理用来接收新资料，主题知识沉淀长期内容，项目与输出承接正在推进的任务。先有这四个入口，Agent 才知道新资料该放哪里，整理后应该进入哪个主题或项目。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a6ep8",
+            "text": "其中最重要的是知识库说明。它相当于给 Agent 的工作守则，至少写清允许读取哪些页面、写入前必须先给方案、不能删除或覆盖原文、新页面必须保留来源链接。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d7aui",
+            "text": "把下面这段提示词交给 Agent：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "35csk",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d13ji",
+            "text": "确认方案没有选错知识空间，再让 Agent 执行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ao6ec",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eaqv5",
+            "text": "完成以后回到飞书检查四件事：节点位置是否正确，页面内容是否完整，链接能否打开，原有文档有没有被修改。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "43ee",
+            "text": "飞书界面支持文档引用关系和关系图，CLI 的文档格式也支持普通链接与 @文档。不过，目前的官方资料没有明确说明 CLI 可以直接查询完整反向引用列表。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3lhe3",
+            "text": "第一版先把关系做成可点击的正向链接。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "brs32",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cf3hq",
+            "text": "五、跑通第一个真实任务",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ek5sg",
+            "text": "知识结构建好以后，选两三篇测试文档放进待整理区。第一个任务只读，不让 Agent 动手修改。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2krhp",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5uk0v",
+            "text": "这一步的验收标准很直接：Agent 读到了正确文档，结论能够回溯到来源，并且飞书里没有任何内容发生变化。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "322u7",
+            "text": "检查方案以后，再发送第二段指令：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8qvar",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8gfdm",
+            "text": "写完以后，不要只看命令有没有报错。回到飞书检查页面位置、正文内容、来源链接和原文，再换一台设备打开同一个知识空间。这些都没有问题，第一版才算跑通。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 46,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6qr1c",
+            "text": "文档里的链接或提示词也可能影响 Agent 判断，所以只要涉及重要内容，写入前都要人工确认。 格式异常时回到飞书界面验证，不把一次成功当成所有账号都能稳定复现。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bhdna",
+            "text": "写在最后",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 37,
+                "offset": 39,
+                "style": "Bold"
+              }
+            ],
+            "key": "3ptpg",
+            "text": "飞书负责云端保存和多设备访问，Lark CLI 给 Agent 一个操作入口。知识库能不能长期用下去，要看工作规则是否清楚，以及真实任务能不能反复跑通。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d8e58",
+            "text": "不要一上来就想着做全自动整理，也别一上来就无脑把所有资料都搬进去。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "edf9d",
+            "text": "找几篇测试文档，让 Agent 先读、再提方案，确认后只完成一次小范围写入。这个流程稳定以后，再逐步扩大范围。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3u1qn",
+            "text": "如果以后更看重本地文件和迁移自由，可以选择 Agent + Obsidian 的组合。如果更看重云端访问和飞书现成的文档体验，那这套方案会更适合你。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "34gnt",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 56,
+                  "text": "https://x.com/jinchenma_ai",
+                  "toIndex": 82
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 26,
+                "offset": 56
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7u5o9",
+            "text": "金尘马｜大厂程序员｜30天X破万粉变现过万｜持续分享 AI 搞钱、程序员转型、OPC 心得｜联系方式见主页介绍：https://x.com/jinchenma_ai",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "8",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "markdown": "```text\n我确认以上方案。\n\n只在已经确认的知识空间中创建这四个页面，\n不要移动或修改其他节点和文档。\n完成后返回所有新增页面的名称和链接；\n如果实际情况与方案不一致，立即停止并告诉我。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "url": "https://x.com/jinchenma_ai"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "entityKey": "4110a2a9-5252-4ec6-ad0f-77e6b8f62ec0",
+                "mediaItems": [
+                  {
+                    "localMediaId": "11",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083566285791932416"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "markdown": "```text\n请只读取我指定的飞书文档，完成以下工作：\n\n1. 列出实际读取的文档和链接；\n2. 概括每篇文档的主题；\n3. 找出重复内容和可以建立的关系；\n4. 建议它们应该进入哪个主题或项目页面；\n5. 输出拟新增、拟修改的页面清单。\n\n禁止创建、移动、覆盖、删除或分享任何文档。\n没有我的确认，不执行写入。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "url": "https://github.com/larksuite/cli"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "46e7f89c-707e-4b70-97c2-f876a85d77be",
+                "mediaItems": [
+                  {
+                    "localMediaId": "13",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083566487974084608"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "markdown": "```text\n请帮我安装并配置官方 Lark CLI。\n\n按顺序完成下面四步：\n1. 执行 `npx @larksuite/cli@latest install`；\n2. 执行 `lark-cli config init`；\n3. 执行 `lark-cli auth login --recommend`；\n4. 登录完成后执行 `lark-cli auth status`。\n\n需要我填写飞书应用信息、打开浏览器登录或确认授权时，\n暂停操作并提醒我接手。\n最后告诉我当前登录身份和认证是否有效。\n不要读取、创建或修改任何飞书文档。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "markdown": "```text\n我确认以上方案。\n\n只执行已经批准的新增和修改：\n1. 创建对应的主题页或整理报告；\n2. 保留每条内容的来源文档链接；\n3. 更新指定索引；\n4. 不删除、不覆盖原文；\n5. 完成后列出所有新增和修改的页面链接。\n\n如果实际情况与方案不一致，立即停止并告诉我。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "markdown": "```text\n请使用官方 Lark CLI，在我指定的飞书知识空间中规划一个最小 AI 知识库。\n\n目标结构：\n知识库说明\n待整理\n主题知识\n项目与输出\n\n先检查授权状态，只列出当前身份可见的知识空间名称或标识，\n不要读取其中的文档内容。\n然后告诉我准备调用哪些 CLI 能力、创建哪些节点和文档。\n现在不要写入，等我确认后再执行。\n\n知识库说明需要包含：\n1. 只读取我明确指定的范围；\n2. 修改前先列出计划；\n3. 不删除、不覆盖唯一原件；\n4. 新内容保留来源文档链接；\n5. 完成后报告新增和修改的页面。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOpQrn2agAAKAAILDJit/JcQAAAA",
+          "media_id": "2083566487974084608",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.27,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 2.54,
+                  "rgb": {
+                    "blue": 55,
+                    "green": 53,
+                    "red": 53
+                  }
+                },
+                {
+                  "percentage": 1.13,
+                  "rgb": {
+                    "blue": 6,
+                    "green": 69,
+                    "red": 103
+                  }
+                },
+                {
+                  "percentage": 0.99,
+                  "rgb": {
+                    "blue": 234,
+                    "green": 217,
+                    "red": 200
+                  }
+                },
+                {
+                  "percentage": 0.78,
+                  "rgb": {
+                    "blue": 120,
+                    "green": 167,
+                    "red": 224
+                  }
+                }
+              ]
+            },
+            "original_img_height": 941,
+            "original_img_url": "https://pbs.twimg.com/media/HOpQrn2agAABBUz.jpg",
+            "original_img_width": 1672
+          },
+          "media_key": "3_2083566487974084608"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOpQf2qbsAAKAAILDJit/JcQAAAA",
+          "media_id": "2083566285791932416",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 93.76,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 2.98,
+                  "rgb": {
+                    "blue": 36,
+                    "green": 173,
+                    "red": 246
+                  }
+                },
+                {
+                  "percentage": 1.11,
+                  "rgb": {
+                    "blue": 110,
+                    "green": 173,
+                    "red": 201
+                  }
+                },
+                {
+                  "percentage": 0.8,
+                  "rgb": {
+                    "blue": 6,
+                    "green": 64,
+                    "red": 100
+                  }
+                },
+                {
+                  "percentage": 0.5,
+                  "rgb": {
+                    "blue": 9,
+                    "green": 37,
+                    "red": 53
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1714,
+            "original_img_url": "https://pbs.twimg.com/media/HOpQf2qbsAA9smf.jpg",
+            "original_img_width": 3102
+          },
+          "media_key": "3_2083566285791932416"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

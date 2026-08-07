@@ -1,0 +1,3125 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/songsong/status/2084242161630126551",
+    "id": "2084242161630126551",
+    "text": "看完你没入门，我入土",
+    "raw_text": {
+      "text": "看完你没入门，我入土 https://t.co/jjBGXTWj6n",
+      "display_text_range": [
+        0,
+        34
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "songsong",
+      "url": "https://x.com/songsong",
+      "id": "1444149179333312516",
+      "followers": 6713,
+      "following": 242,
+      "likes": 3496,
+      "media_count": 434,
+      "name": "宋宋",
+      "description": "🚀前大厂程序员 → AI一人实操\n💡来X分享AI工具 + 普通人视角的实用干货\n✍️写教程｜写干货｜聊副业｜工具&避坑指南   👇👇👇",
+      "raw_description": {
+        "text": "🚀前大厂程序员 → AI一人实操\n💡来X分享AI工具 + 普通人视角的实用干货\n✍️写教程｜写干货｜聊副业｜工具&避坑指南   👇👇👇",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1444149179333312516/1778407258",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2050543456708071424/scEfFf55_200x200.jpg",
+      "joined": "Sat Oct 02 03:56:19 +0000 2021",
+      "protected": false,
+      "website": {
+        "url": "https://my.feishu.cn/wiki/S6gNwDpoMiGiCYkQHqKcRRD9nRe?from=from_copylink",
+        "display_url": "my.feishu.cn/wiki/S6gNwDpoM…"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 30,
+    "retweets": 56,
+    "likes": 318,
+    "bookmarks": 552,
+    "quotes": 26,
+    "created_at": "Mon Aug 03 11:37:09 +0000 2026",
+    "created_timestamp": 1785757029,
+    "possibly_sensitive": false,
+    "views": 137661,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-03T11:37:09.000Z",
+      "modified_at": "2026-08-03T11:37:09.000Z",
+      "id": "2083416323800043521",
+      "title": "Everybody！WorkBuddy 教程来了",
+      "preview_text": "装完 WorkBuddy 的第一个星期，我干了件丢人的事：把上个月的报销单甩给它，打了四个字，帮我整理。\n它整理得挺快。表打开一看，金额那一列有含税的有不含税的，时间格式一半是七月一半是",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOnPZQiaoAAKAAIUCqYG9NWABAAA",
+        "media_id": "2083424335478562816",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 87.33,
+                "rgb": {
+                  "blue": 246,
+                  "green": 248,
+                  "red": 228
+                }
+              },
+              {
+                "percentage": 8.75,
+                "rgb": {
+                  "blue": 169,
+                  "green": 199,
+                  "red": 10
+                }
+              },
+              {
+                "percentage": 2.13,
+                "rgb": {
+                  "blue": 114,
+                  "green": 201,
+                  "red": 62
+                }
+              },
+              {
+                "percentage": 1.62,
+                "rgb": {
+                  "blue": 216,
+                  "green": 232,
+                  "red": 157
+                }
+              },
+              {
+                "percentage": 0.31,
+                "rgb": {
+                  "blue": 91,
+                  "green": 200,
+                  "red": 110
+                }
+              }
+            ]
+          },
+          "original_img_height": 360,
+          "original_img_url": "https://pbs.twimg.com/media/HOnPZQiaoAAkNUr.jpg",
+          "original_img_width": 900
+        },
+        "media_key": "3_2083424335478562816"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4la1",
+            "text": "装完 WorkBuddy 的第一个星期，我干了件丢人的事：把上个月的报销单甩给它，打了四个字，帮我整理。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9dcqm",
+            "text": "它整理得挺快。表打开一看，金额那一列有含税的有不含税的，时间格式一半是七月一半是 07-01，还有几张发票它自己判断\"可能重复\"，直接没列进去。我当下的反应是：就这？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bhabf",
+            "text": "后来研究才明白，我当时要求了个寂寞。金额按什么口径、时间用哪种格式、拿不准的那几张怎么办，我都没有清楚的要求。打四个字就等一张能直接报上去的表，我是天真，它是无邪",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5fe2j",
+            "text": "没有要求，它只能猜。而猜的时候一定挑最省事的",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e115b",
+            "text": "说了半天 那WorkBuddy是啥呢？它是腾讯云今年3月上线的AI办公助手，装在你自己的电脑上，能翻你的文件、做表格、写文档，也能连上你的邮箱替你发邮件",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d12a4",
+            "text": "既然它能干这么多事情，你就不能还停在只跟它聊天的阶段。你要把它当成你的牛马，你要管它，它才能给你挤奶。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "582j4",
+            "text": "那牛马怎么管、活怎么交代、交上来的东西凭什么信、怎么让他记住规矩、什么时候才敢撒手，我一步一步教你。装完就放着的、试过一次觉得不行的、每天在用又总觉得没使上劲的，你就给我往下看，一看一个不吱声。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ibkk",
+            "text": "先从你现在怎么用它开始。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dk86r",
+            "text": "第1章 WorkBuddy能干什么、怎么装、第一个活怎么派",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2d512",
+            "text": "比起 Claude Code和Codex ，workbuddy 不需要一些有的没的，没有门槛，直接安装即用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b5pec",
+            "text": "首先官网找到下载页，按你是Windows还是Mac下对应的包，装完打开登录就能用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eud7i",
+            "text": "装的时候有四点注意。第一，只从官网下，第三方安装包别碰。第二，C盘剩不到十个G的，先把安装路径改到别的盘，它跑起来模型缓存和过程文件都占地方。第三，安装路径和以后放活儿的文件夹，都别用中文名。第四，装的时候先把360这类关掉，免得它把人家的模块当病毒杀了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6b248",
+            "text": "钱先不用掏。官网给免费体验版的口径是每月500积分。注册时另外还会到一笔新人积分，先拿这些把这篇里的活试一遍妥妥够。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4020e",
+            "text": "几个栗子：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f7dkb",
+            "text": "桌面乱成一锅粥，让它按类型归位，图片进图片夹、文档进文档夹",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7dnr7",
+            "text": "会议录音甩过去，转文字、提行动项和责任人、生成纪要",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "croeq",
+            "text": "十几个Excel合并成总表，算各部门环比，顺手出一张柱状图",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qota",
+            "text": "一份报告变成5页PPT，配图建议写在备注里",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2iirm",
+            "text": "但是创意的活不能靠它。让它给新品起个名、写条小红书文案，内容规整、正确、却无趣。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1j7fd",
+            "text": "要拿捏分寸的活也别交。一封催供应商回款的邮件，它写得生硬，该软的地方软不下来，该硬的地方又硬不起来。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "flh3n",
+            "text": "规则明确、你自己心里有标准的重复活，才是它的舒适区，交给它 又快又稳。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "25eqd",
+            "text": "装完跑个试试",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "e2lld",
+            "text": "第一步，布置一个工作区。 先在电脑上新建一个文件夹，比如 D:\\试一下，把你要处理的文件复制一份丢进去。是复制，别把原件搬过去。回到WorkBuddy点左上角的新建任务，输入框底下有个选择工作空间，点开选打开本地文件夹，指到刚才那个目录。它就知道去哪儿翻料、把东西存哪儿了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2dg03",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4b502",
+            "text": "第二步，权限保持默认，别急着放开。 工作空间旁边就是默认权限，别动它。默认状态下，它要删你的文件、要跑命令，都会先弹一句问你，啰嗦，但是安全呐。输入框右下那个Auto是模型，也先别管，它会按任务难易自己挑。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "45sv3",
+            "text": "第三步，把要求一次说全。 这样说：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7gosj",
+            "text": "把 D:\\试一下 里的Word文档全部转成PDF，按\"日期-文件名\"重命名，原文件别删别改，转完告诉我一共几份",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6l4dh",
+            "text": "跑的中间它会弹出来问你能不能动某个文件，看清楚再点同意。跑完结果就 在D:\\试一下 文件夹下。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8bejc",
+            "text": "一次跑通你就有感觉了：跟你交代一个新来的人一模一样。指哪打哪，不过你没说的，它就自己擅自做主了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "504bt",
+            "text": "在复制件上擅自做主可还行，但是哪天它擅自动了你正在用的客户表，到时候你就想刀它了。这时候就用到它的几个模式了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9jtj7",
+            "text": "第2章 默认模式、计划、仅问答，什么时候开哪个",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "15ccf",
+            "text": "输入框里有个加号菜单，点开有个模式，展开你会看到一句\"当前为默认模式\"，底下两个开关，计划Plan和仅问答Ask，都是关着的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "frul8",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3ssfb",
+            "text": "两个都不开，就是默认模式。 它直接上手干：读你的文件、改文件、生成文档表格PPT、跑命令，一路做到交货。日常派活就用这个，什么都不用改。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7dshu",
+            "text": "打开计划Plan，它先给方案。 复杂的先把要走的几步列出来给你看，你确认它在继续，觉得不对就让它改。新手必守一条，不要无脑点执行，自己把关，后面会省掉一大堆反工。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "44us4",
+            "text": "打开仅问答Ask，它就动动嘴皮子。 它一个文件都不会碰，写文案、查资料、翻译，给你文字结果。简单问题就用它，省积分，也省得它手欠去动你的文件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "49j3c",
+            "text": "小总结：默认是手快眼快，说完直接上手；计划是想清楚再动的，先给方案等你点头；仅问答是嘴碎的，只说不做。一句口诀，动脑的事先开计划，动手的事默认干。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "chgqd",
+            "text": "权限跟模式分开管。 模式管怎么干活，权限管动手之前要不要问你。输入框底部那个默认权限，保持默认就行，它要删你的文件、要跑命令，都会先弹一句提示，安全度高。如果点开允许完全访问，它就不问了，自己觉得该删删，删错了也不管。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2cgic",
+            "text": "为什么不能图省事一路默认干到底呢？因为往后每一步都建在前一步上面，方案错了后面全得重来。所以最好先开着计划多花五分钟，后面能省你两个小时。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c12vq",
+            "text": "新手记一条：别急着开完全访问。先用默认权限跑上十来趟，每次弹窗都看一眼它要动什么，你慢慢就摸清它哪些判断靠谱、哪些爱自作主张。如果要放开，也别在放着合同、财务、客户资料的那些文件夹里放。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bb0dk",
+            "text": "牛马也得有张桌子。刚才那个 D:\\试一下 就是它的桌子，那这桌子要怎么摆呢？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fkf8a",
+            "text": "第3章 工作空间怎么建、文件怎么放、项目和对话怎么分",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bfk6f",
+            "text": "前面设置的工作空间就是这张桌子，workbuddy只在这个文件夹里翻东西、也只往这里头存。里面有什么，它就只能看见什么。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f52hq",
+            "text": "所以空间里别乱堆。这次用得着的放进去，不相干的别放。你要是把三个版本的报价单一起丢进去，如果不明确告诉它，它大概率不会抓最新的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "820a3",
+            "text": "三个习惯，避掉大部分不可逆事故",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "28kfg",
+            "text": "一件工作对应一个空间。 不要把不同客户、不同项目、不同选题混在一个文件夹里。它的上下文能力再强，也最好不要去污染。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6aqq2",
+            "text": "正式文件先放副本。 尤其是表格、合同、图片库、客户资料。让它处理副本，看结果对不对，再决定要不要迁到正式目录。这一个习惯能避掉一大批改坏了没法退回的事故。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ehqmm",
+            "text": "产物要分层保存。 别只留一个最终版。至少留着原材料、过程稿、公开稿、图片、发布记录和复盘。你以后要复用方法、整理案例、训练自己的技能包，都得靠这些过程材料。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cn8mm",
+            "text": "一套能直接抄的目录",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "53m1g",
+            "text": "不用自己设计，照这个建就行，放D盘：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fqgqd",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1411a",
+            "text": "每个文件夹只负责一件事。整套流程六个动作：建文件夹，放个人资料，接进WorkBuddy，跑通一个任务，把常用要求固化成模板，最后设自动化。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7u2rp",
+            "text": "你不用一天把所有功能学完。先把一套能用的工作台跑通，成就感不就来了么",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2crc2",
+            "text": "干一次就完的用任务，要干几个月的用项目",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "22l4o",
+            "text": "左边那排还有个入口叫项目。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "b37ro",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c6ff3",
+            "text": "点新建项目。必填的只有一个项目名称，限15个字。别的几栏都能空着，但有一栏最好别空，叫指令。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4rvkq",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 20,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "129h7",
+            "text": "指令这栏，写的是你一次性交代清楚的规矩。 填在这儿的话，以后这个项目里每建一个新任务，它自动带着，你不用再讲第二遍。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4tuqq",
+            "text": "举个栗子：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2ho5e",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8mqtf",
+            "text": "第一次不用整全。用着用着，哪里卡，哪里总犯错，回来往指令里补一条就是了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 29,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ekugh",
+            "text": "下面还有三栏，连接器、专家、技能，都写着可选，点加号添加。 配一次这个项目通用，以后建任务不用再挑。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 19,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "57o9c",
+            "text": "懒得自己想的，指令右上角有个选择模板。 项目页上也直接列着五个现成的：产品需求全流程、市场调研与竞品分析、团队知识库、项目交付、Bug跟踪测试验收。挑一个，几栏自动给你填好，你再照自己的活改。有一点注意，弹窗底下那行小字写着切换模版会覆盖当前编辑内容，所以先挑模板再写你自己的话。\n这个是直接选择团队知识库",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "aps2g",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eon6h",
+            "text": "接下来谈谈钱。为啥跑几轮，积分用的哗哗掉。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c4urd",
+            "text": "第4章 积分怎么算、一次任务烧多少、怎么省、各档多少钱",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ekqcr",
+            "text": "WorkBuddy要花积分，每做一次任务都按积分结算，免费体验版每月500积分，我注册的时候还给2000。但是用起来的时候积分确实烧得太快啦。怎么烧的的呢，往下看",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b45l8",
+            "text": "先看模型。刚进去一般是自动模型，它按任务难易自动派活给不同的大模型。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 58
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "94snt",
+            "text": "你也能自己指定，列表里是国产主流那几个：DeepSeek、GLM、Kimi、MiniMax。现在Hy3限时免费。在8🈷5号之前可以无限用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "93m6m",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ak3ci",
+            "text": "重点看模型名后面那个倍数，那是积分消耗倍数。自动是1倍，看到0.57X就是打对折的意思。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f93ed",
+            "text": "真正烧掉的其实是token。积分只是用于便于理解的。\n我举个栗子 ，我让它给我出了一份公众号运营优化方案，auto 消耗了60多个积分",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cl70c",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2ojod",
+            "text": "所以大概就对消耗积分有个印象。怎样省积分就以下6条。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ab5cf",
+            "text": "简单问题别开Plan，用Ask就行",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5tfkr",
+            "text": "想好了再发，别拿它当草稿本一句句说",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ad8ni",
+            "text": "日常挑倍数低的，复杂推理再上贵的",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1lnnn",
+            "text": "大任务拆成小步逐个跑，别让一次任务又臭又长",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bfa8f",
+            "text": "重复的活设成定时任务，别手动一遍遍触发",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5knd5",
+            "text": "重活新开对话。一个对话聊到几十轮，前面那些话每次都要重算一遍",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a6mlf",
+            "text": "但是方向没定就让它直接动手，最耗，所以需求方向永远是第一位。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8an9j",
+            "text": "再说价格。2026年7月起个人版分成四档：体验版免费，每月500积分；标准版99元一个月，实得4000（2000基础加2000限时加赠）；高级版199元，实得9000（4000加5000）；旗舰版999元，实得50000（20000加30000）。连续包月7折，年付再叠8折。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "hdcb",
+            "text": "还有三条隐藏规则：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "eu8fj",
+            "text": "积分当月有效，不结转。 这个月没用完的，下个月不认。加赠那部分更短，自到账日起1个月内有效。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "e1btq",
+            "text": "扣减按到期时间排队。 系统优先扣最先到期的那批；到期时间一样，先扣基础积分，再扣赠送的。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fpje4",
+            "text": "订阅一到期，账户额度直接掉回体验版那500。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "raaj",
+            "text": "所以别囤积分，也别为了\"攒着以后大干一场\"续费。如果有大把积分，使劲蹬吧你就。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cjjin",
+            "text": "模型选对了、积分也会用了，可它交上来的活你不满意？可能是你指令不对。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4j90m",
+            "text": "第5章 一句指令要交代的六件事，附10条能直接抄的",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5dm5f",
+            "text": "你给的活越模糊，它交付的就越离谱。\n先看差别有多大。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3jukk",
+            "text": "反面，帮我把上次的会议纪要整理一下。它只能给你个通用糊弄版。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dm0q9",
+            "text": "正面，把 D:/会议纪要/0320产品评审.docx 里的内容整理成清单，每个议题给结论、对应责任人和截止日期，有争议的标出来，用表格输出。它能一步到位就给你个完美交付。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "euki6",
+            "text": "“我要有这功夫 我还用你？”这也是我开始的想法，但你算另一笔账：第一句话发出去，三十秒它给你一坨东西，你花二十分钟看完发现没法用，重发，再花二十分钟。第二句话写九十秒，一次过。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "hp1",
+            "text": "四十分钟，九十秒。咋想是不是咋划算。来吧，教你咋写出来。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eo1ft",
+            "text": "一句能执行的活，要交代六件事",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ffllf",
+            "text": "你把活交给一个新来的同事，会说清楚材料在哪、要什么成品、哪些底线不能碰、大概按什么步骤、做完放哪、怎么算做好了。所以你就把它当成你新同事就得了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "43eqm",
+            "text": "官方给了一个公式，做什么+有什么+怎么样。这个公式没错，但太粗，我把它拆细成六个字段。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4obsj",
+            "text": "来拿件真事演一遍。每个月报销的发票，散在几个邮箱里，一张张下载、一张张登记时间和金额，然后整理，想想这付出的时间和精力。怎么做？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "kob5",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2id9o",
+            "text": "六行，九十秒写完。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dko20",
+            "text": "但是你要是漏了某一个字段，它不会空着，它会自己补上，咋补的呢",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "clk8a",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cu5ev",
+            "text": "这不只是WorkBuddy的问题。你想想你带过的实习生：交代活的时候漏了验收标准，他是不是也会糊弄一下就完事了。但是实习生会问\"老板你说的格式是什么意思\"，AI不会。它直接填，而且用最省事的答案。管理学家管这个叫权责缺口：执行权交出去了，验收权没跟上。权力出得去，责任回不来。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6jn2q",
+            "text": "重要的是验收，它该怎么写",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8ig5m",
+            "text": "验收这栏，如果写成\"做完发我\"。等于没写。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fjehm",
+            "text": "验收要写成它必须给你交出来的东西，我固定用三句：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5lanr",
+            "text": "第一句，总数能回算。 首页那个总数，我能从原始表里一步步加回来。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "atfm4",
+            "text": "第二句，口径一致。 从头到尾用同一把尺子量。比如算销售额，这个月按下单那天算，下个月就不能改成按收到钱那天算；金额说了按含税，就别有几行填成不含税。尺子一换，两个月的数摆一块儿就没法比了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "48th0",
+            "text": "第三句，每个结论有来源。 它说某个渠道下滑明显，后面得挂上是从哪张表哪一列看出来的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6o8fl",
+            "text": "直接拿去复制：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "273b1",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "f05ku",
+            "text": "小技巧：验收别在原来那个窗口问。 它交完活，你在同一个对话里问一句有没有问题，它大概率说没问题，因为它是顺着自己刚才的思路又看了一遍，等于自己给自己判卷。最好新开一个任务，扔给它三样东西：原始材料、它做出来那份成品、你那三句验收标准，让它当个刚来的人挑毛病。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "319u7",
+            "text": "10条能直接抄的指令",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4tpg3",
+            "text": "下面这10条全按六个字段写全了，路径改成你自己的就能直接发。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "divgn",
+            "text": "一、批量转PDF",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4mqi8",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1g3r6",
+            "text": "二、长文档提摘要",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "e2sgv",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2ogce",
+            "text": "三、会议录音转纪要",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1r7rs",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "294tb",
+            "text": "四、多个Excel合成总表",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "e3onl",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "b1n6i",
+            "text": "五、客户名单去重清洗",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 17,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cald7",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "aij00",
+            "text": "六、台账生成周报",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 18,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2h15",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9dc7j",
+            "text": "七、报告转PPT",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 19,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6pvc0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ferdu",
+            "text": "八、桌面文件归位",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 20,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "euh8p",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bjvn3",
+            "text": "九、清理重复文件",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 21,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8bf3c",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5d81k",
+            "text": "十、每天自动出日报",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 22,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5egmv",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fh31t",
+            "text": "再补三个小动作，都是立竿见影的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "409kb",
+            "text": "给它一个身份。 比如你是一位在投行干了10年的财务分析师，按最高标准分析这份财报。加这一句，它立刻专业一档。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5ctnd",
+            "text": "给它一个样本。 把你满意的范例甩过去说照这个来，比你描述半天都管用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "32mht",
+            "text": "一次只干一件事。 别在一个对话里又让它写周报又让它做PPT还让它查竞品。它会串味，也更费积分。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7lvjk",
+            "text": "这套下来，齐活。但你不会想每开一个新对话，就把自己那些老规矩重讲一遍。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "24lni",
+            "text": "第6章 你的规矩该写在哪儿",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d7dk7",
+            "text": "这次说清楚了要简体中文、小标题别套引号、字数控制住，下次开个新对话，又要从头再说一遍。烦死。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7q52e",
+            "text": "先别急着去找记忆功能。就拿\"一律简体中文\"这句话说：你在对话框里说，它这一次听；写进项目的指令栏，这个项目以后每个任务都听；写进记忆，换哪个项目它都听。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e4pql",
+            "text": "先按这条规矩管几个项目、管多久来选",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 23,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "77v2h",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c81c1",
+            "text": "它记的东西最后都落成文件：第一层云端记忆是服务器给你生成的画像，每次对话开头自动带上，不用你管；第二层用户级记忆在 ~/.workbuddy/MEMORY.md 这个文件里，想手动增删改，直接打开它改；第三层工作空间记忆在工作空间的 .workbuddy/memory/ 目录里，装的是每日日志和项目笔记。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "43ld5",
+            "text": "牛马是管明白了。接下来该给他配家伙、配帮手了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fjoou",
+            "text": "第7章 技能、专家团、连接器、助理，这四样怎么用",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 12,
+                "offset": 164,
+                "style": "Bold"
+              }
+            ],
+            "key": "26ub2",
+            "text": "技能：把一件事的完整流程打包好。 装好一个技能，你一句话它就执行到底。零成本里最值得先装的四个：Agent Browser（让它自己开网页、点击、截图、读信息）、办公文档四件套（Word/Excel/PPT/PDF一把梭）、Local Whisper（本地语音转文字，不用API Key）、Web Search（联网搜索）。\n 专家和专家团：区别很大。 专家是封装好的垂直角色，覆盖内容创作、数据分析、电商、抖音、销售、品牌、小红书、招聘。你不知道提示词怎么写的时候，先找对应的专家，方法和视角都完美定好。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5jm7l",
+            "text": "专家这个非常好用，和普通的对话有啥区别呢？比方说这个小红书运营专家",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 24,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "73qsk",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bt5f2",
+            "text": "我用小红书运营专家 写出的笔记，段落清晰 ，字数适中，还配有表情，违禁词也筛选 整体可以打到80分左右",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 25,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7k4l0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 26,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "299bb",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ehqg5",
+            "text": "但是我用普通对话以同样的提示词写一篇笔记，内容和风格就失去了小红书的风格 整体只能算及格",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 27,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2m1rd",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 28,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "de606",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5i0nm",
+            "text": "专家有专属的规则和更专业的设置方向，所以专家用起来真是爽到飞起啊",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1ajo9",
+            "text": "而且还有美团生活助手，可以领取满40减20的外卖券，而且还是可以设置每天自动领取， 感觉这里以后都能变成一个流量渠道入口",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 29,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6gecf",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8oth8",
+            "text": "专家团呢是一个agent团队，一句话下去，几个角色分工干。它比单用技能强在两点：一是审阅，每件事在单独窗口做，做完由另一个不带历史上下文的agent来审，判断更中立；二是并行，两件事能同时跑，不用排队。你拉一整个团队来办事肯定 积分哗哗消耗，如果是小事就别用了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "c9l0o",
+            "text": "连接器：不光是把腾讯自己的生态打通。 QQ邮箱、腾讯文档、腾讯乐享、腾讯会议、腾讯网盘、TAPD，还有飞书，网易邮箱、百度网盘、金山文档 应有尽有啊，这个就可太方便了，这个你必须用起来，用了你就知道有多爽了",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "sq4r",
+            "text": "配置也很简单，以QQ邮箱为例：连接器页面找到卡片点加号，用QQ邮箱App扫码授权，手机确认，卡片旁边出现绿点就通了。通了之后这些指令直接能发：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1t2eh",
+            "text": "找出最近一个月含报价单附件的邮件",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "85an6",
+            "text": "把跟XX项目相关的邮件线程汇总一下",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a7666",
+            "text": "找到那份季度规划文档，提炼核心要点",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "51d92",
+            "text": "读取本周工作台账，生成周报，保存回腾讯文档（这条叫闭环回存，结果自动传回云端，不用你手动复制）",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ajqtv",
+            "text": "这个培训录音很重要，去腾讯会议里取文字转写，把重点提炼成纪要",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "43trj",
+            "text": "比方说你用腾讯会议开完会，回到WorkBuddy说一句，它自动去会议里取转写、提炼纪要，老方便了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qhul",
+            "text": "我自己最受用的就是这个飞书连接器了。飞书里有着非常多我自己的各种文章纪要，我就让它用MCP把飞书和本地写的的地方一并连上。写完一句话，它把文章传到飞书，还顺手排好版，排出来相当好看。每一个能节省的麻烦，都是愿意付费的支点啊。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "auhsu",
+            "text": "这个思路能推广到任何你常用的协作平台。哪个是你放东西的主阵地，就把哪个连进来，把你之前的生态全部纳进来。老嗨了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "b3s99",
+            "text": "助理：把它接到你本来就在用的地方。 左侧还有个入口叫助理，很多人以为是再造一个聊天机器人，其实它是把WorkBuddy的能力接到你平时用的平台里。当前版本能接的有微信小程序、微信助理、微信客服号、企微助理、QQ机器人、飞书等等。接好之后你在手机上就能直接给它派活，人在外面，活在家里的电脑上跑。这个本质就是个远程，要多方便有多方便。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "41g14",
+            "text": "用过以上，我只能说：绝！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fvg86",
+            "text": "装备家伙都凑齐了。但说到底还是要你去push一步它走一步。有没有办法让它自己按点上班？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6ronj",
+            "text": "第8章 定时任务怎么设，什么时候才该交给它自动跑",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "q1gl",
+            "text": "重复、规则明确、不用你实时盯的活，设成定时任务，它自己跑。进自动化页面点添加，填名称、工作空间、提示词、选模型和技能、设定时规则就行，还能开推送到微信小程序。常用的几个：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9f8v8",
+            "text": "每天9点读取前一日数据，生成日报，企业微信发给指定同事",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3liro",
+            "text": "每周五18点，把D盘核心数据备份到移动硬盘，生成备份记录",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "85o92",
+            "text": "每周一10点抓竞品官网的产品动态和价格，整理成表发我邮箱",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "18p9k",
+            "text": "工作日每天8:30，拉天气、日程、待办，生成晨间播报推到微信",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fuuac",
+            "text": "做外贸的最爱建这类流程。每天的销售晨报、每周的竞品价格变动，全交给定时任务，人只管看结果。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "com47",
+            "text": "但别第一天就设定时。 同一套流程，手动成功跑过两三次，再交给定时任务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b5hlg",
+            "text": "手动跑顺了再撒手，这牛马就算带出来了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dfnvc",
+            "text": "这些你现在都懂了。来直接动手走一遍。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7lg8t",
+            "text": "第9章 现在动手：六字段自测和七天练法",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ghin",
+            "text": "打开一个空白对话框。拿手边最烦的重复活，试着填一遍六字段。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dt1j8",
+            "text": "输入、目标、边界、过程、输出、验收。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a03nl",
+            "text": "哪个不知道咋写就是你还没想清楚。材料在哪、成品什么样、什么算做好了，这三个问题你得想好答上来。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bmste",
+            "text": "没装过WorkBuddy的，今天跑通这三步：官网下载装好，从上面那10条指令里挑一条你每周都要重复的活，按六个字段写清楚，跑一遍。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5uf11",
+            "text": "跑通了想练熟，下面这七天走起。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "p2ig",
+            "text": "第一到第三天，跑通三件小事。 别挑难的。整理十张截图、把一篇文章总结成三百字、把一份会议记录变成一张待办清单。每件事都按六个字段写，写完发，收到结果就完事。这三天别指望产出什么，主打一个练习。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5k8ia",
+            "text": "第四到第七天，只练把活说清楚。 每天挑一件，只练目标、边界、输出、验收这四个。产物漂不漂亮无所谓，主要是看你能不能说清楚。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fvlld",
+            "text": "就跟你带过实习生、交代过同事、验收过外包一样。只是换成了软件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a2qq3",
+            "text": "你身边要是有人装完就放着，或者试了一次就骂它不行，就把这篇转给他。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 15,
+                  "text": "songsong",
+                  "toIndex": 24
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d33i0",
+            "text": "我是宋宋，持续分享干货 。X:@songsong",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "entityKey": "3051b439-e1a4-4164-86d7-b0638bfc4e3c",
+                "markdown": "```\n验收标准：\n首页每个数我要能从原始表里一步步加回来；\n同比环比用同一套算法；\n每个结论后面注明是从哪张表哪一列看出来的；\n证据不够的写待核实，别替我推测。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "entityKey": "7e27711e-4437-4afb-882b-02afbb7d7da4",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083423357492662272"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "19",
+            "value": {
+              "data": {
+                "entityKey": "4f001f31-dcd2-4faa-b554-2f8d90be6376",
+                "markdown": "```\n根据 D:\\交付\\季度报告.docx 做一份5页PPT，科技风。\n每页只讲一件事，数据全部引用报告里的原数别自己造。\n配图建议写在备注里，别插占位图。\n存成 D:\\交付\\季度汇报.pptx。\n做完把每页对应报告的哪一节列给我。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "23",
+            "value": {
+              "data": {
+                "entityKey": "2fb3a880-c901-4d9a-9c9d-d1a3e511d61a",
+                "markdown": "| 你要说的话                   | 你怎么写进去              | 管到哪儿             |\n| ----------------------- | ------------------- | ---------------- |\n| 这次任务的具体要求，文件在哪、存哪、几点前要  | 就在指令里说，第5章六件事       | 说完就完，下个任务不带      |\n| 这个项目通用的规矩，客户的禁忌词、这个号的语气 | 新建项目时填指令栏，第3章       | 这个项目里新建的每个任务自动带着 |\n| 你个人的老毛病，简体中文、字数、不许套引号   | 对话里说一句\"记住：xxx\"，它自己存 | 换哪个项目都跟着你        |\n| 这个项目干到哪儿了、上次的结论         | 它自动记，你也能打开文件自己补     | 只在这个空间，方便跨会话接着干  |"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "ab299c26-265e-4d23-977b-55f27c231efa",
+                "mediaItems": [
+                  {
+                    "localMediaId": "5",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083422430165680128"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "entityKey": "13e3b44f-dbe5-4dc2-808b-589c46d81fa1",
+                "markdown": "```\n读 D:\\会议\\0320产品评审.m4a，转成文字再提炼成纪要。\n我要每个议题的结论、责任人、截止日期，有争议的单独标出来。\n原始录音别动，听不清的地方写待确认，别替我猜。\n结果存成 D:\\会议\\0320纪要.docx。\n做完告诉我一共几个议题、几处待确认。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "entityKey": "776bf0e2-17c8-4292-8b95-d5d9b1b2221f",
+                "markdown": "| 你漏了哪个 | 它就自己决定          |\n| ----- | --------------- |\n| 输入    | 自己去翻文件夹，翻到哪些算哪些 |\n| 目标    | 按最省事的方式理解你要什么   |\n| 边界    | 顺手把原文件也改了       |\n| 过程    | 跳过核对，直接给你结论     |\n| 输出    | 存在一个你等会儿找不到的地方  |\n| 验收    | 告诉你做完了，你没法反驳    |"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "entityKey": "8911c276-469f-46fc-aba4-6635b942680f",
+                "mediaItems": [
+                  {
+                    "localMediaId": "9",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083423674657538048"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "22",
+            "value": {
+              "data": {
+                "entityKey": "dab5d5bc-93c3-4d90-b8ad-302dc230bee5",
+                "markdown": "```\n每天早上9点读 D:\\数据\\前一日.xlsx，生成一页日报，通过企业微信发给我。\n当天文件要是没有，直接告诉我没有，别拿前一天的顶上。\n日报同时存一份到 D:\\日报，文件名带日期。\n正文第一行写清数据取自哪个文件。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "26",
+            "value": {
+              "data": {
+                "entityKey": "6150e995-36ea-46a8-bca4-102e53a07523",
+                "mediaItems": [
+                  {
+                    "localMediaId": "12",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083740103034503169"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "entityKey": "5c0d0246-504d-4e38-9d64-32ef8abbc89d",
+                "markdown": "```\n把 D:\\资料 里所有Word文档转成PDF，文件名按\"日期-原文件名\"重命名。\n原Word一份都别删别改，加密打不开的单独列出来别偷偷跳过。\nPDF全存到 D:\\资料\\PDF。\n做完告诉我转了几份、几份没转成、分别卡在哪。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "24",
+            "value": {
+              "data": {
+                "entityKey": "60bf7b4b-5d80-4189-903a-bc2ea6767cbe",
+                "mediaItems": [
+                  {
+                    "localMediaId": "8",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083739944653340672"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "entityKey": "256b6d63-4b88-4d65-852c-68d6545d3c1a",
+                "markdown": "```\n把 D:\\销售\\上半年 里所有Excel合成一张总表，按部门算环比，出一张柱状图。\n原表别改别删，金额一律按含税口径，缺月份的行单独列出来别替我补。\n结果存成 D:\\销售\\上半年汇总.xlsx，图放第二个工作表\n。做完告诉我合了几个文件、总共多少行，总额跟原表加起来对不对得上。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "entityKey": "421ca77f-5c62-4c59-a68b-4b7105ebc080",
+                "markdown": "```\n这个项目是给XX客户做小红书内容。\n一律简体中文，语气口语化，每篇不超过800字。\n客户的品牌禁忌词在资料库那份文档里，动笔前先看一眼。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "entityKey": "632f7373-703a-4c92-bcab-adf8f173c394",
+                "markdown": "| 字段  | 我怎么写的                                  |\n| --- | -------------------------------------- |\n| 输入  | 我QQ邮箱里所有带发票附件的邮件，只取上个月的                |\n| 目标  | 每张发票的开票日期和金额，整理成一张Excel                |\n| 边界  | 原始邮件和附件不要删不要改，金额栏统一按含税填，判断不了的单独列一行标待确认 |\n| 过程  | 先把附件全下载到财务文件夹，再逐张读取，最后汇总               |\n| 输出  | 存到我建的那个财务专用文件夹，文件名带月份                  |\n| 验收  | 张数跟邮件数对得上，金额合计能加回去，待确认的单独列出来           |"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "21",
+            "value": {
+              "data": {
+                "entityKey": "d6c88c89-ceac-4628-a900-34516a5d214e",
+                "markdown": "```\n扫一遍 D:\\照片，找出内容重复的文件，每组只保留修改时间最新的那份。\n先别删，把打算删的列成清单存到 D:\\照片\\重复清单.xlsx，我看过点头你再动手。\n做完告诉我几组重复、删完能省多少空间。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "entityKey": "66177b73-b337-4fc2-aa45-ca5a9d716c01",
+                "mediaItems": [
+                  {
+                    "localMediaId": "5",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083423041087008769"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "7aae27fc-1856-41d0-a748-9d6e1b0ebe2e",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083420926553767936"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {
+                "entityKey": "d489db40-b9fc-4160-9039-a7328c254170",
+                "markdown": "```\n读 D:\\客户\\名单.xlsx，按手机号去重，重复的保留最后更新的那条，再按手机号排序。\n原表别覆盖，删掉的行单独存一张清洗记录，手机号位数不对的原样留着别替我补位。\n结果存成 D:\\客户\\名单-清洗后.xlsx。\n做完告诉我原来多少行、删了多少行、剩多少行。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "25",
+            "value": {
+              "data": {
+                "entityKey": "2a97ce47-783f-4ec1-b276-e584c5b06414",
+                "mediaItems": [
+                  {
+                    "localMediaId": "10",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083740069089951744"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "entityKey": "82a9848f-c121-4001-83fa-878deffaa064",
+                "markdown": "```\n读 D:\\资料\\行业报告.pdf，提炼成一页摘要。\n我要核心结论、支撑数据、每条结论对应原文第几页。\n原文没写的别推测，拿不准的标待核实。\n存成 D:\\资料\\行业报告-摘要.md。\n做完告诉我摘了几条结论、几条标了待核实。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "336af454-7380-41a1-b274-d07b2cb331b8",
+                "mediaItems": [
+                  {
+                    "localMediaId": "1",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083419941328580608"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "20",
+            "value": {
+              "data": {
+                "entityKey": "1773c985-b331-41a4-b179-a366842bb6b3",
+                "markdown": "```\n把我桌面的文件按类型归位，图片进图片夹，文档进文档夹，安装包进安装包夹。\n快捷方式和我正在用的那几个文件夹别动，认不出类型的丢进待归类，别硬塞。\n做完告诉我挪了多少个、待归类几个。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "27",
+            "value": {
+              "data": {
+                "entityKey": "64b3d923-e9f0-42c7-bbee-8106e65cb301",
+                "mediaItems": [
+                  {
+                    "localMediaId": "14",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083740279610478592"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "5859b216-58e2-47f4-853d-b9dc7706811b",
+                "markdown": "```\nD:\\我的个人工作台\n├─ 00-收件箱        暂时不知道放哪的先丢这儿\n├─ 01-我的资料      你的身份、目标用户、风格、工作规则\n├─ 02-进行中项目\n├─ 03-内容生产\n├─ 04-日常办公\n├─ 05-交付成果\n└─ 06-归档\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "18",
+            "value": {
+              "data": {
+                "entityKey": "1524e8a3-9e29-4347-a501-53bfce3b7cd2",
+                "markdown": "```\n读 D:\\台账\\本月.xlsx，出一份三页的周报，商务风，带图表，导出PDF。\n台账原文件别动，数字直接引用别自己推算，没有台账数据支持的结论一句都别写。\n存到 D:\\交付\\周报.pdf。\n做完把每个结论对应台账的哪几行列给我。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f237.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "29",
+            "value": {
+              "data": {
+                "entityKey": "62bbf7cb-c929-42cc-adb8-5365489b986e",
+                "mediaItems": [
+                  {
+                    "localMediaId": "18",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083740462159106048"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "8a98b5f6-6585-4042-916e-b3416b9bfa91",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083422269385388032"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "28",
+            "value": {
+              "data": {
+                "entityKey": "efbeb11f-5870-4c56-b910-1b5a2e158b3f",
+                "mediaItems": [
+                  {
+                    "localMediaId": "16",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083740325194219520"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOrulWWbgAEKAAIUCqYG9NWABAAA",
+          "media_id": "2083740103034503169",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.17,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 31,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 4.57,
+                  "rgb": {
+                    "blue": 132,
+                    "green": 131,
+                    "red": 132
+                  }
+                }
+              ]
+            },
+            "original_img_height": 855,
+            "original_img_url": "https://pbs.twimg.com/media/HOrulWWbgAELFI1.png",
+            "original_img_width": 588
+          },
+          "media_key": "3_2083740103034503169"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOnOyyyaAAAKAAIUCqYG9NWABAAA",
+          "media_id": "2083423674657538048",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.04,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 31,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 4.08,
+                  "rgb": {
+                    "blue": 109,
+                    "green": 109,
+                    "red": 109
+                  }
+                },
+                {
+                  "percentage": 0.47,
+                  "rgb": {
+                    "blue": 193,
+                    "green": 193,
+                    "red": 193
+                  }
+                },
+                {
+                  "percentage": 0.4,
+                  "rgb": {
+                    "blue": 174,
+                    "green": 166,
+                    "red": 75
+                  }
+                }
+              ]
+            },
+            "original_img_height": 152,
+            "original_img_url": "https://pbs.twimg.com/media/HOnOyyyaAAA6FMx.png",
+            "original_img_width": 552
+          },
+          "media_key": "3_2083423674657538048"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOnNqWsbQAAKAAIUCqYG9NWABAAA",
+          "media_id": "2083422430165680128",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.09,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 31,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 1.78,
+                  "rgb": {
+                    "blue": 113,
+                    "green": 113,
+                    "red": 113
+                  }
+                },
+                {
+                  "percentage": 0.13,
+                  "rgb": {
+                    "blue": 194,
+                    "green": 194,
+                    "red": 194
+                  }
+                }
+              ]
+            },
+            "original_img_height": 586,
+            "original_img_url": "https://pbs.twimg.com/media/HOnNqWsbQAAAuQL.png",
+            "original_img_width": 692
+          },
+          "media_key": "3_2083422430165680128"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOruyR9bwAAKAAIUCqYG9NWABAAA",
+          "media_id": "2083740325194219520",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.45,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 31,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 4.51,
+                  "rgb": {
+                    "blue": 127,
+                    "green": 127,
+                    "red": 126
+                  }
+                }
+              ]
+            },
+            "original_img_height": 921,
+            "original_img_url": "https://pbs.twimg.com/media/HOruyR9bwAAGziF.jpg",
+            "original_img_width": 814
+          },
+          "media_key": "3_2083740325194219520"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOnLZfDa8AAKAAIUCqYG9NWABAAA",
+          "media_id": "2083419941328580608",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.79,
+                  "rgb": {
+                    "blue": 21,
+                    "green": 21,
+                    "red": 21
+                  }
+                },
+                {
+                  "percentage": 2.13,
+                  "rgb": {
+                    "blue": 115,
+                    "green": 117,
+                    "red": 118
+                  }
+                },
+                {
+                  "percentage": 0.49,
+                  "rgb": {
+                    "blue": 35,
+                    "green": 33,
+                    "red": 80
+                  }
+                },
+                {
+                  "percentage": 0.39,
+                  "rgb": {
+                    "blue": 51,
+                    "green": 54,
+                    "red": 38
+                  }
+                },
+                {
+                  "percentage": 0.12,
+                  "rgb": {
+                    "blue": 142,
+                    "green": 177,
+                    "red": 83
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HOnLZfDa8AAhWVl.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2083419941328580608"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOrucIVawAAKAAIUCqYG9NWABAAA",
+          "media_id": "2083739944653340672",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 84.54,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 31,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 8.52,
+                  "rgb": {
+                    "blue": 233,
+                    "green": 233,
+                    "red": 233
+                  }
+                },
+                {
+                  "percentage": 6.57,
+                  "rgb": {
+                    "blue": 107,
+                    "green": 107,
+                    "red": 107
+                  }
+                },
+                {
+                  "percentage": 0.51,
+                  "rgb": {
+                    "blue": 135,
+                    "green": 146,
+                    "red": 215
+                  }
+                },
+                {
+                  "percentage": 0.26,
+                  "rgb": {
+                    "blue": 151,
+                    "green": 174,
+                    "red": 234
+                  }
+                }
+              ]
+            },
+            "original_img_height": 533,
+            "original_img_url": "https://pbs.twimg.com/media/HOrucIVawAAri4A.png",
+            "original_img_width": 526
+          },
+          "media_key": "3_2083739944653340672"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOnNg/vasAAKAAIUCqYG9NWABAAA",
+          "media_id": "2083422269385388032",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.9,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 31,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 1.96,
+                  "rgb": {
+                    "blue": 136,
+                    "green": 136,
+                    "red": 136
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HOnNg_vasAAD91K.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2083422269385388032"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOru6QMaEAAKAAIUCqYG9NWABAAA",
+          "media_id": "2083740462159106048",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 86.9,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 31,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 7.53,
+                  "rgb": {
+                    "blue": 233,
+                    "green": 233,
+                    "red": 233
+                  }
+                },
+                {
+                  "percentage": 5.07,
+                  "rgb": {
+                    "blue": 115,
+                    "green": 115,
+                    "red": 115
+                  }
+                },
+                {
+                  "percentage": 0.28,
+                  "rgb": {
+                    "blue": 36,
+                    "green": 200,
+                    "red": 242
+                  }
+                },
+                {
+                  "percentage": 0.2,
+                  "rgb": {
+                    "blue": 169,
+                    "green": 218,
+                    "red": 236
+                  }
+                }
+              ]
+            },
+            "original_img_height": 546,
+            "original_img_url": "https://pbs.twimg.com/media/HOru6QMaEAAdy9Y.png",
+            "original_img_width": 530
+          },
+          "media_key": "3_2083740462159106048"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOrujX5awAAKAAIUCqYG9NWABAAA",
+          "media_id": "2083740069089951744",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.72,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 31,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 6.52,
+                  "rgb": {
+                    "blue": 111,
+                    "green": 111,
+                    "red": 111
+                  }
+                },
+                {
+                  "percentage": 0.36,
+                  "rgb": {
+                    "blue": 204,
+                    "green": 204,
+                    "red": 204
+                  }
+                },
+                {
+                  "percentage": 0.17,
+                  "rgb": {
+                    "blue": 120,
+                    "green": 79,
+                    "red": 50
+                  }
+                }
+              ]
+            },
+            "original_img_height": 242,
+            "original_img_url": "https://pbs.twimg.com/media/HOrujX5awAAL9a9.png",
+            "original_img_width": 831
+          },
+          "media_key": "3_2083740069089951744"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOnON6ja8AEKAAIUCqYG9NWABAAA",
+          "media_id": "2083423041087008769",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 93.17,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 31,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 6.05,
+                  "rgb": {
+                    "blue": 121,
+                    "green": 121,
+                    "red": 121
+                  }
+                },
+                {
+                  "percentage": 0.28,
+                  "rgb": {
+                    "blue": 197,
+                    "green": 197,
+                    "red": 197
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 233,
+                    "green": 190,
+                    "red": 139
+                  }
+                }
+              ]
+            },
+            "original_img_height": 567,
+            "original_img_url": "https://pbs.twimg.com/media/HOnON6ja8AECJuD.png",
+            "original_img_width": 651
+          },
+          "media_key": "3_2083423041087008769"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOnOgVQaEAAKAAIUCqYG9NWABAAA",
+          "media_id": "2083423357492662272",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 91.52,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 31,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 5.95,
+                  "rgb": {
+                    "blue": 118,
+                    "green": 118,
+                    "red": 118
+                  }
+                },
+                {
+                  "percentage": 0.64,
+                  "rgb": {
+                    "blue": 110,
+                    "green": 71,
+                    "red": 30
+                  }
+                },
+                {
+                  "percentage": 0.57,
+                  "rgb": {
+                    "blue": 25,
+                    "green": 25,
+                    "red": 71
+                  }
+                },
+                {
+                  "percentage": 0.54,
+                  "rgb": {
+                    "blue": 195,
+                    "green": 195,
+                    "red": 195
+                  }
+                }
+              ]
+            },
+            "original_img_height": 374,
+            "original_img_url": "https://pbs.twimg.com/media/HOnOgVQaEAAhE7_.png",
+            "original_img_width": 288
+          },
+          "media_key": "3_2083423357492662272"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOnMS1TaQAAKAAIUCqYG9NWABAAA",
+          "media_id": "2083420926553767936",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.17,
+                  "rgb": {
+                    "blue": 22,
+                    "green": 22,
+                    "red": 22
+                  }
+                },
+                {
+                  "percentage": 2.15,
+                  "rgb": {
+                    "blue": 118,
+                    "green": 118,
+                    "red": 118
+                  }
+                },
+                {
+                  "percentage": 0.33,
+                  "rgb": {
+                    "blue": 37,
+                    "green": 35,
+                    "red": 81
+                  }
+                },
+                {
+                  "percentage": 0.13,
+                  "rgb": {
+                    "blue": 57,
+                    "green": 64,
+                    "red": 27
+                  }
+                },
+                {
+                  "percentage": 0.12,
+                  "rgb": {
+                    "blue": 142,
+                    "green": 177,
+                    "red": 83
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HOnMS1TaQAAIokV.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2083420926553767936"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOruvoJbEAAKAAIUCqYG9NWABAAA",
+          "media_id": "2083740279610478592",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 93.95,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 31,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 5.53,
+                  "rgb": {
+                    "blue": 118,
+                    "green": 118,
+                    "red": 118
+                  }
+                },
+                {
+                  "percentage": 0.26,
+                  "rgb": {
+                    "blue": 207,
+                    "green": 207,
+                    "red": 207
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 139,
+                    "green": 73,
+                    "red": 38
+                  }
+                }
+              ]
+            },
+            "original_img_height": 253,
+            "original_img_url": "https://pbs.twimg.com/media/HOruvoJbEAA5G_L.png",
+            "original_img_width": 890
+          },
+          "media_key": "3_2083740279610478592"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

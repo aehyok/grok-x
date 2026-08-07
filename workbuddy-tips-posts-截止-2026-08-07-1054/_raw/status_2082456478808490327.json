@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/joshesye/status/2082456478808490327",
+    "id": "2082456478808490327",
+    "text": "国内现在吹Workbuddy ，政务推，办公使用\n\n做培训的赚得盆满钵满。\n\n我也试着去用了几天，讲真：\n\n这一套体系的亮点是内置的专家模式+skill\n\n以及对小白用户的低门槛使用场景：上传表格做数据分析，日报，周报，文档撰写。\n\n真实感觉，确实不太行，完全不过过codex和claude。\n\n把我的写作skills给他，能写出100%AI生成的，再改也是疑是AI生成。\n\n但是人家真的就是国内能火，小白能用上，现在公众号写Claude/codex都会限流。",
+    "raw_text": {
+      "text": "国内现在吹Workbuddy ，政务推，办公使用\n\n做培训的赚得盆满钵满。\n\n我也试着去用了几天，讲真：\n\n这一套体系的亮点是内置的专家模式+skill\n\n以及对小白用户的低门槛使用场景：上传表格做数据分析，日报，周报，文档撰写。\n\n真实感觉，确实不太行，完全不过过codex和claude。\n\n把我的写作skills给他，能写出100%AI生成的，再改也是疑是AI生成。\n\n但是人家真的就是国内能火，小白能用上，现在公众号写Claude/codex都会限流。",
+      "display_text_range": [
+        0,
+        230
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            147,
+            170
+          ],
+          "id": "2082455397101674496",
+          "display": "pic.x.com/r5BcOC24sb",
+          "original": "https://t.co/r5BcOC24sb",
+          "replacement": "https://x.com/joshesye/status/2082456478808490327/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            147,
+            170
+          ],
+          "id": "2082455397063888896",
+          "display": "pic.x.com/r5BcOC24sb",
+          "original": "https://t.co/r5BcOC24sb",
+          "replacement": "https://x.com/joshesye/status/2082456478808490327/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "joshesye",
+      "url": "https://x.com/joshesye",
+      "id": "284413597",
+      "followers": 22114,
+      "following": 825,
+      "likes": 8358,
+      "media_count": 618,
+      "name": "行者AI视频",
+      "description": "🏆 第十五届北影节AIGC单元大奖得主-《永夜序章》 \n📈 公众号:行者AI视频，AI新榜自媒体排名 Top 4 \n📺 作品《时间的岛屿》登入CCTV央视网 \n分享AI干货知识：AI绘画、AI视频（Nano、Sora、Veo3、MJ）\n公众号：行者AI视频",
+      "raw_description": {
+        "text": "🏆 第十五届北影节AIGC单元大奖得主-《永夜序章》 \n📈 公众号:行者AI视频，AI新榜自媒体排名 Top 4 \n📺 作品《时间的岛屿》登入CCTV央视网 \n分享AI干货知识：AI绘画、AI视频（Nano、Sora、Veo3、MJ）\n公众号：行者AI视频",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/284413597/1765929783",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2001080221500645376/FCdbPmkJ_200x200.jpg",
+      "joined": "Tue Apr 19 07:07:28 +0000 2011",
+      "protected": false,
+      "website": {
+        "url": "http://joshes.cn",
+        "display_url": "joshes.cn"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 90,
+    "retweets": 6,
+    "likes": 77,
+    "bookmarks": 68,
+    "quotes": 2,
+    "created_at": "Wed Jul 29 13:21:29 +0000 2026",
+    "created_timestamp": 1785331289,
+    "possibly_sensitive": false,
+    "views": 27230,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2082455397101674496",
+          "url": "https://pbs.twimg.com/media/HOZeJnzXIAAY8h0.png?name=orig",
+          "width": 873,
+          "height": 474
+        },
+        {
+          "type": "photo",
+          "id": "2082455397063888896",
+          "url": "https://pbs.twimg.com/media/HOZeJnqWkAASMIT.jpg?name=orig",
+          "width": 1842,
+          "height": 1230
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2082455397101674496",
+          "url": "https://pbs.twimg.com/media/HOZeJnzXIAAY8h0.png?name=orig",
+          "width": 873,
+          "height": 474
+        },
+        {
+          "type": "photo",
+          "id": "2082455397063888896",
+          "url": "https://pbs.twimg.com/media/HOZeJnqWkAASMIT.jpg?name=orig",
+          "width": 1842,
+          "height": 1230
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2082456478808490327/HOZeJnzXIAAY8h0/HOZeJnqWkAASMIT",
+          "webp": "https://mosaic.fxtwitter.com/webp/2082456478808490327/HOZeJnzXIAAY8h0/HOZeJnqWkAASMIT"
+        }
+      }
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

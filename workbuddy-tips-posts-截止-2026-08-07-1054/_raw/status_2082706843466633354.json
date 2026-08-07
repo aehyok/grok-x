@@ -1,0 +1,3384 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/AdrianPunk115/status/2082706843466633354",
+    "id": "2082706843466633354",
+    "text": "",
+    "raw_text": {
+      "text": "https://t.co/NBTMwQSk7y",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "AdrianPunk115",
+      "url": "https://x.com/AdrianPunk115",
+      "id": "2047631450829471745",
+      "followers": 25545,
+      "following": 461,
+      "likes": 10234,
+      "media_count": 1333,
+      "name": "Adrian Punk",
+      "description": "AI视觉/AI小白教程\n3个月挣了8位数\n中科大硕士× HerName首席设计师 × Stanley执行院长\n精华都在articles",
+      "raw_description": {
+        "text": "AI视觉/AI小白教程\n3个月挣了8位数\n中科大硕士× HerName首席设计师 × Stanley执行院长\n精华都在articles",
+        "facets": []
+      },
+      "location": " ",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2047631450829471745/1784048255",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2074416007964495872/6dxqrywF_200x200.jpg",
+      "joined": "Fri Apr 24 10:59:59 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "https://github.com/adrianpunk/Punk-Skill",
+        "display_url": "github.com/adrianpunk/Pun…"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 17,
+    "retweets": 55,
+    "likes": 386,
+    "bookmarks": 703,
+    "quotes": 20,
+    "created_at": "Thu Jul 30 05:56:20 +0000 2026",
+    "created_timestamp": 1785390980,
+    "possibly_sensitive": false,
+    "views": 105494,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-07-30T05:56:20.000Z",
+      "modified_at": "2026-07-30T05:56:20.000Z",
+      "id": "2082701201498587136",
+      "title": "如何把一套工作流沉淀成自己的 Codex Skill：从 0 到上传 GitHub",
+      "preview_text": "如果你每周都要把同一段要求重新发给 AI，这篇文章就是写给你的。\n比如每周五，你都要告诉 Codex：\n先整理本周成果，再提炼问题和经验，最后列出下周行动。不要编造数据，每个行动都要有完成标准。",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOdCjTgaUAEKAAIcaqX0qZvAAQAA",
+        "media_id": "2082706526981214209",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 87.93,
+                "rgb": {
+                  "blue": 235,
+                  "green": 241,
+                  "red": 246
+                }
+              },
+              {
+                "percentage": 6.48,
+                "rgb": {
+                  "blue": 68,
+                  "green": 78,
+                  "red": 72
+                }
+              },
+              {
+                "percentage": 2.04,
+                "rgb": {
+                  "blue": 133,
+                  "green": 163,
+                  "red": 128
+                }
+              },
+              {
+                "percentage": 0.44,
+                "rgb": {
+                  "blue": 127,
+                  "green": 154,
+                  "red": 125
+                }
+              },
+              {
+                "percentage": 0.17,
+                "rgb": {
+                  "blue": 123,
+                  "green": 125,
+                  "red": 126
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HOdCjTgaUAEFu77.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2082706526981214209"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8c5a7",
+            "text": "如果你每周都要把同一段要求重新发给 AI，这篇文章就是写给你的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fbcj3",
+            "text": "比如每周五，你都要告诉 Codex：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eh9ti",
+            "text": "先整理本周成果，再提炼问题和经验，最后列出下周行动。不要编造数据，每个行动都要有完成标准。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "70dpt",
+            "text": "一次这样写，叫提示词。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "81f3g",
+            "text": "每周都这样写，背后其实已经有了一套固定工作流。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 62,
+                "style": "Bold"
+              }
+            ],
+            "key": "4rf9r",
+            "text": "把这套工作流整理成一个文件夹，让 Codex 以后遇到类似任务就知道什么时候接手、按什么步骤执行、结果达到什么标准，这就是 Skill。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 36,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "53p5d",
+            "text": "Skill 的本质，是把你脑子里的做事方法沉淀成一套可以重复执行的系统。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fppse",
+            "text": "下面我会用“每周复盘”作为贯穿示范，带你走完这条路线：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 42,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dkd0k",
+            "text": "找到工作流 → 拆解工作流 → 创建 Skill → 测试 → 上传 GitHub。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6rst2",
+            "text": "你不需要先会编程。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "edogc",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "seih",
+            "text": "一、先理解：什么是 Skill？",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1m5q",
+            "text": "你可以把 Codex 想成一位能力很强、但刚入职的新同事。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "27sal",
+            "text": "它懂写作、代码、表格和分析，但不知道：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d2og1",
+            "text": "你在什么情况下会启动某项工作；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8ng2b",
+            "text": "你习惯先做什么、后做什么；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fc4be",
+            "text": "哪些公司规则不能违反；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "70kms",
+            "text": "输出必须包含哪些栏目；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3kpdh",
+            "text": "做到什么程度才算合格。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1mvol",
+            "text": "Skill 就是你交给这位新同事的：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 25,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "r10q",
+            "text": "岗位说明书 + 标准作业流程 + 必要工具和资料。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "du1kf",
+            "text": "一份 Skill 通常会告诉 Codex 四件事：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "avcjv",
+            "text": "什么时候使用：哪些任务和说法应该触发它；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7ejln",
+            "text": "怎么执行：收到任务后按什么步骤工作；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4r1mu",
+            "text": "可以用什么：脚本、参考资料或模板放在哪里；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8m8jd",
+            "text": "什么算完成：最终输出必须满足哪些标准。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dt41",
+            "text": "普通提示词通常只服务当前对话。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "cashtags": [
+                {
+                  "fromIndex": 23,
+                  "text": "skill",
+                  "toIndex": 29
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8u6pl",
+            "text": "Skill 会保存在固定目录中。之后你可以用 $skill-name 点名，也可以让 Codex 根据任务自动判断是否使用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 23,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "as9lj",
+            "text": "提示词解决一次任务，Skill 固化一类任务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "aq51v",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ekbs9",
+            "text": "二、什么工作流值得做成 Skill？",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "csb8u",
+            "text": "不要看到任何提示词都急着做 Skill。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5itqt",
+            "text": "先用下面四个问题筛选：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ge7h",
+            "text": "这件事是不是会重复发生？",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "csf1b",
+            "text": "它有没有相对稳定的输入和输出？",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9m1q4",
+            "text": "中间是否存在固定步骤、规则或判断标准？",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6pv7d",
+            "text": "如果换一个 AI，你是不是还要重新解释一遍？",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dpts5",
+            "text": "其中三个回答“是”，通常就值得沉淀。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "61q0i",
+            "text": "适合做成 Skill 的例子：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9fu2g",
+            "text": "每周把零散记录整理成复盘和下周计划；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "gvlp",
+            "text": "每次写 𝕏 长文的提示词技能或者按照同一套标准如何起标题；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1crtr",
+            "text": "发布产品前执行固定的检查清单；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "42grc",
+            "text": "审核合同时检查相同的风险项；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "felt3",
+            "text": "根据品牌规则回复客服消息；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5v6ug",
+            "text": "把固定格式的会议记录整理成任务清单；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2a5no",
+            "text": "重复处理同一类 PDF、表格或接口数据。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7h819",
+            "text": "不适合的例子：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "epqdn",
+            "text": "只会发生一次的临时任务；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "avnva",
+            "text": "一句话就能说明白的简单操作；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7cm8j",
+            "text": "完全依赖临场创意、没有稳定步骤的任务；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6qafa",
+            "text": "“帮我处理所有内容”这种没有边界的大目标。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2jmiu",
+            "text": "这里最容易犯的错误，是一上来就做“全能内容助手”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fbtd6",
+            "text": "范围越大，触发越模糊，执行越不稳定。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3dk6s",
+            "text": "“帮我做内容运营”不适合作为第一个 Skill。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "93mgc",
+            "text": "“把访谈记录整理成一篇符合固定结构的 𝕏 长文”就清楚得多。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 31,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6o5c5",
+            "text": "好的 Skill，不是无所不能，而是能把一件具体的事稳定做好。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "21n5a",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fvfq6",
+            "text": "三、第一步：把脑子里的工作流写到纸面上",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9upq3",
+            "text": "先不要急着创建文件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d6ovu",
+            "text": "选一件你最近一个月重复做过至少两次的工作，然后写出下面这张“工作流卡片”：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8frba",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "an256",
+            "text": "以“每周复盘”为例：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "da11t",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "99fk9",
+            "text": "这张卡片很重要。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6kk62",
+            "text": "因为 Skill 的 description、工作流程和质量标准，基本都来自这里。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dhddi",
+            "text": "如果你填不完，说明这件事可能还没有形成稳定工作流。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "anvnp",
+            "text": "这时先多做几次，记录自己每次如何判断，再回来做 Skill。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 26,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1640l",
+            "text": "不要把混乱包装成 Skill，先把工作流本身想清楚。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5gc1m",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "299le",
+            "text": "四、第二步：准备 3 个真实触发案例",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ftme",
+            "text": "接下来写三句用户可能真的会说的话。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fu3p9",
+            "text": "第一句是明确点名：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8crh6",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6qg9",
+            "text": "第二句是自然表达：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4k95k",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "avk4b",
+            "text": "第三句是信息不完整的边界情况：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "89iso",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4bsac",
+            "text": "这三句话分别测试：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5dknf",
+            "text": "点名后能不能正确执行；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "37aei",
+            "text": "没点名时能不能自动触发；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ena0e",
+            "text": "信息不足时会不会乱编。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9v86t",
+            "text": "很多人只写“这个 Skill 能做什么”，却没有想过“用户会怎么说”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "121jp",
+            "text": "结果就是文件写得很长，但 Codex 根本不知道什么时候应该使用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 26,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8dddn",
+            "text": "触发案例不是宣传文案，而是 Skill 的入口测试。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "a97tq",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1jlf5",
+            "text": "五、第三步：决定 Skill 里要放什么",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5fu3g",
+            "text": "一份 Skill 最小只需要一个文件：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ba6ck",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9qp7k",
+            "text": "比较完整的结构是：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4elgp",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "65k5b",
+            "text": "每个部分解决的问题不同：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "54g18",
+            "text": "SKILL.md：必需，写触发条件、工作步骤和质量标准；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8mp3q",
+            "text": "agents/openai.yaml：推荐，控制界面里的名称、简介和默认提示；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "emcib",
+            "text": "scripts/：放需要稳定执行的代码，例如格式转换和数据校验；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "24g3k",
+            "text": "references/：放公司规则、术语、接口文档等长资料；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f73rh",
+            "text": "assets/：放最终交付会用到的模板、图片、字体等素材。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7j92f",
+            "text": "怎么判断要不要增加目录？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dk1oa",
+            "text": "只有文字流程：先写一个 SKILL.md；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "en0je",
+            "text": "同一段代码每次都要重写：放进 scripts/；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dvbmg",
+            "text": "背景资料很长，不是每次都要读：放进 references/；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4uqoo",
+            "text": "每次交付都要套相同模板：放进 assets/。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dvrin",
+            "text": "不要为了显得专业，先建立一堆空目录。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5q6ph",
+            "text": "Skill 会占用上下文，应该只保留完成任务真正需要的内容。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 19,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "79t7m",
+            "text": "先做最小可用版本，用到什么再增加什么。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "e9pth",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7dsc1",
+            "text": "六、第四步：让 Codex 初始化 Skill",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dm2d7",
+            "text": "Skill 名称只使用：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f99pn",
+            "text": "小写英文字母；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ab4j4",
+            "text": "数字；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2rgd9",
+            "text": "连字符。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1bdo",
+            "text": "不要使用空格和中文，文件夹名称要和 Skill 名保持一致。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "da319",
+            "text": "例如：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cl7r7",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7scc5",
+            "text": "新手最简单的做法，是直接让 Codex 调用自带的 skill-creator。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f6i7p",
+            "text": "把前面完成的工作流卡片发给 Codex：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "br1a9",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8tjg2",
+            "text": "skill-creator 会使用初始化脚本，生成符合结构要求的文件夹。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "asam2",
+            "text": "这次实际生成的是：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "bmkco",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "40n81",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 101,
+                "offset": 0,
+                "style": "Italic"
+              }
+            ],
+            "key": "7pnoa",
+            "text": "截图要点：在 Codex 中运行 skill-creator 初始化 weekly-review 后的终端，应能看到新建的 `SKILL.md` 与 `agents/openai.yaml` 两个文件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cr1od",
+            "text": "看到 SKILL.md 和 agents/openai.yaml，说明初始化完成。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "828ik",
+            "text": "但这时只是有了空房子，真正决定 Skill 是否好用的，是接下来写进去的内容。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 17,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f34r2",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1v9bm",
+            "text": "七、第五步：写好 SKILL.md",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "936gp",
+            "text": "SKILL.md 分为两部分：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b7rik",
+            "text": "YAML 头部；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ak3b3",
+            "text": "Markdown 正文。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fkoil",
+            "text": "1. YAML 头部决定“什么时候触发”",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7v1ch",
+            "text": "文件开头必须是：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 18,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f856l",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fovaq",
+            "text": "这里最重要的是 description。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1d9o0",
+            "text": "它必须同时回答两个问题：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "404tg",
+            "text": "这个 Skill 能做什么？",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "apgbu",
+            "text": "用户在什么场景下应该使用？",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "db6o5",
+            "text": "不要只写：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 19,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4c0qa",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fh3q9",
+            "text": "这句话没有具体场景。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5fjd9",
+            "text": "应该把“周报、每周复盘、一周总结、流水账”等真实触发方式写进去。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b082c",
+            "text": "Codex 会先读取 name 和 description 判断是否触发，然后才会读取正文。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d7v17",
+            "text": "所以“什么时候使用”要写在 description 中，不要藏在正文最后。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6csuf",
+            "text": "2. 正文决定“触发后怎么做”",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "et8lq",
+            "text": "正文不需要介绍 Skill 有多厉害。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "79i75",
+            "text": "它是给另一个 Codex 实例看的执行说明。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "50ks3",
+            "text": "可以使用这套通用结构：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 20,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4cgur",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9bctq",
+            "text": "这次的每周复盘 Skill，核心流程是：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 21,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "d6opi",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 22,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "17cvr",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 77,
+                "offset": 0,
+                "style": "Italic"
+              }
+            ],
+            "key": "79vd0",
+            "text": "截图要点：终端里查看 `SKILL.md` 的内容，展示 YAML 头部（`name` / `description`）与「工作流程」「质量标准」等正文。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c9jdg",
+            "text": "写正文时记住三条：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1qqc2",
+            "text": "只写完成任务必须知道的内容；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8dv0a",
+            "text": "越容易出错的环节，规则越要具体；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3hhoc",
+            "text": "能用 30 行说清楚，就不要写 300 行。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 20,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "d2u1",
+            "text": "Skill 不是知识百科，而是执行手册。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 23,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "b9js6",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "99cre",
+            "text": "八、第六步：验证并安装",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5h2cg",
+            "text": "写完后，不要直接宣布完成。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4cuub",
+            "text": "先让 skill-creator 验证：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 24,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f7kf6",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4buc6",
+            "text": "验证器会检查：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ad0jq",
+            "text": "文件夹名称和 Skill 名称是否一致；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1t7sb",
+            "text": "YAML 格式是否正确；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5dr25",
+            "text": "name 和 description 是否存在；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1pgk4",
+            "text": "名称是否符合规则。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f4d19",
+            "text": "成功时会看到类似 Skill is valid! 的通过提示（具体文案以你本地 skill-creator 版本为准）。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d4kei",
+            "text": "然后把整个 Skill 文件夹安装到 Codex 的 Skill 目录。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3efk1",
+            "text": "默认通常是：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 25,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3uq64",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "893qf",
+            "text": "Codex 不同版本/文档里也出现过 .agents/skills 的写法，本质一样，选一个保持前后一致即可；本文沿用 .codex/skills/。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8nus",
+            "text": "macOS 或 Linux 可以执行：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 26,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "djuth",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "abr1k",
+            "text": "也可以直接告诉 Codex：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 27,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7r2np",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 28,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "44rci",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 73,
+                "offset": 0,
+                "style": "Italic"
+              }
+            ],
+            "key": "d68d0",
+            "text": "截图要点：skill-creator 验证通过的终端输出，以及 `~/.codex/skills/weekly-review` 安装后的目录结构。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9l5be",
+            "text": "如果安装后没有立刻出现，新开一个 Codex 任务；仍然没有，再重启 Codex。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fbc2a",
+            "text": "结构校验通过，只能证明文件格式正确。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "37k55",
+            "text": "它还不能证明这套工作流真的好用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 29,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6i9ve",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5tdm0",
+            "text": "九、第七步：拿真实工作测试",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "biu8c",
+            "text": "回到前面准备的三个案例，逐个测试。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8pkd5",
+            "text": "测试 1：明确点名",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 30,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7c0b2",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6fs6n",
+            "text": "检查是否按照 Skill 规定的栏目和顺序输出。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d2qp1",
+            "text": "测试 2：不点名",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 31,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4s2kk",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9g25e",
+            "text": "检查 description 是否足够清楚，能让 Codex 自动识别。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5avm6",
+            "text": "测试 3：信息不完整",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 32,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dg938",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "34dig",
+            "text": "检查它是否明确标记缺失信息，而不是虚构日期、数据和负责人。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dj58n",
+            "text": "我实际测试时，输入了首页上线、支付联调故障、证书过期、页面修复和下周 A/B 测试等零散记录。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3r1is",
+            "text": "Skill 自动整理出了：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "53c1g",
+            "text": "本周成果；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6euej",
+            "text": "关键进展；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4uav4",
+            "text": "问题与原因；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6ttah",
+            "text": "经验与洞察；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "kn43",
+            "text": "带优先级和完成标准的下周行动；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c60t7",
+            "text": "需要补充的信息。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 33,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "bg122",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 72,
+                "offset": 0,
+                "style": "Italic"
+              }
+            ],
+            "key": "r5it",
+            "text": "截图要点：输入零散记录后，weekly-review 自动整理出的「本周成果 / 关键进展 / 问题与原因 / 经验与洞察 / 下周行动」输出。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3hfs6",
+            "text": "如果结果不理想，不要马上推翻整个 Skill。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7qvf9",
+            "text": "先判断问题发生在哪里：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2vvu2",
+            "text": "没有自动触发：改 description；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "70hjo",
+            "text": "执行顺序不稳定：改工作流程；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2jea3",
+            "text": "总是出现空话：增加质量标准；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bpopr",
+            "text": "信息不足时乱编：增加异常处理规则；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5s1lt",
+            "text": "同一段代码反复生成：把它放进 scripts/；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "759a9",
+            "text": "SKILL.md 越写越长：把长资料放进 references/。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "lagp",
+            "text": "测试的目的不是证明第一版正确，而是找到下一次应该改哪里。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 34,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "37q7t",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4umh",
+            "text": "十、第八步：上传到 GitHub",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2k9cb",
+            "text": "Skill 在本地跑通后，再上传 GitHub。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "en6kf",
+            "text": "GitHub 能帮你：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4bo26",
+            "text": "备份自己的工作流；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1mve4",
+            "text": "记录每次修改；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8utnl",
+            "text": "在多台设备之间同步；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5i4e3",
+            "text": "分享给团队或粉丝；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dockq",
+            "text": "出问题时回到旧版本。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bnuuk",
+            "text": "先在 GitHub 创建一个空仓库。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 35,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dnvg5",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 29,
+                "style": "Bold"
+              }
+            ],
+            "key": "aabl3",
+            "text": "如果 Skill 包含公司流程、客户案例或内部规则，选择 Private。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "39e1g",
+            "text": "公开之前，检查并删除：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7g26l",
+            "text": "API Key；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cam7v",
+            "text": "Token；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9qekt",
+            "text": "密码和账号；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bnvkb",
+            "text": "客户数据；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2qhqs",
+            "text": "公司内部地址；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "83ale",
+            "text": "未公开的业务规则。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c14s",
+            "text": "然后在本地项目目录执行：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 36,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5m110",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "36t1t",
+            "text": "以后每次修改，只需要：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 37,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3eu60",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8qkps",
+            "text": "上传前可以用：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 38,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "belqv",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "btelf",
+            "text": "确认即将提交的文件中没有敏感信息。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "33u6b",
+            "text": "![Skill 已上传到私有 GitHub 仓库](./assets/screenshots/05-github-live.png)",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 68,
+                "offset": 0,
+                "style": "Italic"
+              }
+            ],
+            "key": "6i0rl",
+            "text": "截图要点：Skill 已 push 到私有 GitHub 仓库的页面，能看到仓库内的 `SKILL.md`、`agents/` 等文件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9jm6",
+            "text": "到这一步，你完成的已经不只是一段提示词。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "djetd",
+            "text": "你拥有了一套可以安装、测试、修改、同步和分享的个人工作流。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 39,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5ks5o",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6udp3",
+            "text": "十一、新手最容易踩的 5 个坑",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "74jvd",
+            "text": "1. 把聊天记录直接塞进 SKILL.md",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "nfua",
+            "text": "聊天记录不是工作流。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b46r0",
+            "text": "先提炼触发条件、步骤、异常处理和验收标准。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "frg7e",
+            "text": "2. 一个 Skill 想解决所有问题",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2799q",
+            "text": "范围越大，自动触发和输出越不稳定。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "buofd",
+            "text": "先从一个明确输入、一个明确输出开始。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3i5o",
+            "text": "3. 只有步骤，没有完成标准",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6fnbi",
+            "text": "“生成报告”不是验收标准。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ct9i1",
+            "text": "“包含 5 个固定栏目，每个行动有优先级和完成标准”才是。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "csknd",
+            "text": "4. 验证通过就认为已经完成",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "24sur",
+            "text": "验证器只能检查结构。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ialr",
+            "text": "真正的质量必须用正常、模糊和缺失信息三类任务测试。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "25ghl",
+            "text": "5. 把敏感信息上传到公开仓库",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5deus",
+            "text": "GitHub 的 Public 代表任何人都可能看到。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "272r6",
+            "text": "不确定时先使用 Private。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 40,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "aevv0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3ckqb",
+            "text": "十二、你今天就能做的第一步",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fiskr",
+            "text": "打开你的聊天记录，找出最近一个月里，你向 AI 重复解释过两次以上的任务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f2eqi",
+            "text": "不要先写代码。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4isem",
+            "text": "直接填好第三节那张「工作流卡片」（六行：什么时候启动、用户提供什么、执行步骤、最终输出、什么结果算合格、信息不足时怎么办）。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "440kq",
+            "text": "然后把它交给 skill-creator，生成第一版 Skill。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d5kmb",
+            "text": "第一版不需要完美。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b3v2v",
+            "text": "先让它在一个真实任务中跑起来，再根据结果修改。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 45,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "a9fnt",
+            "text": "沉淀 Skill 的核心只有一句话：把“我每次都要重新解释”，变成“它以后知道该怎么做”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4hd0",
+            "text": "关于作者",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2jvic",
+            "text": "Punk｜中科大 MBA｜HerName 首席设计师｜Stanley 商学院执行院长｜",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 32,
+                  "text": "AdrianPunk115",
+                  "toIndex": 46
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 41,
+                "length": 14,
+                "offset": 32
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ekdv9",
+            "text": "｜AI提示词｜3个月赚了8位数｜Learn in Public｜@AdrianPunk115",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "34",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "12",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "markdown": "```text\n这周主要在做支付功能，帮我复盘一下。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "19",
+            "value": {
+              "data": {
+                "markdown": "```text\n帮助用户复盘。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "23",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "markdown": "```text\n工作流名称：\n把一周的零散记录整理成复盘\n\n什么时候启动：\n用户提出周报、每周复盘、一周总结或工作回顾时\n\n用户会提供什么：\n一周内完成的事情、问题、数据和下周计划\n\n执行步骤：\n1. 提取事实和数据\n2. 分类为成果、进展、问题和经验\n3. 合并重复内容\n4. 把未完成事项转成下周行动\n5. 检查是否存在编造或空话\n\n最后输出什么：\n结构化周复盘和下周行动表\n\n什么结果算合格：\n保留原始数据；不虚构；行动有优先级和完成标准\n\n信息不足时怎么办：\n标记“待补充”，最多提出 3 个问题，不要猜\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "40",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "markdown": "```text\nweekly-review/\n├── SKILL.md\n└── agents/\n    └── openai.yaml\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "markdown": "```text\nyour-skill/\n├── SKILL.md\n├── agents/\n│   └── openai.yaml\n├── scripts/\n├── references/\n└── assets/\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "33",
+            "value": {
+              "data": {
+                "entityKey": "729a8011-67e1-4616-bb13-bbabf89b0cfd",
+                "mediaItems": [
+                  {
+                    "localMediaId": "23",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2082704576566988800"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "22",
+            "value": {
+              "data": {
+                "entityKey": "67b10bd0-68c7-4aa2-993a-822353489735",
+                "mediaItems": [
+                  {
+                    "localMediaId": "19",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2082704213923233792"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "26",
+            "value": {
+              "data": {
+                "markdown": "```bash\ncp -R ./weekly-review ~/.codex/skills/\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "37",
+            "value": {
+              "data": {
+                "markdown": "```bash\ngit add .\ngit commit -m \"docs: improve skill workflow\"\ngit push\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "markdown": "```text\nweekly-review\nx-article-writer\ncheck-release\ncontract-risk-checker\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "24",
+            "value": {
+              "data": {
+                "markdown": "```text\n请使用 skill-creator 验证 ./weekly-review。\n如果发现格式、命名或 YAML 问题，直接修复后重新验证。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "35",
+            "value": {
+              "data": {
+                "entityKey": "1b64b482-6dbf-41fd-b974-629f3ce9c967",
+                "mediaItems": [
+                  {
+                    "localMediaId": "25",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2082704660121694208"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "entityKey": "f9e1248f-1590-4f3b-a37c-8a901e897371",
+                "mediaItems": [
+                  {
+                    "localMediaId": "9",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2082703518411182080"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "markdown": "```text\nyour-skill/\n└── SKILL.md\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "21",
+            "value": {
+              "data": {
+                "markdown": "```markdown\n## 工作流程\n\n1. 提取事实：识别已完成事项、进展、数据、问题和未完成事项。\n2. 分类整理：归入本周成果、关键进展、问题与原因、经验与洞察。\n3. 提炼重点：合并重复内容，不编造用户没有提供的事实。\n4. 制定行动：把未完成事项和问题转成下周行动。\n5. 检查输出：行动不超过 5 个，最高优先级不超过 3 个。\n\n## 信息不足时\n\n- 缺少日期、数据或负责人时，标记为“待补充”，不要猜测。\n- 记录过少时，先输出可确认的内容，再提出最多 3 个问题。\n\n## 质量标准\n\n- 使用具体动词，避免“持续优化”“积极推进”等空话。\n- 区分事实与推断。\n- 每个行动都要有可以检查的完成标准。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "32",
+            "value": {
+              "data": {
+                "markdown": "```text\n这周主要在做支付功能，帮我复盘一下。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "markdown": "```text\n请使用 $weekly-review 整理这周的记录。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "36",
+            "value": {
+              "data": {
+                "markdown": "```bash\ngit init -b main   # 需要 Git ≥ 2.28；老版本用 git init && git branch -m main\ngit add .\ngit commit -m \"feat: add my first Codex skill\"\ngit remote add origin <你的仓库地址>\ngit push -u origin main\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "39",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "25",
+            "value": {
+              "data": {
+                "markdown": "```text\n~/.codex/skills/\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "markdown": "```text\n请使用 skill-creator，把下面的工作流做成一个 Skill。\n\nSkill 名称：weekly-review\n\n工作流：\n[粘贴你的工作流卡片]\n\n要求：\n1. 先创建在当前项目中；\n2. 只创建真正需要的文件；\n3. 完成后验证 Skill；\n4. 告诉我如何测试和安装。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "31",
+            "value": {
+              "data": {
+                "markdown": "```text\n把这些流水账整理成周报，再列出下周优先级。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "20",
+            "value": {
+              "data": {
+                "markdown": "```markdown\n# Skill 名称\n\n用一句话说明目标。\n\n## 工作流程\n\n1. 收集并检查输入\n2. 按固定规则处理\n3. 生成结果\n4. 检查结果\n\n## 信息不足或异常时\n\n- 缺少重要信息时怎么处理\n- 哪些内容不能猜测\n- 什么时候应该停止并询问用户\n\n## 输出格式\n\n[固定栏目、顺序或模板]\n\n## 质量标准\n\n- 必须包含什么\n- 不能出现什么\n- 怎么判断已经完成\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "27",
+            "value": {
+              "data": {
+                "markdown": "```text\n请把 ./weekly-review 安装到我的 Codex Skills 目录。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "38",
+            "value": {
+              "data": {
+                "markdown": "```bash\ngit status\ngit diff --cached\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "18",
+            "value": {
+              "data": {
+                "markdown": "```yaml\n---\nname: weekly-review\ndescription: 将一周的零散记录整理成结构化复盘和下周行动计划。用户提到周报、每周复盘、一周总结、工作回顾、学习复盘，或要求从流水账中提炼成果、问题、经验和下一步行动时使用。\n---\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "30",
+            "value": {
+              "data": {
+                "markdown": "```text\n请使用 $weekly-review 整理下面的记录。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "markdown": "```text\n帮我把这些流水账整理成周报，再列出下周优先级。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "29",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "41",
+            "value": {
+              "data": {
+                "url": "https://x.com/@AdrianPunk115"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "markdown": "```text\n工作流名称：\n\n什么时候启动：\n\n用户会提供什么：\n\n执行步骤：\n1.\n2.\n3.\n\n最后输出什么：\n\n什么结果算合格：\n\n信息不足或出错时怎么办：\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "28",
+            "value": {
+              "data": {
+                "entityKey": "ca7d9dfc-7f99-4803-b55d-f38edccd73cf",
+                "mediaItems": [
+                  {
+                    "localMediaId": "21",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2082704326305431553"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOc/0Lta0AAKAAIcaqX0qZvAAQAA",
+          "media_id": "2082703518411182080",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.04,
+                  "rgb": {
+                    "blue": 221,
+                    "green": 240,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 2.56,
+                  "rgb": {
+                    "blue": 53,
+                    "green": 84,
+                    "red": 78
+                  }
+                },
+                {
+                  "percentage": 1.12,
+                  "rgb": {
+                    "blue": 83,
+                    "green": 134,
+                    "red": 165
+                  }
+                },
+                {
+                  "percentage": 0.47,
+                  "rgb": {
+                    "blue": 119,
+                    "green": 140,
+                    "red": 121
+                  }
+                }
+              ]
+            },
+            "original_img_height": 658,
+            "original_img_url": "https://pbs.twimg.com/media/HOc_0Lta0AA2gk6.jpg",
+            "original_img_width": 1199
+          },
+          "media_key": "3_2082703518411182080"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOdAcqsagAAKAAIcaqX0qZvAAQAA",
+          "media_id": "2082704213923233792",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.48,
+                  "rgb": {
+                    "blue": 233,
+                    "green": 246,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 2.56,
+                  "rgb": {
+                    "blue": 52,
+                    "green": 81,
+                    "red": 69
+                  }
+                },
+                {
+                  "percentage": 0.85,
+                  "rgb": {
+                    "blue": 106,
+                    "green": 134,
+                    "red": 151
+                  }
+                },
+                {
+                  "percentage": 0.66,
+                  "rgb": {
+                    "blue": 62,
+                    "green": 112,
+                    "red": 115
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 71,
+                    "green": 146,
+                    "red": 216
+                  }
+                }
+              ]
+            },
+            "original_img_height": 973,
+            "original_img_url": "https://pbs.twimg.com/media/HOdAcqsagAA997X.jpg",
+            "original_img_width": 1616
+          },
+          "media_key": "3_2082704213923233792"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOdAxxpbEAAKAAIcaqX0qZvAAQAA",
+          "media_id": "2082704576566988800",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 94.03,
+                  "rgb": {
+                    "blue": 227,
+                    "green": 241,
+                    "red": 250
+                  }
+                },
+                {
+                  "percentage": 3.4,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 65,
+                    "red": 55
+                  }
+                },
+                {
+                  "percentage": 1.7,
+                  "rgb": {
+                    "blue": 74,
+                    "green": 117,
+                    "red": 148
+                  }
+                },
+                {
+                  "percentage": 0.69,
+                  "rgb": {
+                    "blue": 113,
+                    "green": 129,
+                    "red": 137
+                  }
+                },
+                {
+                  "percentage": 0.13,
+                  "rgb": {
+                    "blue": 69,
+                    "green": 138,
+                    "red": 204
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1024,
+            "original_img_url": "https://pbs.twimg.com/media/HOdAxxpbEAAhXx3.jpg",
+            "original_img_width": 1536
+          },
+          "media_key": "3_2082704576566988800"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOdAjNWawAEKAAIcaqX0qZvAAQAA",
+          "media_id": "2082704326305431553",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.19,
+                  "rgb": {
+                    "blue": 227,
+                    "green": 243,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 3,
+                  "rgb": {
+                    "blue": 49,
+                    "green": 80,
+                    "red": 76
+                  }
+                },
+                {
+                  "percentage": 0.74,
+                  "rgb": {
+                    "blue": 79,
+                    "green": 117,
+                    "red": 151
+                  }
+                },
+                {
+                  "percentage": 0.19,
+                  "rgb": {
+                    "blue": 81,
+                    "green": 117,
+                    "red": 117
+                  }
+                }
+              ]
+            },
+            "original_img_height": 845,
+            "original_img_url": "https://pbs.twimg.com/media/HOdAjNWawAEOGlc.jpg",
+            "original_img_width": 1862
+          },
+          "media_key": "3_2082704326305431553"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOdA2o6asAAKAAIcaqX0qZvAAQAA",
+          "media_id": "2082704660121694208",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 93.92,
+                  "rgb": {
+                    "blue": 250,
+                    "green": 250,
+                    "red": 251
+                  }
+                },
+                {
+                  "percentage": 3.09,
+                  "rgb": {
+                    "blue": 33,
+                    "green": 54,
+                    "red": 45
+                  }
+                },
+                {
+                  "percentage": 1.31,
+                  "rgb": {
+                    "blue": 70,
+                    "green": 111,
+                    "red": 145
+                  }
+                },
+                {
+                  "percentage": 0.28,
+                  "rgb": {
+                    "blue": 118,
+                    "green": 161,
+                    "red": 119
+                  }
+                },
+                {
+                  "percentage": 0.22,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 218,
+                    "red": 196
+                  }
+                }
+              ]
+            },
+            "original_img_height": 923,
+            "original_img_url": "https://pbs.twimg.com/media/HOdA2o6asAA8yLW.jpg",
+            "original_img_width": 1704
+          },
+          "media_key": "3_2082704660121694208"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Ananth7e/status/2084354538715382188",
+    "id": "2084354538715382188",
+    "text": "codex tip: let codex clean up after itself.\n\ncodex itself generates a lot of stale cache, old thread logs, and temp files over time. here's how to automate the cleanup.\n\nprompt: \"set up a weekly automation that clears out old codex cache, thread logs, temp files that are safe to remove. don't touch anything active or recent. only stale data that's just sitting there taking up space. run this automatically every week without asking me each time.\"\n\njust copy paste this prompt into codex and it will set it up.\n\ncodex runs this automation every week.",
+    "raw_text": {
+      "text": "codex tip: let codex clean up after itself.\n\ncodex itself generates a lot of stale cache, old thread logs, and temp files over time. here's how to automate the cleanup.\n\nprompt: \"set up a weekly automation that clears out old codex cache, thread logs, temp files that are safe to remove. don't touch anything active or recent. only stale data that's just sitting there taking up space. run this automatically every week without asking me each time.\"\n\njust copy paste this prompt into codex and it will set it up.\n\ncodex runs this automation every week.",
+      "display_text_range": [
+        0,
+        552
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            280,
+            303
+          ],
+          "id": "2084352729028431872",
+          "display": "pic.x.com/erH1rcmz48",
+          "original": "https://t.co/erH1rcmz48",
+          "replacement": "https://x.com/Ananth7e/status/2084354538715382188/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Ananth7e",
+      "url": "https://x.com/Ananth7e",
+      "id": "2062854671828713472",
+      "followers": 1559,
+      "following": 249,
+      "likes": 6959,
+      "media_count": 810,
+      "name": "Ananth",
+      "description": "head of the voices dept. @openai\n\"single handedly delayed image AGI\"\nposting about AI, coding agents, and tech",
+      "raw_description": {
+        "text": "head of the voices dept. @openai\n\"single handedly delayed image AGI\"\nposting about AI, coding agents, and tech",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2062854671828713472/1785910350",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2062941617456349184/n8Sqd-nm_200x200.jpg",
+      "joined": "Fri Jun 05 11:19:29 +0000 2026",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 21,
+    "retweets": 73,
+    "likes": 952,
+    "bookmarks": 1576,
+    "quotes": 3,
+    "created_at": "Mon Aug 03 19:03:42 +0000 2026",
+    "created_timestamp": 1785783822,
+    "possibly_sensitive": false,
+    "views": 92848,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2084352729028431872",
+          "url": "https://pbs.twimg.com/media/HO0bw4BbEAAHgiC.png?name=orig",
+          "width": 1036,
+          "height": 445
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2084352729028431872",
+          "url": "https://pbs.twimg.com/media/HO0bw4BbEAAHgiC.png?name=orig",
+          "width": 1036,
+          "height": 445
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/Ananth7e/status/2084333430280786115",
+      "id": "2084333430280786115",
+      "text": "codex tip: use codex to free up storage\n\nif your storage is full and you have no idea what's eating it up. just ask codex.\n\nprompt: \"scan my system to find what's eating up storage. look for large files, old installers, unused apps, cache folders, stale project folders, and anything else safe to clean up. list everything by category with size, and flag what's safe to auto delete vs what needs my review before deleting. don't delete anything yet, just give me the list first.\"\n\nit'll find the largest files on your system, tell you what they are, and give you a list of what's safe to delete.\n\nsaves you from manually digging through folders or accidentally deleting something important.",
+      "raw_text": {
+        "text": "codex tip: use codex to free up storage\n\nif your storage is full and you have no idea what's eating it up. just ask codex.\n\nprompt: \"scan my system to find what's eating up storage. look for large files, old installers, unused apps, cache folders, stale project folders, and anything else safe to clean up. list everything by category with size, and flag what's safe to auto delete vs what needs my review before deleting. don't delete anything yet, just give me the list first.\"\n\nit'll find the largest files on your system, tell you what they are, and give you a list of what's safe to delete.\n\nsaves you from manually digging through folders or accidentally deleting something important.",
+        "display_text_range": [
+          0,
+          690
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              275,
+              298
+            ],
+            "id": "2084332395822723072",
+            "display": "pic.x.com/lqDEOCrq2a",
+            "original": "https://t.co/lqDEOCrq2a",
+            "replacement": "https://x.com/Ananth7e/status/2084333430280786115/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "Ananth7e",
+        "url": "https://x.com/Ananth7e",
+        "id": "2062854671828713472",
+        "followers": 1559,
+        "following": 249,
+        "likes": 6959,
+        "media_count": 810,
+        "name": "Ananth",
+        "description": "head of the voices dept. @openai\n\"single handedly delayed image AGI\"\nposting about AI, coding agents, and tech",
+        "raw_description": {
+          "text": "head of the voices dept. @openai\n\"single handedly delayed image AGI\"\nposting about AI, coding agents, and tech",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/2062854671828713472/1785910350",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2062941617456349184/n8Sqd-nm_200x200.jpg",
+        "joined": "Fri Jun 05 11:19:29 +0000 2026",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 12,
+      "retweets": 8,
+      "likes": 133,
+      "bookmarks": 190,
+      "quotes": 3,
+      "created_at": "Mon Aug 03 17:39:49 +0000 2026",
+      "created_timestamp": 1785778789,
+      "possibly_sensitive": false,
+      "views": 114098,
+      "is_note_tweet": true,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2084332395822723072",
+            "url": "https://pbs.twimg.com/media/HO0JRU7aMAAXLPB.png?name=orig",
+            "width": 1011,
+            "height": 257
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2084332395822723072",
+            "url": "https://pbs.twimg.com/media/HO0JRU7aMAAXLPB.png?name=orig",
+            "width": 1011,
+            "height": 257
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

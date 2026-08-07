@@ -1,0 +1,1589 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/aehyok/status/2081919965352034486",
+    "id": "2081919965352034486",
+    "text": "如果你因为种种原因用不了Claude Code、Codex等Agent产品，那么你一定要来试试WorkBuddy。\n\n当前 WorkBuddy 中的混元 hy3还在免费体验中，时间截止到8月5日。同时每天还可以领取免费积分来体验。\n\nWorkBuddy中的 Obsidian 技能库至少上百个，你能想到的大家也都帮你干过了，用免费的Token 给自己配个第二大脑吧。",
+    "raw_text": {
+      "text": "如果你因为种种原因用不了Claude Code、Codex等Agent产品，那么你一定要来试试WorkBuddy。\n\n当前 WorkBuddy 中的混元 hy3还在免费体验中，时间截止到8月5日。同时每天还可以领取免费积分来体验。\n\nWorkBuddy中的 Obsidian 技能库至少上百个，你能想到的大家也都帮你干过了，用免费的Token 给自己配个第二大脑吧。",
+      "display_text_range": [
+        0,
+        183
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            172,
+            195
+          ],
+          "id": "2081918013327179776",
+          "display": "pic.x.com/GAojF4l2ZT",
+          "original": "https://t.co/GAojF4l2ZT",
+          "replacement": "https://x.com/aehyok/status/2081919965352034486/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            172,
+            195
+          ],
+          "id": "2081918193187344384",
+          "display": "pic.x.com/GAojF4l2ZT",
+          "original": "https://t.co/GAojF4l2ZT",
+          "replacement": "https://x.com/aehyok/status/2081919965352034486/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "aehyok",
+      "url": "https://x.com/aehyok",
+      "id": "2905016819",
+      "followers": 9203,
+      "following": 381,
+      "likes": 20157,
+      "media_count": 469,
+      "name": "AI少年",
+      "description": "全栈独立开发者，CEO， 喜欢编程和爱折腾AI　　\n我的个人网站：https://aehyok.uk　\n我的武器库: https://github.com/aehyok\n我的公众号: 那个曾经的AI少年。",
+      "raw_description": {
+        "text": "全栈独立开发者，CEO， 喜欢编程和爱折腾AI　　\n我的个人网站：https://t.co/gegr7pjEwQ　\n我的武器库: https://t.co/b8VWNwyDXf\n我的公众号: 那个曾经的AI少年。",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              33,
+              56
+            ],
+            "original": "https://t.co/gegr7pjEwQ",
+            "replacement": "https://aehyok.uk",
+            "display": "aehyok.uk"
+          },
+          {
+            "type": "url",
+            "indices": [
+              65,
+              88
+            ],
+            "original": "https://t.co/b8VWNwyDXf",
+            "replacement": "https://github.com/aehyok",
+            "display": "github.com/aehyok"
+          }
+        ]
+      },
+      "location": "shenzhen",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2905016819/1767727113",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2055690787736920065/UdCIcnhl_200x200.jpg",
+      "joined": "Thu Dec 04 12:35:37 +0000 2014",
+      "protected": false,
+      "website": {
+        "url": "https://aehyok.uk",
+        "display_url": "aehyok.uk"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 16,
+    "retweets": 8,
+    "likes": 61,
+    "bookmarks": 51,
+    "quotes": 0,
+    "created_at": "Tue Jul 28 01:49:34 +0000 2026",
+    "created_timestamp": 1785203374,
+    "possibly_sensitive": false,
+    "views": 11658,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2081918013327179776",
+          "url": "https://pbs.twimg.com/media/HOR1ZxPagAABHAQ.jpg?name=orig",
+          "width": 1315,
+          "height": 849
+        },
+        {
+          "type": "photo",
+          "id": "2081918193187344384",
+          "url": "https://pbs.twimg.com/media/HOR1kPRa0AA8xwu.jpg?name=orig",
+          "width": 1315,
+          "height": 849
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2081918013327179776",
+          "url": "https://pbs.twimg.com/media/HOR1ZxPagAABHAQ.jpg?name=orig",
+          "width": 1315,
+          "height": 849
+        },
+        {
+          "type": "photo",
+          "id": "2081918193187344384",
+          "url": "https://pbs.twimg.com/media/HOR1kPRa0AA8xwu.jpg?name=orig",
+          "width": 1315,
+          "height": 849
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2081919965352034486/HOR1ZxPagAABHAQ/HOR1kPRa0AA8xwu",
+          "webp": "https://mosaic.fxtwitter.com/webp/2081919965352034486/HOR1ZxPagAABHAQ/HOR1kPRa0AA8xwu"
+        }
+      }
+    },
+    "quote": {
+      "url": "https://x.com/alin_zone/status/2081716933259673810",
+      "id": "2081716933259673810",
+      "text": "",
+      "raw_text": {
+        "text": "https://t.co/h1iyfAf3mn",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "facets": []
+      },
+      "author": {
+        "screen_name": "alin_zone",
+        "url": "https://x.com/alin_zone",
+        "id": "1680532920413609987",
+        "followers": 8155,
+        "following": 482,
+        "likes": 6447,
+        "media_count": 259,
+        "name": "阿蔺A-Lin",
+        "description": "📢 我是阿蔺A-Lin，阿是 a，蔺是 lin，放一起就是阿蔺 A-Lin\n💻 小白保姆级教程，让普通小白也能享受到 AI 的便利\n✍️ 专注分享 AI 前沿资讯、工具产品使用推荐\n🛰 vx：a-lin-zone \n✉️ 公众号：阿蔺 A-Lin",
+        "raw_description": {
+          "text": "📢 我是阿蔺A-Lin，阿是 a，蔺是 lin，放一起就是阿蔺 A-Lin\n💻 小白保姆级教程，让普通小白也能享受到 AI 的便利\n✍️ 专注分享 AI 前沿资讯、工具产品使用推荐\n🛰 vx：a-lin-zone \n✉️ 公众号：阿蔺 A-Lin",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1680532920413609987/1769968250",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2018018848356925440/tFuD-zag_200x200.jpg",
+        "joined": "Sun Jul 16 11:01:21 +0000 2023",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 8,
+      "retweets": 7,
+      "likes": 60,
+      "bookmarks": 113,
+      "quotes": 5,
+      "created_at": "Mon Jul 27 12:22:47 +0000 2026",
+      "created_timestamp": 1785154967,
+      "possibly_sensitive": false,
+      "views": 25535,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": null,
+      "replying_to": null,
+      "replying_to_status": null,
+      "source": "Twitter Web App",
+      "article": {
+        "created_at": "2026-07-27T12:22:47.000Z",
+        "modified_at": "2026-07-28T02:23:58.000Z",
+        "id": "2081712850385645570",
+        "title": "用好 Obsidian Skill，让你的 WorkBuddy 对知识库的理解提升 80%",
+        "preview_text": "我为什么不在 Workbuddy 中用原生 AI 的方式去操作 Obsidian 知识库，而是选择在 Workbuddy 中安装 Obsidian skill 的方式去操作？看完这篇文章你也能让你的 Workbuddy 对知识库的理解提升 80%\n \n导读：\n1️⃣ 安装",
+        "cover_media": {
+          "id": "QXBpTWVkaWE6DAAFCgABHOR/Bj9acAAKAAIXUnPJippgAwAA",
+          "media_id": "2081928592561434624",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 46.43,
+                  "rgb": {
+                    "blue": 223,
+                    "green": 221,
+                    "red": 221
+                  }
+                },
+                {
+                  "percentage": 24.68,
+                  "rgb": {
+                    "blue": 75,
+                    "green": 72,
+                    "red": 68
+                  }
+                },
+                {
+                  "percentage": 7.69,
+                  "rgb": {
+                    "blue": 174,
+                    "green": 200,
+                    "red": 78
+                  }
+                },
+                {
+                  "percentage": 3.26,
+                  "rgb": {
+                    "blue": 193,
+                    "green": 45,
+                    "red": 85
+                  }
+                },
+                {
+                  "percentage": 3.03,
+                  "rgb": {
+                    "blue": 214,
+                    "green": 115,
+                    "red": 147
+                  }
+                }
+              ]
+            },
+            "original_img_height": 793,
+            "original_img_url": "https://pbs.twimg.com/media/HOR_Bj9acAAD5Jh.jpg",
+            "original_img_width": 1983
+          },
+          "media_key": "3_2081928592561434624"
+        },
+        "content": {
+          "blocks": [
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "bl13t",
+              "text": "我为什么不在 Workbuddy 中用原生 AI 的方式去操作 Obsidian 知识库，而是选择在 Workbuddy 中安装 Obsidian skill 的方式去操作？看完这篇文章你也能让你的 Workbuddy 对知识库的理解提升 80%",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 0,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "c68lq",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "co6t5",
+              "text": "导读：",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 1,
+                  "length": 3,
+                  "offset": 0
+                },
+                {
+                  "key": 2,
+                  "length": 3,
+                  "offset": 28
+                },
+                {
+                  "key": 3,
+                  "length": 3,
+                  "offset": 48
+                },
+                {
+                  "key": 4,
+                  "length": 3,
+                  "offset": 67
+                },
+                {
+                  "key": 5,
+                  "length": 3,
+                  "offset": 84
+                },
+                {
+                  "key": 6,
+                  "length": 3,
+                  "offset": 101
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "5kjgl",
+              "text": "1️⃣ 安装 Obsidian skill， 1 分钟\n2️⃣ 自动识别本地知识库， 1 分钟\n3️⃣ 补充 Cli 能力， 3分钟\n4️⃣ 验证读取能力， 1 分钟\n5️⃣ 验证写入能力， 1 分钟\n6️⃣ Workbuddy 直接操作本地文件和使用 Obsidian skill 有什么区别？ 10 秒",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 7,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "5si93",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 8,
+                  "length": 3,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "8jc84",
+              "text": "1️⃣  安装 Obsidian skill",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "4nhki",
+              "text": "打开 Workbuddy，左侧列选择 【专家·技能·连接器】",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "d0fql",
+              "text": "点击右侧的【技能】",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 9,
+                  "length": 1,
+                  "offset": 5
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "edcej",
+              "text": "点击搜索框🔍输入“Obsidian”",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9fuav",
+              "text": "点击【推荐】",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "b6rq2",
+              "text": "选择官方 logo 的 “obsidian”  进去安装即可",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 10,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "1logo",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 11,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "8br70",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 12,
+                  "length": 3,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "akto",
+              "text": "2️⃣   自动识别本地知识库",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "ceo4m",
+              "text": "点击【新建任务】",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 13,
+                  "length": 1,
+                  "offset": 10
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "dc4pt",
+              "text": "点击对话框左下角的 ➕ 号",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "4eegr",
+              "text": "选择【技能】",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "47nj1",
+              "text": "在技能列表中选择【obsidian】",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "8kg7r",
+              "text": "输入“我应该如何使用这个技能呢“",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 14,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "4lr7f",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "5knf3",
+              "text": "可以在下图中中 ❶ 看到这个技能可以识别到我们目前 Obsidian 打开了哪个知识库以及我们的电脑上到底有哪些知识库",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "fcb48",
+              "text": "同时可以在 ❷ 看到我们底层最需要的一个工具出现了",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 15,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "2eja0",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 16,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "aam90",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 17,
+                  "length": 3,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "7iag3",
+              "text": "3️⃣ 补充 Cli 能力",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "egl53",
+              "text": "让 AI 帮助我们安装好我们所需的CLI 能力，直接输入",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "887ta",
+              "text": "帮我安装好 obsidian-cli",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 18,
+                  "length": 2,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "elian",
+              "text": "⚠️ 如果只是创建和搜索笔记的话，Workbuddy 同样能做到，CLI 的真正优势在操作移动笔记的保持我们的双链是完整的，不会产生短链的情况，让我们的笔记一直都处于有关系的状态。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 19,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "775v9",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 20,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "3m0tf",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 21,
+                  "length": 3,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "94ae4",
+              "text": "4️⃣ 验证读取能力",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "22u3n",
+              "text": "此时我们便拥有了一个从底层去操作 Obsidian vault的能力，我们开始验证读取能力，直接在输入框中输入：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "fltd3",
+              "text": "只读取 OrbitOS,搜索标题或正文中包含“WorkBuddy”的笔记，返回文件路径和每篇笔记的一句话摘要。不要修改任何文件。",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 22,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "3om8n",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "q3uf",
+              "text": "此时可以看到他读取的都是我所希望读取的知识库，除此之外我并没有在 Workbuddy 中设定工作目录，所以他都是自行寻找的",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 23,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "2gkps",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 24,
+                  "length": 3,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "8vv9g",
+              "text": "5️⃣ 验证写入能力",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "ben5q",
+              "text": "验证完读取能力之后，我们开始验证数据写入的能力，我们在输入框中输入下面的提示词：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "6sjmj",
+              "text": "请在 OrbitOS 的 00_收件箱 中创建一篇 WorkBuddy-Obsidian-测试.md。  添加创建日期，并写入一句“WorkBuddy 已成功连接 OrbitOS”。创建后重新读取文件进行验证，不要修改其他文件。",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "5ac7c",
+              "text": "同样的，我们也设定好所需操作的知识库，也并不给定具体的路径",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 25,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "e02bg",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 26,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "fdj7s",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 27,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "fl43g",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 28,
+                  "length": 3,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "6cl7a",
+              "text": "6️⃣ Workbuddy 直接操作本地文件和使用 Obsidian skill 有什么区别？",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "fackd",
+              "text": "前者是把知识库当做了 Workbuddy 的工作目录了，本质上对于 Workbuddy 而言只是一堆 md 文件，是以文件形式去理解知识库，并无法主动性的跨库操作。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7s7l3",
+              "text": "\n而后者是从 Obsidian 的设计出发，从工作方式去理解，你并不需要把知识库设定为工作目录即可操作。当你安装完毕之后，它可以自动的去识别本机有多少知识库，哪些是打开状态，正在操作状态，也能在合适的时间使用底层 cli 去操作知识库。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 29,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "8uk18",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9m3d",
+              "text": "总结",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "fh4a1",
+              "text": "所以我们最后总结下，直接用 Workbuddy 操作的话只是把知识库当做普通文件夹，而使用 Obsidian skill 的话是按照 Obsidian 的方式去操作知识库。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "11as3",
+              "text": "",
+              "type": "unstyled"
+            }
+          ],
+          "entityMap": [
+            {
+              "key": "12",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/32-20e3.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "8",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/31-20e3.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "19",
+              "value": {
+                "data": {
+                  "entityKey": "3a76e68d-9c3f-49be-8664-8567b25b7dc4",
+                  "mediaItems": [
+                    {
+                      "localMediaId": "7",
+                      "mediaCategory": "DraftTweetImage",
+                      "mediaId": "2081713839184429056"
+                    }
+                  ]
+                },
+                "mutability": "Immutable",
+                "type": "MEDIA"
+              }
+            },
+            {
+              "key": "23",
+              "value": {
+                "data": {
+                  "entityKey": "3903e63c-2a4f-4a13-b153-80c622cc4ec3"
+                },
+                "mutability": "Immutable",
+                "type": "DIVIDER"
+              }
+            },
+            {
+              "key": "4",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/34-20e3.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "15",
+              "value": {
+                "data": {
+                  "entityKey": "65730642-82cc-410c-bb72-3907fc6f22e9",
+                  "mediaItems": [
+                    {
+                      "localMediaId": "5",
+                      "mediaCategory": "DraftTweetImage",
+                      "mediaId": "2081713620380225536"
+                    }
+                  ]
+                },
+                "mutability": "Immutable",
+                "type": "MEDIA"
+              }
+            },
+            {
+              "key": "11",
+              "value": {
+                "data": {
+                  "entityKey": "322c620b-aa81-4fb9-af4e-0fec95571de3"
+                },
+                "mutability": "Immutable",
+                "type": "DIVIDER"
+              }
+            },
+            {
+              "key": "9",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/1f50d.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "22",
+              "value": {
+                "data": {
+                  "entityKey": "f3bd4c4f-5848-482b-8d8c-6809982b650d",
+                  "mediaItems": [
+                    {
+                      "localMediaId": "9",
+                      "mediaCategory": "DraftTweetImage",
+                      "mediaId": "2081713911515238401"
+                    }
+                  ]
+                },
+                "mutability": "Immutable",
+                "type": "MEDIA"
+              }
+            },
+            {
+              "key": "26",
+              "value": {
+                "data": {
+                  "entityKey": "7c3d6b57-a4a1-4985-b58e-f9297f96c3c7",
+                  "mediaItems": [
+                    {
+                      "localMediaId": "13",
+                      "mediaCategory": "DraftTweetImage",
+                      "mediaId": "2081714029479993345"
+                    }
+                  ]
+                },
+                "mutability": "Immutable",
+                "type": "MEDIA"
+              }
+            },
+            {
+              "key": "13",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/2795.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "24",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/35-20e3.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "16",
+              "value": {
+                "data": {
+                  "entityKey": "a960e99a-3162-4de3-9901-208db3db3d79"
+                },
+                "mutability": "Immutable",
+                "type": "DIVIDER"
+              }
+            },
+            {
+              "key": "5",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/35-20e3.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "10",
+              "value": {
+                "data": {
+                  "entityKey": "789a46dc-52bd-4a26-9ee7-340c9e228b43",
+                  "mediaItems": [
+                    {
+                      "localMediaId": "1",
+                      "mediaCategory": "DraftTweetImage",
+                      "mediaId": "2081713443934220288"
+                    }
+                  ]
+                },
+                "mutability": "Immutable",
+                "type": "MEDIA"
+              }
+            },
+            {
+              "key": "21",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/34-20e3.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "6",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/36-20e3.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "1",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/31-20e3.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "17",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/33-20e3.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "25",
+              "value": {
+                "data": {
+                  "entityKey": "6a42bff8-a5ec-4c43-864e-af9d8e4ba949",
+                  "mediaItems": [
+                    {
+                      "localMediaId": "11",
+                      "mediaCategory": "DraftTweetImage",
+                      "mediaId": "2081713995975946240"
+                    }
+                  ]
+                },
+                "mutability": "Immutable",
+                "type": "MEDIA"
+              }
+            },
+            {
+              "key": "14",
+              "value": {
+                "data": {
+                  "entityKey": "b431b764-dbf6-4827-932e-14289b269b7c",
+                  "mediaItems": [
+                    {
+                      "localMediaId": "3",
+                      "mediaCategory": "DraftTweetImage",
+                      "mediaId": "2081713520195104768"
+                    }
+                  ]
+                },
+                "mutability": "Immutable",
+                "type": "MEDIA"
+              }
+            },
+            {
+              "key": "0",
+              "value": {
+                "data": {
+                  "entityKey": "83478f4e-2e64-4ac2-8892-2bc7b09eddb6"
+                },
+                "mutability": "Immutable",
+                "type": "DIVIDER"
+              }
+            },
+            {
+              "key": "20",
+              "value": {
+                "data": {
+                  "entityKey": "6ca13cf7-9ea8-402f-9db0-4c2b7f86e951"
+                },
+                "mutability": "Immutable",
+                "type": "DIVIDER"
+              }
+            },
+            {
+              "key": "27",
+              "value": {
+                "data": {
+                  "entityKey": "98cb1d37-1dbc-4275-8685-1d276a400d3f"
+                },
+                "mutability": "Immutable",
+                "type": "DIVIDER"
+              }
+            },
+            {
+              "key": "2",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/32-20e3.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "18",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/26a0.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "7",
+              "value": {
+                "data": {
+                  "entityKey": "497b0065-0b28-40a2-a23a-ebc6f873f569"
+                },
+                "mutability": "Immutable",
+                "type": "DIVIDER"
+              }
+            },
+            {
+              "key": "29",
+              "value": {
+                "data": {
+                  "entityKey": "8eb10a2f-9f90-4076-be2d-680b5b2bd57a"
+                },
+                "mutability": "Immutable",
+                "type": "DIVIDER"
+              }
+            },
+            {
+              "key": "3",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/33-20e3.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            },
+            {
+              "key": "28",
+              "value": {
+                "data": {
+                  "url": "https://abs.twimg.com/emoji/v2/svg/36-20e3.svg"
+                },
+                "mutability": "Immutable",
+                "type": "TWEMOJI"
+              }
+            }
+          ]
+        },
+        "media_entities": [
+          {
+            "id": "QXBpTWVkaWE6DAAFCgABHOO7giLbEAAKAAIXUnPJippgAwAA",
+            "media_id": "2081713620380225536",
+            "media_info": {
+              "__typename": "ApiImage",
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 82.73,
+                    "rgb": {
+                      "blue": 250,
+                      "green": 250,
+                      "red": 250
+                    }
+                  },
+                  {
+                    "percentage": 7.3,
+                    "rgb": {
+                      "blue": 136,
+                      "green": 25,
+                      "red": 51
+                    }
+                  },
+                  {
+                    "percentage": 2.85,
+                    "rgb": {
+                      "blue": 38,
+                      "green": 5,
+                      "red": 10
+                    }
+                  },
+                  {
+                    "percentage": 2.55,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 201,
+                      "red": 244
+                    }
+                  },
+                  {
+                    "percentage": 1.39,
+                    "rgb": {
+                      "blue": 73,
+                      "green": 13,
+                      "red": 21
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 2530,
+              "original_img_url": "https://pbs.twimg.com/media/HOO7giLbEAATECJ.jpg",
+              "original_img_width": 3340
+            },
+            "media_key": "3_2081713620380225536"
+          },
+          {
+            "id": "QXBpTWVkaWE6DAAFCgABHOO7WQ3asAAKAAIXUnPJippgAwAA",
+            "media_id": "2081713443934220288",
+            "media_info": {
+              "__typename": "ApiImage",
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 83,
+                    "rgb": {
+                      "blue": 250,
+                      "green": 250,
+                      "red": 250
+                    }
+                  },
+                  {
+                    "percentage": 6.95,
+                    "rgb": {
+                      "blue": 130,
+                      "green": 23,
+                      "red": 45
+                    }
+                  },
+                  {
+                    "percentage": 3.12,
+                    "rgb": {
+                      "blue": 39,
+                      "green": 6,
+                      "red": 10
+                    }
+                  },
+                  {
+                    "percentage": 1.61,
+                    "rgb": {
+                      "blue": 191,
+                      "green": 190,
+                      "red": 240
+                    }
+                  },
+                  {
+                    "percentage": 1.42,
+                    "rgb": {
+                      "blue": 72,
+                      "green": 16,
+                      "red": 24
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 2530,
+              "original_img_url": "https://pbs.twimg.com/media/HOO7WQ3asAAWL7h.jpg",
+              "original_img_width": 3340
+            },
+            "media_key": "3_2081713443934220288"
+          },
+          {
+            "id": "QXBpTWVkaWE6DAAFCgABHOO7as9bcAAKAAIXUnPJippgAwAA",
+            "media_id": "2081713520195104768",
+            "media_info": {
+              "__typename": "ApiImage",
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 82.1,
+                    "rgb": {
+                      "blue": 250,
+                      "green": 250,
+                      "red": 250
+                    }
+                  },
+                  {
+                    "percentage": 5.96,
+                    "rgb": {
+                      "blue": 147,
+                      "green": 38,
+                      "red": 72
+                    }
+                  },
+                  {
+                    "percentage": 2.96,
+                    "rgb": {
+                      "blue": 88,
+                      "green": 15,
+                      "red": 25
+                    }
+                  },
+                  {
+                    "percentage": 2.74,
+                    "rgb": {
+                      "blue": 41,
+                      "green": 5,
+                      "red": 11
+                    }
+                  },
+                  {
+                    "percentage": 1.39,
+                    "rgb": {
+                      "blue": 198,
+                      "green": 194,
+                      "red": 247
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 2558,
+              "original_img_url": "https://pbs.twimg.com/media/HOO7as9bcAAP9C_.jpg",
+              "original_img_width": 3368
+            },
+            "media_key": "3_2081713520195104768"
+          },
+          {
+            "id": "QXBpTWVkaWE6DAAFCgABHOO7tRSaQAAKAAIXUnPJippgAwAA",
+            "media_id": "2081713839184429056",
+            "media_info": {
+              "__typename": "ApiImage",
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 85.33,
+                    "rgb": {
+                      "blue": 250,
+                      "green": 250,
+                      "red": 250
+                    }
+                  },
+                  {
+                    "percentage": 7.3,
+                    "rgb": {
+                      "blue": 136,
+                      "green": 25,
+                      "red": 51
+                    }
+                  },
+                  {
+                    "percentage": 2.85,
+                    "rgb": {
+                      "blue": 38,
+                      "green": 5,
+                      "red": 10
+                    }
+                  },
+                  {
+                    "percentage": 1.96,
+                    "rgb": {
+                      "blue": 195,
+                      "green": 144,
+                      "red": 134
+                    }
+                  },
+                  {
+                    "percentage": 1.39,
+                    "rgb": {
+                      "blue": 73,
+                      "green": 13,
+                      "red": 21
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 2530,
+              "original_img_url": "https://pbs.twimg.com/media/HOO7tRSaQAAKyRm.jpg",
+              "original_img_width": 3340
+            },
+            "media_key": "3_2081713839184429056"
+          },
+          {
+            "id": "QXBpTWVkaWE6DAAFCgABHOO74WMaIAEKAAIXUnPJippgAwAA",
+            "media_id": "2081714029479993345",
+            "media_info": {
+              "__typename": "ApiImage",
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 83.11,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 7.88,
+                    "rgb": {
+                      "blue": 140,
+                      "green": 36,
+                      "red": 45
+                    }
+                  },
+                  {
+                    "percentage": 2.78,
+                    "rgb": {
+                      "blue": 37,
+                      "green": 5,
+                      "red": 9
+                    }
+                  },
+                  {
+                    "percentage": 2.09,
+                    "rgb": {
+                      "blue": 203,
+                      "green": 151,
+                      "red": 139
+                    }
+                  },
+                  {
+                    "percentage": 1.26,
+                    "rgb": {
+                      "blue": 72,
+                      "green": 12,
+                      "red": 20
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 2162,
+              "original_img_url": "https://pbs.twimg.com/media/HOO74WMaIAEt66l.jpg",
+              "original_img_width": 3296
+            },
+            "media_key": "3_2081714029479993345"
+          },
+          {
+            "id": "QXBpTWVkaWE6DAAFCgABHOO7xeva0AEKAAIXUnPJippgAwAA",
+            "media_id": "2081713911515238401",
+            "media_info": {
+              "__typename": "ApiImage",
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 85.33,
+                    "rgb": {
+                      "blue": 250,
+                      "green": 250,
+                      "red": 250
+                    }
+                  },
+                  {
+                    "percentage": 7.3,
+                    "rgb": {
+                      "blue": 136,
+                      "green": 25,
+                      "red": 51
+                    }
+                  },
+                  {
+                    "percentage": 2.85,
+                    "rgb": {
+                      "blue": 38,
+                      "green": 5,
+                      "red": 10
+                    }
+                  },
+                  {
+                    "percentage": 1.96,
+                    "rgb": {
+                      "blue": 195,
+                      "green": 144,
+                      "red": 134
+                    }
+                  },
+                  {
+                    "percentage": 1.39,
+                    "rgb": {
+                      "blue": 73,
+                      "green": 13,
+                      "red": 21
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 2530,
+              "original_img_url": "https://pbs.twimg.com/media/HOO7xeva0AER9L8.jpg",
+              "original_img_width": 3340
+            },
+            "media_key": "3_2081713911515238401"
+          },
+          {
+            "id": "QXBpTWVkaWE6DAAFCgABHOO72ZYa8AAKAAIXUnPJippgAwAA",
+            "media_id": "2081713995975946240",
+            "media_info": {
+              "__typename": "ApiImage",
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 82.75,
+                    "rgb": {
+                      "blue": 250,
+                      "green": 250,
+                      "red": 250
+                    }
+                  },
+                  {
+                    "percentage": 6.96,
+                    "rgb": {
+                      "blue": 130,
+                      "green": 23,
+                      "red": 45
+                    }
+                  },
+                  {
+                    "percentage": 3.12,
+                    "rgb": {
+                      "blue": 39,
+                      "green": 6,
+                      "red": 10
+                    }
+                  },
+                  {
+                    "percentage": 1.95,
+                    "rgb": {
+                      "blue": 183,
+                      "green": 182,
+                      "red": 238
+                    }
+                  },
+                  {
+                    "percentage": 1.41,
+                    "rgb": {
+                      "blue": 73,
+                      "green": 13,
+                      "red": 21
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 2530,
+              "original_img_url": "https://pbs.twimg.com/media/HOO72ZYa8AAo1t5.jpg",
+              "original_img_width": 3340
+            },
+            "media_key": "3_2081713995975946240"
+          }
+        ]
+      },
+      "twitter_card": "tweet",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

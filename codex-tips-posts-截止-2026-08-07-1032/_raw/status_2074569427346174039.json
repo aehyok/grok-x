@@ -1,0 +1,807 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/aparnadhinak/status/2074569427346174039",
+    "id": "2074569427346174039",
+    "text": "",
+    "raw_text": {
+      "text": "https://t.co/QchxDeDgMH",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "aparnadhinak",
+      "url": "https://x.com/aparnadhinak",
+      "id": "1202244246",
+      "followers": 11500,
+      "following": 1751,
+      "likes": 8764,
+      "media_count": 303,
+      "name": "Aparna Dhinakaran",
+      "description": "founder @arizeai. I post about agents and evals. previously: @uber, @ycombinator alum",
+      "raw_description": {
+        "text": "founder @arizeai. I post about agents and evals. previously: @uber, @ycombinator alum",
+        "facets": []
+      },
+      "location": "Berkeley, CA",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1202244246/1780277446",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1258117513872728064/c5A0LbF5_200x200.jpg",
+      "joined": "Wed Feb 20 21:56:29 +0000 2013",
+      "protected": false,
+      "website": {
+        "url": "http://www.arize.com",
+        "display_url": "arize.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 8,
+    "retweets": 29,
+    "likes": 268,
+    "bookmarks": 560,
+    "quotes": 6,
+    "created_at": "Tue Jul 07 19:01:09 +0000 2026",
+    "created_timestamp": 1783450869,
+    "possibly_sensitive": false,
+    "views": 61089,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-07-07T19:01:09.000Z",
+      "modified_at": "2026-07-07T19:01:09.000Z",
+      "id": "2074569015369056256",
+      "title": "How do you write a good skill? There's actual data now.",
+      "preview_text": "Skills were a top theme at AI Engineer World's Fair in San Francisco last week. Latent Space's AINews said so, Paul Bakaus ran a workshop on the dark art of building skills, and vendors from Anthropic",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHMpZrPcboAAKAAIAAAAAR6jKlgAA",
+        "media_id": "2074569177772564480",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 59.97,
+                "rgb": {
+                  "blue": 240,
+                  "green": 248,
+                  "red": 252
+                }
+              },
+              {
+                "percentage": 15.9,
+                "rgb": {
+                  "blue": 173,
+                  "green": 77,
+                  "red": 104
+                }
+              },
+              {
+                "percentage": 9.31,
+                "rgb": {
+                  "blue": 235,
+                  "green": 210,
+                  "red": 175
+                }
+              },
+              {
+                "percentage": 7.75,
+                "rgb": {
+                  "blue": 151,
+                  "green": 232,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 2.91,
+                "rgb": {
+                  "blue": 153,
+                  "green": 108,
+                  "red": 120
+                }
+              }
+            ]
+          },
+          "original_img_height": 427,
+          "original_img_url": "https://pbs.twimg.com/media/HMpZrPcboAABrr-.jpg",
+          "original_img_width": 1067
+        },
+        "media_key": "3_2074569177772564480"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 25,
+                "offset": 26
+              },
+              {
+                "key": 1,
+                "length": 8,
+                "offset": 101
+              },
+              {
+                "key": 2,
+                "length": 50,
+                "offset": 122
+              },
+              {
+                "key": 3,
+                "length": 10,
+                "offset": 190
+              },
+              {
+                "key": 4,
+                "length": 7,
+                "offset": 203
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "at1ul",
+            "text": "Skills were a top theme at AI Engineer World's Fair in San Francisco last week. Latent Space's AINews said so, Paul Bakaus ran a workshop on the dark art of building skills, and vendors from Anthropic to GitHub are now shipping official skills as product surface. But for most AI engineers, writing a good skill has been folklore: talks, tweets, and trial and error.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7c279",
+            "text": "That can now change. Three papers, one published in February and two in June, measured skills the way we measure everything else in this industry: run the tasks, score the results, compare the conditions. The result is a real rulebook for writing skills, with a bunch of counter-intuitive advice.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 23,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1uidf",
+            "text": "What counts as a skill?",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 35,
+                "offset": 366
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1lt0b",
+            "text": "As usual, it's worth making sure we're all talking about the same thing. For the purposes of this post, a skill is a folder of packaged domain knowledge that an agent loads on demand: instructions, vocabulary, sometimes scripts and resources. It sits on a spectrum of increasingly rich containers, from prompts to tools and a newly-coined \"recipe\". That last is from Roland Gavrilescu of Introspection who creates the new category, one level up from a skill: \"We moved from agent tools to agent skills. Recipes are a larger container\" that adds evals, judges, and the feedback signals that improve the system over time.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "m9bf",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 18,
+                "offset": 3
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4q65s",
+            "text": "The SkillsBench paper (arXiv:2602.12670, first published February 2026) has a formal definition: a skill is modular and reusable, carries procedural guidance, and is portable across models (that last stipulation turns out to be tricky!). A system prompt is none of those things, and RAG retrieval or a tool description is not a skill either. The authors of that paper suggest this analogy: models are CPUs, harnesses are operating systems, skills are applications.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "devr6",
+            "text": "So what did these three papers find out about what goes into a good skill? Five key things.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 45,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7o0ho",
+            "text": "1. Don't ask the model to write its own skill",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4n9d4",
+            "text": "It's very tempting to ask your agent to write the skill for you. SkillsBench tested exactly this, running every task under three conditions: no skills, expert-curated skills, and skills the model generated for itself. Curated skills raised pass rates substantially. Self-generated skills provided no benefit at all, landing 1.3 points below the no-skill baseline on average. The authors' conclusion: models cannot reliably author the procedural knowledge they benefit from consuming.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 14,
+                "offset": 292
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "a2ss1",
+            "text": "The failure modes are instructive. Models either wrote vague procedures (\"use pandas for data processing\" with no actual API patterns) or failed to recognize that specialized knowledge was needed in the first place. Expecting the model to learn also doesn't pay off: the skill-evolution paper SkillComposer (arXiv:2606.06079, June 2026) found uncontrolled skill extraction from logs of previous attempts at trying to solve the same problem dragged coding performance below the no-skill baseline.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 27,
+                "offset": 48
+              },
+              {
+                "key": 10,
+                "length": 11,
+                "offset": 94
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "adj14",
+            "text": "This is the measured version of something Bakaus told Latent Space at AIEWF. His design skill, Impeccable, works by taking words the model loosely understands and imbuing them with precise professional meaning. Ask an unassisted model to make a page \"bolder\" and you get gradients and neon. Impeccable defines boldness through hierarchy, scale, and decisive typography. \"An adjective with nothing behind it is just a nice apostrophe,\" Bakaus said. \"You really have to tell the agent what you mean.\" The expert vocabulary is the value of the skill, and the data now shows the model cannot supply it for itself. Gavrilescu put the limit plainly: \"You cannot simply capture all of that knowledge in a Markdown file\" without a human extracting it first.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "10mv",
+            "text": "So you have to write it yourself. How big should it be?",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 45,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "504h4",
+            "text": "2. Writing an exhaustive skill is not the way",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "49er1",
+            "text": "SkillsBench found that focused skills with two to three files outperformed both larger bundles of files and exhaustive documentation. Comprehensive skills, the ones that try to document everything, actually lowered pass rates below the no-skill baseline. Detailed but scoped beat encyclopedic every time.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9f89o",
+            "text": "This matches how the best skill authors already work. Bakaus described the design question as finding \"the exact level of control\": not everything belongs at the skill abstraction level, direct manipulation is still faster for small adjustments, and open-ended prompting is still useful during exploration. A skill is useful when it encodes a judgment the model repeatedly gets wrong, not when it transcribes the manual.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e8eud",
+            "text": "The instinct to be thorough is the enemy. Every paragraph you add competes for the model's attention with every other paragraph, and past a surprisingly low threshold the additions detract. Which raises the question of what happens when you scale that problem up from one skill to a library of them.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 41,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5gm40",
+            "text": "3. Loading more skills makes agents worse",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 35,
+                "offset": 69
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8k6rb",
+            "text": "If one skill helps, surely loading your whole library helps more? The generative skill composition paper, confusingly also named SkillComposer (arXiv:2606.32025, June 30, 2026), tested this directly. Injecting an entire 196-skill library into context scored 16 points worse on coding tasks than selecting a small, relevant subset, while burning 23% more input tokens. Flooding the context fails on accuracy and cost simultaneously.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "flhcu",
+            "text": "Being selective works much better. The paper's approach treats skill choice as a composition problem: which skills, how many, in what order. Their composer, a tiny 3.9 million parameter model that does nothing but emit an ordered list of skill IDs, raised pass rates by 23.1 points over the no-skill baseline on GPT-5.2-Codex and got within reach of an \"oracle\": something that always picks the perfect skills. Bakaus arrived at the same architecture from the practitioner side, building routing inside Impeccable that directs a task to the relevant instructions, which he compares to a mixture-of-experts model. One team routes with a dedicated model outside the skill, one routes inside it, and both exist for the same reason: skills are only as good as the mechanism deciding when to load them.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bhs1k",
+            "text": "Okay, so you write it yourself, you keep it short, you don't write too many skills. Now your skill still has to survive contact with the runtime.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 45,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "30hsf",
+            "text": "4. Test in every harness you claim to support",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5fd1e",
+            "text": "Skills are portable in format (everybody accepts a SKILL.md file) but, it turns out, not portable in behavior. SkillsBench evaluated the same skills across multiple harnesses and found the gains ranged from 4.1 to 25.7 points depending on the model-harness configuration. Claude Code showed the highest skill utilization. Codex CLI frequently neglected skills entirely: it acknowledged the skill's content, then implemented its own solution anyway.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 54,
+                "offset": 282
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8jkcf",
+            "text": "This finding will come as no surprise to expert skill writers. Bakaus noted that Codex and Claude don't handle subagents or permissions the same way, so a skill targeting Claude Code, Cursor, GitHub Copilot, and Codex can't assume identical capabilities. Impeccable's answer is that it ships different compiled builds per target harness. Skills for models with known bad habits carry extra rules banning those specific habits. Portability isn't a property you declare in a compatibility field: it's an engineering result you produce per target, and the harness is as much a part of your skill's behavior as the skill file itself.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "egb7q",
+            "text": "Write them yourself, keep them short, don't write too many, ship one per harness. But what should the skill be about?",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 40,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "a0pm",
+            "text": "5. Aim skills where the model is weakest",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cfm18",
+            "text": "SkillsBench measured skill gains by domain, and they ranged from 4.5 points in software engineering to 51.9 points in healthcare, with manufacturing close behind. Skills helped least in software, where models are already saturated with pretraining data, and most in the domains where that coverage is thin.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4363l",
+            "text": "SkillsBench's authors also crawled the public skill ecosystem and found 38% of all skills are software development skills. The community is building skills predominantly where they help least. If you're deciding where to invest skill-writing effort, the arbitrage is in the domains models don't already know: your company's internal conventions, regulated industries, specialized professional workflows, anywhere the model's pretraining runs shallow. The generic coding-workflow skill is a crowded trade with a small edge. The skill encoding how your compliance team reviews vendor contracts is not.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rf0u",
+            "text": "All five findings share a dependency: every one of them was discovered by careful measurement, which means you can't apply them blind.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 50,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2jfj3",
+            "text": "You can't know your skill works without testing it",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 25,
+                "offset": 54
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ebo94",
+            "text": "Every result above came from the same method, and it's one you can run yourself. Take a set of tasks. Run them twice, once with the skill loaded and once without, holding everything else constant. Score both runs the same way and look at the difference. That's it. The scoring in these papers used automated checks, a script that verifies the output and returns pass or fail with no human judgment call, which is what makes the comparison trustworthy and repeatable.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7qvrl",
+            "text": "The reason this matters is that skills can hurt. In SkillsBench, 16 of 84 tasks scored worse with skills loaded than without. You will not detect that by eyeballing outputs, because the skill-loaded output usually looks more professional even when it passes less often. Only the with-versus-without comparison catches it.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 9,
+                "offset": 489
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3s0lv",
+            "text": "The skill-evolution paper takes the same idea one step further and uses it as a quality gate: a change to a skill is only accepted if it raises the pass rate on the task suite by a meaningful margin. Keep what measurably helps, discard what doesn't. That turns skill maintenance from vibes into a loop, and it's the same loop Gavrilescu's recipe concept describes, with evals and feedback signals wrapped around the skill as a first-class part of the artifact. These are the kinds of evals Arize AX helps you build.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 41,
+                "offset": 158
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f478k",
+            "text": "This leaves some gaps. How do you score domains where no automated check exists, where \"did the design get bolder\" has no pass/fail? And how would you measure the failure mode Bakaus flagged at AIEWF, where \"if everybody uses the same skill to do frontend design work, everything ends up looking the same\"? A skill that collapses output diversity across its users is failing even when each individual output scores well. Both of those need evaluation approaches the field hasn't standardized yet.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 24,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "98ql1",
+            "text": "The folklore era is over",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7m1ge",
+            "text": "Five months ago, writing a good skill meant apprenticing yourself to scattered workshop talks. Now there's a checklist backed by tens of thousands of experiments: write it yourself, keep it small, don't write too many, test per harness, aim at the model's weak domains, and verify every change with an eval.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8n91b",
+            "text": "The people who ran these measurements did the hard part. Now you have the data; go do it right.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 15,
+                  "text": "seldo",
+                  "toIndex": 21
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Italic"
+              }
+            ],
+            "key": "bt877",
+            "text": "co-authored by @seldo ",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "url": "https://github.com/pbakaus/impeccable"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2606.06079"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "url": "https://www.a16z.news/p/impeccable-by-design"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "url": "https://www.latent.space/p/skill-engineering-design"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2606.32025"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "url": "https://www.latent.space/p/skill-engineering-design"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "url": "https://github.com/benchflow-ai/skillsbench"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "url": "https://www.latent.space/p/autoresearch-introspection"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "url": "https://impeccable.style/"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "entityKey": "1bbe85a9-b51b-4fd0-b8f3-bff921e85f06",
+                "mediaItems": [
+                  {
+                    "localMediaId": "1",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074569052979429376"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "url": "https://arize.com/ax?utm_source=lvoss&utm_medium=linkedin&utm_campaign=devrel&utm_content=How%20do%20you%20write%20a%20good%20skill%3F%20There%27s%20actual%20data%20now."
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "url": "https://www.ai.engineer/worldsfair/2026"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "url": "https://www.latent.space/p/skill-engineering-design"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2602.12670"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "url": "https://github.com/anthropics/skills"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMpZj+jbgAAKAAIAAAAAR6jKlgAA",
+          "media_id": "2074569052979429376",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 77.24,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 250,
+                    "red": 248
+                  }
+                },
+                {
+                  "percentage": 11.74,
+                  "rgb": {
+                    "blue": 184,
+                    "green": 137,
+                    "red": 6
+                  }
+                },
+                {
+                  "percentage": 7.57,
+                  "rgb": {
+                    "blue": 219,
+                    "green": 243,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 2.77,
+                  "rgb": {
+                    "blue": 148,
+                    "green": 136,
+                    "red": 131
+                  }
+                },
+                {
+                  "percentage": 0.2,
+                  "rgb": {
+                    "blue": 82,
+                    "green": 152,
+                    "red": 252
+                  }
+                }
+              ]
+            },
+            "original_img_height": 892,
+            "original_img_url": "https://pbs.twimg.com/media/HMpZj-jbgAAbqKk.jpg",
+            "original_img_width": 1488
+          },
+          "media_key": "3_2074569052979429376"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

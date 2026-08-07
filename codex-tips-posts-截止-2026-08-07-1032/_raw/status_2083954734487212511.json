@@ -1,0 +1,192 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/MarcosHernanz/status/2083954734487212511",
+    "id": "2083954734487212511",
+    "text": "After doing ~60B tokens, this is my full AGENTS.md",
+    "raw_text": {
+      "text": "After doing ~60B tokens, this is my full AGENTS.md https://t.co/VVXIwtSAcO",
+      "display_text_range": [
+        0,
+        50
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            51,
+            74
+          ],
+          "id": "2083954729399500800",
+          "display": "pic.x.com/VVXIwtSAcO",
+          "original": "https://t.co/VVXIwtSAcO",
+          "replacement": "https://x.com/MarcosHernanz/status/2083954734487212511/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "MarcosHernanz",
+      "url": "https://x.com/MarcosHernanz",
+      "id": "1717163021519175680",
+      "followers": 3111,
+      "following": 278,
+      "likes": 4880,
+      "media_count": 178,
+      "name": "Marcos Hernanz",
+      "description": "Next.js @vercel",
+      "raw_description": {
+        "text": "Next.js @vercel",
+        "facets": []
+      },
+      "location": "San Francisco, CA",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1717163021519175680/1773344009",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2032179052430155776/gZ4WUoDc_200x200.jpg",
+      "joined": "Wed Oct 25 12:56:20 +0000 2023",
+      "protected": false,
+      "website": {
+        "url": "https://github.com/marcoshernanz",
+        "display_url": "github.com/marcoshernanz"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 152,
+    "retweets": 519,
+    "likes": 10801,
+    "bookmarks": 20488,
+    "quotes": 65,
+    "created_at": "Sun Aug 02 16:35:01 +0000 2026",
+    "created_timestamp": 1785688501,
+    "possibly_sensitive": false,
+    "views": 1956950,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2083954729399500800",
+          "url": "https://pbs.twimg.com/media/HOuxyP3aQAAlqYd.jpg?name=orig",
+          "width": 1200,
+          "height": 733
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2083954729399500800",
+          "url": "https://pbs.twimg.com/media/HOuxyP3aQAAlqYd.jpg?name=orig",
+          "width": 1200,
+          "height": 733
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/MarcosHernanz/status/2083011475346510240",
+      "id": "2083011475346510240",
+      "text": "I always add this to my AGENTS.md",
+      "raw_text": {
+        "text": "I always add this to my AGENTS.md https://t.co/owCKiM9p4v",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              34,
+              57
+            ],
+            "id": "2083011425522323456",
+            "display": "pic.x.com/owCKiM9p4v",
+            "original": "https://t.co/owCKiM9p4v",
+            "replacement": "https://x.com/MarcosHernanz/status/2083011475346510240/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "MarcosHernanz",
+        "url": "https://x.com/MarcosHernanz",
+        "id": "1717163021519175680",
+        "followers": 3111,
+        "following": 278,
+        "likes": 4880,
+        "media_count": 178,
+        "name": "Marcos Hernanz",
+        "description": "Next.js @vercel",
+        "raw_description": {
+          "text": "Next.js @vercel",
+          "facets": []
+        },
+        "location": "San Francisco, CA",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1717163021519175680/1773344009",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2032179052430155776/gZ4WUoDc_200x200.jpg",
+        "joined": "Wed Oct 25 12:56:20 +0000 2023",
+        "protected": false,
+        "website": {
+          "url": "https://github.com/marcoshernanz",
+          "display_url": "github.com/marcoshernanz"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 88,
+      "retweets": 190,
+      "likes": 4873,
+      "bookmarks": 4911,
+      "quotes": 26,
+      "created_at": "Fri Jul 31 02:06:50 +0000 2026",
+      "created_timestamp": 1785463610,
+      "possibly_sensitive": false,
+      "views": 1583519,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2083011425522323456",
+            "url": "https://pbs.twimg.com/media/HOhX2vFWkAAKg4i.jpg?name=orig",
+            "width": 2080,
+            "height": 928
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2083011425522323456",
+            "url": "https://pbs.twimg.com/media/HOhX2vFWkAAKg4i.jpg?name=orig",
+            "width": 2080,
+            "height": 928
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter for Android",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

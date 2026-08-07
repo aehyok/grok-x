@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/0xSero/status/2084699762893463950",
+    "id": "2084699762893463950",
+    "text": "I have to tip my hat to Codex app, it has made me infinitely more productive and better as a human being. \n\n- It got my families greencards in a 3 month goal\n- It's started my non-profit \n- It's handled my taxes\n\nComputer + Chrome + Gmail + Calendar + Browser plugins + /goal <3",
+    "raw_text": {
+      "text": "I have to tip my hat to Codex app, it has made me infinitely more productive and better as a human being. \n\n- It got my families greencards in a 3 month goal\n- It's started my non-profit \n- It's handled my taxes\n\nComputer + Chrome + Gmail + Calendar + Browser plugins + /goal &lt;3 https://t.co/tEuwZmHywD",
+      "display_text_range": [
+        0,
+        281
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            282,
+            305
+          ],
+          "id": "2084699246792704000",
+          "display": "pic.x.com/tEuwZmHywD",
+          "original": "https://t.co/tEuwZmHywD",
+          "replacement": "https://x.com/0xSero/status/2084699762893463950/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "0xSero",
+      "url": "https://x.com/0xSero",
+      "id": "1341331548566654977",
+      "followers": 60879,
+      "following": 1339,
+      "likes": 13023,
+      "media_count": 3423,
+      "name": "0xSero",
+      "description": "something sweet to throw away",
+      "raw_description": {
+        "text": "something sweet to throw away",
+        "facets": []
+      },
+      "location": "San Francisco, CA",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1341331548566654977/1782951754",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1976266803211890688/JZffMMYs_200x200.jpg",
+      "joined": "Tue Dec 22 10:35:54 +0000 2020",
+      "protected": false,
+      "website": {
+        "url": "https://www.youtube.com/@0xSero",
+        "display_url": "youtube.com/@0xSero"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 45,
+    "retweets": 27,
+    "likes": 1225,
+    "bookmarks": 652,
+    "quotes": 6,
+    "created_at": "Tue Aug 04 17:55:29 +0000 2026",
+    "created_timestamp": 1785866129,
+    "possibly_sensitive": false,
+    "views": 73829,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2084699246792704000",
+          "url": "https://pbs.twimg.com/media/HO5W63SagAAr8gV.jpg?name=orig",
+          "width": 3456,
+          "height": 2164
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2084699246792704000",
+          "url": "https://pbs.twimg.com/media/HO5W63SagAAr8gV.jpg?name=orig",
+          "width": 3456,
+          "height": 2164
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

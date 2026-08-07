@@ -1,0 +1,115 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/aikangarooking/status/2076494215996215722",
+    "id": "2076494215996215722",
+    "text": "爆肝7天，我们开源了腾讯WorkBuddy蓝皮书！\n\n兄弟们，别浪费钱去买课了。我和4个好基友爆肝7天，把腾讯WorkBuddy从0到100的用法写成了一本蓝皮书。\n\n今天正式开源，MIT协议，永久免费。\n小白教程 + 进阶玩法 + 多场景实战案例，全都有。\n把它用透，你2026下半年会轻松很多🧵👇\n\n两个入口：\nGitHub（开源仓库）： http://github.com/AlephAITech/WorkBuddyGuide\n官网（workbuddy之家）： http://workbuddy.homes\n\n为什么要做这件事？\nWorkBuddy 3月刚上线，月访问量就突破885万，排到第一。\n但我文章评论区，至今还有人在问： \"WorkBuddy到底能用来干嘛？\"\n流量很大，真正能把AI变成生产力的人很少。 这个信息差，就是我们做蓝皮书的原因。\n\n这本蓝皮书里有什么：\n从0到1的小白入门教程\n进阶技巧与深度用法\n覆盖多个场景的实战案例\n手机端/电脑端阅读体验都做了优化\n看完就能直接上手，不用再到处翻教程，更不用去买课了。\n\n这次是5个人的联手： 刘聪NLP、摸鱼小李、苍何、甲木，加上我。\n南京、武汉、北京、杭州、昆明， 天南海北5个城市，靠一根网线连着肝了7天。\n\n最后：\nMIT协议，欢迎共创。\n\n你写的WorkBuddy教程、用法、场景都可以提交进来，会注明作者，GitHub永久留名。\n\n如果对你有帮助，顺手点个免费的Star⭐\n\n第一版肯定有不足，欢迎评论区提点建议呀😄。",
+    "raw_text": {
+      "text": "爆肝7天，我们开源了腾讯WorkBuddy蓝皮书！\n\n兄弟们，别浪费钱去买课了。我和4个好基友爆肝7天，把腾讯WorkBuddy从0到100的用法写成了一本蓝皮书。\n\n今天正式开源，MIT协议，永久免费。\n小白教程 + 进阶玩法 + 多场景实战案例，全都有。\n把它用透，你2026下半年会轻松很多🧵👇\n\n两个入口：\nGitHub（开源仓库）： https://t.co/NqThCNK9h4\n官网（workbuddy之家）： https://t.co/Aa8HFU6nIo\n\n为什么要做这件事？\nWorkBuddy 3月刚上线，月访问量就突破885万，排到第一。\n但我文章评论区，至今还有人在问： \"WorkBuddy到底能用来干嘛？\"\n流量很大，真正能把AI变成生产力的人很少。 这个信息差，就是我们做蓝皮书的原因。\n\n这本蓝皮书里有什么：\n从0到1的小白入门教程\n进阶技巧与深度用法\n覆盖多个场景的实战案例\n手机端/电脑端阅读体验都做了优化\n看完就能直接上手，不用再到处翻教程，更不用去买课了。\n\n这次是5个人的联手： 刘聪NLP、摸鱼小李、苍何、甲木，加上我。\n南京、武汉、北京、杭州、昆明， 天南海北5个城市，靠一根网线连着肝了7天。\n\n最后：\nMIT协议，欢迎共创。\n\n你写的WorkBuddy教程、用法、场景都可以提交进来，会注明作者，GitHub永久留名。\n\n如果对你有帮助，顺手点个免费的Star⭐\n\n第一版肯定有不足，欢迎评论区提点建议呀😄。",
+      "display_text_range": [
+        0,
+        633
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            158,
+            181
+          ],
+          "id": "2076494098467622913",
+          "display": "pic.x.com/MeiETvnCru",
+          "original": "https://t.co/MeiETvnCru",
+          "replacement": "https://x.com/aikangarooking/status/2076494215996215722/photo/1"
+        },
+        {
+          "type": "url",
+          "indices": [
+            172,
+            195
+          ],
+          "original": "https://t.co/NqThCNK9h4",
+          "replacement": "http://github.com/AlephAITech/WorkBuddyGuide",
+          "display": "github.com/AlephAITech/Wo…"
+        },
+        {
+          "type": "url",
+          "indices": [
+            213,
+            236
+          ],
+          "original": "https://t.co/Aa8HFU6nIo",
+          "replacement": "http://workbuddy.homes",
+          "display": "workbuddy.homes"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "aikangarooking",
+      "url": "https://x.com/aikangarooking",
+      "id": "1729844163963670528",
+      "followers": 3990,
+      "following": 232,
+      "likes": 177,
+      "media_count": 175,
+      "name": "袋鼠帝",
+      "description": "前高级开发、项目经理 ｜ 数字游民\n\nAI Top公众号「袋鼠帝AI客栈」主理人 ，6.2K Star开源项目cangjie-skill作者\n\n专注AI编程、Agent，工作流，AI知识库，实用工具 \n\n轻资产创业者，持续分享AI实践干货、经验、观点，把AI变成生产力",
+      "raw_description": {
+        "text": "前高级开发、项目经理 ｜ 数字游民\n\nAI Top公众号「袋鼠帝AI客栈」主理人 ，6.2K Star开源项目cangjie-skill作者\n\n专注AI编程、Agent，工作流，AI知识库，实用工具 \n\n轻资产创业者，持续分享AI实践干货、经验、观点，把AI变成生产力",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1729844163963670528/1767518105",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2007742560534777856/TIRBK2DG_200x200.jpg",
+      "joined": "Wed Nov 29 12:46:13 +0000 2023",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 16,
+    "retweets": 98,
+    "likes": 386,
+    "bookmarks": 460,
+    "quotes": 2,
+    "created_at": "Mon Jul 13 02:29:35 +0000 2026",
+    "created_timestamp": 1783909775,
+    "possibly_sensitive": false,
+    "views": 27744,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2076494098467622913",
+          "url": "https://pbs.twimg.com/media/HNEwYX1bkAE-PL3.jpg?name=orig",
+          "width": 1280,
+          "height": 544
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2076494098467622913",
+          "url": "https://pbs.twimg.com/media/HNEwYX1bkAE-PL3.jpg?name=orig",
+          "width": 1280,
+          "height": 544
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

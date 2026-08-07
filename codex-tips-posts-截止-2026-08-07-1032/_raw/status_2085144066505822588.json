@@ -1,0 +1,1932 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Hamburgerai/status/2085144066505822588",
+    "id": "2085144066505822588",
+    "text": "教程发出之后发现还挺多朋友会卡在生成速度太慢上\n\n卡半天，因为我发现codex自带的生图是串行的\n\n我在原有的skill基础上迭代了一个版本\n\n加入反代部分，原先codex只能线性生成，现在可以把自己反代成api生图，反代成功后skill自动应用生图\n\n10路并发生图，效率拉满\n\nhttps://github.com/Mr-funny/hbg-life-simulation",
+    "raw_text": {
+      "text": "教程发出之后发现还挺多朋友会卡在生成速度太慢上\n\n卡半天，因为我发现codex自带的生图是串行的\n\n我在原有的skill基础上迭代了一个版本\n\n加入反代部分，原先codex只能线性生成，现在可以把自己反代成api生图，反代成功后skill自动应用生图\n\n10路并发生图，效率拉满\n\nhttps://t.co/cFp4N2EQRJ https://t.co/Ls5n1ApWTU",
+      "display_text_range": [
+        0,
+        164
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            141,
+            164
+          ],
+          "original": "https://t.co/cFp4N2EQRJ",
+          "replacement": "https://github.com/Mr-funny/hbg-life-simulation",
+          "display": "github.com/Mr-funny/hbg-l…"
+        },
+        {
+          "type": "media",
+          "indices": [
+            165,
+            188
+          ],
+          "id": "2085037815478554627",
+          "display": "pic.x.com/Ls5n1ApWTU",
+          "original": "https://t.co/Ls5n1ApWTU",
+          "replacement": "https://x.com/Hamburgerai/status/2085144066505822588/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Hamburgerai",
+      "url": "https://x.com/Hamburgerai",
+      "id": "1356090858454413314",
+      "followers": 2572,
+      "following": 222,
+      "likes": 4633,
+      "media_count": 280,
+      "name": "蛋黄堡",
+      "description": "👨‍💻Vibe Coding/产品经理\n🔥learn in public/分享即学习\n🎮Life is a game/做点有意思的",
+      "raw_description": {
+        "text": "👨‍💻Vibe Coding/产品经理\n🔥learn in public/分享即学习\n🎮Life is a game/做点有意思的",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1356090858454413314/1783944569",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2076640105549455360/-FRS74wu_200x200.jpg",
+      "joined": "Mon Feb 01 04:04:01 +0000 2021",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 31,
+    "retweets": 27,
+    "likes": 178,
+    "bookmarks": 182,
+    "quotes": 1,
+    "created_at": "Wed Aug 05 23:21:00 +0000 2026",
+    "created_timestamp": 1785972060,
+    "possibly_sensitive": false,
+    "views": 21962,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2085037815478554627",
+          "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/1920x1080/hhysK79Ol94WwybV.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2085037815478554627/img/48Cik1b5KZXJL37A.jpg",
+          "duration": 649.069,
+          "width": 1920,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/pl/b8M7Pb0GHGdlkhSr.m3u8?tag=29&v=582",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/480x270/ANRQ3fub8MmV7pnN.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/640x360/J5PBkY12PHA1hI6r.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/1280x720/b4nwdsEpBcCfyrQK.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/1920x1080/hhysK79Ol94WwybV.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/pl/b8M7Pb0GHGdlkhSr.m3u8?tag=29&v=582",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/480x270/ANRQ3fub8MmV7pnN.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/640x360/J5PBkY12PHA1hI6r.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/1280x720/b4nwdsEpBcCfyrQK.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/1920x1080/hhysK79Ol94WwybV.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2085037815478554627",
+          "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/1920x1080/hhysK79Ol94WwybV.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2085037815478554627/img/48Cik1b5KZXJL37A.jpg",
+          "duration": 649.069,
+          "width": 1920,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/pl/b8M7Pb0GHGdlkhSr.m3u8?tag=29&v=582",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/480x270/ANRQ3fub8MmV7pnN.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/640x360/J5PBkY12PHA1hI6r.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/1280x720/b4nwdsEpBcCfyrQK.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/1920x1080/hhysK79Ol94WwybV.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/pl/b8M7Pb0GHGdlkhSr.m3u8?tag=29&v=582",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/480x270/ANRQ3fub8MmV7pnN.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/640x360/J5PBkY12PHA1hI6r.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/1280x720/b4nwdsEpBcCfyrQK.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085037815478554627/vid/avc1/1920x1080/hhysK79Ol94WwybV.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/Hamburgerai/status/2083419087246664038",
+      "id": "2083419087246664038",
+      "text": "",
+      "raw_text": {
+        "text": "https://t.co/aPv6hWcj3T",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "facets": []
+      },
+      "author": {
+        "screen_name": "Hamburgerai",
+        "url": "https://x.com/Hamburgerai",
+        "id": "1356090858454413314",
+        "followers": 2572,
+        "following": 222,
+        "likes": 4633,
+        "media_count": 280,
+        "name": "蛋黄堡",
+        "description": "👨‍💻Vibe Coding/产品经理\n🔥learn in public/分享即学习\n🎮Life is a game/做点有意思的",
+        "raw_description": {
+          "text": "👨‍💻Vibe Coding/产品经理\n🔥learn in public/分享即学习\n🎮Life is a game/做点有意思的",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1356090858454413314/1783944569",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2076640105549455360/-FRS74wu_200x200.jpg",
+        "joined": "Mon Feb 01 04:04:01 +0000 2021",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 32,
+      "retweets": 149,
+      "likes": 791,
+      "bookmarks": 1282,
+      "quotes": 8,
+      "created_at": "Sat Aug 01 05:06:33 +0000 2026",
+      "created_timestamp": 1785560793,
+      "possibly_sensitive": false,
+      "views": 230440,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": null,
+      "replying_to": null,
+      "replying_to_status": null,
+      "source": "Twitter Web App",
+      "article": {
+        "created_at": "2026-08-01T05:06:33.000Z",
+        "modified_at": "2026-08-01T05:06:33.000Z",
+        "id": "2083404529039757312",
+        "title": "我用 Codex + ImageGen + HyperFrames，做了一条十分钟的漫画「人生副本」视频",
+        "preview_text": "我前后调整了很多轮，才把这套流程真正跑顺。\n最开始我以为，“人生副本”视频无非是把一篇长文案配上旁白，再放几十张漫画图，让图片缓慢放大、缩小就行。\n实际做起来，问题远比想象中多：",
+        "cover_media": {
+          "id": "QXBpTWVkaWE6DAAFCgABHOnKf6baYAAKAAIS0c1zbVRwAgAA",
+          "media_id": "2083418952244551680",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 67.66,
+                  "rgb": {
+                    "blue": 41,
+                    "green": 46,
+                    "red": 48
+                  }
+                },
+                {
+                  "percentage": 24.59,
+                  "rgb": {
+                    "blue": 91,
+                    "green": 110,
+                    "red": 129
+                  }
+                },
+                {
+                  "percentage": 3.81,
+                  "rgb": {
+                    "blue": 134,
+                    "green": 136,
+                    "red": 131
+                  }
+                },
+                {
+                  "percentage": 2.74,
+                  "rgb": {
+                    "blue": 67,
+                    "green": 55,
+                    "red": 42
+                  }
+                },
+                {
+                  "percentage": 0.25,
+                  "rgb": {
+                    "blue": 172,
+                    "green": 188,
+                    "red": 200
+                  }
+                }
+              ]
+            },
+            "original_img_height": 780,
+            "original_img_url": "https://pbs.twimg.com/media/HOnKf6baYAAXGcS.jpg",
+            "original_img_width": 1950
+          },
+          "media_key": "3_2083418952244551680"
+        },
+        "content": {
+          "blocks": [
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "2kvsk",
+              "text": "我前后调整了很多轮，才把这套流程真正跑顺。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "ak5un",
+              "text": "最开始我以为，“人生副本”视频无非是把一篇长文案配上旁白，再放几十张漫画图，让图片缓慢放大、缩小就行。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "e1pcg",
+              "text": "实际做起来，问题远比想象中多：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "16cp0",
+              "text": "开头快闪不够快，齿轮音效和画面错位",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7kepa",
+              "text": "旁白已经讲到下一句，画面几秒后才跟上",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "feij2",
+              "text": "同一个主角换一张图就像换了一个人",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "c11mq",
+              "text": "字幕把一句完整的话切碎，最后只剩两三个字",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "92aa",
+              "text": "BGM 一会儿太小，一会儿又盖住人声",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "5ej9g",
+              "text": "手机正反面画错，手指融合，多出一只手",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "dmg6j",
+              "text": "竖屏调好的字幕和裁切参数，放回横屏后全部失效",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "1or5",
+              "text": "十分钟视频渲染到一半，磁盘空间和编码时间开始失控",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9vip4",
+              "text": "后来我没有继续手工修某一条视频，而是把每次踩坑得到的规则，逐步固化成一个可复用的 Agent Skill：hbg-life-simulation。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7uaah",
+              "text": "它不是一个固定的视频模板，也不是“一句话自动出片”的黑盒。它更像一套本地视频生产流水线：Codex 负责理解文案、规划分镜和调度工具，ImageGen 负责漫画素材，Edge TTS 负责连续旁白，HyperFrames 负责时间线和镜头运动，FFmpeg 负责最终压制与验收。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "d6t5h",
+              "text": "这篇文章把完整工作流拆开讲清楚。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "irn4",
+              "text": "零、这套人生副本视频用了哪些工具",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 0,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "eg8ld",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "1s6c7",
+              "text": "整条流水线可以概括成：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "ff0uh",
+              "text": "长篇中文文案\n→ 保存原文并做最小纠错\n→ 锁定主角漫画 IP\n→ 生成连续旁白和 VTT\n→ 按真实语音时间设计分镜\n→ 并发生成宫格与单图\n→ 制作 HBG 快闪开头\n→ 添加 zoom / pan 和同步字幕\n→ 混合旁白、齿轮音效和 BGM\n→ 渲染完整 MP4\n→ 对编码后的成片做最终检查",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "50gg9",
+              "text": "一、真正困难的不是生图，而是让十分钟内容始终一致",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "28t8e",
+              "text": "短视频只出现三五张图时，人物偶尔有一点变化不明显。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "5u6ad",
+              "text": "但人生副本通常是一篇几千字的第二人称故事。主角会从童年走到成年，从白天走到夜晚，从工厂、学校、出租屋走到办公室。几十甚至上百张画面放在一起，脸型、发型、年龄、衣服和人物关系只要漂移几次，观众马上会出戏。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "8msv7",
+              "text": "所以我不会拿到文案后直接批量生图，而是先建立 CHARACTERS.md，把主角的不可变特征写清楚：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9t1k6",
+              "text": "年龄阶段\n脸型与五官比例\n发型、发色和识别点\n常用服装与阶段变化\n体型和气质\n与配角的关系",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "8feki",
+              "text": "然后先生成一张身份锚点图。锚点没有通过，后面的图片就不开始生成。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7399g",
+              "text": "人物名字本身不能锁定 IP。后续每一个提示词都要重复关键面部特征，并且只描述当前镜头允许出现的人物。否则模型很容易把角色表里的所有配角一起塞进画面。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "bjvpq",
+              "text": "不是每张图都必须出现主角，但每张图必须属于同一个漫画世界。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "3e4qi",
+              "text": "二、原文必须先冻结，不能一边做视频一边改故事",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "d7ugh",
+              "text": "每个项目先保留一份完全不改动的 SCRIPT_SOURCE.md，再用 PROJECT_SPEC.json 记录标题、章节、明确的转写纠错、画布方向、旁白参数、开头素材和 BGM。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7brj9",
+              "text": "只修正能够确定的错别字、错代词和转写错误，不擅自改变故事立场、情绪、结局或人物动机。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "cpcgg",
+              "text": "项目中真正会被工具读取的是：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "e4mp6",
+              "text": "SCRIPT_SOURCE.md      原始文案\nPROJECT_SPEC.json     项目配置和纠错规则\nSCRIPT.md             可朗读的章节稿\nCHARACTERS.md         人物身份约束\nSTORYBOARD_BASE.json  语义分镜\nSTORYBOARD.json       对齐语音后的最终时间线\nHBG_STYLE.json        横竖屏、字幕、开头和运动参数",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "pprj",
+              "text": "以前把故事标题、章节和镜头直接写死在脚本里，换一篇文案就要重新改代码。现在故事数据和构建器分开，同一套脚本可以处理不同人生。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "dkuto",
+              "text": "三、开头不是随便快闪几张图，而是一段固定的叙事顺序",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7o60c",
+              "text": "这类视频最重要的识别点，是开头三秒左右的“抽取人生”。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "2vec5",
+              "text": "正确顺序是：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "d2s0r",
+              "text": "旁白：今天体验的人生副本是……\n→ 立刻播放一到两秒齿轮 / 棘轮音效\n→ 多种人生画面高速快闪\n→ 停在本期选中的人生\n→ 画面保持\n→ 旁白读出完整的人生剧本标题\n→ 正文开始",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "4kt2l",
+              "text": "齿轮音效和快闪必须同时发生，不能旁白说完后空等，也不能先把剧本名字念完再快闪。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "1hl9p",
+              "text": "快闪图不只切换，还要交替使用明显的 zoom-in 和 zoom-out。否则虽然图片换得快，视觉上依然像普通幻灯片。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7rpg9",
+              "text": "标题由 HTML 渲染，不让生图模型直接写中文。这样不会出现错字，也方便横屏和竖屏分别调整安全区。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "ahh81",
+              "text": "开头会先单独压制一条十几秒预览。只有画面速度、齿轮音效、标题和 BGM 都通过后，才把这条经过确认的开头绑定进完整视频，避免长片渲染时误用旧版本。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 1,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "885ec",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "5uur4",
+              "text": "四、正文旁白为什么要尽量一次生",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 2,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "8ustn",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "3a01r",
+              "text": "我一开始也尝试过把正文拆成很多段语音。好处是局部修改方便，但长故事很容易出现语气不连续、段落间隔不自然、音色轻微变化，以及画面时间不断累积偏移",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "an9np",
+              "text": "现在的默认方案是：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "f9v4b",
+              "text": "开头引导语单独一段",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7uufm",
+              "text": "选中人生的完整标题单独一段",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "dae6t",
+              "text": "正文使用一条连续 Edge TTS 音频",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "abj87",
+              "text": "默认自然语速 +0%，不额外加速",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "ag22e",
+              "text": "Edge TTS 同时输出 VTT。这个 VTT 不是字幕附件，而是整个视频的主时间轴。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "fadlb",
+              "text": "章节开始时间、镜头开始时间和字幕时间都从真实语音推导，不能在音频生成之后，再把图片平均分配到总时长里。那正是“声音已经讲完，画面几秒后才出现”的主要原因。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "ev4sq",
+              "text": "还有一个很容易忽略的问题：Markdown 里的换行只是排版，不应该自动变成语音停顿。发送给 TTS 前，要先把被换行拆开的完整句子重新连接，依靠标点决定呼吸。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "2mbqr",
+              "text": "五、字幕不是按字数硬切，而是按中文语义切",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "892i7",
+              "text": "第一批字幕最大的问题，是一句话结尾经常孤零零留下“起来”“清楚”“一步”这种两三个字。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "5icv0",
+              "text": "这不是字体大小问题，而是分句算法只看字符数，没有看中文语义。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "70uog",
+              "text": "现在字幕会优先寻找：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "b1vc5",
+              "text": "原句标点边界",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "d0k0v",
+              "text": "完整短语和词语边界",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "20hl5",
+              "text": "能自然朗读的语义片段",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9bcjr",
+              "text": "最后才考虑单行长度",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "bsmu5",
+              "text": "横屏通常控制在 8～18 个汉字，竖屏通常控制在 8～14 个汉字。完整短句可以更短，但不能因为切分制造一段没有意义的短尾。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "2pu2m",
+              "text": "句末标点会去掉，因为声音本身已经提供停顿。字幕尽量一行，最多两行。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "21g8h",
+              "text": "横屏和竖屏使用不同的字幕安全区。默认项目是 1920×1080 横屏；只有用户明确要求时才切换到 1080×1920 竖屏。不能因为视频准备发短视频平台，就自动沿用上一个竖屏项目的坐标。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "esjbu",
+              "text": "六、图片数量必须由真实语音时长决定",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "2nam",
+              "text": "一张图即使有 zoom，也不能在普通叙事段落里停留二三十秒。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "baqj8",
+              "text": "这套流程把普通静态漫画镜头控制在 4～8 秒；8～12 秒只留给情绪停顿或需要阅读细节的复杂画面；超过 16 秒，默认视为缺图，而不是“慢镜头风格”。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "dg1a5",
+              "text": "分镜不是每句话机械配一张图，而是在这些变化发生时增加新画面：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "36ba",
+              "text": "场景或时间变化",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "35v31",
+              "text": "主导动作变化",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "38jf1",
+              "text": "人物关系和权力位置变化",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "3uqph",
+              "text": "情绪强度变化",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "2q816",
+              "text": "关键道具出现",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "6ucim",
+              "text": "现实与回忆切换",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "drc36",
+              "text": "对 8～12 分钟的故事，通常需要大约 70～110 张静态画面。更长的 14～15 分钟故事，往往需要 125～165 张。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "3njvb",
+              "text": "图片太少时，zoom 只能暴露问题，不能解决问题。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "27t2i",
+              "text": "七、2×2 宫格和单图必须混合使用",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "e80ad",
+              "text": "如果每一个镜头都单独调用一次生图，成本和等待时间都会很高。所以低风险、同角色、同场景的四个连续镜头，可以先生成一张严格的 2×2 宫格，再切成四张独立图片。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "4l3u5",
+              "text": "宫格必须满足：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "1tqqk",
+              "text": "四格面积相等\n分隔线清晰统一\n每格都是独立构图\n不包含字幕、气泡、Logo 和水印\n人物和格子顺序与分镜表一致",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "dsq",
+              "text": "但以下画面必须单独生成：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "bk6k1",
+              "text": "手部特写和双手接触",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "53jlo",
+              "text": "手机正反面与看屏幕动作",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "2mqcr",
+              "text": "打字、抽烟、筷子和焊接",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7i3dk",
+              "text": "肢体重叠较多的动作",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9589b",
+              "text": "主角身份关键镜头",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7ijrk",
+              "text": "重要情绪特写",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9iuj",
+              "text": "主角锚点确认后，互不依赖的宫格和单图可以并发生成。兼容 Images API 的默认并发数是 5，上限控制在 10。一次宫格或一次单图算一个生图任务。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "3u207",
+              "text": "生成结束后，还要建立 SHEET_MAP.json，证明每一个分镜恰好被一张素材覆盖，既没有遗漏，也没有重复。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 3,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "5755t",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "8l4nk",
+              "text": "八、图片好看不等于可以进入视频",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 4,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "26c14",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "3ccj2",
+              "text": "这个项目里最典型的返工，不是画风不好，而是现实逻辑错误。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "1tbm8",
+              "text": "例如手机拿反了，屏幕朝外但人物却在看背面；手腕下面多出一团手指；两个角色握手时出现第三只手；筷子穿过手掌；烟和手指没有接触；人物看向手机，但屏幕方向和视线不一致。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "2vpp1",
+              "text": "所以现在每张高风险图都要做全分辨率检查：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "fo757",
+              "text": "数清每个人的手臂、手掌和手指\n每一只手都能追溯到一个手腕和前臂\n重叠处不能出现多余掌形和重复指簇\n手机屏幕、摄像头和按键方向合理\n视线与屏幕方向一致\n工具和手真正发生接触",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "etv68",
+              "text": "如果遮挡严重到无法确认结构是否正确，就直接判定不通过，不能用“也许藏在后面”替模型解释。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "fldad",
+              "text": "2×2 宫格里只要某一格失败，那一格就改为单图重生，不通过裁切或运动模糊掩盖问题。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9nn04",
+              "text": "XIMGPH_4",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "ei0q",
+              "text": "九、静态漫画怎么动，才不会像 PPT",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "d30br",
+              "text": "人生副本不是角色骨骼动画，主体仍然是静态漫画。但每张图会使用确定性的轻运动：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "2mdmg",
+              "text": "zoom in：scale 1.00 → 1.10～1.13\nzoom out：scale 1.12 → 1.00\npan left / right：保持轻微放大，横移不超过画面宽度 4%\nemotional hold：scale 1.00 → 1.025",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "5cgrr",
+              "text": "zoom-in、zoom-out、pan-left 和 pan-right 交替出现，避免连续几张图使用完全相同的运动。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "5oa5q",
+              "text": "图片放在一个覆盖全画布、隐藏溢出的容器里，运动的是内部图片，而不是整个镜头层。这样缩放和平移过程中不会露出黑边。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "fp967",
+              "text": "记忆碎片和强转折可以使用硬切，情绪连续的段落才使用很短的淡化。不能所有镜头都套一个统一转场。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "4oki4",
+              "text": "十、BGM 要听得见，但不能忽大忽小",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "1t7l4",
+              "text": "最初的 BGM 混音有两个极端：要么几乎听不见，要么为了突出某句话反复自动压低和抬高，听起来像音量坏了。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "86u4e",
+              "text": "现在旁白、齿轮音效、BGM 和画面使用独立轨道。BGM 默认保持恒定增益，不跟着每句话做 ducking。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "dm9m5",
+              "text": "先压制 15～20 秒的开头混音预览，以比旁白低约 8～12 dB 作为起点，再每次调整 3～4 dB，用耳朵确认。最终编码保留至少 3 dB 的 True Peak 余量。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "71ttl",
+              "text": "开头齿轮音效可以短而明显，正文 BGM 则需要稳定存在。观众应该能感觉到音乐，但不需要费力分辨旁白。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9grdd",
+              "text": "十一、十分钟长视频不能只点一次“渲染”然后等",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "2nnuk",
+              "text": "长片和三十秒测试片完全不是一回事。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "5aojl",
+              "text": "如果视频有上万帧，直接把整条时间线全部捕获到磁盘，可能在编码前就占满临时空间。因此渲染前会先检查磁盘，1080p 的 8～12 分钟高质量视频通常预留至少 12 GiB。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "femp0",
+              "text": "常规路径使用 HyperFrames 分块编码；macOS 上优先使用 VideoToolbox。空间不足时，会切换到流式 FFmpeg 路径：每个静态镜头先生成一个带 zoom / pan 的短片段，再拼接、压字幕和混音，而不是把整条视频的每一帧全部落盘。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9gbgd",
+              "text": "每次输出都使用新的版本文件名，不覆盖上一条已经验证通过的 MP4。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9r3b4",
+              "text": "十二、浏览器里看起来正常，不代表最终视频正常",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "abm20",
+              "text": "最终交付对象是编码后的 MP4，不是 HTML 预览，也不是源图片。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "ef7m8",
+              "text": "成片完成后会检查：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "3rogj",
+              "text": "分辨率、帧率、总时长和总帧数",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "eo1o5",
+              "text": "是否存在黑帧和异常静音",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "13ucd",
+              "text": "旁白、BGM 与齿轮音效是否都进入音轨",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7hlb7",
+              "text": "综合响度和 True Peak",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "5qd7n",
+              "text": "开头 zoom 是否真的出现在编码视频中",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "6objo",
+              "text": "字幕背景框是否可见并处于安全区",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7qd0v",
+              "text": "高风险手机、手部和工具镜头",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "78il",
+              "text": "章节转场、长停留镜头和最后一帧",
+              "type": "unordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9v70i",
+              "text": "同时从最终 MP4 抽取开头、标题、正文、关键修正镜头和结尾，生成联系表人工复查。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "1ibkk",
+              "text": "自动检查通过不等于一定好看，但它可以阻止很多“文件成功导出，内容其实坏了”的情况。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "b4263",
+              "text": "XIMGPH_5",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "uovr",
+              "text": "十三、真实长片跑出来的数据",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "6ogb2",
+              "text": "这套流程已经在一条 10 分 49 秒的横屏中文人生故事上完成完整集成验证：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [
+                {
+                  "key": 5,
+                  "length": 1,
+                  "offset": 0
+                }
+              ],
+              "inlineStyleRanges": [],
+              "key": "fd2oc",
+              "text": " ",
+              "type": "atomic"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "6blc6",
+              "text": "这里的 46 次生图任务不等于只有 46 张画面，其中一部分是 2×2 宫格，拆分后共同覆盖了 144 个静态漫画镜头。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "alivb",
+              "text": "十四、最后把所有踩坑固化成 Skill",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "b52fb",
+              "text": "如果每做一篇故事，都重新判断语音怎么切、字幕放哪里、图片要多少张、哪些画面必须单图、BGM 多大声，下一次仍然会重复踩坑。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "7ujfd",
+              "text": "所以我把这些判断拆成三类：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "d2p6n",
+              "text": "固定规则：默认横屏、自然语速、完整标题开头、字幕安全区、镜头时长和最终 QA。",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "ckqpi",
+              "text": "项目配置：故事标题、角色、章节、横竖屏、BGM、快闪人生和旁白声音。",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "aohcc",
+              "text": "人工判断：主角锚点是否一致、画面是否符合现实、音乐是否舒服、故事情绪是否成立。",
+              "type": "ordered-list-item"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "5t04",
+              "text": "最终形成了 hbg-life-simulation：一个可以安装进 Codex 或 Claude Code 的开源 Agent Skill。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "2ollc",
+              "text": "GitHub：",
+              "type": "unstyled"
+            },
+            {
+              "data": {
+                "urls": [
+                  {
+                    "fromIndex": 0,
+                    "text": "https://github.com/Mr-funny/hbg-life-simulation",
+                    "toIndex": 47
+                  }
+                ]
+              },
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "f26sr",
+              "text": "https://github.com/Mr-funny/hbg-life-simulation",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "3eqiq",
+              "text": "安装到 Codex：",
+              "type": "unstyled"
+            },
+            {
+              "data": {
+                "urls": [
+                  {
+                    "fromIndex": 11,
+                    "text": "https://raw.githubusercontent.com/Mr-funny/hbg-life-simulation/main/install.sh",
+                    "toIndex": 89
+                  }
+                ]
+              },
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "6matv",
+              "text": "curl -fsSL https://raw.githubusercontent.com/Mr-funny/hbg-life-simulation/main/install.sh | sh",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "42kjh",
+              "text": "安装后可以直接说：",
+              "type": "unstyled"
+            },
+            {
+              "data": {
+                "cashtags": [
+                  {
+                    "fromIndex": 3,
+                    "text": "hbg",
+                    "toIndex": 7
+                  }
+                ]
+              },
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "6gumi",
+              "text": "使用 $hbg-life-simulation 处理下面的人生故事。\n默认横屏，先保存原文并锁定主角 IP，再生成连续 Edge TTS、同步短字幕和密集漫画分镜，\n使用 HBG 快闪开头、交替 zoom/pan、恒定 BGM，最后输出并检查完整 MP4。",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9nlov",
+              "text": "十五、整条工作流总结",
+              "type": "header-two"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "79huo",
+              "text": "冻结原始文案\n→ 建立项目配置和人物身份\n→ 生成并确认主角锚点\n→ 生成连续 Edge TTS 和 VTT\n→ 按真实语音设计高密度分镜\n→ 规划 2×2 宫格与高风险单图\n→ 并发生图、拆图和现实检查\n→ 制作快闪人生开头\n→ 添加 zoom / pan、章节和同步字幕\n→ 混合旁白、齿轮音效和恒定 BGM\n→ HyperFrames 或流式 FFmpeg 渲染\n→ 检查最终编码 MP4",
+              "type": "blockquote"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "d4ber",
+              "text": "做完以后我最大的感受是：",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "cvopi",
+              "text": "人生副本视频真正难的，不是让一张图片动起来，也不是一次生成很多漫画图。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "9kd3i",
+              "text": "真正困难的是，让几千字文案、十分钟旁白、上百个镜头、同一个角色、同步字幕和背景音乐，在同一条时间线上始终保持一致。",
+              "type": "unstyled"
+            },
+            {
+              "data": {},
+              "entityRanges": [],
+              "inlineStyleRanges": [],
+              "key": "87go7",
+              "text": "而 Skill 的价值，就是把“这次终于改对了”变成“下一次默认不会再错”。",
+              "type": "unstyled"
+            }
+          ],
+          "entityMap": [
+            {
+              "key": "4",
+              "value": {
+                "data": {
+                  "entityKey": "818b6dc0-6172-4db6-a0fb-74c98db2efcb",
+                  "mediaItems": [
+                    {
+                      "localMediaId": "9",
+                      "mediaCategory": "DraftTweetImage",
+                      "mediaId": "2083415349874302976"
+                    }
+                  ]
+                },
+                "mutability": "Immutable",
+                "type": "MEDIA"
+              }
+            },
+            {
+              "key": "5",
+              "value": {
+                "data": {
+                  "markdown": "| 指标 | 结果 |\n| --- | ---: |\n| 画布 | 1920×1080 |\n| 帧率 | 30fps |\n| 总帧数 | 19472 |\n| 静态漫画分镜 | 144 |\n| API 生图成功任务 | 46 |\n| API 传输失败 | 0 |\n| 视觉拒绝并重生 | 2 |\n| 黑帧事件 | 0 |\n| 异常静音事件 | 0 |\n| 综合响度 | -22.8 LUFS |\n| True Peak | -4.1 dBFS |"
+                },
+                "mutability": "Mutable",
+                "type": "MARKDOWN"
+              }
+            },
+            {
+              "key": "1",
+              "value": {
+                "data": {
+                  "entityKey": "827239c2-b969-4a2d-a8b3-1c4a127ce9a7",
+                  "mediaItems": [
+                    {
+                      "localMediaId": "3",
+                      "mediaCategory": "DraftTweetImage",
+                      "mediaId": "2083414622653313024"
+                    }
+                  ]
+                },
+                "mutability": "Immutable",
+                "type": "MEDIA"
+              }
+            },
+            {
+              "key": "0",
+              "value": {
+                "data": {
+                  "markdown": "| 工具 | 在流程中的作用 | 是否必需 |\n| --- | --- | --- |\n| Codex | 保存文案、拆章节、设计分镜、生成提示词、执行脚本、检查结果 | 核心控制台 |\n| ImageGen | 生成统一漫画 IP、2×2 宫格和高风险单图 | 可换兼容 Images API |\n| Edge TTS | 生成自然语速中文旁白和 VTT 时间轴 | 可换其他能输出时间轴的 TTS |\n| HyperFrames | 组装快闪开头、图片运动、章节、字幕和多轨音频 | 核心视频引擎 |\n| Node.js | 生成脚本、分镜、字幕、项目配置和视频组合 | 推荐 |\n| FFmpeg / ffprobe | 宫格拆图、尺寸归一、混音、长片压制和最终 QA | 推荐 |\n| Python | 调用 Edge TTS，以及处理部分媒体辅助任务 | 推荐 |"
+                },
+                "mutability": "Mutable",
+                "type": "MARKDOWN"
+              }
+            },
+            {
+              "key": "2",
+              "value": {
+                "data": {
+                  "entityKey": "3af5d800-19f7-469b-ae68-8c3cb596e913",
+                  "mediaItems": [
+                    {
+                      "localMediaId": "5",
+                      "mediaCategory": "DraftTweetImage",
+                      "mediaId": "2083414770011799552"
+                    }
+                  ]
+                },
+                "mutability": "Immutable",
+                "type": "MEDIA"
+              }
+            },
+            {
+              "key": "3",
+              "value": {
+                "data": {
+                  "entityKey": "62a3acbe-0191-4f69-a6d2-61a0923d53ff",
+                  "mediaItems": [
+                    {
+                      "localMediaId": "7",
+                      "mediaCategory": "DraftTweetImage",
+                      "mediaId": "2083415309193760768"
+                    }
+                  ]
+                },
+                "mutability": "Immutable",
+                "type": "MEDIA"
+              }
+            }
+          ]
+        },
+        "media_entities": [
+          {
+            "id": "QXBpTWVkaWE6DAAFCgABHOnGj5ca8AAKAAIS0c1zbVRwAgAA",
+            "media_id": "2083414622653313024",
+            "media_info": {
+              "__typename": "ApiImage",
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 89.86,
+                    "rgb": {
+                      "blue": 22,
+                      "green": 23,
+                      "red": 26
+                    }
+                  },
+                  {
+                    "percentage": 3.78,
+                    "rgb": {
+                      "blue": 101,
+                      "green": 105,
+                      "red": 114
+                    }
+                  },
+                  {
+                    "percentage": 3.08,
+                    "rgb": {
+                      "blue": 27,
+                      "green": 49,
+                      "red": 67
+                    }
+                  },
+                  {
+                    "percentage": 1.2,
+                    "rgb": {
+                      "blue": 86,
+                      "green": 61,
+                      "red": 40
+                    }
+                  },
+                  {
+                    "percentage": 0.7,
+                    "rgb": {
+                      "blue": 23,
+                      "green": 22,
+                      "red": 47
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 560,
+              "original_img_url": "https://pbs.twimg.com/media/HOnGj5ca8AAiQpy.jpg",
+              "original_img_width": 1464
+            },
+            "media_key": "3_2083414622653313024"
+          },
+          {
+            "id": "QXBpTWVkaWE6DAAFCgABHOnGseZbAAAKAAIS0c1zbVRwAgAA",
+            "media_id": "2083414770011799552",
+            "media_info": {
+              "__typename": "ApiImage",
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 94.4,
+                    "rgb": {
+                      "blue": 26,
+                      "green": 21,
+                      "red": 18
+                    }
+                  },
+                  {
+                    "percentage": 3.45,
+                    "rgb": {
+                      "blue": 113,
+                      "green": 106,
+                      "red": 108
+                    }
+                  },
+                  {
+                    "percentage": 1.2,
+                    "rgb": {
+                      "blue": 67,
+                      "green": 42,
+                      "red": 20
+                    }
+                  },
+                  {
+                    "percentage": 0.71,
+                    "rgb": {
+                      "blue": 146,
+                      "green": 116,
+                      "red": 103
+                    }
+                  },
+                  {
+                    "percentage": 0.16,
+                    "rgb": {
+                      "blue": 86,
+                      "green": 99,
+                      "red": 117
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 941,
+              "original_img_url": "https://pbs.twimg.com/media/HOnGseZbAAAYD4I.jpg",
+              "original_img_width": 1672
+            },
+            "media_key": "3_2083414770011799552"
+          },
+          {
+            "id": "QXBpTWVkaWE6DAAFCgABHOnHL3Aa0AAKAAIS0c1zbVRwAgAA",
+            "media_id": "2083415309193760768",
+            "media_info": {
+              "__typename": "ApiImage",
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 80.41,
+                    "rgb": {
+                      "blue": 45,
+                      "green": 41,
+                      "red": 35
+                    }
+                  },
+                  {
+                    "percentage": 15.27,
+                    "rgb": {
+                      "blue": 122,
+                      "green": 115,
+                      "red": 118
+                    }
+                  },
+                  {
+                    "percentage": 2.09,
+                    "rgb": {
+                      "blue": 63,
+                      "green": 77,
+                      "red": 100
+                    }
+                  },
+                  {
+                    "percentage": 1.44,
+                    "rgb": {
+                      "blue": 111,
+                      "green": 90,
+                      "red": 64
+                    }
+                  },
+                  {
+                    "percentage": 0.53,
+                    "rgb": {
+                      "blue": 190,
+                      "green": 189,
+                      "red": 189
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 560,
+              "original_img_url": "https://pbs.twimg.com/media/HOnHL3Aa0AAXp-j.jpg",
+              "original_img_width": 1948
+            },
+            "media_key": "3_2083415309193760768"
+          },
+          {
+            "id": "QXBpTWVkaWE6DAAFCgABHOnHOOjaoAAKAAIS0c1zbVRwAgAA",
+            "media_id": "2083415349874302976",
+            "media_info": {
+              "__typename": "ApiImage",
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 78.42,
+                    "rgb": {
+                      "blue": 35,
+                      "green": 32,
+                      "red": 27
+                    }
+                  },
+                  {
+                    "percentage": 13.96,
+                    "rgb": {
+                      "blue": 124,
+                      "green": 119,
+                      "red": 116
+                    }
+                  },
+                  {
+                    "percentage": 2.8,
+                    "rgb": {
+                      "blue": 88,
+                      "green": 67,
+                      "red": 43
+                    }
+                  },
+                  {
+                    "percentage": 2.74,
+                    "rgb": {
+                      "blue": 64,
+                      "green": 81,
+                      "red": 105
+                    }
+                  },
+                  {
+                    "percentage": 0.7,
+                    "rgb": {
+                      "blue": 194,
+                      "green": 191,
+                      "red": 194
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 1656,
+              "original_img_url": "https://pbs.twimg.com/media/HOnHOOjaoAAR7Nu.jpg",
+              "original_img_width": 980
+            },
+            "media_key": "3_2083415349874302976"
+          }
+        ]
+      },
+      "twitter_card": "tweet",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

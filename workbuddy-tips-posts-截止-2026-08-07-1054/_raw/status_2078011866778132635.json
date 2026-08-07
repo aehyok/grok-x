@@ -1,0 +1,97 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/dontbesilent/status/2078011866778132635",
+    "id": "2078011866778132635",
+    "text": "史上最低门槛使用 dbskill（小程序一键开）\n\n1. 搜索 workbuddy 微信小程序\n2. 发送：安装 don 哥的 dbskill\n结束\n\n平时没少黑腾讯，这次是真的点赞\n\n依然没收广告费（他们不给）",
+    "raw_text": {
+      "text": "史上最低门槛使用 dbskill（小程序一键开）\n\n1. 搜索 workbuddy 微信小程序\n2. 发送：安装 don 哥的 dbskill\n结束\n\n平时没少黑腾讯，这次是真的点赞\n\n依然没收广告费（他们不给） https://t.co/q5e5kr19mC",
+      "display_text_range": [
+        0,
+        106
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            107,
+            130
+          ],
+          "id": "2078011857269555200",
+          "display": "pic.x.com/q5e5kr19mC",
+          "original": "https://t.co/q5e5kr19mC",
+          "replacement": "https://x.com/dontbesilent/status/2078011866778132635/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "dontbesilent",
+      "url": "https://x.com/dontbesilent",
+      "id": "1596695231717871616",
+      "followers": 86082,
+      "following": 1294,
+      "likes": 11883,
+      "media_count": 1947,
+      "name": "dontbesilent",
+      "description": "💡 商业哲学爱好者\n💻 开源了我的商业/内容方法论：dbskill\n📱 抖音/小红书/视频号：dontbesilent 聊赚钱\n🎟️ 9.11 深圳线下课：微信 dbs2408",
+      "raw_description": {
+        "text": "💡 商业哲学爱好者\n💻 开源了我的商业/内容方法论：dbskill\n📱 抖音/小红书/视频号：dontbesilent 聊赚钱\n🎟️ 9.11 深圳线下课：微信 dbs2408",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1596695231717871616/1783882341",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_200x200.jpg",
+      "joined": "Sun Nov 27 02:39:52 +0000 2022",
+      "protected": false,
+      "website": {
+        "url": "https://v.douyin.com/jdm707Zt1b4/",
+        "display_url": "v.douyin.com/jdm707Zt1b4/"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 14,
+    "retweets": 43,
+    "likes": 374,
+    "bookmarks": 324,
+    "quotes": 3,
+    "created_at": "Fri Jul 17 07:00:11 +0000 2026",
+    "created_timestamp": 1784271611,
+    "possibly_sensitive": false,
+    "views": 38095,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2078011857269555200",
+          "url": "https://pbs.twimg.com/media/HNaUxj-aAAASPpc.jpg?name=orig",
+          "width": 943,
+          "height": 2048
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2078011857269555200",
+          "url": "https://pbs.twimg.com/media/HNaUxj-aAAASPpc.jpg?name=orig",
+          "width": 943,
+          "height": 2048
+        }
+      ]
+    },
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

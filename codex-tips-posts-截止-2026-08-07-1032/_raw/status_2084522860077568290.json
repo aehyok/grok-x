@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/RayFernando1337/status/2084522860077568290",
+    "id": "2084522860077568290",
+    "text": "I finally cracked it! There is a better way to run Codex agents without the slop. As bonus it saves you tokens! Engineers at top FANG companies are using this workflow to ship production software.",
+    "raw_text": {
+      "text": "I finally cracked it! There is a better way to run Codex agents without the slop. As bonus it saves you tokens! Engineers at top FANG companies are using this workflow to ship production software. https://t.co/lLCDRrxnJT",
+      "display_text_range": [
+        0,
+        196
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            197,
+            220
+          ],
+          "id": "2084519400087183360",
+          "display": "pic.x.com/lLCDRrxnJT",
+          "original": "https://t.co/lLCDRrxnJT",
+          "replacement": "https://x.com/RayFernando1337/status/2084522860077568290/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "RayFernando1337",
+      "url": "https://x.com/RayFernando1337",
+      "id": "1691669297637277696",
+      "followers": 37459,
+      "following": 5511,
+      "likes": 72516,
+      "media_count": 2420,
+      "name": "Ray Fernando",
+      "description": "12y ex-Apple • Building live with AI • Current Mission: 10% Body Fat",
+      "raw_description": {
+        "text": "12y ex-Apple • Building live with AI • Current Mission: 10% Body Fat",
+        "facets": []
+      },
+      "location": "Bay Area 🤙🏽 Hawaii",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1691669297637277696/1745791289",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1764104074772000768/XcLXXaib_200x200.jpg",
+      "joined": "Wed Aug 16 04:32:55 +0000 2023",
+      "protected": false,
+      "website": {
+        "url": "https://rfer.me/RayYouTube",
+        "display_url": "rfer.me/RayYouTube"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 70,
+    "retweets": 93,
+    "likes": 1419,
+    "bookmarks": 2651,
+    "quotes": 10,
+    "created_at": "Tue Aug 04 06:12:33 +0000 2026",
+    "created_timestamp": 1785823953,
+    "possibly_sensitive": false,
+    "views": 150161,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2084519400087183360",
+          "url": "https://pbs.twimg.com/media/HO2zWaGbYAAvwwY.jpg?name=orig",
+          "width": 1234,
+          "height": 1024
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2084519400087183360",
+          "url": "https://pbs.twimg.com/media/HO2zWaGbYAAvwwY.jpg?name=orig",
+          "width": 1234,
+          "height": 1024
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

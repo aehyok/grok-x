@@ -1,0 +1,1427 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Sukiea1008/status/2085259421719097640",
+    "id": "2085259421719097640",
+    "text": "WorkBuddy 每天签到只有 100 积分，用它自动跑美团领券多少有点浪费。\n\n于是我把 WorkBuddy 的美团能力「借」给了 Codex 和 Hermes：Codex 每天 10:45 自动领券，Hermes 在微信里帮我选餐厅。\n\n⚠️使用边界，只是个人本机能力借用。\n\n完整方法和可复制提示词都在文章里👇",
+    "raw_text": {
+      "text": "WorkBuddy 每天签到只有 100 积分，用它自动跑美团领券多少有点浪费。\n\n于是我把 WorkBuddy 的美团能力「借」给了 Codex 和 Hermes：Codex 每天 10:45 自动领券，Hermes 在微信里帮我选餐厅。\n\n⚠️使用边界，只是个人本机能力借用。\n\n完整方法和可复制提示词都在文章里👇 https://t.co/VE32hGzaB5",
+      "display_text_range": [
+        0,
+        183
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "Sukiea1008",
+      "url": "https://x.com/Sukiea1008",
+      "id": "2048448527353933824",
+      "followers": 2143,
+      "following": 1355,
+      "likes": 5280,
+      "media_count": 518,
+      "name": "Su",
+      "description": "知识与商业｜可落地可复用\n产品型AI创业者｜增长服务产品\n苹果认证dev｜App上架筹备中：\nBuzzTrans、TextOrbit\nGithub：doublesq97-ui｜审美、工具",
+      "raw_description": {
+        "text": "知识与商业｜可落地可复用\n产品型AI创业者｜增长服务产品\n苹果认证dev｜App上架筹备中：\nBuzzTrans、TextOrbit\nGithub：doublesq97-ui｜审美、工具",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2048448527353933824/1777492080",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2070191168848269312/gQ6X5dcH_200x200.jpg",
+      "joined": "Sun Apr 26 17:06:38 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "https://su-uni.vercel.app",
+        "display_url": "su-uni.vercel.app"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 3,
+    "retweets": 1,
+    "likes": 10,
+    "bookmarks": 9,
+    "quotes": 0,
+    "created_at": "Thu Aug 06 06:59:23 +0000 2026",
+    "created_timestamp": 1785999563,
+    "possibly_sensitive": false,
+    "views": 1284,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-06T06:59:23.000Z",
+      "modified_at": "2026-08-06T07:08:48.000Z",
+      "id": "2085220350422614017",
+      "title": "我把 WorkBuddy 的美团能力「借」给了 Codex 和 Hermes",
+      "preview_text": "WorkBuddy 每天签到只有 100 积分。 本期方法论提示词在文章结尾。\nbtw，我发现 WorkBuddy",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHPAxcYaaAAAKAAIcbY0VHZpwAAAA",
+        "media_id": "2085220991131844608",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 85.36,
+                "rgb": {
+                  "blue": 232,
+                  "green": 236,
+                  "red": 237
+                }
+              },
+              {
+                "percentage": 5.7,
+                "rgb": {
+                  "blue": 51,
+                  "green": 52,
+                  "red": 52
+                }
+              },
+              {
+                "percentage": 2.65,
+                "rgb": {
+                  "blue": 3,
+                  "green": 198,
+                  "red": 252
+                }
+              },
+              {
+                "percentage": 1.5,
+                "rgb": {
+                  "blue": 164,
+                  "green": 200,
+                  "red": 32
+                }
+              },
+              {
+                "percentage": 0.64,
+                "rgb": {
+                  "blue": 2,
+                  "green": 95,
+                  "red": 119
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HPAxcYaaAAAw2Q0.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2085220991131844608"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 25,
+                "style": "Bold"
+              }
+            ],
+            "key": "19sf0",
+            "text": "WorkBuddy 每天签到只有 100 积分。 本期方法论提示词在文章结尾。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 15,
+                "offset": 7
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 1,
+                "offset": 3,
+                "style": "Bold"
+              }
+            ],
+            "key": "efptk",
+            "text": "btw，我发现 WorkBuddy 成长计划建议先点进去一下，后面随便用用就能有积分可以领，或者特意做任务。不过这个看个人需求，同时现阶段Hy3是限免的，如果用Hy3倒也不消耗积分。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4veql",
+            "text": "如果让 WorkBuddy 自己每天跑一次美团自动领券，积分会继续被消耗。领券本身又是一个很小、很固定的任务，用掉这些积分多少有点可惜。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 11,
+                "style": "Bold"
+              }
+            ],
+            "key": "57ses",
+            "text": "所以我做了一次很轻量的本地能力借用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e8dtd",
+            "text": "WorkBuddy 美团生活助手\n├─ 借给 Codex：每天 10:45 自动领券\n└─ 借给 Hermes：在微信里查餐厅、做推荐",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ct18i",
+            "text": "这里的“借”非常重要。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "adphi",
+            "text": "Codex 和 Hermes 都没有独立接入美团。真正的能力来自 WorkBuddy 与美团的专项合作，我只是让自己电脑里的另外两个 AI 助手，在限定权限下调用它。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3il3",
+            "text": "先说清楚：这项能力来自哪里？",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1j534",
+            "text": "美团生活助手是美团与 WorkBuddy 的 B2B 专项合作能力。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "41hae",
+            "text": "从业务结构看，它属于双方打通的 CPS/AI 渠道：美团为 WorkBuddy 配置了专属 AI 场景，WorkBuddy 用户还可以领取专享券包。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 6,
+                "offset": 51
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1rq8o",
+            "text": "公开报道也提到，美团为 WorkBuddy 用户准备了面额更优的专属券，并支持找团购、领券和定时领取。相关合作报道",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "esom2",
+            "text": "这套能力并不是面向普通开发者公开下载的美团 CLI。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eph6f",
+            "text": "所以，如果没有安装 WorkBuddy、没有添加并真正使用过“美团生活助手”，本文的方法暂时无法复现。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4900s",
+            "text": "更准确的关系是：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7c4nj",
+            "text": "美团与 WorkBuddy 打通能力\n→ WorkBuddy 在本机安装美团生活助手\n→ Codex 和 Hermes 借用这项本地能力",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fea8q",
+            "text": "合作中的渠道参数、场景配置、认证信息和账号凭证都不应公开。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "90j9a",
+            "text": "CLI 到底是什么？",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "amhgd",
+            "text": "WorkBuddy 里的美团生活助手，表面上是一个可以对话的 AI 专家。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "21s14",
+            "text": "拆开后主要是两部分：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4s8uk",
+            "text": "操作说明：告诉 AI 什么时候调用什么能力\n本地 CLI：真正执行登录、领券、定位和搜索",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "746hc",
+            "text": "CLI 可以理解为一组电脑终端命令。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 18,
+                "offset": 72
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2d283",
+            "text": "WorkBuddy 官方文档也将 Skill 描述为“可执行脚本与工作流”，并把 `Skill + CLI` 列为连接第三方服务的一种技术形式。WorkBuddy Skill 文档",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9aghh",
+            "text": "我没有复制美团接口，也没有重新开发一套服务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "25ntu",
+            "text": "我只是让 Codex 和 Hermes 调用这台电脑上已经存在的 WorkBuddy CLI。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "59oh9",
+            "text": "为什么强调“本地能力借用”？",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3677d",
+            "text": "这次改造只发生在同一位用户、同一台电脑里：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8jjh6",
+            "text": "不抓包；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "52off",
+            "text": "不逆向美团 App；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "424a2",
+            "text": "不爬取美团网页；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5v4g2",
+            "text": "不绕过登录；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "anojm",
+            "text": "不复制或公开 Token；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9r853",
+            "text": "不重新发布 WorkBuddy 插件；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2khm9",
+            "text": "不提供给其他用户或账号使用。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4g90b",
+            "text": "登录凭证仍然留在 WorkBuddy 原来的本地凭证区。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aer6a",
+            "text": "Codex 和 Hermes 只能知道“当前是否已经登录”，不会读取或显示真实 Token、Cookie 和设备凭证。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "660c9",
+            "text": "因此，这项实践的边界应该明确写成：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6aebi",
+            "text": "“仅做个人本机编排，不代表获得公开 API 或对外分发授权”。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "27t9o",
+            "text": "把 Skill 文件单独复制给别人也没有用。没有 WorkBuddy 原始插件、专项场景配置和本机登录状态，Skill 只是一份操作说明。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fn9o1",
+            "text": "基于 WorkBuddy 的美团能力，我制作了两套 Skill",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6nosq",
+            "text": "两套 Skill 的权限不同：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cve56",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bnt03",
+            "text": "为什么不让它们共用一套？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dgn06",
+            "text": "因为 Codex 的自动任务非常确定：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9k4at",
+            "text": "每天 10:45，只领一次券。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "94b77",
+            "text": "而 Hermes 长期待在微信里，收到的通常是模糊自然语言：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "frv3e",
+            "text": "“这个好像不错。”",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f1m0q",
+            "text": "“附近有什么吃的？”",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6017i",
+            "text": "“明天去湖滨银泰附近，推荐一下。”",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "tmhi",
+            "text": "“帮我看看哪家划算。”",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2r7v7",
+            "text": "这些表达并不等于授权领券或下单。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5uc1c",
+            "text": "与其只靠提示词提醒 Hermes 小心，不如直接从代码层拿掉这些权限。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bqaam",
+            "text": "第一套用法：Codex 每天自动领券",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "56u93",
+            "text": "Codex 版本由两部分组成：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8d30o",
+            "text": "Codex Skill\n＋\n美团安全适配器",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7lf1n",
+            "text": "安全适配器负责：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7pan3",
+            "text": "调用 WorkBuddy 美团 CLI；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ftl9b",
+            "text": "检查上游版本和文件指纹；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cu2q9",
+            "text": "隐藏 Token、Cookie 和设备信息；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cu8uj",
+            "text": "关闭 AI 自动支付；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "do3gq",
+            "text": "限制自动任务只能调用领券命令。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f2ame",
+            "text": "正式设置自动化前，我先手动完成三次检查：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7lqkm",
+            "text": "检查本地环境\n→ 演练领券但不实际执行\n→ 手动完成一次真实领券",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a861",
+            "text": "确认能稳定返回优惠券后，才创建每天 10:45 的自动任务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ftnr",
+            "text": "任务还遵守三条规则：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "477i3",
+            "text": "今天已经领过，也按成功处理；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4t55t",
+            "text": "登录过期后停止重试，提醒我手动登录；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cl4uq",
+            "text": "不得搜索位置、创建订单或发起支付。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 2,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "e6o4d",
+            "text": "🎟️ 实际执行过程是：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a3kdu",
+            "text": "每天 10:45 唤醒 Codex\n→ 调用 WorkBuddy 本地领券能力\n→ 整理领取数量和券种\n→ 用表格汇报满减与有效期",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "860cl",
+            "text": "一次测试中，Codex 返回了 33 张优惠券。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7m77m",
+            "text": "但这件事不是什么“薅接口黑科技”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3661a",
+            "text": "优惠本来就是 WorkBuddy 与美团合作后提供给符合条件用户的。Codex 没有创造额外权益，只是把固定的领券任务从 WorkBuddy 自动化中移了出来。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "pqdo",
+            "text": "它解决的是一个很小的问题：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8t4cd",
+            "text": "少消耗一点 WorkBuddy 积分。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fenbv",
+            "text": "第二套用法：在微信里让 Hermes 帮我选餐厅",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "80dc8",
+            "text": "Hermes 拿到的是只读版 Skill。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ej6qb",
+            "text": "它只允许：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "98mhf",
+            "text": "根据用户提供的地址定位；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "foc9k",
+            "text": "搜索餐厅和团购套餐；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cop5p",
+            "text": "获取距离、评分和参考价格；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "56i3c",
+            "text": "根据人数、预算、口味进行比较；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5lej8",
+            "text": "最后给出一个明确推荐。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "67k4u",
+            "text": "领券、下单、支付、登录和修改账户都被代码拦截。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6sm2m",
+            "text": "例如可以在微信里直接问：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5pgkp",
+            "text": "今晚去杭州湖滨银泰 in77，两个人，预算 150 元，想吃杭帮菜。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3tequ",
+            "text": "或者：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cdv1s",
+            "text": "周末去深圳万象天地，三个人，预算 300 元，帮我挑几家适合聊天的餐厅。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 2,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f9hn7",
+            "text": "🍽️ Hermes 会先利用 WorkBuddy 的美团能力筛选信息，再返回 3—4 家具体餐厅。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8v17m",
+            "text": "它不会把坐标、门店 ID、商品 ID 和原始数据发到微信里。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "61h15",
+            "text": "为什么手机里的 Hermes 不继续领券和下单？",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "98vhu",
+            "text": "这不只是安全判断，也和实际效率有关。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "658ba",
+            "text": "Hermes 在微信里收到指令后，需要把任务交给电脑终端执行，再等待结果返回手机。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cu16j",
+            "text": "如果继续领券、创建订单，还需要再次确认商品、数量和金额，最后回到手机完成支付。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8u9uf",
+            "text": "在这种场景里：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6par7",
+            "text": "Hermes 帮忙筛选信息、比较餐厅\n→ 用户选定一家\n→ 打开美团 App 继续领券或下单",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "97k9g",
+            "text": "很多时候反而更快。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "62pqf",
+            "text": "美团 App 也更适合查看：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ev4u1",
+            "text": "实时营业状态；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bsm3r",
+            "text": "排队情况；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "68ace",
+            "text": "套餐使用规则；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a9tsl",
+            "text": "预约限制；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "60b90",
+            "text": "最终价格；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9h87d",
+            "text": "支付和退款说明。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1k1s5",
+            "text": "因此，Hermes 最适合承担的是“帮我缩小选择范围”，而不是把手机消费流程全部搬到电脑终端。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1okeg",
+            "text": "AI 负责筛选，最后一步留在美团 App，体验更直接，也更稳妥。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7devo",
+            "text": "谁可以复现？",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1a8tr",
+            "text": "已经在 WorkBuddy 用过美团生活助手",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "afq2r",
+            "text": "可以继续尝试：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4mbao",
+            "text": "先确认 WorkBuddy 原功能可用\n→ 让 Codex 检查本地 CLI\n→ 制作 Codex 领券 Skill\n→ 手动测试后创建每日任务\n→ 制作 Hermes 只读推荐 Skill\n→ 验证危险命令全部被拦截",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6u0po",
+            "text": "从未安装或使用过美团生活助手",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9lrri",
+            "text": "先不要继续。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "frqb6",
+            "text": "不要让 Codex 自己寻找隐藏接口，也不要从别人的电脑复制插件和登录凭证。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "49crc",
+            "text": "先下载 WorkBuddy，在专家页面确认自己的账号能否添加并使用“美团生活助手”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3ohjg",
+            "text": "没有 WorkBuddy 提供的原始能力，Codex 和 Hermes 都无法独立查询美团。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2ne99",
+            "text": "最后，该感谢的是 WorkBuddy 和美团",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "49jq2",
+            "text": "这项能力不是 Codex 或 Hermes 创造的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9mg7m",
+            "text": "真正把路修通的是 WorkBuddy 与美团的专项合作：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fgo41",
+            "text": "美团提供本地生活数据和优惠能力；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f0n4q",
+            "text": "WorkBuddy 把它包装成可被 AI 调用的美团生活助手；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "41tfo",
+            "text": "我再基于这项本地能力制作两套 Skill；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9emcv",
+            "text": "Codex 负责定时领券；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1vd2e",
+            "text": "Hermes 负责在微信里帮我选餐厅。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aq4qg",
+            "text": "所以更准确的表达不是：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a12gj",
+            "text": "我给 Codex 和 Hermes 接入了美团。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e7m89",
+            "text": "而是：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1ks9s",
+            "text": "我把 WorkBuddy 的美团能力借给了 Codex 和 Hermes。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "196hq",
+            "text": "这次改造没有产生新的美团能力。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "31ftt",
+            "text": "它只是让已经存在于自己电脑里的能力，出现在更合适的时间和入口：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fg045",
+            "text": "Codex 帮我省一点 WorkBuddy 积分，Hermes 帮我少纠结一会儿今晚吃什么。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7p2sb",
+            "text": "附录一：一套可以复用的“本地能力借用五步法”",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6eq4g",
+            "text": "这次实践真正可以复用的，不是某个文件路径或某条命令，而是下面这套顺序：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e202j",
+            "text": "确认来源 → 本地转接 → 安全适配 → 权限拆分 → 手测后自动化",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "524hd",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "122nr",
+            "text": "它背后的原则很简单：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "26bap",
+            "text": "能力留在原来的工具里，只把必要入口借给新的 AI 助手。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "i1ol",
+            "text": "这套方法不只适用于美团。只要某项能力已经在自己的电脑上获得授权并可正常使用，同时存在稳定的本地调用入口，就可以按同样顺序评估是否值得借给其他 AI。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fp9vb",
+            "text": "但“可以调用”不等于“可以随意复制”。账号权限、凭证、专属配置和分发范围，仍然以原服务的授权边界为准。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fsdfd",
+            "text": "附录二：把这套方法交给 Codex 的提示词",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 2,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3vjh6",
+            "text": "⚠️如果 Codex 无法直接读取 X 文章链接，就把本文全文一并粘贴给它，不要让它根据标题猜测内容。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6b8ev",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "12dv8",
+            "text": "",
+            "type": "header-two"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "markdown": "```plaintext\n文章链接：\nhttps://x.com/Sukiea1008/status/2085259421719097640?s=20\n\n请先完整阅读上面的文章；如果链接无法访问，请让我粘贴全文，在拿到正文前不要自行补全文章内容。\n\n我想参考文章中的“本地能力借用五步法”，检查我的电脑能否把 WorkBuddy 的美团生活助手能力借给 Codex 和 Hermes。\n\n目标：\n1. 给 Codex 制作一套美团 Skill，用于手动查询，并在验证稳定后每天 10:45 自动领券。\n2. 给 Hermes 制作一套只读 Skill，让它能根据我提供的位置、人数、预算和口味搜索餐厅并给出明确推荐。\n\n必须遵守以下边界：\n- 这只是个人本机能力借用，不代表获得美团公开 API 或对外分发授权。\n- 必须复用我电脑里已经安装并使用过的 WorkBuddy 美团生活助手；不要寻找隐藏接口，不要抓包、逆向、爬取，也不要从别人电脑复制插件或凭证。\n- 如果本机没有 WorkBuddy，或者我从未成功使用过美团生活助手，立即停止，并明确告诉我目前无法单独获取这部分美团能力。\n- 不得显示、复制或写入日志的内容包括 Token、Cookie、client_id、场景 ID、设备信息和其他账号凭证。\n- 不修改或重新分发 WorkBuddy 原插件。新增代码只做本地适配、权限限制和结果整理。\n- 关闭 AI 自动支付。任何下单都必须再次获得我的明确确认，支付仍由我在官方 App 中完成。\n- Hermes 只能定位、搜索、比较和推荐；禁止领券、下单、支付、登录和修改账户。\n- Codex 的每日自动任务只能领券；禁止定位搜索、创建订单和支付。当天已经领过时按成功处理；登录失效时停止重试并提醒我手动登录。\n\n请按这个顺序执行：\n1. 先只读检查环境，确认 WorkBuddy、美团生活助手、本地 CLI、运行依赖和登录状态是否存在；只报告脱敏后的结果。\n2. 给出“可以继续 / 缺少前置条件”的明确判断，以及准备修改的文件和权限矩阵。\n3. 前置条件满足后，为 Codex 和 Hermes 分别制作 Skill，并通过一个安全适配层调用原有本地能力。\n4. 先检查环境，再演练，再手动实跑；验证领券、餐厅搜索和危险命令拦截都符合预期。\n5. 只有手动验证通过后，才创建每天 10:45 的 Codex 领券任务。\n6. 最后用表格汇报：新增文件、两个 Skill 的权限、测试结果、自动任务状态、仍需我手动完成的步骤。\n\n执行过程中请优先复用本机现有文件，不要臆造命令或接口。遇到授权、登录或上游版本不确定时，停下来说明事实和风险，不要绕过限制。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f39f.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f37d.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "markdown": "| 步骤 | 要解决的问题 | 这次怎么做 |\n|---|---|---|\n| 1. 确认来源 | 原能力属于谁，现在能否正常使用？ | 先在 WorkBuddy 中确认美团生活助手已经安装、登录并可用 |\n| 2. 本地转接 | 能否让另一个 AI 调用，而不复制上游能力？ | 保留 WorkBuddy 原插件，只让 Codex 和 Hermes 调用本机已有 CLI |\n| 3. 安全适配 | 如何避免凭证泄露和越权调用？ | 在中间加一层适配器，隐藏 Token、限制命令并关闭自动支付 |\n| 4. 权限拆分 | 不同入口真的需要相同权限吗？ | Codex 自动任务只领券，Hermes 只查餐厅，手动会话再单独授权 |\n| 5. 手测后自动化 | 怎样避免把偶然成功变成每天自动报错？ | 先检查环境、演练、手动实跑，确认稳定后再创建 10:45 定时任务 |"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "6ffc7924-34e0-4abe-8eca-69602ef45e26",
+                "url": "https://finance.sina.com.cn/wm/2026-06-17/doc-inictaen8927485.shtml"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "url": "https://www.workbuddy.cn/profile/growth-center"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "91d7daac-787f-4fc8-b676-5ceae1065427",
+                "url": "https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/26a0.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "markdown": "| 使用入口 | 允许做什么 | 明确禁止什么 |\n|---|---|---|\n| Codex 每日任务 | 每天执行一次领券 | 搜位置、下单、支付 |\n| Codex 手动会话 | 登录、查券、搜索；确认后才能下单 | 未确认订单、自动付款 |\n| 微信 Hermes | 定位、搜索餐厅、比较套餐、给出推荐 | 领券、下单、支付、登录、修改账户 |"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          }
+        ]
+      },
+      "media_entities": []
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

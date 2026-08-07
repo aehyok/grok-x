@@ -1,0 +1,336 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Saccc_c/status/2085275196412547133",
+    "id": "2085275196412547133",
+    "text": "很多人可能不知道，你和Codex的聊天记录隐藏了大量节省上下文token消耗的方法\n\n输入下面这段提示词，让 Codex 找出过去 30 天的重复工作，并判断该做成 skill、subagent、还是自动化任务。\n之后，你的工作效率将大幅提升：\n\n“检查我最近 30 天的 Codex 会话、Memories、Chronicle，以及已有的 Skills、Agents 和 Automations。\n\n找出至少重复出现两次、耗时、容易出错、需要大量上下文的人工工作。\n\n对每个候选项给出：实际证据和日期、出现频率、适合做成 Skill / Agent / Automation，或者暂时跳过、预计能节省什么。\n\n先输出候选清单，不要直接修改文件。只保留高置信度、输入稳定、流程可重复、结果可验收的任务”",
+    "raw_text": {
+      "text": "很多人可能不知道，你和Codex的聊天记录隐藏了大量节省上下文token消耗的方法\n\n输入下面这段提示词，让 Codex 找出过去 30 天的重复工作，并判断该做成 skill、subagent、还是自动化任务。\n之后，你的工作效率将大幅提升：\n\n“检查我最近 30 天的 Codex 会话、Memories、Chronicle，以及已有的 Skills、Agents 和 Automations。\n\n找出至少重复出现两次、耗时、容易出错、需要大量上下文的人工工作。\n\n对每个候选项给出：实际证据和日期、出现频率、适合做成 Skill / Agent / Automation，或者暂时跳过、预计能节省什么。\n\n先输出候选清单，不要直接修改文件。只保留高置信度、输入稳定、流程可重复、结果可验收的任务”",
+      "display_text_range": [
+        0,
+        351
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            171,
+            194
+          ],
+          "id": "2085274776868958209",
+          "display": "pic.x.com/oPadwxz9IN",
+          "original": "https://t.co/oPadwxz9IN",
+          "replacement": "https://x.com/Saccc_c/status/2085275196412547133/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Saccc_c",
+      "url": "https://x.com/Saccc_c",
+      "id": "1869683226178146304",
+      "followers": 30396,
+      "following": 2953,
+      "likes": 5407,
+      "media_count": 389,
+      "name": "Sac",
+      "description": "探索AI时代财富自由之路｜分享关于 AI 所探索到的一切\nalways respect for @otzgary\n商务合作：tg：@Sac_yin ｜vx: Sac_ccyin",
+      "raw_description": {
+        "text": "探索AI时代财富自由之路｜分享关于 AI 所探索到的一切\nalways respect for @otzgary\n商务合作：tg：@Sac_yin ｜vx: Sac_ccyin",
+        "facets": []
+      },
+      "location": "Singapore, SGP",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1869683226178146304/1785208001",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2081939362808520704/FwzCMH0g_200x200.jpg",
+      "joined": "Thu Dec 19 09:56:52 +0000 2024",
+      "protected": false,
+      "website": {
+        "url": "https://sac-ai.com/",
+        "display_url": "sac-ai.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 61,
+    "retweets": 34,
+    "likes": 283,
+    "bookmarks": 413,
+    "quotes": 6,
+    "created_at": "Thu Aug 06 08:02:04 +0000 2026",
+    "created_timestamp": 1786003324,
+    "possibly_sensitive": false,
+    "views": 42338,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2085274776868958209",
+          "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/3440x2160/ShC2Rfcweh_r_6Gp.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2085274776868958209/img/JkUDbk8Dd7yPZouu.jpg",
+          "duration": 20.2,
+          "width": 3440,
+          "height": 2160,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/pl/iF80_gj-WzbOKaho.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/430x270/p_JHr_6lFKTZ0bRM.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/572x360/YXAKSkHyz8QW7qa0.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/1146x720/PGW1IQFxQZ7TEYWR.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/1720x1080/FhSCPSdJwMqzi6ew.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/3440x2160/ShC2Rfcweh_r_6Gp.mp4?tag=29",
+              "bitrate": 25128000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/pl/iF80_gj-WzbOKaho.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/430x270/p_JHr_6lFKTZ0bRM.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/572x360/YXAKSkHyz8QW7qa0.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/1146x720/PGW1IQFxQZ7TEYWR.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/1720x1080/FhSCPSdJwMqzi6ew.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/3440x2160/ShC2Rfcweh_r_6Gp.mp4?tag=29",
+              "bitrate": 25128000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2085274776868958209",
+          "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/3440x2160/ShC2Rfcweh_r_6Gp.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2085274776868958209/img/JkUDbk8Dd7yPZouu.jpg",
+          "duration": 20.2,
+          "width": 3440,
+          "height": 2160,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/pl/iF80_gj-WzbOKaho.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/430x270/p_JHr_6lFKTZ0bRM.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/572x360/YXAKSkHyz8QW7qa0.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/1146x720/PGW1IQFxQZ7TEYWR.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/1720x1080/FhSCPSdJwMqzi6ew.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/3440x2160/ShC2Rfcweh_r_6Gp.mp4?tag=29",
+              "bitrate": 25128000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/pl/iF80_gj-WzbOKaho.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/430x270/p_JHr_6lFKTZ0bRM.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/572x360/YXAKSkHyz8QW7qa0.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/1146x720/PGW1IQFxQZ7TEYWR.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/1720x1080/FhSCPSdJwMqzi6ew.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085274776868958209/vid/avc1/3440x2160/ShC2Rfcweh_r_6Gp.mp4?tag=29",
+              "bitrate": 25128000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/Saccc_c/status/2084926111956516904",
+      "id": "2084926111956516904",
+      "text": "刚发现有人开发了一个GPT 5.6的破限工具，能让模型回答被安全护栏拦截的内容\n\n安装配置后，GPT可以有技巧的绕过安全限制，帮你逆向大部分本地APP和网站，写一些平常不会写的脚本程序\n\n一些涉及到侵权相关的敏感问题现在也能正常回复了，舒服～",
+      "raw_text": {
+        "text": "刚发现有人开发了一个GPT 5.6的破限工具，能让模型回答被安全护栏拦截的内容\n\n安装配置后，GPT可以有技巧的绕过安全限制，帮你逆向大部分本地APP和网站，写一些平常不会写的脚本程序\n\n一些涉及到侵权相关的敏感问题现在也能正常回复了，舒服～ https://t.co/WJiuMYw8Wj",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              122,
+              145
+            ],
+            "id": "2084925645826801664",
+            "display": "pic.x.com/WJiuMYw8Wj",
+            "original": "https://t.co/WJiuMYw8Wj",
+            "replacement": "https://x.com/Saccc_c/status/2084926111956516904/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "Saccc_c",
+        "url": "https://x.com/Saccc_c",
+        "id": "1869683226178146304",
+        "followers": 30396,
+        "following": 2953,
+        "likes": 5407,
+        "media_count": 389,
+        "name": "Sac",
+        "description": "探索AI时代财富自由之路｜分享关于 AI 所探索到的一切\nalways respect for @otzgary\n商务合作：tg：@Sac_yin ｜vx: Sac_ccyin",
+        "raw_description": {
+          "text": "探索AI时代财富自由之路｜分享关于 AI 所探索到的一切\nalways respect for @otzgary\n商务合作：tg：@Sac_yin ｜vx: Sac_ccyin",
+          "facets": []
+        },
+        "location": "Singapore, SGP",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1869683226178146304/1785208001",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2081939362808520704/FwzCMH0g_200x200.jpg",
+        "joined": "Thu Dec 19 09:56:52 +0000 2024",
+        "protected": false,
+        "website": {
+          "url": "https://sac-ai.com/",
+          "display_url": "sac-ai.com"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 43,
+      "retweets": 85,
+      "likes": 677,
+      "bookmarks": 1044,
+      "quotes": 1,
+      "created_at": "Wed Aug 05 08:54:55 +0000 2026",
+      "created_timestamp": 1785920095,
+      "possibly_sensitive": false,
+      "views": 159042,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "zh",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2084925645826801664",
+            "url": "https://pbs.twimg.com/media/HO8k1BabwAAgyiE.jpg?name=orig",
+            "width": 800,
+            "height": 1030
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2084925645826801664",
+            "url": "https://pbs.twimg.com/media/HO8k1BabwAAgyiE.jpg?name=orig",
+            "width": 800,
+            "height": 1030
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

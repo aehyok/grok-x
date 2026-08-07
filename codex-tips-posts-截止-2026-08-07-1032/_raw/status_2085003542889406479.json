@@ -1,0 +1,277 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/hank_aibtc/status/2085003542889406479",
+    "id": "2085003542889406479",
+    "text": "外国有用GPT-5.6 Luna几乎免费，\n而且有人已经摸出怎么让Codex永远碰不到用量上限。\n\n配置只要3分钟：\n装这个仓库：sol-advisor\n复制里面的 savings-prompt\n丢给你的Agent完事。\n \n可以参考下\n",
+    "raw_text": {
+      "text": "外国有用GPT-5.6 Luna几乎免费，\n而且有人已经摸出怎么让Codex永远碰不到用量上限。\n\n配置只要3分钟：\n装这个仓库：sol-advisor\n复制里面的 savings-prompt\n丢给你的Agent完事。\n \n可以参考下\nhttps://t.co/vGiVNbSQR6",
+      "display_text_range": [
+        0,
+        142
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            119,
+            142
+          ],
+          "id": "2084984109948907520",
+          "display": "pic.x.com/vGiVNbSQR6",
+          "original": "https://t.co/vGiVNbSQR6",
+          "replacement": "https://x.com/Nozelcode/status/2084984157776560410/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "hank_aibtc",
+      "url": "https://x.com/hank_aibtc",
+      "id": "1847211562576351232",
+      "followers": 4140,
+      "following": 980,
+      "likes": 2504,
+      "media_count": 572,
+      "name": "HankAI",
+      "description": "前外企大厂程序员｜ 独立开发者 | \nAI Agent × AIGC 🧠 × Blockchain ⛓ | \n专注AI、副业变现 | 知识分享 ｜生活洞察 ｜\n拆结构｜讲逻辑｜长期主义",
+      "raw_description": {
+        "text": "前外企大厂程序员｜ 独立开发者 | \nAI Agent × AIGC 🧠 × Blockchain ⛓ | \n专注AI、副业变现 | 知识分享 ｜生活洞察 ｜\n拆结构｜讲逻辑｜长期主义",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1847211562576351232/1777893294",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2054604521201074176/fG8biPLI_200x200.jpg",
+      "joined": "Fri Oct 18 09:42:27 +0000 2024",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 45,
+    "retweets": 39,
+    "likes": 300,
+    "bookmarks": 452,
+    "quotes": 1,
+    "created_at": "Wed Aug 05 14:02:36 +0000 2026",
+    "created_timestamp": 1785938556,
+    "possibly_sensitive": false,
+    "views": 51933,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2084984109948907520",
+          "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/1608x1080/CfqsjOZ152A1p4yb.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084984109948907520/img/CxPiq-K_DWBK_nvh.jpg",
+          "duration": 37.267,
+          "width": 1608,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/pl/7BKNBWZ7YT5jhPy7.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/402x270/5NyZd_HeCpg9NdYa.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/536x360/4GW9zdT3H9Kq-moq.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/1072x720/rjWvzXF8s9nW4Xl4.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/1608x1080/CfqsjOZ152A1p4yb.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": {
+            "screen_name": "Nozelcode",
+            "url": "https://x.com/Nozelcode",
+            "id": "1783462645376434176",
+            "followers": 206434,
+            "following": 238,
+            "likes": 5851,
+            "media_count": 170,
+            "statuses": 2578,
+            "name": "roman",
+            "description": "i talk about tech, AI and automation | growth @aiscwork | @ecomrads",
+            "raw_description": {
+              "text": "i talk about tech, AI and automation | growth @aiscwork | @ecomrads",
+              "facets": []
+            },
+            "location": "not SF",
+            "banner_url": "https://pbs.twimg.com/profile_banners/1783462645376434176/1783193501",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2073450678727380992/6NTjm6pf_normal.jpg",
+            "joined": "Thu Apr 25 11:46:54 +0000 2024",
+            "protected": false,
+            "website": {
+              "url": "https://aiscwork.com/",
+              "display_url": "aiscwork.com"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/pl/7BKNBWZ7YT5jhPy7.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/402x270/5NyZd_HeCpg9NdYa.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/536x360/4GW9zdT3H9Kq-moq.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/1072x720/rjWvzXF8s9nW4Xl4.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/1608x1080/CfqsjOZ152A1p4yb.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2084984109948907520",
+          "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/1608x1080/CfqsjOZ152A1p4yb.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084984109948907520/img/CxPiq-K_DWBK_nvh.jpg",
+          "duration": 37.267,
+          "width": 1608,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/pl/7BKNBWZ7YT5jhPy7.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/402x270/5NyZd_HeCpg9NdYa.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/536x360/4GW9zdT3H9Kq-moq.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/1072x720/rjWvzXF8s9nW4Xl4.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/1608x1080/CfqsjOZ152A1p4yb.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": {
+            "screen_name": "Nozelcode",
+            "url": "https://x.com/Nozelcode",
+            "id": "1783462645376434176",
+            "followers": 206434,
+            "following": 238,
+            "likes": 5851,
+            "media_count": 170,
+            "statuses": 2578,
+            "name": "roman",
+            "description": "i talk about tech, AI and automation | growth @aiscwork | @ecomrads",
+            "raw_description": {
+              "text": "i talk about tech, AI and automation | growth @aiscwork | @ecomrads",
+              "facets": []
+            },
+            "location": "not SF",
+            "banner_url": "https://pbs.twimg.com/profile_banners/1783462645376434176/1783193501",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2073450678727380992/6NTjm6pf_normal.jpg",
+            "joined": "Thu Apr 25 11:46:54 +0000 2024",
+            "protected": false,
+            "website": {
+              "url": "https://aiscwork.com/",
+              "display_url": "aiscwork.com"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/pl/7BKNBWZ7YT5jhPy7.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/402x270/5NyZd_HeCpg9NdYa.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/536x360/4GW9zdT3H9Kq-moq.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/1072x720/rjWvzXF8s9nW4Xl4.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084984109948907520/vid/avc1/1608x1080/CfqsjOZ152A1p4yb.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

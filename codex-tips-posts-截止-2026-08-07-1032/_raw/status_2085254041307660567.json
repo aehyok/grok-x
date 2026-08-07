@@ -1,0 +1,196 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Gencoin8/status/2085254041307660567",
+    "id": "2085254041307660567",
+    "text": "Codexを本気で使いこなす人は\nプロンプトより先に「Skill」を整えてる\n毎回ゼロからプロンプトを書く人と、\nSkillを資産化している人では、生産性が違う\n今すぐ無料で使えるCodex Skillを26個まとめた　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n\n✅ アプリ・Webサイト開発 \n✅ LP・UIデザイン生成 \n✅ コードレビュー・リファクタリング \n✅ アーキテクチャ図・フローチャート作成 \n✅ 最新情報のリサーチ自動化 \n✅ プレゼン・提案資料の作成 \n✅ SEO記事・X投稿の作成 \n✅ PDF・画像・動画解析 \n✅ バグ修正・テスト自動化 \n✅ プロンプト最適化・エージェント構築\n必要なときはコマンド1つで呼び出すだけ\n\n一度作れば、何度でも再利用でき\nどのプロジェクトでも同じ品質で実行できます。\n\nSkillは、Codexに「仕事の進め方」を\n覚えさせる仕組み。\n\nこれが、Codexを単なるAIではなく\n自分専用の開発チームに変える最大のポイント\n\n保存して、1つずつ試してみてください。",
+    "raw_text": {
+      "text": "Codexを本気で使いこなす人は\nプロンプトより先に「Skill」を整えてる\n毎回ゼロからプロンプトを書く人と、\nSkillを資産化している人では、生産性が違う\n今すぐ無料で使えるCodex Skillを26個まとめた　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n\n✅ アプリ・Webサイト開発 \n✅ LP・UIデザイン生成 \n✅ コードレビュー・リファクタリング \n✅ アーキテクチャ図・フローチャート作成 \n✅ 最新情報のリサーチ自動化 \n✅ プレゼン・提案資料の作成 \n✅ SEO記事・X投稿の作成 \n✅ PDF・画像・動画解析 \n✅ バグ修正・テスト自動化 \n✅ プロンプト最適化・エージェント構築\n必要なときはコマンド1つで呼び出すだけ\n\n一度作れば、何度でも再利用でき\nどのプロジェクトでも同じ品質で実行できます。\n\nSkillは、Codexに「仕事の進め方」を\n覚えさせる仕組み。\n\nこれが、Codexを単なるAIではなく\n自分専用の開発チームに変える最大のポイント\n\n保存して、1つずつ試してみてください。",
+      "display_text_range": [
+        0,
+        531
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            110,
+            133
+          ],
+          "id": "2085230606720622592",
+          "display": "pic.x.com/URmL3uw44T",
+          "original": "https://t.co/URmL3uw44T",
+          "replacement": "https://x.com/Gencoin8/status/2085254041307660567/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Gencoin8",
+      "url": "https://x.com/Gencoin8",
+      "id": "1764724505606578180",
+      "followers": 13811,
+      "following": 116,
+      "likes": 1317,
+      "media_count": 246,
+      "name": "Codex研究ラボ",
+      "description": "Codexについて24時間研究中\n上場企業AIシステムタイアップ企画参画\nAIエージェント×Codex環境構築中",
+      "raw_description": {
+        "text": "Codexについて24時間研究中\n上場企業AIシステムタイアップ企画参画\nAIエージェント×Codex環境構築中",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1764724505606578180/1778393327",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2051958410049191936/2xPvU4Du_200x200.jpg",
+      "joined": "Mon Mar 04 18:49:03 +0000 2024",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 2,
+    "retweets": 20,
+    "likes": 166,
+    "bookmarks": 210,
+    "quotes": 2,
+    "created_at": "Thu Aug 06 06:38:00 +0000 2026",
+    "created_timestamp": 1785998280,
+    "possibly_sensitive": false,
+    "views": 17186,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "ja",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085230606720622592",
+          "url": "https://pbs.twimg.com/media/HPA6MFRa4AAacVa.jpg?name=orig",
+          "width": 1038,
+          "height": 1515
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085230606720622592",
+          "url": "https://pbs.twimg.com/media/HPA6MFRa4AAacVa.jpg?name=orig",
+          "width": 1038,
+          "height": 1515
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/Gencoin8/status/2076236089761919020",
+      "id": "2076236089761919020",
+      "text": "🎉Codex研究ラボ🎉\nフォロワー1万人突破記念‼️\n\n皆様への感謝を込めて超特別な\n『無料オンライン講習会』を開催します✨\n\n「AIって何？」「難しそう…」 \nそんな初心者の貴方に贈る\n一生モノのAI使いこなし術\n\n君のアイデアをカタチにする\n最強の武器を手に入れられます🚀\n\n📅 8/15(金)・16(土) の2日間\n⏰ 16:00〜 / 20:00〜 の2部制\n※一人でも多くの人に届けるため\n同じ内容で4回開催します！\n\n🎁 参加者限定の豪華特典もプレゼント！\n⚠️ 席数には限りがあります！\n\n👇無料参加はこちらから！\nhttps://line.me/ti/g2/rShiNcOZx80oNA3gGMSOji3m3CAxGuLz_KHFCA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
+      "raw_text": {
+        "text": "🎉Codex研究ラボ🎉\nフォロワー1万人突破記念‼️\n\n皆様への感謝を込めて超特別な\n『無料オンライン講習会』を開催します✨\n\n「AIって何？」「難しそう…」 \nそんな初心者の貴方に贈る\n一生モノのAI使いこなし術\n\n君のアイデアをカタチにする\n最強の武器を手に入れられます🚀\n\n📅 8/15(金)・16(土) の2日間\n⏰ 16:00〜 / 20:00〜 の2部制\n※一人でも多くの人に届けるため\n同じ内容で4回開催します！\n\n🎁 参加者限定の豪華特典もプレゼント！\n⚠️ 席数には限りがあります！\n\n👇無料参加はこちらから！\nhttps://t.co/BRcLbD3e2C",
+        "display_text_range": [
+          0,
+          294
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              156,
+              179
+            ],
+            "id": "2076234749920858112",
+            "display": "pic.x.com/7vAlUtgyNI",
+            "original": "https://t.co/7vAlUtgyNI",
+            "replacement": "https://x.com/Gencoin8/status/2076236089761919020/photo/1"
+          },
+          {
+            "type": "url",
+            "indices": [
+              265,
+              288
+            ],
+            "original": "https://t.co/BRcLbD3e2C",
+            "replacement": "https://line.me/ti/g2/rShiNcOZx80oNA3gGMSOji3m3CAxGuLz_KHFCA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
+            "display": "line.me/ti/g2/rShiNcOZ…"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "Gencoin8",
+        "url": "https://x.com/Gencoin8",
+        "id": "1764724505606578180",
+        "followers": 13811,
+        "following": 116,
+        "likes": 1317,
+        "media_count": 246,
+        "name": "Codex研究ラボ",
+        "description": "Codexについて24時間研究中\n上場企業AIシステムタイアップ企画参画\nAIエージェント×Codex環境構築中",
+        "raw_description": {
+          "text": "Codexについて24時間研究中\n上場企業AIシステムタイアップ企画参画\nAIエージェント×Codex環境構築中",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1764724505606578180/1778393327",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2051958410049191936/2xPvU4Du_200x200.jpg",
+        "joined": "Mon Mar 04 18:49:03 +0000 2024",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 3,
+      "retweets": 8,
+      "likes": 96,
+      "bookmarks": 80,
+      "quotes": 3,
+      "created_at": "Sun Jul 12 09:23:53 +0000 2026",
+      "created_timestamp": 1783848233,
+      "possibly_sensitive": false,
+      "views": 1089784,
+      "is_note_tweet": true,
+      "community_note": null,
+      "lang": "ja",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2076234749920858112",
+            "url": "https://pbs.twimg.com/media/HNBEgTNa0AAtt_2.jpg?name=orig",
+            "width": 2560,
+            "height": 1440
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2076234749920858112",
+            "url": "https://pbs.twimg.com/media/HNBEgTNa0AAtt_2.jpg?name=orig",
+            "width": 2560,
+            "height": 1440
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web Client",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

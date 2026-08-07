@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/reach_vb/status/2078018760741667141",
+    "id": "2078018760741667141",
+    "text": "codex tip: ask codex to look through your sessions and archive one-off queries and organise your projects better\n\nI have it running as an automation, keeps my side bar focused",
+    "raw_text": {
+      "text": "codex tip: ask codex to look through your sessions and archive one-off queries and organise your projects better\n\nI have it running as an automation, keeps my side bar focused",
+      "display_text_range": [
+        0,
+        175
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "reach_vb",
+      "url": "https://x.com/reach_vb",
+      "id": "874987512850128897",
+      "followers": 55620,
+      "following": 297,
+      "likes": 23520,
+      "media_count": 2040,
+      "name": "Vaibhav (VB) Srivastav",
+      "description": "founder mode @OpenAI | ex @huggingface | F1 fan | Here for @at_sofdog’s wisdom | *opinions my own",
+      "raw_description": {
+        "text": "founder mode @OpenAI | ex @huggingface | F1 fan | Here for @at_sofdog’s wisdom | *opinions my own",
+        "facets": []
+      },
+      "location": "codex -m gpt 5.6-sol",
+      "banner_url": "https://pbs.twimg.com/profile_banners/874987512850128897/1651638851",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1509901130670747666/JFlrSzB4_200x200.jpg",
+      "joined": "Wed Jun 14 13:50:54 +0000 2017",
+      "protected": false,
+      "website": {
+        "url": "http://vaibhavs10.github.io",
+        "display_url": "vaibhavs10.github.io"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 41,
+    "retweets": 22,
+    "likes": 636,
+    "bookmarks": 435,
+    "quotes": 5,
+    "created_at": "Fri Jul 17 07:27:34 +0000 2026",
+    "created_timestamp": 1784273254,
+    "views": 32586,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter for iPhone",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

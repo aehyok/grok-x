@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/reach_vb/status/2082445610913878295",
+    "id": "2082445610913878295",
+    "text": "Codex tip: ask your agent to email you a summary of everything it changed once it’s done!\n\nSo so worth waking up to a recap of everything Codex got up to overnight instead of digging through threads!",
+    "raw_text": {
+      "text": "Codex tip: ask your agent to email you a summary of everything it changed once it’s done!\n\nSo so worth waking up to a recap of everything Codex got up to overnight instead of digging through threads! https://t.co/VquOKV1ZR3",
+      "display_text_range": [
+        0,
+        199
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            200,
+            223
+          ],
+          "id": "2082442078286462976",
+          "display": "pic.x.com/VquOKV1ZR3",
+          "original": "https://t.co/VquOKV1ZR3",
+          "replacement": "https://x.com/reach_vb/status/2082445610913878295/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "reach_vb",
+      "url": "https://x.com/reach_vb",
+      "id": "874987512850128897",
+      "followers": 55620,
+      "following": 297,
+      "likes": 23520,
+      "media_count": 2040,
+      "name": "Vaibhav (VB) Srivastav",
+      "description": "founder mode @OpenAI | ex @huggingface | F1 fan | Here for @at_sofdog’s wisdom | *opinions my own",
+      "raw_description": {
+        "text": "founder mode @OpenAI | ex @huggingface | F1 fan | Here for @at_sofdog’s wisdom | *opinions my own",
+        "facets": []
+      },
+      "location": "codex -m gpt 5.6-sol",
+      "banner_url": "https://pbs.twimg.com/profile_banners/874987512850128897/1651638851",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1509901130670747666/JFlrSzB4_200x200.jpg",
+      "joined": "Wed Jun 14 13:50:54 +0000 2017",
+      "protected": false,
+      "website": {
+        "url": "http://vaibhavs10.github.io",
+        "display_url": "vaibhavs10.github.io"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 19,
+    "retweets": 4,
+    "likes": 223,
+    "bookmarks": 57,
+    "quotes": 0,
+    "created_at": "Wed Jul 29 12:38:18 +0000 2026",
+    "created_timestamp": 1785328698,
+    "possibly_sensitive": false,
+    "views": 13312,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2082442078286462976",
+          "url": "https://pbs.twimg.com/media/HOZSCXWXQAAxvD-.jpg?name=orig",
+          "width": 2402,
+          "height": 1214
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2082442078286462976",
+          "url": "https://pbs.twimg.com/media/HOZSCXWXQAAxvD-.jpg?name=orig",
+          "width": 2402,
+          "height": 1214
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,16 @@
+# 临时脚本与扫描中间产物
+_dump_changelog.py
+**/_scan.txt
+**/_scan2.txt
+**/_bodies_for_rewrite.txt
+
+# Python
+__pycache__/
+*.pyc
+.Python
+
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+*.swp
+*~

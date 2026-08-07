@@ -1,0 +1,210 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/AYi_AInotes/status/2084522269745820010",
+    "id": "2084522269745820010",
+    "text": "简直就是省Token焚决！！！\n\nVercel Next.js团队的老哥，烧了大约60B tokens，总结出一份AGENTS.md，核心就8条规则。\n\n60B tokens什么概念？大概六位数美元。\n\n这8条规则的本质就一句话：让你的AI编程Agent别像个实习生什么都想自己造，要像个干了十年的老油条一样写代码。\n\n直接上规则：\n\n1. 不保留向后兼容。过时的直接删，别加兼容层、别写migration、别留fallback。\n\n2. 选能满足当前需求的最简单实现。不要预防性抽象，不要多此一举的配置层。\n\n3. 系统分层长。先跑通一个最小的端到端版本，再往上加东西。绝不为了未完成的复杂度拆掉能跑的东西。\n\n4. 组件保持模块化，关注点分离。\n\n5. 优先用成熟的、有人维护的库。没有明确理由别自己重写。\n\n6. 先翻项目里已有的依赖能做什么，再考虑加新包或自己写。别上来就假设库里没有。\n\n7. 架构决策往长了做。不接受\"先这样以后再换\"的临时方案。\n\n8. 先看成熟产品怎么解决同一个问题，用已验证的模式，别从零发明。\n\n就这8条，丢进你项目根目录的AGENTS.md里，Cursor、Claude Code、Codex、Windsurf全会自动读。\n\n为什么这能省token？因为AI写代码最大的浪费其实不是写错，是重复写多。\n\n它给你引三个依赖写五个抽象层来解决一个标准库十行就能搞定的事，你让它改，它再给你写两百行。\n\n这8条规则就是在它动笔之前先把它摁住：能不写的不写，能复用的复用，能简单的别复杂。\n\n代码短了，返工少了，token自然就省了。\n\n之前推荐过的Ponytail那个插件，干的是同一件事，只不过它是在运行时强制检查，这个是在AGENTS.md里从源头约束，两个一起用，简直效果拔群。\n\n但作者自己加了个非常重要的警告：\n\n这玩意儿只适合side projects，生产环境慎用。\n\n他亲口说的，\"不保留向后兼容\"那条曾经让Agent差点删了生产数据库的表，差点丢了2000美元的数据。生产环境你得自己改，至少把第一条删了或者改温和点。\n\n所以如果你在做side project、做内部工具、做原型，把这8条抄进AGENTS.md，你会发现AI写出来的代码突然像个人了。\n\n如果你在生产环境用，把第一条和第七条之间的度自己把握好，别让AI把你库表删了。\n\n省token的方法有很多种，换便宜模型是一种，写好prompt是一种，但最有效的，是在你项目根目录放一个文件，告诉AI：\n\n别给我整花活，写最少的能跑的代码。",
+    "raw_text": {
+      "text": "简直就是省Token焚决！！！\n\nVercel Next.js团队的老哥，烧了大约60B tokens，总结出一份AGENTS.md，核心就8条规则。\n\n60B tokens什么概念？大概六位数美元。\n\n这8条规则的本质就一句话：让你的AI编程Agent别像个实习生什么都想自己造，要像个干了十年的老油条一样写代码。\n\n直接上规则：\n\n1. 不保留向后兼容。过时的直接删，别加兼容层、别写migration、别留fallback。\n\n2. 选能满足当前需求的最简单实现。不要预防性抽象，不要多此一举的配置层。\n\n3. 系统分层长。先跑通一个最小的端到端版本，再往上加东西。绝不为了未完成的复杂度拆掉能跑的东西。\n\n4. 组件保持模块化，关注点分离。\n\n5. 优先用成熟的、有人维护的库。没有明确理由别自己重写。\n\n6. 先翻项目里已有的依赖能做什么，再考虑加新包或自己写。别上来就假设库里没有。\n\n7. 架构决策往长了做。不接受\"先这样以后再换\"的临时方案。\n\n8. 先看成熟产品怎么解决同一个问题，用已验证的模式，别从零发明。\n\n就这8条，丢进你项目根目录的AGENTS.md里，Cursor、Claude Code、Codex、Windsurf全会自动读。\n\n为什么这能省token？因为AI写代码最大的浪费其实不是写错，是重复写多。\n\n它给你引三个依赖写五个抽象层来解决一个标准库十行就能搞定的事，你让它改，它再给你写两百行。\n\n这8条规则就是在它动笔之前先把它摁住：能不写的不写，能复用的复用，能简单的别复杂。\n\n代码短了，返工少了，token自然就省了。\n\n之前推荐过的Ponytail那个插件，干的是同一件事，只不过它是在运行时强制检查，这个是在AGENTS.md里从源头约束，两个一起用，简直效果拔群。\n\n但作者自己加了个非常重要的警告：\n\n这玩意儿只适合side projects，生产环境慎用。\n\n他亲口说的，\"不保留向后兼容\"那条曾经让Agent差点删了生产数据库的表，差点丢了2000美元的数据。生产环境你得自己改，至少把第一条删了或者改温和点。\n\n所以如果你在做side project、做内部工具、做原型，把这8条抄进AGENTS.md，你会发现AI写出来的代码突然像个人了。\n\n如果你在生产环境用，把第一条和第七条之间的度自己把握好，别让AI把你库表删了。\n\n省token的方法有很多种，换便宜模型是一种，写好prompt是一种，但最有效的，是在你项目根目录放一个文件，告诉AI：\n\n别给我整花活，写最少的能跑的代码。",
+      "display_text_range": [
+        0,
+        1073
+      ],
+      "facets": [
+        {
+          "type": "bold",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            5,
+            10
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            10,
+            15
+          ]
+        },
+        {
+          "type": "media",
+          "indices": [
+            171,
+            194
+          ],
+          "id": "2084522258719006720",
+          "display": "pic.x.com/xMZNDQuCjt",
+          "original": "https://t.co/xMZNDQuCjt",
+          "replacement": "https://x.com/AYi_AInotes/status/2084522269745820010/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "AYi_AInotes",
+      "url": "https://x.com/AYi_AInotes",
+      "id": "1974653328274714624",
+      "followers": 58791,
+      "following": 452,
+      "likes": 18773,
+      "media_count": 1581,
+      "name": "AYi",
+      "description": "AI 实用主义，专注AI落地的组织和业务know how，关注商业，职场，投资，业务出海，\n大厂组织发展专家 × 组织心理学，Prompt专家，分享有用的 AI 实践，也分享工具之外的深度认知\n以术入道，以道御术，KEEP BUILDING\n合作/交流：DM/TG @AYi_AInotes",
+      "raw_description": {
+        "text": "AI 实用主义，专注AI落地的组织和业务know how，关注商业，职场，投资，业务出海，\n大厂组织发展专家 × 组织心理学，Prompt专家，分享有用的 AI 实践，也分享工具之外的深度认知\n以术入道，以道御术，KEEP BUILDING\n合作/交流：DM/TG @AYi_AInotes",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1974653328274714624/1782315844",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_200x200.jpg",
+      "joined": "Sun Oct 05 01:50:40 +0000 2025",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 51,
+    "retweets": 445,
+    "likes": 2851,
+    "bookmarks": 5044,
+    "quotes": 21,
+    "created_at": "Tue Aug 04 06:10:12 +0000 2026",
+    "created_timestamp": 1785823812,
+    "possibly_sensitive": false,
+    "views": 386624,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2084522258719006720",
+          "url": "https://pbs.twimg.com/media/HO218zVXYAAK1oG.jpg?name=orig",
+          "width": 1200,
+          "height": 733
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2084522258719006720",
+          "url": "https://pbs.twimg.com/media/HO218zVXYAAK1oG.jpg?name=orig",
+          "width": 1200,
+          "height": 733
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/MarcosHernanz/status/2083954734487212511",
+      "id": "2083954734487212511",
+      "text": "After doing ~60B tokens, this is my full AGENTS.md",
+      "raw_text": {
+        "text": "After doing ~60B tokens, this is my full AGENTS.md https://t.co/VVXIwtSAcO",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              51,
+              74
+            ],
+            "id": "2083954729399500800",
+            "display": "pic.x.com/VVXIwtSAcO",
+            "original": "https://t.co/VVXIwtSAcO",
+            "replacement": "https://x.com/MarcosHernanz/status/2083954734487212511/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "MarcosHernanz",
+        "url": "https://x.com/MarcosHernanz",
+        "id": "1717163021519175680",
+        "followers": 3111,
+        "following": 278,
+        "likes": 4880,
+        "media_count": 178,
+        "name": "Marcos Hernanz",
+        "description": "Next.js @vercel",
+        "raw_description": {
+          "text": "Next.js @vercel",
+          "facets": []
+        },
+        "location": "San Francisco, CA",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1717163021519175680/1773344009",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2032179052430155776/gZ4WUoDc_200x200.jpg",
+        "joined": "Wed Oct 25 12:56:20 +0000 2023",
+        "protected": false,
+        "website": {
+          "url": "https://github.com/marcoshernanz",
+          "display_url": "github.com/marcoshernanz"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 152,
+      "retweets": 519,
+      "likes": 10801,
+      "bookmarks": 20488,
+      "quotes": 65,
+      "created_at": "Sun Aug 02 16:35:01 +0000 2026",
+      "created_timestamp": 1785688501,
+      "possibly_sensitive": false,
+      "views": 1956952,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2083954729399500800",
+            "url": "https://pbs.twimg.com/media/HOuxyP3aQAAlqYd.jpg?name=orig",
+            "width": 1200,
+            "height": 733
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2083954729399500800",
+            "url": "https://pbs.twimg.com/media/HOuxyP3aQAAlqYd.jpg?name=orig",
+            "width": 1200,
+            "height": 733
+          }
+        ]
+      },
+      "source": "Twitter for Android",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter for iPhone",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

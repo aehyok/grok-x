@@ -1,0 +1,127 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Jack_FluxAI/status/2082345252699189274",
+    "id": "2082345252699189274",
+    "text": "大家有注意到最近墙内很火的胡楚靓AI 工作台吗？\n\n正当我打开Codex 准备好好拆解一番的时候\n\n用豆包给我转化逐字稿\n\n就发现他的构建流程就是\n\n1.安装 Work Buddy 或 Trae Work。\n\n2.用大白话告诉 AI：你想要什么功能、左侧菜单放什么、右侧放什么。\n\n3.如果不会描述，直接把喜欢的工作台截图丢给 AI，说：“照着这个做，把内容换成我的。”\n\n就是这么朴实无华的口喷编程法\n\n在墙内收获了，四十多万赞\n\n多少技术大牛都做不到",
+    "raw_text": {
+      "text": "大家有注意到最近墙内很火的胡楚靓AI 工作台吗？\n\n正当我打开Codex 准备好好拆解一番的时候\n\n用豆包给我转化逐字稿\n\n就发现他的构建流程就是\n\n1.安装 Work Buddy 或 Trae Work。\n\n2.用大白话告诉 AI：你想要什么功能、左侧菜单放什么、右侧放什么。\n\n3.如果不会描述，直接把喜欢的工作台截图丢给 AI，说：“照着这个做，把内容换成我的。”\n\n就是这么朴实无华的口喷编程法\n\n在墙内收获了，四十多万赞\n\n多少技术大牛都做不到",
+      "display_text_range": [
+        0,
+        227
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            164,
+            187
+          ],
+          "id": "2082345240040771584",
+          "display": "pic.x.com/Vx4ZYrhZQ9",
+          "original": "https://t.co/Vx4ZYrhZQ9",
+          "replacement": "https://x.com/Jack_FluxAI/status/2082345252699189274/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            164,
+            187
+          ],
+          "id": "2082345240053383168",
+          "display": "pic.x.com/Vx4ZYrhZQ9",
+          "original": "https://t.co/Vx4ZYrhZQ9",
+          "replacement": "https://x.com/Jack_FluxAI/status/2082345252699189274/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Jack_FluxAI",
+      "url": "https://x.com/Jack_FluxAI",
+      "id": "2035032829999075328",
+      "followers": 1933,
+      "following": 669,
+      "likes": 14295,
+      "media_count": 334,
+      "name": "Jack Flux",
+      "description": "26岁普通工程师\n在AI浪潮里重新寻找人生可能\n分享AI实战经验、工作流和Agent \n偶尔讲讲段子，个人感悟",
+      "raw_description": {
+        "text": "26岁普通工程师\n在AI浪潮里重新寻找人生可能\n分享AI实战经验、工作流和Agent \n偶尔讲讲段子，个人感悟",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2035032829999075328/1783191536",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2072156359542607872/SHqIRvOY_200x200.jpg",
+      "joined": "Fri Mar 20 16:37:00 +0000 2026",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 30,
+    "retweets": 24,
+    "likes": 257,
+    "bookmarks": 278,
+    "quotes": 7,
+    "created_at": "Wed Jul 29 05:59:31 +0000 2026",
+    "created_timestamp": 1785304771,
+    "possibly_sensitive": false,
+    "views": 149509,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2082345240040771584",
+          "url": "https://pbs.twimg.com/media/HOX59oxbEAAih_3.jpg?name=orig",
+          "width": 942,
+          "height": 2048
+        },
+        {
+          "type": "photo",
+          "id": "2082345240053383168",
+          "url": "https://pbs.twimg.com/media/HOX59o0bgAADlRg.jpg?name=orig",
+          "width": 942,
+          "height": 2048
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2082345240040771584",
+          "url": "https://pbs.twimg.com/media/HOX59oxbEAAih_3.jpg?name=orig",
+          "width": 942,
+          "height": 2048
+        },
+        {
+          "type": "photo",
+          "id": "2082345240053383168",
+          "url": "https://pbs.twimg.com/media/HOX59o0bgAADlRg.jpg?name=orig",
+          "width": 942,
+          "height": 2048
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2082345252699189274/HOX59oxbEAAih_3/HOX59o0bgAADlRg",
+          "webp": "https://mosaic.fxtwitter.com/webp/2082345252699189274/HOX59oxbEAAih_3/HOX59o0bgAADlRg"
+        }
+      }
+    },
+    "source": "Twitter for iPhone",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

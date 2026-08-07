@@ -1,0 +1,166 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/realWeZZard/status/2085252900360704319",
+    "id": "2085252900360704319",
+    "text": "现在最重要的是数据飞轮。通过蒸馏快速拿到数据飞轮才是正确的选择。\n去年这个时候 200 刀买 Claude Code 的高级工程师通过 ask user question tool 和 plan mode 不知道做了多少次为 Anthropic 训练 Opus 4.5 标注了高质量的数据。\n目前在国内，这个数据飞轮已经到了 Workbuddy/HY 身上。",
+    "raw_text": {
+      "text": "现在最重要的是数据飞轮。通过蒸馏快速拿到数据飞轮才是正确的选择。\n去年这个时候 200 刀买 Claude Code 的高级工程师通过 ask user question tool 和 plan mode 不知道做了多少次为 Anthropic 训练 Opus 4.5 标注了高质量的数据。\n目前在国内，这个数据飞轮已经到了 Workbuddy/HY 身上。",
+      "display_text_range": [
+        0,
+        179
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "realWeZZard",
+      "url": "https://x.com/realWeZZard",
+      "id": "1122177599940096000",
+      "followers": 3332,
+      "following": 554,
+      "likes": 3910,
+      "media_count": 500,
+      "name": "WeZZard",
+      "description": "The crazy one.\nBuilding @readycheckdev , ex-ByteDance\nFeel free to grab my skills: http://skills.wezzard.com",
+      "raw_description": {
+        "text": "The crazy one.\nBuilding @readycheckdev , ex-ByteDance\nFeel free to grab my skills: https://t.co/y99vQ4RS67",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              83,
+              106
+            ],
+            "original": "https://t.co/y99vQ4RS67",
+            "replacement": "http://skills.wezzard.com",
+            "display": "skills.wezzard.com"
+          }
+        ]
+      },
+      "location": "SZ, CHN / SYD, AU",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1122177599940096000/1783935293",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1122177923635499008/uWb83ckB_200x200.jpg",
+      "joined": "Sat Apr 27 16:36:03 +0000 2019",
+      "protected": false,
+      "website": {
+        "url": "https://wezzard.com",
+        "display_url": "wezzard.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 2,
+    "retweets": 3,
+    "likes": 24,
+    "bookmarks": 7,
+    "quotes": 0,
+    "created_at": "Thu Aug 06 06:33:28 +0000 2026",
+    "created_timestamp": 1785998008,
+    "views": 5560,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/fxtrader/status/2085241139066749274",
+      "id": "2085241139066749274",
+      "text": "张一鸣在字节跳动Seed内部会议上明确表示，严禁对开源模型蒸馏，因为蒸馏会干扰长期技术突破，“应该愿意为长期目标牺牲一部分短期收益”。",
+      "raw_text": {
+        "text": "张一鸣在字节跳动Seed内部会议上明确表示，严禁对开源模型蒸馏，因为蒸馏会干扰长期技术突破，“应该愿意为长期目标牺牲一部分短期收益”。 https://t.co/pW65ffnWf0",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              68,
+              91
+            ],
+            "id": "2085240809348333569",
+            "display": "pic.x.com/pW65ffnWf0",
+            "original": "https://t.co/pW65ffnWf0",
+            "replacement": "https://x.com/fxtrader/status/2085241139066749274/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "fxtrader",
+        "url": "https://x.com/fxtrader",
+        "id": "1059638356609396736",
+        "followers": 401840,
+        "following": 507,
+        "likes": 7875,
+        "media_count": 15477,
+        "name": "外汇交易员",
+        "description": "盯紧市场，把握时机。理性客观，利益永恒。",
+        "raw_description": {
+          "text": "盯紧市场，把握时机。理性客观，利益永恒。",
+          "facets": []
+        },
+        "location": "Hong Kong",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1059638356609396736/1582338929",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2056408582779019264/LpiYOnnm_200x200.jpg",
+        "joined": "Tue Nov 06 02:47:26 +0000 2018",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 62,
+      "retweets": 11,
+      "likes": 301,
+      "bookmarks": 35,
+      "quotes": 7,
+      "created_at": "Thu Aug 06 05:46:44 +0000 2026",
+      "created_timestamp": 1785995204,
+      "possibly_sensitive": false,
+      "views": 217321,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "zh",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2085240809348333569",
+            "url": "https://pbs.twimg.com/media/HPBDd9BbAAEijSY.png?name=orig",
+            "width": 1556,
+            "height": 512
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2085240809348333569",
+            "url": "https://pbs.twimg.com/media/HPBDd9BbAAEijSY.png?name=orig",
+            "width": 1556,
+            "height": 512
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

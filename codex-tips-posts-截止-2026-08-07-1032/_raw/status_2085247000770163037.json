@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/so_ainsight/status/2085247000770163037",
+    "id": "2085247000770163037",
+    "text": "Codex x コンテキスト満杯問題の解決法、えぐい\n\n海外で、Codexの会話が長くなってきたら新しいチャットを開いて、前のチャットを @ で呼び出して続きをやらせる、という使い方が話題に。\n\n・打つのは「要点をまとめて続きをやって」の一行だけ\n・@ の候補には同じプロジェクトの過去チャットが名前のまま並ぶ\n・頼むのは全文の再現ではなく、要点の要約\n\nなど、一から説明し直さずに続きから動かす仕組みです👇",
+    "raw_text": {
+      "text": "Codex x コンテキスト満杯問題の解決法、えぐい\n\n海外で、Codexの会話が長くなってきたら新しいチャットを開いて、前のチャットを @ で呼び出して続きをやらせる、という使い方が話題に。\n\n・打つのは「要点をまとめて続きをやって」の一行だけ\n・@ の候補には同じプロジェクトの過去チャットが名前のまま並ぶ\n・頼むのは全文の再現ではなく、要点の要約\n\nなど、一から説明し直さずに続きから動かす仕組みです👇",
+      "display_text_range": [
+        0,
+        205
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            127,
+            150
+          ],
+          "id": "2085246998568198144",
+          "display": "pic.x.com/0fNtkCo0Kr",
+          "original": "https://t.co/0fNtkCo0Kr",
+          "replacement": "https://x.com/so_ainsight/status/2085247000770163037/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "so_ainsight",
+      "url": "https://x.com/so_ainsight",
+      "id": "1919729970685075456",
+      "followers": 19933,
+      "following": 69,
+      "likes": 395,
+      "media_count": 581,
+      "name": "そう｜Claude Codeで始めるAI自動化",
+      "description": "Claude Code×n8n AIエージェント300以上構築｜ソロプレナーでAIエージェント組織企業を運営｜ 累計純利２億超 ｜ 非エンジニアでもできるClaude Codeで「異次元」業務効率化を発信｜ noteでマル㊙️コンテンツ配信中｜ フォローすればAIで「異次元」に時間を生み出す自動化手法が分かる",
+      "raw_description": {
+        "text": "Claude Code×n8n AIエージェント300以上構築｜ソロプレナーでAIエージェント組織企業を運営｜ 累計純利２億超 ｜ 非エンジニアでもできるClaude Codeで「異次元」業務効率化を発信｜ noteでマル㊙️コンテンツ配信中｜ フォローすればAIで「異次元」に時間を生み出す自動化手法が分かる",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1919729970685075456/1757731433",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1951625625455951872/pj57KIjJ_200x200.jpg",
+      "joined": "Tue May 06 12:25:54 +0000 2025",
+      "protected": false,
+      "website": {
+        "url": "https://note.com/soh_ainsight",
+        "display_url": "note.com/soh_ainsight"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 12,
+    "retweets": 9,
+    "likes": 153,
+    "bookmarks": 208,
+    "quotes": 5,
+    "created_at": "Thu Aug 06 06:10:01 +0000 2026",
+    "created_timestamp": 1785996601,
+    "possibly_sensitive": false,
+    "views": 19726,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "ja",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085246998568198144",
+          "url": "https://pbs.twimg.com/media/HPBJGNqbYAAjsQT.jpg?name=orig",
+          "width": 1199,
+          "height": 626
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085246998568198144",
+          "url": "https://pbs.twimg.com/media/HPBJGNqbYAAjsQT.jpg?name=orig",
+          "width": 1199,
+          "height": 626
+        }
+      ]
+    },
+    "source": "Typefully",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

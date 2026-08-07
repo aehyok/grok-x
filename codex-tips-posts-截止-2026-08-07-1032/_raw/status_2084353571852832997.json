@@ -1,0 +1,203 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/topmass/status/2084353571852832997",
+    "id": "2084353571852832997",
+    "text": "Doing this for over a week and all of my agents are more concise and easy to understand since adding this to global .claude and .codex MD files. Feel free to steal this it works great.\n\nwill put the prompt to copy below",
+    "raw_text": {
+      "text": "Doing this for over a week and all of my agents are more concise and easy to understand since adding this to global .claude and .codex MD files. Feel free to steal this it works great.\n\nwill put the prompt to copy below https://t.co/qjhbjofzjs",
+      "display_text_range": [
+        0,
+        219
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            220,
+            243
+          ],
+          "id": "2084353274883526656",
+          "display": "pic.x.com/qjhbjofzjs",
+          "original": "https://t.co/qjhbjofzjs",
+          "replacement": "https://x.com/topmass/status/2084353571852832997/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "topmass",
+      "url": "https://x.com/topmass",
+      "id": "381868661",
+      "followers": 9475,
+      "following": 909,
+      "likes": 14928,
+      "media_count": 2276,
+      "name": "topmass",
+      "description": "AI Automation Engineer • @AnthropicAI Model Safety Tester | Founder http://northwave.ai | Building in 🇨🇦",
+      "raw_description": {
+        "text": "AI Automation Engineer • @AnthropicAI Model Safety Tester | Founder https://t.co/bilxNRUQkG | Building in 🇨🇦",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              68,
+              91
+            ],
+            "original": "https://t.co/bilxNRUQkG",
+            "replacement": "http://northwave.ai",
+            "display": "northwave.ai"
+          }
+        ]
+      },
+      "location": "British Columbia",
+      "banner_url": "https://pbs.twimg.com/profile_banners/381868661/1741880182",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2065092745329577984/LUNbVXK5_200x200.jpg",
+      "joined": "Thu Sep 29 02:35:51 +0000 2011",
+      "protected": false,
+      "website": {
+        "url": "http://northwave.ai",
+        "display_url": "northwave.ai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 15,
+    "retweets": 23,
+    "likes": 685,
+    "bookmarks": 1475,
+    "quotes": 3,
+    "created_at": "Mon Aug 03 18:59:51 +0000 2026",
+    "created_timestamp": 1785783591,
+    "possibly_sensitive": false,
+    "views": 94014,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2084353274883526656",
+          "url": "https://pbs.twimg.com/media/HO0cQpfa0AAVygf.png?name=orig",
+          "width": 737,
+          "height": 285
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2084353274883526656",
+          "url": "https://pbs.twimg.com/media/HO0cQpfa0AAVygf.png?name=orig",
+          "width": 737,
+          "height": 285
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/DanielLockyer/status/2084208311906218179",
+      "id": "2084208311906218179",
+      "text": "I've updated my rules to tell AI to use Simplified Technical English\n\nWill report back",
+      "raw_text": {
+        "text": "I've updated my rules to tell AI to use Simplified Technical English\n\nWill report back https://t.co/q2xk7hxogn",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              87,
+              110
+            ],
+            "id": "2084208253089570816",
+            "display": "pic.x.com/q2xk7hxogn",
+            "original": "https://t.co/q2xk7hxogn",
+            "replacement": "https://x.com/DanielLockyer/status/2084208311906218179/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "DanielLockyer",
+        "url": "https://x.com/DanielLockyer",
+        "id": "230209403",
+        "followers": 71402,
+        "following": 161,
+        "likes": 15645,
+        "media_count": 1184,
+        "name": "Daniel Lockyer",
+        "description": "• I make sites faster and cloud/LLM bills lower 🚀\n• 2:43 marathoner (🔜 2:39 in Berlin)",
+        "raw_description": {
+          "text": "• I make sites faster and cloud/LLM bills lower 🚀\n• 2:43 marathoner (🔜 2:39 in Berlin)",
+          "facets": []
+        },
+        "location": "Making sites faster 👉🏻",
+        "banner_url": "https://pbs.twimg.com/profile_banners/230209403/1770371451",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1918297484805177344/TyBFSTiW_200x200.jpg",
+        "joined": "Fri Dec 24 16:17:18 +0000 2010",
+        "protected": false,
+        "website": {
+          "url": "https://daniellockyer.com",
+          "display_url": "daniellockyer.com"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 67,
+      "retweets": 38,
+      "likes": 1399,
+      "bookmarks": 1488,
+      "quotes": 21,
+      "created_at": "Mon Aug 03 09:22:38 +0000 2026",
+      "created_timestamp": 1785748958,
+      "possibly_sensitive": false,
+      "views": 335635,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2084208253089570816",
+            "url": "https://pbs.twimg.com/media/HOyYXRNXYAAevBA.jpg?name=orig",
+            "width": 1166,
+            "height": 812
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2084208253089570816",
+            "url": "https://pbs.twimg.com/media/HOyYXRNXYAAevBA.jpg?name=orig",
+            "width": 1166,
+            "height": 812
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

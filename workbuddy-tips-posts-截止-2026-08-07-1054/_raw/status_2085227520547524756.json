@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/m1ssuo/status/2085227520547524756",
+    "id": "2085227520547524756",
+    "text": "WorkBuddy vs OpenBuddy 😅",
+    "raw_text": {
+      "text": "WorkBuddy vs OpenBuddy 😅 https://t.co/uFtOzNHdFz",
+      "display_text_range": [
+        0,
+        24
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            25,
+            48
+          ],
+          "id": "2085227454164316160",
+          "display": "pic.x.com/uFtOzNHdFz",
+          "original": "https://t.co/uFtOzNHdFz",
+          "replacement": "https://x.com/m1ssuo/status/2085227520547524756/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "m1ssuo",
+      "url": "https://x.com/m1ssuo",
+      "id": "1206800829950259202",
+      "followers": 11321,
+      "following": 1392,
+      "likes": 14594,
+      "media_count": 1242,
+      "name": "Vincent Yang",
+      "description": "Founder of @OwO_Network | Operator of AS-OWONET (AS30700, AS60614, etc.) | #WWDC24 | #BGP | http://github.com/missuo",
+      "raw_description": {
+        "text": "Founder of @OwO_Network | Operator of AS-OWONET (AS30700, AS60614, etc.) | #WWDC24 | #BGP | https://t.co/aPrcdNK9vL",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              92,
+              115
+            ],
+            "original": "https://t.co/aPrcdNK9vL",
+            "replacement": "http://github.com/missuo",
+            "display": "github.com/missuo"
+          }
+        ]
+      },
+      "location": "Pittsburgh, PA",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1206800829950259202/1726346064",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1589233256175923202/CsyqQfsK_200x200.png",
+      "joined": "Tue Dec 17 04:58:40 +0000 2019",
+      "protected": false,
+      "website": {
+        "url": "https://s.ee/missuo",
+        "display_url": "s.ee/missuo"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 20,
+    "retweets": 4,
+    "likes": 67,
+    "bookmarks": 22,
+    "quotes": 15,
+    "created_at": "Thu Aug 06 04:52:37 +0000 2026",
+    "created_timestamp": 1785991957,
+    "possibly_sensitive": false,
+    "views": 90107,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085227454164316160",
+          "url": "https://pbs.twimg.com/media/HPA3UlFbMAAzD3J.png?name=orig",
+          "width": 636,
+          "height": 316
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085227454164316160",
+          "url": "https://pbs.twimg.com/media/HPA3UlFbMAAzD3J.png?name=orig",
+          "width": 636,
+          "height": 316
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

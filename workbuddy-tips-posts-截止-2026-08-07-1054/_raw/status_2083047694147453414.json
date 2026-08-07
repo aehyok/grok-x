@@ -1,0 +1,2549 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/tenctcloud_Intl/status/2083047694147453414",
+    "id": "2083047694147453414",
+    "text": "No coding. Zero 3D modeling background. Create a 3D music roguelike game demo in 4 days, and  expand it to a complete version within 10 days. For real? 🎮\nOur teammate leoolai actually pulled it off with WorkBuddy + Tencent Hy 3D.\n#AIGameDev #3D #roguelike",
+    "raw_text": {
+      "text": "No coding. Zero 3D modeling background. Create a 3D music roguelike game demo in 4 days, and  expand it to a complete version within 10 days. For real? 🎮\nOur teammate leoolai actually pulled it off with WorkBuddy + Tencent Hy 3D.\n#AIGameDev #3D #roguelike https://t.co/EUotv0NJ5z",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "facets": [
+        {
+          "type": "hashtag",
+          "indices": [
+            230,
+            240
+          ],
+          "original": "AIGameDev"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            241,
+            244
+          ],
+          "original": "3D"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            245,
+            255
+          ],
+          "original": "roguelike"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "tenctcloud_Intl",
+      "url": "https://x.com/tenctcloud_Intl",
+      "id": "1948262038175924224",
+      "followers": 48,
+      "following": 35,
+      "likes": 222,
+      "media_count": 16,
+      "name": "Tencent Cloud International Developer",
+      "description": "Tencent Cloud International Developer Official Account,focused on engineering practice and technical insight.\n💬:https://discord.gg/28YaJgeBvK",
+      "raw_description": {
+        "text": "Tencent Cloud International Developer Official Account,focused on engineering practice and technical insight.\n💬:https://t.co/jKa58utcHm",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              112,
+              135
+            ],
+            "original": "https://t.co/jKa58utcHm",
+            "replacement": "https://discord.gg/28YaJgeBvK",
+            "display": "discord.gg/28YaJgeBvK"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1948262038175924224/1753337185",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1948262991482560512/RHLAlk2g_200x200.jpg",
+      "joined": "Thu Jul 24 06:00:55 +0000 2025",
+      "protected": false,
+      "website": {
+        "url": "https://www.tencentcloud.com",
+        "display_url": "tencentcloud.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 2,
+    "retweets": 1,
+    "likes": 8,
+    "bookmarks": 0,
+    "quotes": 0,
+    "created_at": "Fri Jul 31 04:30:46 +0000 2026",
+    "created_timestamp": 1785472246,
+    "possibly_sensitive": false,
+    "views": 985,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-07-31T04:30:46.000Z",
+      "modified_at": "2026-07-31T04:30:46.000Z",
+      "id": "2083028740712660992",
+      "title": "No Coding, No Modeling Skills. Yet I Built a 3D Rhythm Roguelike with WorkBuddy + Tencent Hy 3D",
+      "preview_text": "These last few rounds of LLM and agent launches have leaned heavily on 3D games to show off what they can do. Our teammate leoolai wanted to try the same thing: if you take WorkBuddy + Tencent Hy 3D",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOh2HjPaYAEKAAIbCZ4AWtrAAAAA",
+        "media_id": "2083044699749900289",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 57.74,
+                "rgb": {
+                  "blue": 18,
+                  "green": 4,
+                  "red": 5
+                }
+              },
+              {
+                "percentage": 6.97,
+                "rgb": {
+                  "blue": 211,
+                  "green": 186,
+                  "red": 75
+                }
+              },
+              {
+                "percentage": 6.85,
+                "rgb": {
+                  "blue": 70,
+                  "green": 10,
+                  "red": 52
+                }
+              },
+              {
+                "percentage": 4.3,
+                "rgb": {
+                  "blue": 77,
+                  "green": 60,
+                  "red": 22
+                }
+              },
+              {
+                "percentage": 3.63,
+                "rgb": {
+                  "blue": 84,
+                  "green": 41,
+                  "red": 30
+                }
+              }
+            ]
+          },
+          "original_img_height": 600,
+          "original_img_url": "https://pbs.twimg.com/media/HOh2HjPaYAEfAzI.jpg",
+          "original_img_width": 1500
+        },
+        "media_key": "3_2083044699749900289"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "237sc",
+            "text": "These last few rounds of LLM and agent launches have leaned heavily on 3D games to show off what they can do. Our teammate leoolai wanted to try the same thing: if you take WorkBuddy + Tencent Hy 3D game with a home screen, level select, loadout, bosses, and a full art-asset pipeline — just how far can you actually get?",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 103,
+                "offset": 70,
+                "style": "Bold"
+              }
+            ],
+            "key": "9k19",
+            "text": "First, take a look at the effect of the first build of Rhythm Planet, which rough prototype in a day. A playable \"planet\" build in 4. About 10 days in, it's now a full game.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5eo1m",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9h499",
+            "text": "And if you're curious how someone who can't code and has zero modeling background hand-crafted a 3D rhythm roguelike in such a short time, read on for his first-person account~",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8ad7f",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 56,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7ptud",
+            "text": "01  The Goal: Not a 3D Demo, but a Complete Game Product",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ab2i",
+            "text": "At the very beginning, my vision for the gameplay was just a few simple elements. I wanted it to be:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d18o9",
+            "text": "Roguelike gameplay + music elements + 3D visuals",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "58a44",
+            "text": "Even though I was starting from scratch, my goal was never just \"a 3D scene that moves\" — it was to pull the gameplay, the flow, and the art assets all the way up into a complete product. The way I see it, \"complete\" means at least three layers:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8qas9",
+            "text": "Layer one: first, a playable core loop — the character can move, fight, lose, and win.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dtilr",
+            "text": "Layer two: then, a full flow grows out of it — home screen, level select, song select, loadout, in-run progression, and results all have to hold up.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4d2k2",
+            "text": "Layer three: finally, an asset production chain forms — otherwise, every extra planet, boss, or dungeon would blow up the cost all over again.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "780jo",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5k4nc",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 46,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3lj2r",
+            "text": "02  Cold Start: Validate Feasibility in Stages",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2p3q0",
+            "text": "For any vibecoding project, what really matters in the cold-start phase isn't spelling out the full final requirements in your very first sentence — it's letting the prompt evolve the project step by step. In my case, for example: first validate the survivor-style loop, then add character actions, then port it to a 3D field, and finally push it all the way to a tiny-planet stage.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bd4ba",
+            "text": "The prompts I gave at the start were:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fgv29",
+            "text": "I want to make a roguelike game called Zombie Survivor, taking the classic survivor-style roguelike as a reference.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fdbkn",
+            "text": "The game should feel more vivid; we can start with a 2D game mode and do a pixel style procedurally.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4gq6p",
+            "text": "The game character needs actions — it can't just slide around by teleporting.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7jutl",
+            "text": "Switch the game to a 3D style with procedural modeling; the character should be round and creature-like, no boxes.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ctdda",
+            "text": "Please analyze how to implement this game.",
+            "type": "blockquote"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 10,
+                  "text": "https://messenger.abeto.co",
+                  "toIndex": 36
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7rcah",
+            "text": "Reference https://messenger.abeto.co and make a zombie planet.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "597op",
+            "text": "Across roughly the first ten rounds of dialogue, I made these things clear:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "880sc",
+            "text": "First, use classic survivor gameplay to nail down the base loop of \"can move, can spawn enemies, can auto-attack, can level up.\"",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3u87g",
+            "text": "Second, allow a 2D prototype to exist for now, and get the combat rhythm running in the shortest possible time.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4fno9",
+            "text": "Third, emphasize up front that \"the character needs actions and should be round and creature-like,\" to keep the AI from degrading into boxes and sliders right off the bat.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "722do",
+            "text": "Fourth, only then bring in a tiny-planet spatial experience like Messenger, pushing the stage from a flat plane onto a sphere.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "tkmg",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2vs2a",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "e938v",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "95ku",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9ohss",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 42,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3g3al",
+            "text": "03  Finding the Game's Point of Difference",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e1bj",
+            "text": "The source of inspiration: Messenger is a WebGL browser game, and its core feel is a character walking along a very small spherical planet, with the camera always chasing behind around the sphere — no sense of boundary like a traditional flat map. I'd always been drawn to this kind of tiny-planet stage, so I wanted to fold this tiny-planet spatial mechanic into the game and turn that spatial experience into the game's gameplay differentiator.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d2blh",
+            "text": "With that idea in hand, I started talking through the details with WorkBuddy:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5d2tc",
+            "text": "Step one: rather than thinking about monsters and skills first, I tried getting WorkBuddy to directly analyze the site, understand how it works, and then imitate it to make me a planet where the character can move.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cluu7",
+            "text": "Step two: once I had that first planet demo, I kept exploring with WorkBuddy — if we build a game on top of the planet, how should we expand the gameplay and the assets down the road?",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7copm",
+            "text": "The most important thing at this stage isn't producing visuals — it's breaking the problem apart and chewing it over. For example: how does a roguelike combine with a rhythm game, how do QTEs control attacks, how do you design in-run and meta progression, how do you find the beat in a song, and whether the 3D assets should go the Three.js route or the \"HY3 writes the prompts + HY3D generates the models\" route.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "83hhp",
+            "text": "At this point, WorkBuddy's real role isn't to help \"finish the game\" — it's to first break the reference down into rules, then translate those rules into an implementation path you can actually ship.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8tr5m",
+            "text": "Take combining roguelike with rhythm: it can't be solved with a single \"make it feel more musical.\" It has to be broken down into several very concrete questions: does movement stay real-time, does attacking switch to being beat-triggered, does the song need to be sliced into beats and sections first, does leveling up still affect how you play the back half of the song, and so on.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9t4ua",
+            "text": "Once the base gameplay was settled, I shipped each piece separately.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3jsdg",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 23,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8uhgc",
+            "text": "04  The Spherical Stage",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7f9mv",
+            "text": "When it came to actually shipping it, my logical choice was to still keep everything on a 2D plane, and only do the spherical projection at the rendering stage.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 34,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "jhnu",
+            "text": "Why plane first, projection second",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bklvs",
+            "text": "Survivor-style gameplay is fundamentally very dependent on simple, stable, easy-to-compute planar rules. Use planar math first to guarantee that movement, spawning, collisions, attacks, and drops don't fall apart, then project the result onto the sphere — that way you keep both the gameplay and the sense of space.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 29,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9f25n",
+            "text": "Why the UI doesn't go into 3D",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "o0h4",
+            "text": "The battlefield, characters, buildings, and ground effects go into 3D; the information layers — health bars, rhythm bars, upgrade cards, results screens — stay on the web layer. This way, changing the space won't drag down the readability of the information, and changing the HUD won't break the combat logic.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "a71it",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aliit",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cq138",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a3kvv",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "64kjc",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a857i",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 19,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4o4a8",
+            "text": "05  Rhythm Gameplay",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8bveb",
+            "text": "When rhythm gameplay actually ships, the core approach is honestly pretty straightforward: first slice a song into \"when there's a beat, when it gets tense, when it should hit the climax,\" then have the combat system follow those points. The core isn't cramming a circle UI into combat — it's unifying the song clock, beat points, QTEs, enemy waves, and level-up feedback onto a single timeline. Every time a beat point passes, the system has to simultaneously decide the combat pressure, the input window, and the feedback layer.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "d7bq1",
+            "text": "QTE types: three kinds — regular tap, hold, and combo.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7e4fs",
+            "text": "Judgment windows: PERFECT is roughly held to ±0.120s, GREAT is ±0.240s, and GOOD is ±0.420s.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9q7h8",
+            "text": "System contract: the roguelike layers — leveling up, concurrency, items, treasure chests — can't disappear; they have to keep influencing how you play the back half of the song.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4lsoc",
+            "text": "Experience goal: not to turn the player into a rhythm-game machine, but to make every attack genuinely land on the beat, and to have it reinforce the survival pressure and vice versa.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1d35d",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 23,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1j8u1",
+            "text": "07  3D Asset Production",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "81fm4",
+            "text": "You often see AI games where everything generated comes out as square boxes. The root cause usually isn't that the modeling tool is bad — it's that the upstream requirements were too vague. If you want the 3D assets to look good, you first have to clearly spell out \"what it should look like.\" Genuinely useful descriptors can't just say \"give me a cyber building\" or \"make an alien boss.\" At minimum you have to spell out the silhouette, the structure, the material, the size relationships, where it can glow, where it should be hard, where it should be thick, and where it can't float. Simply put, the more your prompt reads like a spec sheet you could hand to a modeler, the more the AI's result will look like an asset you can actually ship.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9n62h",
+            "text": "Personally, I tried two modeling routes:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 27,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7f06c",
+            "text": "The Three.js modeling route",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1frj6",
+            "text": "Suited to objects that are well-defined, modular, and parameter-driven: mechs, weapon components, track structures, procedural building blocks, beat VFX, and boss mechanism bodies.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "23hrk",
+            "text": "Pro: the structure is controllable, and you can bind gameplay parameters to it directly.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bhmpg",
+            "text": " Pro: the style stays consistent, and it's cheap to change materials and proportions.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3kpcm",
+            "text": "Limit: not suited to complex organic silhouettes and high-detail characters.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "d92m4",
+            "text": "Note: for the Three.js route, you also don't let the agent start building straight from an empty sentence. Instead, use image-to-image first to lock down the silhouette, the part breakdown, the proportions, and the material language, then have the agent produce a controllable model based on that spec image. Models made this way are easier to keep breaking into parts, decimating, and adding attachment points, and easier to plug straight into the gameplay.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fo6pc",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6u3pv",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 63,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8dauo",
+            "text": "2.   The \"HY3 writes prompts + Tencent Hy 3D image-to-3D\" route",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8h1p3",
+            "text": "Suited to first getting a unique silhouette and shape candidates: monsters, bosses, unusual buildings, creature-like props. The output is candidate geometry, not the final production asset.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dar2d",
+            "text": "Pro: it can quickly give you a first shape with a real sense of volume.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5mrul",
+            "text": "Pro: it's good for replacing the stage where you're \"just imagining it from text.\"",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dpm5j",
+            "text": "Limit: afterward it still has to go into Blender to clean up proportions, orientation, textures, attachment points, LOD precision versions, and skeleton.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 40,
+                "offset": 365,
+                "style": "Bold"
+              }
+            ],
+            "key": "72u53",
+            "text": "Note:  WorkBuddy has already integrated Tencent Hy 3D. The actual division of labor isn't \"Tencent Hy 3D does everything\" — it's HY3 handling writing the requirements clearly, getting the prompts right, and filling in the code and integration logic, and then WorkBuddy calls Tencent Hy 3D to generate the 3D model candidates. The more stable flow for this route is: generate -> rig -> animate -> decimate.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5jvti",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "e0v7l",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2hgb7",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 21,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3dla",
+            "text": "08  Character Actions",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "24bb9",
+            "text": "A big part of the fun in a 3D game comes from the semantics of the actions, not the static model itself. Without an action library, characters and monsters quickly lose their freshness. The key to expanding actions isn't more files being better — you first need to think clearly: what actions does this character need, at minimum, to actually get into a fight? Idle, run, light attack, charge, combo, ultimate, boss counter, hit reaction, dash — these semantics have to stabilize first, and only then can you keep piling new actions on top later.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 61,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 61,
+                "offset": 0,
+                "style": "Italic"
+              }
+            ],
+            "key": "3rh1f",
+            "text": "The four layers an action must pass through to be integrated:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "c1hv2",
+            "text": "Same-skeleton binding: new actions for the same class should share the same skeleton as much as possible.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 62,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2q4i4",
+            "text": "Compose multiple action clips into one formal character pack: unify the durations, the timing, and the naming.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bpesb",
+            "text": "Runtime mapping: semantics like light attack, cast, and ultimate have to map stably onto real actions.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "cftml",
+            "text": "Event layer: hit points, dash windows, VFX attachment points, and SFX triggers all have to be agreed on in advance.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1h9gh",
+            "text": "Once the actions are generated, you can decouple the action library from the runtime semantics: keep merging the same character's actions into the same asset pack, while the combat system only cares about \"should it light-attack, heavy-attack, or ultimate right now,\" and the specific action files are maintained uniformly by the asset layer.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ee9i3",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "12qou",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 53,
+                "offset": 40
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "89jv",
+            "text": "[Tentacle sweep - action illustration]: Broken-Chain Mothercore Boss · standalone GLB preview",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "41mut",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 34,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1mi4k",
+            "text": "09  Consolidating Animation Assets",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "11ggn",
+            "text": "Once the number of planets starts growing, what you need most isn't more \"inspiration\" — it's a unified management interface that puts the planet themes, previews, runtime scenes, and operation entries all in one place. Doing this keeps things from getting messier and messier later when you switch planets, review effects, tweak the UI, or run acceptance checks.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "99oo7",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 27,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "82f6u",
+            "text": "What's worth consolidating:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "asg88",
+            "text": "Every planet should have its own concept board, material board, do-not list, and acceptance screenshots.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c289f",
+            "text": "Every type of 3D asset should have a complete record of \"candidate -> formal -> action -> LOD -> integration.\"",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f7q4h",
+            "text": "Every round's successful prompts, reference images, model source files, and lessons-learned should become the input for the next round.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 162,
+                  "text": "https://g.aigcfans.net/opg/static/games/rhythm/7388e87e/index.html",
+                  "toIndex": 228
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "25ad2",
+            "text": "And that's the whole process of how I brought the idea in my head to life with WorkBuddy + HY3D. If you're interested in my game, you're welcome to give it a try：https://g.aigcfans.net/opg/static/games/rhythm/7388e87e/index.html",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1b7kt",
+            "text": "(Sorry — for now it's only adapted for PC and Chinese.)",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8s9hv",
+            "text": "If you'd like to hand-craft a little game of your own, start here:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 0
+              },
+              {
+                "key": 17,
+                "length": 53,
+                "offset": 54
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9hdkp",
+            "text": "👉 Use WorkBuddy to work out your gameplay structure:  WorkBuddy · Your scenario-based AI all-in-one package",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 18,
+                "length": 1,
+                "offset": 0
+              },
+              {
+                "key": 19,
+                "length": 59,
+                "offset": 56
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "96cqs",
+            "text": "👉 Use  Tencent Hy 3D to generate scenes and characters: Tencent HY 3D Global - AI 3D Content Generation API Service",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6rlau",
+            "text": "",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "caption": "The candidate models then go into Blender to add the skeleton and the actions.",
+                "entityKey": "eb4f565d-7232-41c2-a31a-6946db80115f",
+                "mediaItems": [
+                  {
+                    "localMediaId": "29",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083035205951168512"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "caption": "In the more open spherical situation, the QTEs and the spatial experience don't fight each other.",
+                "entityKey": "a7e34c6a-d603-4237-a8f1-15eb1bdccb66",
+                "mediaItems": [
+                  {
+                    "localMediaId": "11",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083032526051061760"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "19",
+            "value": {
+              "data": {
+                "entityKey": "9382bccb-4d32-4762-a7b8-5cc655358b5c",
+                "url": "https://www.tencentcloud.com/products/ai3d?lang=en&pg=&fromSource=intl.16865495.16865495.16865495&utm_medium=cpc&utm_id=intl.16865495.16865495.16865495"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "caption": "Step 3: port the same logic into a 3D flat field",
+                "entityKey": "2d197347-9de1-4497-8d8b-71175116cab2",
+                "mediaItems": [
+                  {
+                    "localMediaId": "17",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083033803082354688"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "caption": "A unified management interface can gather planet candidates, runtime previews, theme info, and operation entries into one spot, making it easier to keep expanding the content.",
+                "entityKey": "dc9b036b-1aec-432f-bce5-78fc5fc36495",
+                "mediaItems": [
+                  {
+                    "localMediaId": "33",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083035994803302400"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "caption": "HY3D is a great fit for quickly pulling out monster candidates with a strong silhouette and plenty of volume.",
+                "entityKey": "43b604bd-539b-45be-bb7a-51f91301debd",
+                "mediaItems": [
+                  {
+                    "localMediaId": "27",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083035118881607680"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "caption": "First, clearly spell out the silhouette, the part breakdown, and the material language.",
+                "entityKey": "8aad768e-5d5f-4972-9f8e-76e809970144",
+                "mediaItems": [
+                  {
+                    "localMediaId": "21",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083034461151846400"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "caption": "Adobe Express - character action demo.gif",
+                "entityKey": "4e6209f8-2523-4e39-a88e-29e96f08a8f9",
+                "mediaItems": [
+                  {
+                    "localMediaId": "31",
+                    "mediaCategory": "AmplifyVideo",
+                    "mediaId": "2083035568615907328"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f449.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "caption": "Step 4: then roll the flat battlefield up into a planet you can fight on",
+                "entityKey": "20c5882e-40e0-48d4-b950-87583c30622c",
+                "mediaItems": [
+                  {
+                    "localMediaId": "19",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083033871160074240"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "caption": "Once you have that upstream spec, then have the agent generate a controllable model.",
+                "entityKey": "38c3806a-704a-4d75-9581-901bca40f297",
+                "mediaItems": [
+                  {
+                    "localMediaId": "25",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083034873330364416"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "caption": "The core approach is \"logical plane + spherical projection.\"",
+                "entityKey": "330bd61c-32a8-43c7-9d13-507b7124ff49",
+                "mediaItems": [
+                  {
+                    "localMediaId": "6",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083032334698516480"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "caption": "Once the home screen, the entry points to the options, and the look of the game's world start to take shape, the project crosses over from a \"tech demo\" into a \"game product.\"",
+                "entityKey": "4290e129-5ee0-4ae5-88d6-969667ce74e1",
+                "mediaItems": [
+                  {
+                    "localMediaId": "4",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083031766693273600"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {
+                "entityKey": "c8d52ea3-a4f6-4c3b-aca4-dffea9cd5dd8",
+                "url": "https://www.tencentcloud.com/act/pro/workbuddy?fromSource=intl.16261532.16261532.16261532&utm_medium=cpc&utm_id=intl.16261532.16261532.16261532"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "entityKey": "637da5ad-5e17-47cf-b165-f93649e84f77",
+                "url": "https://g.aigcfans.net/opg/proxy/game/af6f6cd7?lod=0"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "caption": "Please turn on the sound for a better viewing experience.",
+                "entityKey": "b80ae95a-ee76-4059-8114-80bcdcc391a1",
+                "mediaItems": [
+                  {
+                    "localMediaId": "2",
+                    "mediaCategory": "AmplifyVideo",
+                    "mediaId": "2083030972447313922"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "caption": "Step 1: first prove the survivor loop holds up",
+                "entityKey": "0af2ef36-4396-4e3c-8440-a76fe8f24df5",
+                "mediaItems": [
+                  {
+                    "localMediaId": "13",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083033422348656640"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "18",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f449.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "caption": "Under high-pressure combat, score, judgments, FEVER, and skill info all coexist on the same screen.",
+                "entityKey": "01831561-656e-41f1-84a0-a779e1c0ceb5",
+                "mediaItems": [
+                  {
+                    "localMediaId": "9",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083032420090339328"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "caption": "Step 2: build out the enemy-swarm pressure and the payoff moments",
+                "entityKey": "e30612dd-21ba-4ec2-ae1b-ac3ce3fbfc87",
+                "mediaItems": [
+                  {
+                    "localMediaId": "15",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083033599331475456"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhq3z1bkAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083032334698516480",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 69.84,
+                  "rgb": {
+                    "blue": 41,
+                    "green": 32,
+                    "red": 35
+                  }
+                },
+                {
+                  "percentage": 12.1,
+                  "rgb": {
+                    "blue": 178,
+                    "green": 164,
+                    "red": 184
+                  }
+                },
+                {
+                  "percentage": 8.55,
+                  "rgb": {
+                    "blue": 160,
+                    "green": 48,
+                    "red": 160
+                  }
+                },
+                {
+                  "percentage": 5.77,
+                  "rgb": {
+                    "blue": 91,
+                    "green": 36,
+                    "red": 85
+                  }
+                },
+                {
+                  "percentage": 0.52,
+                  "rgb": {
+                    "blue": 246,
+                    "green": 57,
+                    "red": 207
+                  }
+                }
+              ]
+            },
+            "original_img_height": 720,
+            "original_img_url": "https://pbs.twimg.com/media/HOhq3z1bkAAW2ow.jpg",
+            "original_img_width": 1280
+          },
+          "media_key": "3_2083032334698516480"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhtLk+bcAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083034873330364416",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 72.85,
+                  "rgb": {
+                    "blue": 22,
+                    "green": 16,
+                    "red": 8
+                  }
+                },
+                {
+                  "percentage": 22.93,
+                  "rgb": {
+                    "blue": 130,
+                    "green": 122,
+                    "red": 85
+                  }
+                },
+                {
+                  "percentage": 1.51,
+                  "rgb": {
+                    "blue": 206,
+                    "green": 210,
+                    "red": 193
+                  }
+                },
+                {
+                  "percentage": 0.45,
+                  "rgb": {
+                    "blue": 109,
+                    "green": 98,
+                    "red": 67
+                  }
+                },
+                {
+                  "percentage": 0.13,
+                  "rgb": {
+                    "blue": 113,
+                    "green": 134,
+                    "red": 138
+                  }
+                }
+              ]
+            },
+            "original_img_height": 674,
+            "original_img_url": "https://pbs.twimg.com/media/HOhtLk-bcAASz4T.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2083034873330364416"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAECgABHOhpohDb0AIKAAIAAAAAAAAAAAAA",
+          "media_id": "2083030972447313922",
+          "media_info": {
+            "__typename": "ApiVideo",
+            "aspect_ratio": {
+              "denominator": 9,
+              "numerator": 16
+            },
+            "duration_millis": 36666,
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 47.33,
+                    "rgb": {
+                      "blue": 32,
+                      "green": 2,
+                      "red": 1
+                    }
+                  },
+                  {
+                    "percentage": 30.61,
+                    "rgb": {
+                      "blue": 66,
+                      "green": 20,
+                      "red": 19
+                    }
+                  },
+                  {
+                    "percentage": 6.07,
+                    "rgb": {
+                      "blue": 92,
+                      "green": 12,
+                      "red": 29
+                    }
+                  },
+                  {
+                    "percentage": 2.68,
+                    "rgb": {
+                      "blue": 240,
+                      "green": 226,
+                      "red": 225
+                    }
+                  },
+                  {
+                    "percentage": 1.91,
+                    "rgb": {
+                      "blue": 1,
+                      "green": 25,
+                      "red": 36
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 720,
+              "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2083030972447313922/img/cxrCTQEotyFp-UIr.jpg",
+              "original_img_width": 1280
+            },
+            "variants": [
+              {
+                "bit_rate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083030972447313922/vid/avc1/480x270/bVJOonlSKXlx2DU6.mp4?tag=29"
+              },
+              {
+                "bit_rate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083030972447313922/vid/avc1/640x360/C5tXRKjnOoywVIvr.mp4?tag=29"
+              },
+              {
+                "bit_rate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083030972447313922/vid/avc1/1280x720/NZEDCrNklr6S90uv.mp4?tag=29"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2083030972447313922/pl/QUfh5oC-_EGCvrD0.m3u8?tag=29"
+              }
+            ]
+          },
+          "media_key": "13_2083030972447313922"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhszlfaYAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083034461151846400",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 75.51,
+                  "rgb": {
+                    "blue": 194,
+                    "green": 193,
+                    "red": 195
+                  }
+                },
+                {
+                  "percentage": 14.11,
+                  "rgb": {
+                    "blue": 54,
+                    "green": 59,
+                    "red": 60
+                  }
+                },
+                {
+                  "percentage": 0.68,
+                  "rgb": {
+                    "blue": 141,
+                    "green": 133,
+                    "red": 88
+                  }
+                },
+                {
+                  "percentage": 0.22,
+                  "rgb": {
+                    "blue": 48,
+                    "green": 84,
+                    "red": 110
+                  }
+                },
+                {
+                  "percentage": 0.17,
+                  "rgb": {
+                    "blue": 77,
+                    "green": 67,
+                    "red": 38
+                  }
+                }
+              ]
+            },
+            "original_img_height": 720,
+            "original_img_url": "https://pbs.twimg.com/media/HOhszlfaYAAcHuC.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2083034461151846400"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAECgABHOht0DHa4AAKAAIAAAAAAAAAAAAA",
+          "media_id": "2083035568615907328",
+          "media_info": {
+            "__typename": "ApiVideo",
+            "aspect_ratio": {
+              "denominator": 61,
+              "numerator": 66
+            },
+            "duration_millis": 7363,
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 92.07,
+                    "rgb": {
+                      "blue": 14,
+                      "green": 7,
+                      "red": 10
+                    }
+                  },
+                  {
+                    "percentage": 4.65,
+                    "rgb": {
+                      "blue": 126,
+                      "green": 119,
+                      "red": 130
+                    }
+                  },
+                  {
+                    "percentage": 1.54,
+                    "rgb": {
+                      "blue": 66,
+                      "green": 28,
+                      "red": 71
+                    }
+                  },
+                  {
+                    "percentage": 0.46,
+                    "rgb": {
+                      "blue": 141,
+                      "green": 47,
+                      "red": 139
+                    }
+                  },
+                  {
+                    "percentage": 0.25,
+                    "rgb": {
+                      "blue": 196,
+                      "green": 185,
+                      "red": 201
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 1098,
+              "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2083035568615907328/img/3I34gdEHgUjFb-Xu.jpg",
+              "original_img_width": 1188
+            },
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2083035568615907328/pl/zeopIBP3786_Ez1g.m3u8?tag=29"
+              },
+              {
+                "bit_rate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083035568615907328/vid/avc1/1188x1098/Xc0w1BYnYZk0B5o5.mp4?tag=29"
+              },
+              {
+                "bit_rate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083035568615907328/vid/avc1/778x720/4BdXCduRuTspspJn.mp4?tag=29"
+              },
+              {
+                "bit_rate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083035568615907328/vid/avc1/292x270/y-5xkumXG7Am4ua_.mp4?tag=29"
+              },
+              {
+                "bit_rate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083035568615907328/vid/avc1/388x360/itZLAQpxoTU-m0xm.mp4?tag=29"
+              }
+            ]
+          },
+          "media_key": "13_2083035568615907328"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhrC8rbsAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083032526051061760",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 39.66,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 20,
+                    "red": 10
+                  }
+                },
+                {
+                  "percentage": 34.5,
+                  "rgb": {
+                    "blue": 168,
+                    "green": 106,
+                    "red": 58
+                  }
+                },
+                {
+                  "percentage": 12.4,
+                  "rgb": {
+                    "blue": 207,
+                    "green": 174,
+                    "red": 140
+                  }
+                },
+                {
+                  "percentage": 1.43,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 232,
+                    "red": 127
+                  }
+                },
+                {
+                  "percentage": 1.1,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 244,
+                    "red": 237
+                  }
+                }
+              ]
+            },
+            "original_img_height": 597,
+            "original_img_url": "https://pbs.twimg.com/media/HOhrC8rbsAAZXiq.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2083032526051061760"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhq8x8bYAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083032420090339328",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 63.5,
+                  "rgb": {
+                    "blue": 57,
+                    "green": 37,
+                    "red": 24
+                  }
+                },
+                {
+                  "percentage": 17.57,
+                  "rgb": {
+                    "blue": 139,
+                    "green": 124,
+                    "red": 134
+                  }
+                },
+                {
+                  "percentage": 5.02,
+                  "rgb": {
+                    "blue": 94,
+                    "green": 57,
+                    "red": 85
+                  }
+                },
+                {
+                  "percentage": 1.84,
+                  "rgb": {
+                    "blue": 151,
+                    "green": 60,
+                    "red": 123
+                  }
+                },
+                {
+                  "percentage": 1.32,
+                  "rgb": {
+                    "blue": 98,
+                    "green": 67,
+                    "red": 28
+                  }
+                }
+              ]
+            },
+            "original_img_height": 599,
+            "original_img_url": "https://pbs.twimg.com/media/HOhq8x8bYAAuV24.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2083032420090339328"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhte8FaIAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083035205951168512",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 3.98,
+                  "rgb": {
+                    "blue": 57,
+                    "green": 59,
+                    "red": 74
+                  }
+                },
+                {
+                  "percentage": 1.39,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 102,
+                    "red": 243
+                  }
+                },
+                {
+                  "percentage": 0.9,
+                  "rgb": {
+                    "blue": 56,
+                    "green": 76,
+                    "red": 165
+                  }
+                },
+                {
+                  "percentage": 0.65,
+                  "rgb": {
+                    "blue": 58,
+                    "green": 152,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 0.24,
+                  "rgb": {
+                    "blue": 62,
+                    "green": 197,
+                    "red": 254
+                  }
+                }
+              ]
+            },
+            "original_img_height": 512,
+            "original_img_url": "https://pbs.twimg.com/media/HOhte8FaIAA0Js_.png",
+            "original_img_width": 512
+          },
+          "media_key": "3_2083035205951168512"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhsNR/a0AAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083033803082354688",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 94.13,
+                  "rgb": {
+                    "blue": 67,
+                    "green": 54,
+                    "red": 55
+                  }
+                },
+                {
+                  "percentage": 3.51,
+                  "rgb": {
+                    "blue": 108,
+                    "green": 102,
+                    "red": 113
+                  }
+                },
+                {
+                  "percentage": 1.13,
+                  "rgb": {
+                    "blue": 48,
+                    "green": 47,
+                    "red": 116
+                  }
+                },
+                {
+                  "percentage": 0.5,
+                  "rgb": {
+                    "blue": 41,
+                    "green": 37,
+                    "red": 93
+                  }
+                },
+                {
+                  "percentage": 0.18,
+                  "rgb": {
+                    "blue": 60,
+                    "green": 73,
+                    "red": 211
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1596,
+            "original_img_url": "https://pbs.twimg.com/media/HOhsNR_a0AATDl5.jpg",
+            "original_img_width": 2940
+          },
+          "media_key": "3_2083033803082354688"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhuM2yacAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083035994803302400",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 67.71,
+                  "rgb": {
+                    "blue": 35,
+                    "green": 23,
+                    "red": 19
+                  }
+                },
+                {
+                  "percentage": 16.94,
+                  "rgb": {
+                    "blue": 24,
+                    "green": 40,
+                    "red": 32
+                  }
+                },
+                {
+                  "percentage": 10.01,
+                  "rgb": {
+                    "blue": 58,
+                    "green": 18,
+                    "red": 20
+                  }
+                },
+                {
+                  "percentage": 2.38,
+                  "rgb": {
+                    "blue": 13,
+                    "green": 80,
+                    "red": 57
+                  }
+                },
+                {
+                  "percentage": 1.17,
+                  "rgb": {
+                    "blue": 94,
+                    "green": 113,
+                    "red": 78
+                  }
+                }
+              ]
+            },
+            "original_img_height": 592,
+            "original_img_url": "https://pbs.twimg.com/media/HOhuM2yacAAxMBb.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2083035994803302400"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhr3HpboAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083033422348656640",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.2,
+                  "rgb": {
+                    "blue": 28,
+                    "green": 23,
+                    "red": 22
+                  }
+                },
+                {
+                  "percentage": 0.97,
+                  "rgb": {
+                    "blue": 40,
+                    "green": 110,
+                    "red": 85
+                  }
+                },
+                {
+                  "percentage": 0.55,
+                  "rgb": {
+                    "blue": 204,
+                    "green": 147,
+                    "red": 86
+                  }
+                },
+                {
+                  "percentage": 0.48,
+                  "rgb": {
+                    "blue": 71,
+                    "green": 112,
+                    "red": 215
+                  }
+                },
+                {
+                  "percentage": 0.3,
+                  "rgb": {
+                    "blue": 98,
+                    "green": 104,
+                    "red": 253
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1668,
+            "original_img_url": "https://pbs.twimg.com/media/HOhr3HpboAAGUHy.jpg",
+            "original_img_width": 1501
+          },
+          "media_key": "3_2083033422348656640"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhsBa9bIAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083033599331475456",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 88.17,
+                  "rgb": {
+                    "blue": 28,
+                    "green": 23,
+                    "red": 22
+                  }
+                },
+                {
+                  "percentage": 2.62,
+                  "rgb": {
+                    "blue": 52,
+                    "green": 88,
+                    "red": 86
+                  }
+                },
+                {
+                  "percentage": 1.36,
+                  "rgb": {
+                    "blue": 69,
+                    "green": 84,
+                    "red": 190
+                  }
+                },
+                {
+                  "percentage": 1.04,
+                  "rgb": {
+                    "blue": 37,
+                    "green": 32,
+                    "red": 61
+                  }
+                },
+                {
+                  "percentage": 1.03,
+                  "rgb": {
+                    "blue": 84,
+                    "green": 120,
+                    "red": 73
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1681,
+            "original_img_url": "https://pbs.twimg.com/media/HOhsBa9bIAA7eHp.jpg",
+            "original_img_width": 1494
+          },
+          "media_key": "3_2083033599331475456"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhqWv2bYAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083031766693273600",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 56.38,
+                  "rgb": {
+                    "blue": 41,
+                    "green": 5,
+                    "red": 3
+                  }
+                },
+                {
+                  "percentage": 13.94,
+                  "rgb": {
+                    "blue": 18,
+                    "green": 2,
+                    "red": 2
+                  }
+                },
+                {
+                  "percentage": 12.63,
+                  "rgb": {
+                    "blue": 76,
+                    "green": 11,
+                    "red": 15
+                  }
+                },
+                {
+                  "percentage": 3.15,
+                  "rgb": {
+                    "blue": 238,
+                    "green": 211,
+                    "red": 227
+                  }
+                },
+                {
+                  "percentage": 2.46,
+                  "rgb": {
+                    "blue": 110,
+                    "green": 18,
+                    "red": 40
+                  }
+                }
+              ]
+            },
+            "original_img_height": 810,
+            "original_img_url": "https://pbs.twimg.com/media/HOhqWv2bYAA0NyB.jpg",
+            "original_img_width": 1440
+          },
+          "media_key": "3_2083031766693273600"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhsRPmaYAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083033871160074240",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.11,
+                  "rgb": {
+                    "blue": 12,
+                    "green": 14,
+                    "red": 13
+                  }
+                },
+                {
+                  "percentage": 1.8,
+                  "rgb": {
+                    "blue": 32,
+                    "green": 33,
+                    "red": 144
+                  }
+                },
+                {
+                  "percentage": 0.61,
+                  "rgb": {
+                    "blue": 107,
+                    "green": 107,
+                    "red": 109
+                  }
+                },
+                {
+                  "percentage": 0.19,
+                  "rgb": {
+                    "blue": 50,
+                    "green": 58,
+                    "red": 113
+                  }
+                },
+                {
+                  "percentage": 0.16,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 48,
+                    "red": 30
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1336,
+            "original_img_url": "https://pbs.twimg.com/media/HOhsRPmaYAAXs_u.jpg",
+            "original_img_width": 2490
+          },
+          "media_key": "3_2083033871160074240"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhtZ3uaEAAKAAIbCZ4AWtrAAAAA",
+          "media_id": "2083035118881607680",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 11.08,
+                  "rgb": {
+                    "blue": 60,
+                    "green": 58,
+                    "red": 67
+                  }
+                },
+                {
+                  "percentage": 3.12,
+                  "rgb": {
+                    "blue": 56,
+                    "green": 70,
+                    "red": 117
+                  }
+                },
+                {
+                  "percentage": 1.19,
+                  "rgb": {
+                    "blue": 204,
+                    "green": 213,
+                    "red": 227
+                  }
+                },
+                {
+                  "percentage": 0.7,
+                  "rgb": {
+                    "blue": 43,
+                    "green": 77,
+                    "red": 182
+                  }
+                },
+                {
+                  "percentage": 0.23,
+                  "rgb": {
+                    "blue": 43,
+                    "green": 115,
+                    "red": 235
+                  }
+                }
+              ]
+            },
+            "original_img_height": 512,
+            "original_img_url": "https://pbs.twimg.com/media/HOhtZ3uaEAA2-4L.png",
+            "original_img_width": 512
+          },
+          "media_key": "3_2083035118881607680"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

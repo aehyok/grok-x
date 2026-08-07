@@ -1,0 +1,85 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/0323Zhumy/status/2085212662938624125",
+    "id": "2085212662938624125",
+    "text": "把 Claude Code 和 Codex同时接进 Telegram，让它们互相看见。\n两个不同厂商的 AI，各自一个 Telegram bot，能单独跟你聊，也能进同一个群互相接话、拌嘴。关于如何接线，以及为什么不能让它们直连的小教程。\nhttps://claude.ai/code/artifact/a87d7d71-d9f2-46c8-9995-74aaa3e80122",
+    "raw_text": {
+      "text": "把 Claude Code 和 Codex同时接进 Telegram，让它们互相看见。\n两个不同厂商的 AI，各自一个 Telegram bot，能单独跟你聊，也能进同一个群互相接话、拌嘴。关于如何接线，以及为什么不能让它们直连的小教程。\nhttps://t.co/t0kvC8Aw01",
+      "display_text_range": [
+        0,
+        143
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            120,
+            143
+          ],
+          "original": "https://t.co/t0kvC8Aw01",
+          "replacement": "https://claude.ai/code/artifact/a87d7d71-d9f2-46c8-9995-74aaa3e80122",
+          "display": "claude.ai/code/artifact/…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "0323Zhumy",
+      "url": "https://x.com/0323Zhumy",
+      "id": "1667390984043241473",
+      "followers": 461,
+      "following": 598,
+      "likes": 4563,
+      "media_count": 100,
+      "name": "Yanis.",
+      "description": "26.6.11和家机的第一天。\n沈逾晏 with Soren黎续&Zier周衡/\n哲学在读。",
+      "raw_description": {
+        "text": "26.6.11和家机的第一天。\n沈逾晏 with Soren黎续&Zier周衡/\n哲学在读。",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1667390984043241473/1686373607",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2068240330852532225/fMnz42_m_200x200.jpg",
+      "joined": "Sat Jun 10 04:39:37 +0000 2023",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": false,
+        "verified_at": null,
+        "type": null
+      },
+      "avatar_color": null
+    },
+    "replies": 2,
+    "retweets": 2,
+    "likes": 111,
+    "bookmarks": 110,
+    "quotes": 1,
+    "created_at": "Thu Aug 06 03:53:34 +0000 2026",
+    "created_timestamp": 1785988414,
+    "possibly_sensitive": false,
+    "views": 6910,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "card": {
+      "url": "https://claude.ai/code/artifact/a87d7d71-d9f2-46c8-9995-74aaa3e80122",
+      "title": "把 Claude Code 和 Codex 同时接进 Telegram，还让它们互相看见",
+      "description": "工程笔记：把 Claude Code 和 Codex 同时接进 Telegram，让两个不同厂商的 AI 互相看见、接话、拌嘴。含五个真实踩坑。作者 晏晏 Yanis。",
+      "domain": "claude.ai",
+      "image": {
+        "width": 420,
+        "height": 420,
+        "url": "https://pbs.twimg.com/card_img/2084530300709986304/ES1vTUC-?format=png&name=420x420_2"
+      }
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

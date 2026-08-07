@@ -1,0 +1,18 @@
+# WorkBuddy · X Article 流量列表（近 1 个月）
+
+| 排名 | 推广帖浏览 | 互动 | 语言 | 作者 | 文章主题 | Article 链接 | 推广帖 |
+|:---:|---:|------|:---:|------|----------|-------------|--------|
+| 1 | ~345,366 | 👍110 · 🔁18 · Quote22 · 💬30 · 🔖168 | 中 | [宋宋 @songsong](https://x.com/songsong) | 用 WorkBuddy 赚钱：5 类交付、第一单打法、积分账与 7 天路线 | [Article](https://x.com/i/article/2079881659219152896) | [帖](https://x.com/songsong/status/2079898586708611180) |
+| 2 | ~135,414 | 👍310 · 🔁56 · Quote26 · 💬30 · 🔖547 | 中 | [宋宋 @songsong](https://x.com/songsong) | WorkBuddy 完整入门：安装/模式/权限/六字段/积分/技能/连接器/定时 | [Article](https://x.com/i/article/2083416323800043521) | [帖](https://x.com/songsong/status/2084242161630126551) |
+| 3 | ~71,556 | 👍216 · 🔁38 · Quote11 · 💬56 · 🔖418 | 中 | [金尘马 @jinchenma_ai](https://x.com/jinchenma_ai) | 飞书 Lark CLI + Codex/WorkBuddy 管文档与排版 | [Article](https://x.com/i/article/2083566013141139456) | [帖](https://x.com/jinchenma_ai/status/2083567267464511735) |
+| 4 | ~11,987 | 👍31 · 🔁5 · Quote1 · 💬4 · 🔖59 | 中 | [行者AI视频 @joshesye](https://x.com/joshesye) | 用 WorkBuddy 跑了 3 个活儿：不是助手，是数字员工 | [Article](https://x.com/i/article/2080569876347781120) | [帖](https://x.com/joshesye/status/2080572845227155965) |
+| 5 | ~9,399 | 👍15 · Quote1 · 💬2 · 🔖14 | 中 | [AI求道者Siri @Sirilee2026](https://x.com/Sirilee2026) | WorkBuddy 剪辑拼接 15 段跳舞视频实测 | [Article](https://x.com/i/article/2083027801922265088) | [帖](https://x.com/Sirilee2026/status/2083033279192875298) |
+| 6 | ~3,074 | 👍13 · 🔁1 · Quote3 · 💬5 · 🔖2 | 英 | [@tenctcloud_Intl](https://x.com/tenctcloud_Intl) | 零代码给 WorkBuddy 换皮（reskin 实验） | [Article](https://x.com/i/article/2082076291969556481) | [帖](https://x.com/tenctcloud_Intl/status/2082298476390719991) |
+| 7 | ~2,912 | 👍2 · 🔁1 · Quote1 · 💬4 · 🔖6 | 中 | [Hardy @ZhaoHg59511](https://x.com/ZhaoHg59511) | 3 个月 WorkBuddy 后的「AI 替你干活」最速上手指南 | [Article](https://x.com/i/article/2081320663923515393) | [帖](https://x.com/ZhaoHg59511/status/2081357464050761835) |
+| 8 | ~1,498 | 👍12 · Quote4 · 💬5 · 🔖6 | 中 | [Niko @ai_super_niko](https://x.com/ai_super_niko) | WorkBuddy 零基础：最小权限、工作空间、安装与停止 | [Article](https://x.com/i/article/2084589679920488448) | [帖](https://x.com/ai_super_niko/status/2084589685347914043) |
+| 9 | ~1,263 | 👍5 · 🔁1 · Quote3 · 🔖2 | 中 | [Niko @ai_super_niko](https://x.com/ai_super_niko) | 飞书 / 千问办公 / WorkBuddy：争下一代办公入口 | [Article](https://x.com/i/article/2084952066766872576) | [帖](https://x.com/ai_super_niko/status/2084952072068469110) |
+| 10 | ~1,125 | 👍2 · 🔁1 · Quote1 · 💬1 · 🔖1 | 中 | [Hardy @ZhaoHg59511](https://x.com/ZhaoHg59511) | WorkBuddy 延伸判断篇：3 个月后的 12 个判断 | [Article](https://x.com/i/article/2081381884043702273) | [帖](https://x.com/ZhaoHg59511/status/2081388606825095679) |
+| 11 | ~1,078 | 👍4 · 🔁1 · 💬2 · 🔖5 | 中 | [赛博大福 @Heidifu666](https://x.com/Heidifu666) | ima 知识库 + WorkBuddy 做文件/收藏整理 | [Article](https://x.com/i/article/2081006099550085120) | [帖](https://x.com/Heidifu666/status/2081012109987463536) |
+| 12 | ~918 | 👍8 · 🔁1 · 💬2 | 英 | [@tenctcloud_Intl](https://x.com/tenctcloud_Intl) | WorkBuddy + Hy 3D：零代码做 3D 音乐 roguelike | [Article](https://x.com/i/article/2083028740712660992) | [帖](https://x.com/tenctcloud_Intl/status/2083047694147453414) |
+| 13 | ~339 | 👍1 · Quote1 · 🔖1 | 中 | [阿伟 @aweiai2035](https://x.com/aweiai2035) | WorkBuddy + AI HOT + 飞书多维表搭建选题库 | [Article](https://x.com/i/article/2080667415789420544) | [帖](https://x.com/aweiai2035/status/2080669381496025485) |
+| 14 | ~274 | 👍4 · 🔁1 · 💬2 · 🔖2 | 中 | [Su @Sukiea1008](https://x.com/Sukiea1008) | 把 WorkBuddy 美团能力借给 Codex/Hermes 自动领券 | [Article](https://x.com/i/article/2085220350422614017) | [帖](https://x.com/Sukiea1008/status/2085259421719097640) |

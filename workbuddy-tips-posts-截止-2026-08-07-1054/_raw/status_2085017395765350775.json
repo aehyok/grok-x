@@ -1,0 +1,180 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/libukai/status/2085017395765350775",
+    "id": "2085017395765350775",
+    "text": "WorkBuddy 活干的咋样不便评价，造概念倒是一个接一个还挺猛。\n\n这两天新一波的 PR 文章全在推“个人工作台”的概念，赶紧用祖传手艺把对应的专家配置扒下来仔细看了一下，准备认真学习吸取菁华为我所用。\n\n相对于此前喜欢在一个专家中塞上十来个 Skill 的炸裂组合， WorkBuddy 新推的这个专家倒是精简至极，只有一个简单的 SKILL.md 文件。\n\nSKILL.md 文件也写的简单，就是罗列了一些生成单页面 HTML 的时候需要注意的一些规范性的描述，比较有价值的是里面有一些来自真实案例的必要规范和注意事项，也和过去一个月里面我们折腾的实践经验相吻合。\n\n说实话，这个 SKILL 本身其实并没有太多值得深入分析的地方，倒是可以重点讨论一下为什么 WorkBuddy 需要推“个人工作台”这样一个概念。\n\n从过去一段时间和 B 端客户的沟通来看，大多数人在使用 AI 产品的时候，还是期望能有一个更直观的图形化交互界面，这样更契合此前使用 Saas 系统的惯性。\n\n例如，分析了一大堆 EXCEL 表格之后，如果输出时只是在对话中用 Markdown 表格展示一下结果，给用户带来的情绪价值远不如整一个 HTML 页面内嵌 Chart.js 搞点可视化来的惊艳。\n\nAI 落地推进到现在这个阶段，已经可以假设使用者全部是技术小白。他们才不懂什么 Model/Harness/Skill/Agent，要的就是能看到“高质量”的产出物。\n\n怎么给用户呈现“高质量”的产出物？一个看起来美观，而且用户自己又做不来的网页，就是最讨巧最省力的解决方案。归根结底，这是一个产品问题，而不是技术问题。\n\n虽然我经常吐槽 WorkBuddy 也只能算一个半成品，但腾讯毕竟还是有业内深厚的产品底蕴。\n\n在其他各家都忙着用 AI 不停的加功能怼屎山的时候，还能有人从用户的角度思考产品而不是自嗨，已经是一件非常奢侈的事情了。",
+    "raw_text": {
+      "text": "WorkBuddy 活干的咋样不便评价，造概念倒是一个接一个还挺猛。\n\n这两天新一波的 PR 文章全在推“个人工作台”的概念，赶紧用祖传手艺把对应的专家配置扒下来仔细看了一下，准备认真学习吸取菁华为我所用。\n\n相对于此前喜欢在一个专家中塞上十来个 Skill 的炸裂组合， WorkBuddy 新推的这个专家倒是精简至极，只有一个简单的 SKILL.md 文件。\n\nSKILL.md 文件也写的简单，就是罗列了一些生成单页面 HTML 的时候需要注意的一些规范性的描述，比较有价值的是里面有一些来自真实案例的必要规范和注意事项，也和过去一个月里面我们折腾的实践经验相吻合。\n\n说实话，这个 SKILL 本身其实并没有太多值得深入分析的地方，倒是可以重点讨论一下为什么 WorkBuddy 需要推“个人工作台”这样一个概念。\n\n从过去一段时间和 B 端客户的沟通来看，大多数人在使用 AI 产品的时候，还是期望能有一个更直观的图形化交互界面，这样更契合此前使用 Saas 系统的惯性。\n\n例如，分析了一大堆 EXCEL 表格之后，如果输出时只是在对话中用 Markdown 表格展示一下结果，给用户带来的情绪价值远不如整一个 HTML 页面内嵌 Chart.js 搞点可视化来的惊艳。\n\nAI 落地推进到现在这个阶段，已经可以假设使用者全部是技术小白。他们才不懂什么 Model/Harness/Skill/Agent，要的就是能看到“高质量”的产出物。\n\n怎么给用户呈现“高质量”的产出物？一个看起来美观，而且用户自己又做不来的网页，就是最讨巧最省力的解决方案。归根结底，这是一个产品问题，而不是技术问题。\n\n虽然我经常吐槽 WorkBuddy 也只能算一个半成品，但腾讯毕竟还是有业内深厚的产品底蕴。\n\n在其他各家都忙着用 AI 不停的加功能怼屎山的时候，还能有人从用户的角度思考产品而不是自嗨，已经是一件非常奢侈的事情了。",
+      "display_text_range": [
+        0,
+        813
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            147,
+            170
+          ],
+          "id": "2085000818122797056",
+          "display": "pic.x.com/BQYDnP62WZ",
+          "original": "https://t.co/BQYDnP62WZ",
+          "replacement": "https://x.com/libukai/status/2085017395765350775/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            147,
+            170
+          ],
+          "id": "2085007286767099904",
+          "display": "pic.x.com/BQYDnP62WZ",
+          "original": "https://t.co/BQYDnP62WZ",
+          "replacement": "https://x.com/libukai/status/2085017395765350775/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            147,
+            170
+          ],
+          "id": "2085007373677244416",
+          "display": "pic.x.com/BQYDnP62WZ",
+          "original": "https://t.co/BQYDnP62WZ",
+          "replacement": "https://x.com/libukai/status/2085017395765350775/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            147,
+            170
+          ],
+          "id": "2085008516004392960",
+          "display": "pic.x.com/BQYDnP62WZ",
+          "original": "https://t.co/BQYDnP62WZ",
+          "replacement": "https://x.com/libukai/status/2085017395765350775/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "libukai",
+      "url": "https://x.com/libukai",
+      "id": "17703982",
+      "followers": 7826,
+      "following": 1811,
+      "likes": 382,
+      "media_count": 302,
+      "name": "李不凯正在研究",
+      "description": "帮更多人用好 AI | 从 Vibe Coding 到 Vibe Working | ModaLeap 开放平台负责人 | 全公司最老的家伙",
+      "raw_description": {
+        "text": "帮更多人用好 AI | 从 Vibe Coding 到 Vibe Working | ModaLeap 开放平台负责人 | 全公司最老的家伙",
+        "facets": []
+      },
+      "location": "wuhan,china",
+      "banner_url": "https://pbs.twimg.com/profile_banners/17703982/1769066639",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2001878602351345664/aK-QAzaV_200x200.jpg",
+      "joined": "Fri Nov 28 09:08:56 +0000 2008",
+      "protected": false,
+      "website": {
+        "url": "https://github.com/libukai",
+        "display_url": "github.com/libukai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 4,
+    "retweets": 0,
+    "likes": 13,
+    "bookmarks": 7,
+    "quotes": 0,
+    "created_at": "Wed Aug 05 14:57:39 +0000 2026",
+    "created_timestamp": 1785941859,
+    "possibly_sensitive": false,
+    "views": 3106,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085000818122797056",
+          "url": "https://pbs.twimg.com/media/HO9pMoCbsAAiJOd.jpg?name=orig",
+          "width": 1110,
+          "height": 762
+        },
+        {
+          "type": "photo",
+          "id": "2085007286767099904",
+          "url": "https://pbs.twimg.com/media/HO9vFJnaoAA35dW.jpg?name=orig",
+          "width": 1250,
+          "height": 968
+        },
+        {
+          "type": "photo",
+          "id": "2085007373677244416",
+          "url": "https://pbs.twimg.com/media/HO9vKNYaMAAsXU5.png?name=orig",
+          "width": 1008,
+          "height": 1686
+        },
+        {
+          "type": "photo",
+          "id": "2085008516004392960",
+          "url": "https://pbs.twimg.com/media/HO9wMs4bMAADCRu.png?name=orig",
+          "width": 996,
+          "height": 628
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085000818122797056",
+          "url": "https://pbs.twimg.com/media/HO9pMoCbsAAiJOd.jpg?name=orig",
+          "width": 1110,
+          "height": 762
+        },
+        {
+          "type": "photo",
+          "id": "2085007286767099904",
+          "url": "https://pbs.twimg.com/media/HO9vFJnaoAA35dW.jpg?name=orig",
+          "width": 1250,
+          "height": 968
+        },
+        {
+          "type": "photo",
+          "id": "2085007373677244416",
+          "url": "https://pbs.twimg.com/media/HO9vKNYaMAAsXU5.png?name=orig",
+          "width": 1008,
+          "height": 1686
+        },
+        {
+          "type": "photo",
+          "id": "2085008516004392960",
+          "url": "https://pbs.twimg.com/media/HO9wMs4bMAADCRu.png?name=orig",
+          "width": 996,
+          "height": 628
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2085017395765350775/HO9pMoCbsAAiJOd/HO9vFJnaoAA35dW/HO9vKNYaMAAsXU5/HO9wMs4bMAADCRu",
+          "webp": "https://mosaic.fxtwitter.com/webp/2085017395765350775/HO9pMoCbsAAiJOd/HO9vFJnaoAA35dW/HO9vKNYaMAAsXU5/HO9wMs4bMAADCRu"
+        }
+      }
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/steipete/status/2074638582418231495",
+    "id": "2074638582418231495",
+    "text": "If you run this workflow, ask Fable to make codex the workhorse. https://github.com/steipete/agent-scripts/blob/main/skills/codex-first/SKILL.md",
+    "raw_text": {
+      "text": "If you run this workflow, ask Fable to make codex the workhorse. https://t.co/o20OwqaoAt",
+      "display_text_range": [
+        0,
+        88
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            65,
+            88
+          ],
+          "original": "https://t.co/o20OwqaoAt",
+          "replacement": "https://github.com/steipete/agent-scripts/blob/main/skills/codex-first/SKILL.md",
+          "display": "github.com/steipete/agent…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "steipete",
+      "url": "https://x.com/steipete",
+      "id": "25401953",
+      "followers": 571614,
+      "following": 2455,
+      "likes": 63033,
+      "media_count": 8616,
+      "name": "Peter Steinberger 🦞",
+      "description": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "raw_description": {
+        "text": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+        "facets": []
+      },
+      "location": "Vienna & London",
+      "banner_url": "https://pbs.twimg.com/profile_banners/25401953/1773684932",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1131851609774985216/OcsssQ9J_200x200.png",
+      "joined": "Thu Mar 19 22:54:05 +0000 2009",
+      "protected": false,
+      "website": {
+        "url": "https://steipete.me",
+        "display_url": "steipete.me"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 217,
+    "retweets": 354,
+    "likes": 6409,
+    "bookmarks": 8290,
+    "quotes": 53,
+    "created_at": "Tue Jul 07 23:35:57 +0000 2026",
+    "created_timestamp": 1783467357,
+    "possibly_sensitive": false,
+    "views": 907743,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/ClaudeDevs/status/2074606058128224365",
+      "id": "2074606058128224365",
+      "text": "A few patterns we frequently use with Fable 5: \n    \nUse Fable 5 as an \"advisor.\"\n \nAn executor (Sonnet 5) calls Fable 5 for guidance.\n\nMost tokens are billed at the lower executor rate.",
+      "raw_text": {
+        "text": "A few patterns we frequently use with Fable 5: \n    \nUse Fable 5 as an \"advisor.\"\n \nAn executor (Sonnet 5) calls Fable 5 for guidance.\n\nMost tokens are billed at the lower executor rate. https://t.co/JIiZ2gm99Y",
+        "display_text_range": [
+          0,
+          186
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              187,
+              210
+            ],
+            "id": "2074602158994096128",
+            "display": "pic.x.com/JIiZ2gm99Y",
+            "original": "https://t.co/JIiZ2gm99Y",
+            "replacement": "https://x.com/ClaudeDevs/status/2074606058128224365/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "ClaudeDevs",
+        "url": "https://x.com/ClaudeDevs",
+        "id": "2024518793679294464",
+        "followers": 634286,
+        "following": 2,
+        "likes": 55,
+        "media_count": 109,
+        "name": "ClaudeDevs",
+        "description": "Official updates for developers building with @ClaudeAI",
+        "raw_description": {
+          "text": "Official updates for developers building with @ClaudeAI",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/2024518793679294464/1776108340",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_200x200.png",
+        "joined": "Thu Feb 19 16:19:46 +0000 2026",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 730,
+      "retweets": 2292,
+      "likes": 30762,
+      "bookmarks": 28066,
+      "quotes": 749,
+      "created_at": "Tue Jul 07 21:26:43 +0000 2026",
+      "created_timestamp": 1783459603,
+      "possibly_sensitive": false,
+      "views": 5785679,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2074602158994096128",
+            "url": "https://pbs.twimg.com/media/HMp3rAEaAAAUpHe.jpg?name=orig",
+            "width": 1992,
+            "height": 872
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2074602158994096128",
+            "url": "https://pbs.twimg.com/media/HMp3rAEaAAAUpHe.jpg?name=orig",
+            "width": 1992,
+            "height": 872
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter for iPhone",
+    "card": {
+      "url": "https://github.com/steipete/agent-scripts/blob/main/skills/codex-first/SKILL.md",
+      "title": "agent-scripts/skills/codex-first/SKILL.md at main · steipete/agent-scripts",
+      "description": "Scripts for agents, shared between my repositories. - steipete/agent-scripts",
+      "domain": "github.com",
+      "image": {
+        "width": 800,
+        "height": 419,
+        "url": "https://pbs.twimg.com/card_img/2084840058776145920/yGDxKZi9?format=jpg&name=800x419"
+      }
+    },
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

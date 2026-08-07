@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/vista8/status/2082858101884272752",
+    "id": "2082858101884272752",
+    "text": "中国的务实低配FDE就是workbuddy➕skill交付 😂",
+    "raw_text": {
+      "text": "中国的务实低配FDE就是workbuddy➕skill交付 😂",
+      "display_text_range": [
+        0,
+        31
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "vista8",
+      "url": "https://x.com/vista8",
+      "id": "6690032",
+      "followers": 119723,
+      "following": 1613,
+      "likes": 10901,
+      "media_count": 3044,
+      "name": "向阳乔木",
+      "description": "喜欢摇滚乐、爱钓鱼的PM",
+      "raw_description": {
+        "text": "喜欢摇滚乐、爱钓鱼的PM",
+        "facets": []
+      },
+      "location": "Beijing",
+      "banner_url": "https://pbs.twimg.com/profile_banners/6690032/1681134125",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_200x200.jpg",
+      "joined": "Sat Jun 09 05:48:52 +0000 2007",
+      "protected": false,
+      "website": {
+        "url": "https://blog.qiaomu.ai",
+        "display_url": "blog.qiaomu.ai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 18,
+    "retweets": 3,
+    "likes": 78,
+    "bookmarks": 46,
+    "quotes": 2,
+    "created_at": "Thu Jul 30 15:57:23 +0000 2026",
+    "created_timestamp": 1785427043,
+    "views": 23334,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "ja",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter for iPhone",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

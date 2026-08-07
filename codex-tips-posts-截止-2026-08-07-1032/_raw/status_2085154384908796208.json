@@ -1,0 +1,287 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Lonely__MH/status/2085154384908796208",
+    "id": "2085154384908796208",
+    "text": "🎉 Matt 大神的 Skills v1.2 正式发布！\n\n作为我电脑里大浪淘沙后、为数不多舍不得删的宝藏 Skill（官方已突破 1350 万次下载！），这次又带来了重大更新\n\n新增核心\n- 全量文档：涵盖核心流程与排错指南，补齐最后一块短板\n- Claude 插件：支持通过 Claude 官方市场一键安装\n- Codex 支持：配置 agents/openai.yaml 即可无缝接入\n\n技能体验优化\n- /grilling  升级为轮次提问，对话体验更自然\n- /prototype  改用 HTML 替代 TUI，更好分享、功能更强\n- /writing-for-agents  专为优化 Agent 读取内容（提示词、文档等）而重命名\n\n✨ 全新技能加入\n- /wizard  去繁琐配置，让 Agent 自动构建 TUI 向导带你飞\n- /to-questionnaire  被问题卡住？一键转换为结构化文档，方便会议同步与需求整理\n- /wait-what  看不懂模型黑话？用行业语言重新聚焦，通过 ASD-STE100 极简呈现\n\n传送门👉🏻：https://www.aihero.dev/skills",
+    "raw_text": {
+      "text": "🎉 Matt 大神的 Skills v1.2 正式发布！\n\n作为我电脑里大浪淘沙后、为数不多舍不得删的宝藏 Skill（官方已突破 1350 万次下载！），这次又带来了重大更新\n\n新增核心\n- 全量文档：涵盖核心流程与排错指南，补齐最后一块短板\n- Claude 插件：支持通过 Claude 官方市场一键安装\n- Codex 支持：配置 agents/openai.yaml 即可无缝接入\n\n技能体验优化\n- /grilling  升级为轮次提问，对话体验更自然\n- /prototype  改用 HTML 替代 TUI，更好分享、功能更强\n- /writing-for-agents  专为优化 Agent 读取内容（提示词、文档等）而重命名\n\n✨ 全新技能加入\n- /wizard  去繁琐配置，让 Agent 自动构建 TUI 向导带你飞\n- /to-questionnaire  被问题卡住？一键转换为结构化文档，方便会议同步与需求整理\n- /wait-what  看不懂模型黑话？用行业语言重新聚焦，通过 ASD-STE100 极简呈现\n\n传送门👉🏻：https://t.co/TZAbpnDNZW",
+      "display_text_range": [
+        0,
+        508
+      ],
+      "facets": [
+        {
+          "type": "bold",
+          "indices": [
+            91,
+            95
+          ]
+        },
+        {
+          "type": "media",
+          "indices": [
+            170,
+            193
+          ],
+          "id": "2085022616289783808",
+          "display": "pic.x.com/qh9FO3NjHb",
+          "original": "https://t.co/qh9FO3NjHb",
+          "replacement": "https://x.com/Lonely__MH/status/2085154384908796208/photo/1"
+        },
+        {
+          "type": "bold",
+          "indices": [
+            198,
+            204
+          ]
+        },
+        {
+          "type": "url",
+          "indices": [
+            482,
+            505
+          ],
+          "original": "https://t.co/TZAbpnDNZW",
+          "replacement": "https://www.aihero.dev/skills",
+          "display": "aihero.dev/skills"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Lonely__MH",
+      "url": "https://x.com/Lonely__MH",
+      "id": "2926712868",
+      "followers": 20793,
+      "following": 772,
+      "likes": 12778,
+      "media_count": 1672,
+      "name": "Lonely",
+      "description": "👨‍💻 独立开发者 | AI Builder | 互联网打杂 \n💻 Hermes Agent & AI 工具实战测评\n💡 聊聊前沿 AI 资讯、写写小白硬核教程\n世界是个巨大草台班子，你我皆在台上\n格言：生命不息，Bug 不止\n📮 商务DM | 交流👉🏻：http://t.me/chat_aiclub",
+      "raw_description": {
+        "text": "👨‍💻 独立开发者 | AI Builder | 互联网打杂 \n💻 Hermes Agent & AI 工具实战测评\n💡 聊聊前沿 AI 资讯、写写小白硬核教程\n世界是个巨大草台班子，你我皆在台上\n格言：生命不息，Bug 不止\n📮 商务DM | 交流👉🏻：https://t.co/pDwNjXRycs",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              128,
+              151
+            ],
+            "original": "https://t.co/pDwNjXRycs",
+            "replacement": "http://t.me/chat_aiclub",
+            "display": "t.me/chat_aiclub"
+          }
+        ]
+      },
+      "location": "AI 科技",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2926712868/1451226903",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1141385957234470912/iJMy6F7u_200x200.jpg",
+      "joined": "Thu Dec 11 11:57:05 +0000 2014",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 22,
+    "retweets": 26,
+    "likes": 146,
+    "bookmarks": 208,
+    "quotes": 0,
+    "created_at": "Thu Aug 06 00:02:00 +0000 2026",
+    "created_timestamp": 1785974520,
+    "possibly_sensitive": false,
+    "views": 22504,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085022616289783808",
+          "url": "https://pbs.twimg.com/media/HO99BcibsAAvfwG.jpg?name=orig",
+          "width": 3372,
+          "height": 1838
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085022616289783808",
+          "url": "https://pbs.twimg.com/media/HO99BcibsAAvfwG.jpg?name=orig",
+          "width": 3372,
+          "height": 1838
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/mattpocockuk/status/2084985277102031137",
+      "id": "2084985277102031137",
+      "text": "mattpocock/skills v1.2 is out!\n\nWe're now the 19th most-starred repo of all time. 13.5m downloads on skills​.sh. Thanks for your support!\n\nHere's what's new:\n\n- Docs: the community's biggest ask. Every skill documented, with explanations of the main flows + troubleshooting\n- Claude Plugin: install via Claude's official marketplace\n- Codex Support: full Codex support via agents/openai.yaml files\n\nUpdated Skills:\n\n- /grilling now asks you questions in rounds, not one-by-one\n- /prototype now uses HTML instead of a TUI for building logic prototypes - easier to share and far richer\n- /writing-for-agents renamed from /writing-great-skills, use it for ANYTHING your agents read (AGENTS.md, system prompts, docs)\n\nNew Skills:\n\n- /wizard: tired of provisioning infra? Get your agent to build you a TUI to walk you through it\n- /to-questionnaire: hit a grilling question you can't answer? Turn the session into a doc you can walk through on a call with a colleague\n- /wait-what: no idea what the model said? Refocus it in your domain language and simplify with ASD-STE100\n\nFull changelog + docs below. Video soon!",
+      "raw_text": {
+        "text": "mattpocock/skills v1.2 is out!\n\nWe're now the 19th most-starred repo of all time. 13.5m downloads on skills​.sh. Thanks for your support!\n\nHere's what's new:\n\n- Docs: the community's biggest ask. Every skill documented, with explanations of the main flows + troubleshooting\n- Claude Plugin: install via Claude's official marketplace\n- Codex Support: full Codex support via agents/openai.yaml files\n\nUpdated Skills:\n\n- /grilling now asks you questions in rounds, not one-by-one\n- /prototype now uses HTML instead of a TUI for building logic prototypes - easier to share and far richer\n- /writing-for-agents renamed from /writing-great-skills, use it for ANYTHING your agents read (AGENTS.md, system prompts, docs)\n\nNew Skills:\n\n- /wizard: tired of provisioning infra? Get your agent to build you a TUI to walk you through it\n- /to-questionnaire: hit a grilling question you can't answer? Turn the session into a doc you can walk through on a call with a colleague\n- /wait-what: no idea what the model said? Refocus it in your domain language and simplify with ASD-STE100\n\nFull changelog + docs below. Video soon!",
+        "display_text_range": [
+          0,
+          1111
+        ],
+        "facets": [
+          {
+            "type": "bold",
+            "indices": [
+              161,
+              165
+            ]
+          },
+          {
+            "type": "bold",
+            "indices": [
+              276,
+              289
+            ]
+          },
+          {
+            "type": "media",
+            "indices": [
+              276,
+              299
+            ],
+            "id": "2084982491807371265",
+            "display": "pic.x.com/n759FjCIxb",
+            "original": "https://t.co/n759FjCIxb",
+            "replacement": "https://x.com/mattpocockuk/status/2084985277102031137/photo/1"
+          },
+          {
+            "type": "bold",
+            "indices": [
+              335,
+              348
+            ]
+          },
+          {
+            "type": "bold",
+            "indices": [
+              418,
+              427
+            ]
+          },
+          {
+            "type": "bold",
+            "indices": [
+              479,
+              489
+            ]
+          },
+          {
+            "type": "bold",
+            "indices": [
+              586,
+              605
+            ]
+          },
+          {
+            "type": "bold",
+            "indices": [
+              729,
+              736
+            ]
+          },
+          {
+            "type": "bold",
+            "indices": [
+              826,
+              843
+            ]
+          },
+          {
+            "type": "bold",
+            "indices": [
+              965,
+              975
+            ]
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "mattpocockuk",
+        "url": "https://x.com/mattpocockuk",
+        "id": "346640777",
+        "followers": 323799,
+        "following": 796,
+        "likes": 64294,
+        "media_count": 2723,
+        "name": "Matt Pocock",
+        "description": "I teach devs for a living. Author of Total TypeScript and AI Hero. Ex-@vercel. Used to be a voice coach.",
+        "raw_description": {
+          "text": "I teach devs for a living. Author of Total TypeScript and AI Hero. Ex-@vercel. Used to be a voice coach.",
+          "facets": []
+        },
+        "location": "Oxford, England",
+        "banner_url": "https://pbs.twimg.com/profile_banners/346640777/1779721449",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_200x200.jpg",
+        "joined": "Mon Aug 01 16:08:26 +0000 2011",
+        "protected": false,
+        "website": {
+          "url": "https://aihero.dev",
+          "display_url": "aihero.dev"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 143,
+      "retweets": 479,
+      "likes": 5739,
+      "bookmarks": 5218,
+      "quotes": 79,
+      "created_at": "Wed Aug 05 12:50:01 +0000 2026",
+      "created_timestamp": 1785934201,
+      "possibly_sensitive": false,
+      "views": 567515,
+      "is_note_tweet": true,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2084982491807371265",
+            "url": "https://pbs.twimg.com/media/HO9Yh5MWUAE7p-b.jpg?name=orig",
+            "width": 1435,
+            "height": 667
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2084982491807371265",
+            "url": "https://pbs.twimg.com/media/HO9Yh5MWUAE7p-b.jpg?name=orig",
+            "width": 1435,
+            "height": 667
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web Client",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

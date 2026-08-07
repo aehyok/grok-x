@@ -1,0 +1,127 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/gengdaJ/status/2079091937639022973",
+    "id": "2079091937639022973",
+    "text": "总结一下我开源的Skills大全：\n1. 微信数据解析Skill：微信聊天记录、通讯录、收藏夹、朋友圈全解析。\nhttps://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault\n\n2. 企业微信数据解析Skill：企微聊天记录全解析。\nhttps://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-mp-batch-exporter\n\n3.本地Markdown文档转X长文章Skill：完美的MD转X文章Skills，表格、段落等都是非常丝滑。\nhttps://github.com/mcncarl/yichen-skills/tree/main/yichen-x-article-draft-uploader\n\n4.Codex和Claude Code共用的记忆Skill：Markdown形式储存、可编辑（持续优化中）。\nhttps://github.com/mcncarl/yichen-skills/tree/main/yichen-agent-memory\n\n5.抖音视频抓取Skill：下载抖音视频，无需登录。\nhttps://github.com/mcncarl/yichen-skills/tree/main/yichen-douyin-fetcher\n\n6.小红书视频/图文抓取Skill：无需登录，抓取相关内容沉淀到飞书多维表格。\nhttps://github.com/mcncarl/yichen-skills/tree/main/yichen-xiaohongshu-fetch",
+    "raw_text": {
+      "text": "总结一下我开源的Skills大全：\n1. 微信数据解析Skill：微信聊天记录、通讯录、收藏夹、朋友圈全解析。\nhttps://t.co/UAwFmjhw3G\n\n2. 企业微信数据解析Skill：企微聊天记录全解析。\nhttps://t.co/fvM9uMRy7Q\n\n3.本地Markdown文档转X长文章Skill：完美的MD转X文章Skills，表格、段落等都是非常丝滑。\nhttps://t.co/7nOle3IqUK\n\n4.Codex和Claude Code共用的记忆Skill：Markdown形式储存、可编辑（持续优化中）。\nhttps://t.co/23reFZ14fa\n\n5.抖音视频抓取Skill：下载抖音视频，无需登录。\nhttps://t.co/8ZbEhZ18yZ\n\n6.小红书视频/图文抓取Skill：无需登录，抓取相关内容沉淀到飞书多维表格。\nhttps://t.co/iQ0zBLjTPI",
+      "display_text_range": [
+        0,
+        409
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            56,
+            79
+          ],
+          "original": "https://t.co/UAwFmjhw3G",
+          "replacement": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+          "display": "github.com/mcncarl/yichen…"
+        },
+        {
+          "type": "url",
+          "indices": [
+            109,
+            132
+          ],
+          "original": "https://t.co/fvM9uMRy7Q",
+          "replacement": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-mp-batch-exporter",
+          "display": "github.com/mcncarl/yichen…"
+        },
+        {
+          "type": "url",
+          "indices": [
+            189,
+            212
+          ],
+          "original": "https://t.co/7nOle3IqUK",
+          "replacement": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-x-article-draft-uploader",
+          "display": "github.com/mcncarl/yichen…"
+        },
+        {
+          "type": "url",
+          "indices": [
+            269,
+            292
+          ],
+          "original": "https://t.co/23reFZ14fa",
+          "replacement": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-agent-memory",
+          "display": "github.com/mcncarl/yichen…"
+        },
+        {
+          "type": "url",
+          "indices": [
+            321,
+            344
+          ],
+          "original": "https://t.co/8ZbEhZ18yZ",
+          "replacement": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-douyin-fetcher",
+          "display": "github.com/mcncarl/yichen…"
+        },
+        {
+          "type": "url",
+          "indices": [
+            386,
+            409
+          ],
+          "original": "https://t.co/iQ0zBLjTPI",
+          "replacement": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-xiaohongshu-fetch",
+          "display": "github.com/mcncarl/yichen…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "gengdaJ",
+      "url": "https://x.com/gengdaJ",
+      "id": "1897545708770840576",
+      "followers": 49104,
+      "following": 287,
+      "likes": 2698,
+      "media_count": 424,
+      "name": "逸尘",
+      "description": "🦄06年连续创业者 | 渝客松发起人\n🔪正在上海法律科技律所，打工攒素材\n👀YouTube一个月十万粉 | AI产品营收五位数\n💗付费咨询（yichen10801）：企业AI服务（商标、舆论、提效等）&AI自媒体增长&AI视频商业化\n✨一个永远在学习的法学生\n📮gengdajin1101@gmail.com",
+      "raw_description": {
+        "text": "🦄06年连续创业者 | 渝客松发起人\n🔪正在上海法律科技律所，打工攒素材\n👀YouTube一个月十万粉 | AI产品营收五位数\n💗付费咨询（yichen10801）：企业AI服务（商标、舆论、提效等）&AI自媒体增长&AI视频商业化\n✨一个永远在学习的法学生\n📮gengdajin1101@gmail.com",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1897545708770840576/1777738300",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1976552498564579328/SFfHx_IG_200x200.jpg",
+      "joined": "Thu Mar 06 07:12:24 +0000 2025",
+      "protected": false,
+      "website": {
+        "url": "https://yichen.homes",
+        "display_url": "yichen.homes"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 51,
+    "retweets": 272,
+    "likes": 1421,
+    "bookmarks": 2136,
+    "quotes": 13,
+    "created_at": "Mon Jul 20 06:32:00 +0000 2026",
+    "created_timestamp": 1784529120,
+    "possibly_sensitive": false,
+    "views": 121195,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web Client",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

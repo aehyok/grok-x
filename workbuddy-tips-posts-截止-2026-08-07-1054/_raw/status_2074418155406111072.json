@@ -1,0 +1,2678 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/zjp1997720/status/2074418155406111072",
+    "id": "2074418155406111072",
+    "text": "",
+    "raw_text": {
+      "text": "https://t.co/s7oyoTD1NU",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "zjp1997720",
+      "url": "https://x.com/zjp1997720",
+      "id": "1892383951836368896",
+      "followers": 2438,
+      "following": 300,
+      "likes": 499,
+      "media_count": 213,
+      "name": "智见AI-大鹏",
+      "description": "🎓北交大硕士，前大厂产业研究员&数据分析师\n🏢现带领家族企业转型AI，主要做教育和企业的AI培训和落地\n🧐值得吹牛逼的一件事：凭一场汇报，斩获千万级G端订单\n👨‍💻同时也是一个不定期更新的公众号博主「智见AI」\n🤝交流合作，chat with me @zjp1997720",
+      "raw_description": {
+        "text": "🎓北交大硕士，前大厂产业研究员&数据分析师\n🏢现带领家族企业转型AI，主要做教育和企业的AI培训和落地\n🧐值得吹牛逼的一件事：凭一场汇报，斩获千万级G端订单\n👨‍💻同时也是一个不定期更新的公众号博主「智见AI」\n🤝交流合作，chat with me @zjp1997720",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1892383951836368896/1785139896",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2081653705791975424/3MTx0UHz_200x200.jpg",
+      "joined": "Thu Feb 20 01:21:26 +0000 2025",
+      "protected": false,
+      "website": {
+        "url": "https://zhijian-ai.cn/",
+        "display_url": "zhijian-ai.cn"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 64,
+    "likes": 279,
+    "bookmarks": 663,
+    "quotes": 2,
+    "created_at": "Tue Jul 07 09:00:03 +0000 2026",
+    "created_timestamp": 1783414803,
+    "possibly_sensitive": false,
+    "views": 123779,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-07-07T09:00:03.000Z",
+      "modified_at": "2026-07-07T09:00:03.000Z",
+      "id": "2074410581554073600",
+      "title": "WorkBuddy保姆级指南（1/N）｜万字教程",
+      "preview_text": "最近在和电子工业出版社合作录一门 WorkBuddy 的实战课，我会持续把文字。版本分享出来。这篇文章出自其中一节「初识 WorkBuddy」。如果你正在用 WorkBuddy 或者打算用，这篇能帮你省掉大量瞎摸的时间。",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHMnJdc6akAAKAAIaQxkti9tQAAAA",
+        "media_id": "2074410611195416576",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 86.83,
+                "rgb": {
+                  "blue": 196,
+                  "green": 222,
+                  "red": 235
+                }
+              },
+              {
+                "percentage": 8.53,
+                "rgb": {
+                  "blue": 105,
+                  "green": 118,
+                  "red": 123
+                }
+              },
+              {
+                "percentage": 2.3,
+                "rgb": {
+                  "blue": 85,
+                  "green": 66,
+                  "red": 39
+                }
+              },
+              {
+                "percentage": 0.63,
+                "rgb": {
+                  "blue": 73,
+                  "green": 108,
+                  "red": 140
+                }
+              },
+              {
+                "percentage": 0.49,
+                "rgb": {
+                  "blue": 179,
+                  "green": 207,
+                  "red": 151
+                }
+              }
+            ]
+          },
+          "original_img_height": 717,
+          "original_img_url": "https://pbs.twimg.com/media/HMnJdc6akAAoc1P.jpg",
+          "original_img_width": 1792
+        },
+        "media_key": "3_2074410611195416576"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "69gpu",
+            "text": "最近在和电子工业出版社合作录一门 WorkBuddy 的实战课，我会持续把文字。版本分享出来。这篇文章出自其中一节「初识 WorkBuddy」。如果你正在用 WorkBuddy 或者打算用，这篇能帮你省掉大量瞎摸的时间。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "doqga",
+            "text": "先给个判断：WorkBuddy 是国内目前功能做得最全面、也是上手门槛最低的 Agent 产品。我推荐所有想尝试 Agent 的小白和知识工作者，首选它。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "89erl",
+            "text": "下面我把打开 WorkBuddy 之后你需要搞清楚的每一件事，从头到尾走一遍。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dv243",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7qfb6",
+            "text": "功能区全景：左上角四个入口",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bc06f",
+            "text": "WorkBuddy 界面左上角是功能配置区域，核心入口都在这：助理、项目、专家、自动化。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6cjsj",
+            "text": "助理，就是 WorkBuddy 版本的龙虾。有人格、有记忆，可以配置到微信的 ClawBot 里，这样以后直接从手机微信就能操控电脑。这个功能我用了段时间，确实方便——在外面跑的时候，手机发一句话，电脑上的 WorkBuddy 就开始干活了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dlm2d",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2ngh2",
+            "text": "主要是在微信里面使用clawbot可以生活场景和工作场景不分开，之前想用Hermes总是要额外打开飞书。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ceg5d",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "aifsb",
+            "text": "项目，是团队协作能力。通过「项目」和「任务」两层结构，让团队成员共享上下文、标准与知识。如果是个人用，这个功能暂时不用管。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "95l17",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "54ajp",
+            "text": "专家，这个是重点。里面包含了 subagent、skill、MCP 的配置",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bm4k0",
+            "text": "专家分两种：「专家中心」里可以按行业分类浏览，也可以用自然语言描述创建自己的专家。这里需要调用一个内置的「设计subagent」的skill，叫做expert-manager",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5qjd6",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fn6a3",
+            "text": "专家是「角色切换」机制——以「人设 + 方法论 + 工具链」让 WorkBuddy 用特定领域专家身份执行任务。专家团更进一步，由多位专家分工协作，由团长自动拆解、并行执行并整合交付。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "50dl2",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6iob8",
+            "text": "专家、专家团、Skill 三者的关系：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b09o4",
+            "text": "维度 Skill 专家（Agent 型） 专家团（Team 型）    本质 工具能力：让 AI 能做某件事 AI 顾问：懂某个领域的角色 AI 协作团队：自动拆解、并行、完整交付   怎么选 需要 AI 具备某种工具能力 有一个明确的单点问题 任务复杂，需要多角色配合",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 33,
+                "offset": 4,
+                "style": "Bold"
+              }
+            ],
+            "key": "c5l0f",
+            "text": "一句话：Skill 是能力，专家是能力加经验，专家团是多位专家加协作流程。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ac32d",
+            "text": "自动化，就是定时任务。按固定周期把预设好的提示词发给 WorkBuddy 执行，成果还能推送到小程序。逻辑简单，但用好了很省事。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "11m31",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a09mf",
+            "text": "以上先建立个全局意识就行，后面结合实操展开。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "572he",
+            "text": "新建任务：每个选项该怎么选",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4g6le",
+            "text": "新建任务栏是 WorkBuddy 最重要的界面。它解决一个问题：这次任务，要让哪个 Agent、带着哪些材料、用什么权限、在哪个目录里干活。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "41ne5",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8cld7",
+            "text": "很多人一上来就输入一句话让 AI 开干，能出结果，但结果散、文件乱、权限风险高。下面逐项说清楚。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ch14h",
+            "text": "场景选择：三层预设",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6g8t1",
+            "text": "WorkBuddy 把上手门槛做得非常低，通过三层预设把用户的提示词门槛大大降低。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "59v3p",
+            "text": "第一层，按工作场景分：职场、开发、设计。日常默认选「日常办公」就行，也能做开发任务，这是 WorkBuddy 的主推场景。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1u0tg",
+            "text": "第二层，场景下的任务分类。比如选了日常办公，下面就是文档处理、数据可视化、深度调研这些。选中一个分类，底层会自动路由到某个专家团或者skill包，确保任务质量更高。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "91rm",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "25npc",
+            "text": "这里有个值得拆一下的东西——「深度研究」。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 37,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2br3m",
+            "text": "深度研究既不是单一 Skill，也不是 MCP，更不是一段 Prompt。 它是 WorkBuddy Teams Marketplace 里的一个 Expert Agent 包（deep-research@cb_teams_marketplace），本质是「主 Agent 编排 + 子 Agent 执行 + 多工具协作」的 Agent Team 系统。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "naup",
+            "text": "这个设计是 WorkBuddy 的一个亮点。它不是简单地在提示词里说\"你是一个调研专家\"，而是真正拆成了多个子 Agent 各干各的，有编排层、有执行层。后面实操部分你会看到它并行干活的效果。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "cooo6",
+            "text": "第三层，具体任务。比如竞品对比分析。选完之后输入框自动填入提示词模板，改一改就能用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "59u3j",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4eg3l",
+            "text": "三层的作用就是把用户原本需要通过提示词表达的意图给选项化了。这是 WorkBuddy 相对于黑黢黢终端里的 CLI Agent 最大的优势——上手门槛低很多。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b6btd",
+            "text": "工作模式：Ask、Plan、Craft",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8l31q",
+            "text": "三种模式，理解成三种「派活力度」。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3a49j",
+            "text": "模式 什么时候用 怎么理解    Ask / 问一问 只想了解、分析、确认，不希望它改文件 先问清楚   Plan / 想一想 长线程复杂任务，需要先制定计划 先让它说怎么做   Craft / 做一做 目标明确，可以直接生成或修改文件 让它开始干活",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8hu5k",
+            "text": "我的习惯：不确定任务边界时用 Ask，重要文件或复杂任务用 Plan，明确要生成文件时用 Craft。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "61r9g",
+            "text": "这不是保守，是稳定。Agent 能干活，也可能理解错任务。让它先解释计划，是把控制权留在人手里。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "auobj",
+            "text": "模型选择：按任务类型匹配",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cd8ok",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1ndnf",
+            "text": "第一个要关注的是上下文窗口。目前只有 GLM 5.2 和 Deepseek V4 系列支持 100 万上下文窗口，适合长线程任务或者你想长期使用某个对话 session。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4notm",
+            "text": "多模态这块要注意：目前只有 GLM 5V Turbo 和 Kimi 系列是真正支持多模态的，也就是能像人眼一样看到并理解图片。理论上你可以给它传网页截图让它复刻，它做前端任务时也能自己截图、自己评估结果。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "79j63",
+            "text": "其他模型的「图片输入」功能，是 WorkBuddy 预制了 OCR 工具——上传图片后先 OCR 提取文本，再把文本传给模型。不是真的多模态。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ar5tb",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "p3gj",
+            "text": "每个模型后面标了积分消耗比率，数值越大消耗越多，其他意义我也不确定，简单理解就行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5133g",
+            "text": "综合来说，我日常怎么选模型：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "cfmdt",
+            "text": "日常办公任务：默认 Deepseek V4 Pro。能力强、上下文空间大、性价比最高。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8snma",
+            "text": "复杂开发任务、Skill 设计：直接 GLM 5.2。整体能力水平跟 Claude Opus 4.6 差不多。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "69pvc",
+            "text": "视觉审查任务（网页复刻、做 PPT 等）：Kimi 2.6 或 Kimi 2.7 Code。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ihrs",
+            "text": "如果哪天 GLM 5.2V Turbo 出了，那就是最完美的选择：顶级智力 + 100 万上下文 + 视觉能力 + 高输出速度。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2d6jt",
+            "text": "技能：给 WorkBuddy 拓展能力边界",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "13ubq",
+            "text": "Skill 大部分由三部分组成：工具本身、使用工具的说明书、做成功某件事的最短成功路径。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "97nm6",
+            "text": "举个例子。最近 Seedance 2.5 很火，如果想让 Agent 制作宣传视频，就得设计一个 Skill：包含 Seedance 2.5 的 API 和 Key，让它有调用权限；说清楚 API 怎么用；再把宣传视频制作的方法论打包进去。这样就能全流程制作出高质量视频。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "csdhb",
+            "text": "用 Skill 有两种方式：点技能按键直接选，或者在输入框打斜杠输入前几个字母匹配。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3l8m8",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2ihud",
+            "text": "初始状态下 WorkBuddy 已经内置了几个官方 Skill，确保高频场景不额外配置也能用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fv1h3",
+            "text": "想加新 Skill 也简单，两种方法：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 84
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9coes",
+            "text": "方法一：从 Skill 商店添加。 商店里的 Skill 基本是 WorkBuddy 官方一对一邀约上传的，安全和质量没问题。比如卡兹克开源的「卡兹克公众号写作」，点个➕就加了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4tavl",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 25,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "anl3d",
+            "text": "方法二：用自然语言让 WorkBuddy 帮你找。 直接在输入框说需求就行。底层原理是 WorkBuddy 内置了一个叫 Find-Skills 的元 Skill，通过关键词去 SkillHub（腾讯官方的 Skill 社区）上搜索。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "398v6",
+            "text": "还有个细节：WorkBuddy 把一些热门 Skill 预制到了本地文件夹里，查找时先从本地找，更快。有些 Skill 需要特定网络环境安装，预制到本地就绕过了这个问题。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9mhci",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a7tjf",
+            "text": "工作目录：先给 Agent 一个干净房间",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6hs2v",
+            "text": "新建任务时，默认不会选择本地工作空间。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "erk12",
+            "text": "不选的话，系统每次会自动划定一个临时目录，命名规则是 WorkBuddy/YYYY-MM-DD-HH-MM-SS。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ak4vk",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "72htm",
+            "text": "我的建议是：下达任何任务之前，提前选好自己本地的文件夹作为工作空间。我自己是把所有任务都放到 Obsidian 仓库里，这样个人上下文归集起来，以后 Agent 可以随时调用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 17,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5qof6",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fh227",
+            "text": "打开新文件夹作为工作空间时，首次交互会触发初始化——WorkBuddy 会问你一些问题来了解你，形成自己的身份认知。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9f1rt",
+            "text": "固定使用一个文件夹还有个好处：你可以在根目录放一个 AGENTS.md 文件。目前除了 Claude Code 不支持，其他任何 Agent 都支持这个文件作为系统提示词——任何对话中都会初始加载。所以在这个文件夹里跑的 Agent，比如 Claude Code、比如 Codex，都会加载这个文件来获得对你的静态认知和运行规则。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 18,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "aqu2d",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c5dnk",
+            "text": "独立工作目录的好处：材料清楚、文件不乱、风险可控。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "797ud",
+            "text": "连接器：能不用就不用",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d0ue7",
+            "text": "连接器本质就是 MCP，用于把 WorkBuddy 和外部服务连起来——邮箱、腾讯文档、乐享知识库、会议工具等。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 19,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5nvl4",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "471dc",
+            "text": "去 WorkBuddy 商店一键添加，简单授权就能用。比如授权完乐享之后，WorkBuddy 就能读取、编辑、管理乐享知识库的内容。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 20,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "98vdj",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7io5l",
+            "text": "但我的判断是：现在任何 MCP 能实现的功能，几乎都可以通过 API + Skill 实现。不建议折腾 MCP——占用上下文空间大，我现在已经几乎不用了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 21,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cikm1",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a11kb",
+            "text": "权限：我的选择是完全开放",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8clp7",
+            "text": "WorkBuddy 能读写文件、整理目录、生成文档，也可能执行脚本或调用外部程序。两种权限模式：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "aegmc",
+            "text": "默认权限：危险操作（比如删文件）会被拦截，系统发权限申请让你确认。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4ptea",
+            "text": "完全访问：跳过所有权限申请，确保任务连贯性。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5f86v",
+            "text": "我是任何 Agent 产品都默认开放最高权限。原因很简单：Agent 任务通常时间很长，开默认权限会频繁弹出权限申请，而大多数权限申请对普通用户来说根本看不懂。我选择完全相信 Agent，到现在没遇到过误删文件的情况。模型智力越来越强，这种极端边界情况会越来越少。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ednhs",
+            "text": "不过有一点：开完全访问权限时，建议选最顶级的模型，比如 GLM 5.2。选个垃圾模型，它真有可能做出比较呆的事情。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 22,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "527f4",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c4efv",
+            "text": "跑一个真实任务：让 WorkBuddy 调研 Loop Engineering",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9k54q",
+            "text": "还是用我的 Obsidian 仓库作为工作空间，日常办公模式，选深度调研任务类型。让 WorkBuddy 调研最近火爆的 Loop Engineering，产出一个白皮书。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "76j53",
+            "text": "这是个比较长线程的复杂任务，所以我开了 Plan 模式。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 23,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7t96d",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "elg2s",
+            "text": "任务一开始，WorkBuddy 就体现出了非常强的并行能力——同时调用多个工具，还额外调了一个 Explorer 的 subagent。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c7nsa",
+            "text": "我不确定是 WorkBuddy 的 Harness 工程做得好，还是 GLM 5.2 这个模型本身就强，大概率是两者综合的效果。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5dgc5",
+            "text": "Plan 模式的好处是在关键决策点，WorkBuddy 会用 Ask user question 工具向你提问，而且是选择题，确保跟你对齐需求。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 24,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "bomme",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "13fsi",
+            "text": "计划产出一个 Markdown 格式的详细方案，你审核没问题后点「确认计划」，WorkBuddy 自动退出 Plan 模式进入 Craft 模式开始执行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8gcm5",
+            "text": "有新产物的时候它会在右侧直接打开。有时候不打开也没关系，直接去工作空间里按路径找就行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 25,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "71cg2",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ofdr",
+            "text": "用好WorkBuddy 的核心不是「会用每个按钮」，是知道每个功能选项背后意味着什么。界面会更新，按钮会变化，但「给 Agent 派活」这件事的逻辑是稳定的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eile4",
+            "text": "对WorkBuddy感兴趣的朋友可以蹲一下这个系列的文章，大鹏只做深度实践类的文章。",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "entityKey": "c6860593-bb40-4f2e-94f7-07d0631e7ada",
+                "mediaItems": [
+                  {
+                    "localMediaId": "26",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074412873066184705"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "entityKey": "7ba31ea9-4336-44cd-9158-99a3631e4e8c",
+                "mediaItems": [
+                  {
+                    "localMediaId": "18",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074412173636595712"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "19",
+            "value": {
+              "data": {
+                "entityKey": "4f2ddefb-a5cf-4d17-b15b-e00f90ff3a05",
+                "mediaItems": [
+                  {
+                    "localMediaId": "38",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074413760035647488"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "23",
+            "value": {
+              "data": {
+                "entityKey": "0c474dcb-b043-4a35-89ce-4f41be5687e8",
+                "mediaItems": [
+                  {
+                    "localMediaId": "46",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074414231949303808"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "4aac6082-32cf-4450-bb6d-fbd7a8e6f0cd",
+                "mediaItems": [
+                  {
+                    "localMediaId": "29",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074417762240438272"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "entityKey": "1da1e805-1011-4978-b140-03c539c32728",
+                "mediaItems": [
+                  {
+                    "localMediaId": "30",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074413209466142720"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "entityKey": "8f2ca0c9-e463-4c8c-9e66-aec401394f24",
+                "mediaItems": [
+                  {
+                    "localMediaId": "24",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074412692643921920"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "entityKey": "85150b41-288d-400a-ae90-c22645455326",
+                "mediaItems": [
+                  {
+                    "localMediaId": "20",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074412296793952256"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "22",
+            "value": {
+              "data": {
+                "entityKey": "e8a8a0db-755f-4e04-b485-17484c5c7212",
+                "mediaItems": [
+                  {
+                    "localMediaId": "44",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074414125074288640"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/2795.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "24",
+            "value": {
+              "data": {
+                "entityKey": "42083672-e141-41ab-b44e-c1e005fd2490",
+                "mediaItems": [
+                  {
+                    "localMediaId": "48",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074414341890449408"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "entityKey": "85c946f3-c91b-4a6e-844d-4fbaa7dc7f5e",
+                "mediaItems": [
+                  {
+                    "localMediaId": "32",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074413357734735872"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "entityKey": "8337ef5b-bc91-454e-a7bc-ecf42c6d45bb",
+                "mediaItems": [
+                  {
+                    "localMediaId": "12",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074411710463840256"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "entityKey": "ecfefd1d-f92c-4849-9958-97c2df5ffda7",
+                "mediaItems": [
+                  {
+                    "localMediaId": "22",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074412456043335680"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "21",
+            "value": {
+              "data": {
+                "entityKey": "93bf10be-9790-4c82-84d9-22b20f346e9f",
+                "mediaItems": [
+                  {
+                    "localMediaId": "42",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074414016462716928"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "entityKey": "fe451061-39e6-42de-a550-0119fa48f93e",
+                "mediaItems": [
+                  {
+                    "localMediaId": "14",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074411875425832960"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "9641066f-443e-4562-b0c1-4d03ad32f0f3",
+                "mediaItems": [
+                  {
+                    "localMediaId": "4",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074410879203041280"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {
+                "entityKey": "720138a9-6fdd-4a0a-85b5-067439885856",
+                "mediaItems": [
+                  {
+                    "localMediaId": "34",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074413491705020416"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "25",
+            "value": {
+              "data": {
+                "entityKey": "319078f9-31eb-4731-a72e-59e8a90ec1cf",
+                "mediaItems": [
+                  {
+                    "localMediaId": "50",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074414443921117184"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "entityKey": "2ae3c6be-cfb8-47d5-be22-4623f64d07ba",
+                "mediaItems": [
+                  {
+                    "localMediaId": "28",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074413027693367296"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "b249183c-4124-484e-8685-53aa601fb35e",
+                "mediaItems": [
+                  {
+                    "localMediaId": "2",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074410746482716672"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "20",
+            "value": {
+              "data": {
+                "entityKey": "100202f7-c69b-47cb-abdc-a818ec5ffc4d",
+                "mediaItems": [
+                  {
+                    "localMediaId": "40",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074413885231374336"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "e72afc55-48b0-461c-92a4-01afbf84c506",
+                "mediaItems": [
+                  {
+                    "localMediaId": "6",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074411121281548288"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "18",
+            "value": {
+              "data": {
+                "entityKey": "f649c359-dabd-4c9c-be71-95190cf9a845",
+                "mediaItems": [
+                  {
+                    "localMediaId": "36",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074413643454984192"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "entityKey": "893e0ec5-13f5-421b-9320-7485262fc4aa",
+                "mediaItems": [
+                  {
+                    "localMediaId": "16",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074412019886047232"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "95efaab7-8730-4b5e-ad3e-78bb0f03c00c",
+                "mediaItems": [
+                  {
+                    "localMediaId": "8",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074411365239070720"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnLI1gb0AAKAAIaQxkti9tQAAAA",
+          "media_id": "2074412456043335680",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.76,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 1.53,
+                  "rgb": {
+                    "blue": 220,
+                    "green": 242,
+                    "red": 223
+                  }
+                },
+                {
+                  "percentage": 1.31,
+                  "rgb": {
+                    "blue": 108,
+                    "green": 108,
+                    "red": 109
+                  }
+                },
+                {
+                  "percentage": 0.69,
+                  "rgb": {
+                    "blue": 169,
+                    "green": 168,
+                    "red": 241
+                  }
+                },
+                {
+                  "percentage": 0.29,
+                  "rgb": {
+                    "blue": 174,
+                    "green": 232,
+                    "red": 181
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1941,
+            "original_img_url": "https://pbs.twimg.com/media/HMnLI1gb0AANDoY.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074412456043335680"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnKJV8boAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074411365239070720",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 72.46,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 249,
+                    "red": 249
+                  }
+                },
+                {
+                  "percentage": 27.29,
+                  "rgb": {
+                    "blue": 102,
+                    "green": 102,
+                    "red": 102
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2365,
+            "original_img_url": "https://pbs.twimg.com/media/HMnKJV8boAAPT1e.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074411365239070720"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnMFHpbAAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074413491705020416",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.76,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1661,
+            "original_img_url": "https://pbs.twimg.com/media/HMnMFHpbAAAVW-U.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074413491705020416"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnLqHEbEAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074413027693367296",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.57,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 0.15,
+                  "rgb": {
+                    "blue": 251,
+                    "green": 214,
+                    "red": 181
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 210,
+                    "green": 229,
+                    "red": 191
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2242,
+            "original_img_url": "https://pbs.twimg.com/media/HMnLqHEbEAA9f1W.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074413027693367296"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnLhHCbgAEKAAIaQxkti9tQAAAA",
+          "media_id": "2074412873066184705",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.33,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 1.47,
+                  "rgb": {
+                    "blue": 123,
+                    "green": 123,
+                    "red": 123
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1912,
+            "original_img_url": "https://pbs.twimg.com/media/HMnLhHCbgAEXH-S.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074412873066184705"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnMp/IbEAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074414125074288640",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 93.68,
+                  "rgb": {
+                    "blue": 226,
+                    "green": 240,
+                    "red": 248
+                  }
+                },
+                {
+                  "percentage": 4.42,
+                  "rgb": {
+                    "blue": 110,
+                    "green": 123,
+                    "red": 124
+                  }
+                },
+                {
+                  "percentage": 0.87,
+                  "rgb": {
+                    "blue": 86,
+                    "green": 70,
+                    "red": 43
+                  }
+                },
+                {
+                  "percentage": 0.65,
+                  "rgb": {
+                    "blue": 97,
+                    "green": 133,
+                    "red": 193
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1884,
+            "original_img_url": "https://pbs.twimg.com/media/HMnMp_IbEAAaDMI.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074414125074288640"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnMN89bsAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074413643454984192",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 91.57,
+                  "rgb": {
+                    "blue": 233,
+                    "green": 234,
+                    "red": 243
+                  }
+                },
+                {
+                  "percentage": 3.88,
+                  "rgb": {
+                    "blue": 103,
+                    "green": 128,
+                    "red": 139
+                  }
+                },
+                {
+                  "percentage": 2.65,
+                  "rgb": {
+                    "blue": 151,
+                    "green": 191,
+                    "red": 213
+                  }
+                },
+                {
+                  "percentage": 0.87,
+                  "rgb": {
+                    "blue": 90,
+                    "green": 72,
+                    "red": 34
+                  }
+                },
+                {
+                  "percentage": 0.53,
+                  "rgb": {
+                    "blue": 186,
+                    "green": 182,
+                    "red": 253
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2021,
+            "original_img_url": "https://pbs.twimg.com/media/HMnMN89bsAA7Sbt.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074413643454984192"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnJ7JIbQAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074411121281548288",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.53,
+                  "rgb": {
+                    "blue": 248,
+                    "green": 248,
+                    "red": 248
+                  }
+                },
+                {
+                  "percentage": 0.88,
+                  "rgb": {
+                    "blue": 147,
+                    "green": 177,
+                    "red": 136
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 72,
+                    "green": 60,
+                    "red": 56
+                  }
+                },
+                {
+                  "percentage": 0.1,
+                  "rgb": {
+                    "blue": 195,
+                    "green": 194,
+                    "red": 220
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2461,
+            "original_img_url": "https://pbs.twimg.com/media/HMnJ7JIbQAAXcdf.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074411121281548288"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnK/kQbEAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074412296793952256",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.12,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 1.62,
+                  "rgb": {
+                    "blue": 122,
+                    "green": 122,
+                    "red": 122
+                  }
+                },
+                {
+                  "percentage": 0.13,
+                  "rgb": {
+                    "blue": 247,
+                    "green": 202,
+                    "red": 180
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1416,
+            "original_img_url": "https://pbs.twimg.com/media/HMnK_kQbEAAyiqG.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074412296793952256"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnMwNRaYAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074414231949303808",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.59,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 0.24,
+                  "rgb": {
+                    "blue": 87,
+                    "green": 87,
+                    "red": 87
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2242,
+            "original_img_url": "https://pbs.twimg.com/media/HMnMwNRaYAAzbFx.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074414231949303808"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnMUvQbcAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074413760035647488",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.23,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 0.93,
+                  "rgb": {
+                    "blue": 200,
+                    "green": 221,
+                    "red": 236
+                  }
+                },
+                {
+                  "percentage": 0.35,
+                  "rgb": {
+                    "blue": 211,
+                    "green": 219,
+                    "red": 192
+                  }
+                },
+                {
+                  "percentage": 0.31,
+                  "rgb": {
+                    "blue": 242,
+                    "green": 199,
+                    "red": 202
+                  }
+                },
+                {
+                  "percentage": 0.17,
+                  "rgb": {
+                    "blue": 134,
+                    "green": 134,
+                    "red": 134
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2721,
+            "original_img_url": "https://pbs.twimg.com/media/HMnMUvQbcAAo2Gk.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074413760035647488"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnLWm6aQAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074412692643921920",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.69,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 0.96,
+                  "rgb": {
+                    "blue": 124,
+                    "green": 124,
+                    "red": 124
+                  }
+                },
+                {
+                  "percentage": 0.94,
+                  "rgb": {
+                    "blue": 166,
+                    "green": 162,
+                    "red": 246
+                  }
+                },
+                {
+                  "percentage": 0.75,
+                  "rgb": {
+                    "blue": 28,
+                    "green": 80,
+                    "red": 199
+                  }
+                },
+                {
+                  "percentage": 0.63,
+                  "rgb": {
+                    "blue": 188,
+                    "green": 170,
+                    "red": 161
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1584,
+            "original_img_url": "https://pbs.twimg.com/media/HMnLWm6aQAAcn1l.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074412692643921920"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnP9soaIAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074417762240438272",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.23,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 249,
+                    "red": 249
+                  }
+                },
+                {
+                  "percentage": 0.59,
+                  "rgb": {
+                    "blue": 120,
+                    "green": 120,
+                    "red": 120
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 199,
+                    "green": 219,
+                    "red": 131
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2142,
+            "original_img_url": "https://pbs.twimg.com/media/HMnP9soaIAAlnXk.jpg",
+            "original_img_width": 2938
+          },
+          "media_key": "3_2074417762240438272"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnMcBpaoAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074413885231374336",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.82,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 0.66,
+                  "rgb": {
+                    "blue": 115,
+                    "green": 115,
+                    "red": 115
+                  }
+                },
+                {
+                  "percentage": 0.29,
+                  "rgb": {
+                    "blue": 26,
+                    "green": 26,
+                    "red": 26
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2242,
+            "original_img_url": "https://pbs.twimg.com/media/HMnMcBpaoAAzDMd.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074413885231374336"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnJlU5a8AAKAAIaQxkti9tQAAAA",
+          "media_id": "2074410746482716672",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 94.74,
+                  "rgb": {
+                    "blue": 235,
+                    "green": 235,
+                    "red": 249
+                  }
+                },
+                {
+                  "percentage": 2.39,
+                  "rgb": {
+                    "blue": 67,
+                    "green": 63,
+                    "red": 55
+                  }
+                },
+                {
+                  "percentage": 0.61,
+                  "rgb": {
+                    "blue": 202,
+                    "green": 224,
+                    "red": 197
+                  }
+                },
+                {
+                  "percentage": 0.47,
+                  "rgb": {
+                    "blue": 121,
+                    "green": 138,
+                    "red": 148
+                  }
+                },
+                {
+                  "percentage": 0.15,
+                  "rgb": {
+                    "blue": 181,
+                    "green": 208,
+                    "red": 109
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2093,
+            "original_img_url": "https://pbs.twimg.com/media/HMnJlU5a8AAjfOU.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074410746482716672"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnJtDUaYAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074410879203041280",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 89.15,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 249,
+                    "red": 249
+                  }
+                },
+                {
+                  "percentage": 10.58,
+                  "rgb": {
+                    "blue": 102,
+                    "green": 102,
+                    "red": 102
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2386,
+            "original_img_url": "https://pbs.twimg.com/media/HMnJtDUaYAAvsiZ.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074410879203041280"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnKdcAbkAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074411710463840256",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 64.92,
+                  "rgb": {
+                    "blue": 224,
+                    "green": 243,
+                    "red": 248
+                  }
+                },
+                {
+                  "percentage": 31.08,
+                  "rgb": {
+                    "blue": 108,
+                    "green": 108,
+                    "red": 108
+                  }
+                },
+                {
+                  "percentage": 2.24,
+                  "rgb": {
+                    "blue": 109,
+                    "green": 127,
+                    "red": 133
+                  }
+                },
+                {
+                  "percentage": 0.28,
+                  "rgb": {
+                    "blue": 153,
+                    "green": 144,
+                    "red": 208
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2028,
+            "original_img_url": "https://pbs.twimg.com/media/HMnKdcAbkAAqAAN.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074411710463840256"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnM2m1bIAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074414341890449408",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.91,
+                  "rgb": {
+                    "blue": 248,
+                    "green": 248,
+                    "red": 248
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2242,
+            "original_img_url": "https://pbs.twimg.com/media/HMnM2m1bIAAgmuZ.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074414341890449408"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnMjqhaAAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074414016462716928",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 73.46,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 253,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 26,
+                  "rgb": {
+                    "blue": 98,
+                    "green": 98,
+                    "red": 98
+                  }
+                },
+                {
+                  "percentage": 0.12,
+                  "rgb": {
+                    "blue": 242,
+                    "green": 209,
+                    "red": 197
+                  }
+                },
+                {
+                  "percentage": 0.12,
+                  "rgb": {
+                    "blue": 233,
+                    "green": 221,
+                    "red": 207
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2086,
+            "original_img_url": "https://pbs.twimg.com/media/HMnMjqhaAAAQkKG.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074414016462716928"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnKnCib0AAKAAIaQxkti9tQAAAA",
+          "media_id": "2074411875425832960",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 77.27,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 253,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 22.66,
+                  "rgb": {
+                    "blue": 101,
+                    "green": 101,
+                    "red": 101
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2242,
+            "original_img_url": "https://pbs.twimg.com/media/HMnKnCib0AAqzjf.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074411875425832960"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnL0sObgAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074413209466142720",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.36,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 253,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 0.27,
+                  "rgb": {
+                    "blue": 182,
+                    "green": 181,
+                    "red": 243
+                  }
+                },
+                {
+                  "percentage": 0.21,
+                  "rgb": {
+                    "blue": 122,
+                    "green": 122,
+                    "red": 122
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 210,
+                    "green": 229,
+                    "red": 190
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2242,
+            "original_img_url": "https://pbs.twimg.com/media/HMnL0sObgAAfjRj.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074413209466142720"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnK4Zda8AAKAAIaQxkti9tQAAAA",
+          "media_id": "2074412173636595712",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.03,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 0.84,
+                  "rgb": {
+                    "blue": 114,
+                    "green": 114,
+                    "red": 114
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2470,
+            "original_img_url": "https://pbs.twimg.com/media/HMnK4Zda8AAiNt8.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074412173636595712"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnKvcsbwAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074412019886047232",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.14,
+                  "rgb": {
+                    "blue": 229,
+                    "green": 243,
+                    "red": 249
+                  }
+                },
+                {
+                  "percentage": 2.1,
+                  "rgb": {
+                    "blue": 81,
+                    "green": 73,
+                    "red": 60
+                  }
+                },
+                {
+                  "percentage": 1.36,
+                  "rgb": {
+                    "blue": 115,
+                    "green": 131,
+                    "red": 141
+                  }
+                },
+                {
+                  "percentage": 0.35,
+                  "rgb": {
+                    "blue": 145,
+                    "green": 176,
+                    "red": 214
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 48,
+                    "green": 84,
+                    "red": 145
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2098,
+            "original_img_url": "https://pbs.twimg.com/media/HMnKvcsbwAAp6FF.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074412019886047232"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnM8i7bkAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074414443921117184",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.41,
+                  "rgb": {
+                    "blue": 247,
+                    "green": 248,
+                    "red": 246
+                  }
+                },
+                {
+                  "percentage": 0.54,
+                  "rgb": {
+                    "blue": 213,
+                    "green": 212,
+                    "red": 247
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1930,
+            "original_img_url": "https://pbs.twimg.com/media/HMnM8i7bkAA0qzB.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074414443921117184"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnL9UkasAAKAAIaQxkti9tQAAAA",
+          "media_id": "2074413357734735872",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 50.06,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 49.72,
+                  "rgb": {
+                    "blue": 97,
+                    "green": 97,
+                    "red": 97
+                  }
+                },
+                {
+                  "percentage": 0.13,
+                  "rgb": {
+                    "blue": 148,
+                    "green": 188,
+                    "red": 116
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1661,
+            "original_img_url": "https://pbs.twimg.com/media/HMnL9UkasAAm5It.jpg",
+            "original_img_width": 1600
+          },
+          "media_key": "3_2074413357734735872"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/ForwardEditor/status/2083162509692076153",
+    "id": "2083162509692076153",
+    "text": "codex tip: 🌕Luna has its BEST mode hidden by default. Go to Settings -> Configuration -> turn on Max.\n\nCongratulations, you just unlocked the world's best model today",
+    "raw_text": {
+      "text": "codex tip: 🌕Luna has its BEST mode hidden by default. Go to Settings -&gt; Configuration -&gt; turn on Max.\n\nCongratulations, you just unlocked the world's best model today https://t.co/DV57gQEbMx",
+      "display_text_range": [
+        0,
+        172
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            173,
+            196
+          ],
+          "id": "2083085570897494016",
+          "display": "pic.x.com/DV57gQEbMx",
+          "original": "https://t.co/DV57gQEbMx",
+          "replacement": "https://x.com/ForwardEditor/status/2083162509692076153/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "ForwardEditor",
+      "url": "https://x.com/ForwardEditor",
+      "id": "2008264275178250240",
+      "followers": 8010,
+      "following": 1163,
+      "likes": 6919,
+      "media_count": 276,
+      "name": "Forward Future Brian",
+      "description": "Obsessed with making perfect videos.\n\nhttp://modelrumor.com\nEditor for @matthewberman EX: Red Bull",
+      "raw_description": {
+        "text": "Obsessed with making perfect videos.\n\nhttps://t.co/AGUXhcHnOw\nEditor for @matthewberman EX: Red Bull",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              38,
+              61
+            ],
+            "original": "https://t.co/AGUXhcHnOw",
+            "replacement": "http://modelrumor.com",
+            "display": "modelrumor.com"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2008264275178250240/1772777572",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2029801903832363008/q7tubSuK_200x200.jpg",
+      "joined": "Mon Jan 05 19:48:24 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "http://www.futurebrian.com",
+        "display_url": "futurebrian.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 102,
+    "retweets": 131,
+    "likes": 2431,
+    "bookmarks": 1871,
+    "quotes": 34,
+    "created_at": "Fri Jul 31 12:07:00 +0000 2026",
+    "created_timestamp": 1785499620,
+    "possibly_sensitive": false,
+    "views": 712059,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2083085570897494016",
+          "url": "https://pbs.twimg.com/media/HOibSkIWQAA-pP5.png?name=orig",
+          "width": 337,
+          "height": 276
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2083085570897494016",
+          "url": "https://pbs.twimg.com/media/HOibSkIWQAA-pP5.png?name=orig",
+          "width": 337,
+          "height": 276
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

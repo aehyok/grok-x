@@ -1,0 +1,355 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/thsottiaux/status/2085432978856083964",
+    "id": "2085432978856083964",
+    "text": "Agent Plugins. A standard for (most) of your agents out there, including Codex and ChatGPT.",
+    "raw_text": {
+      "text": "Agent Plugins. A standard for (most) of your agents out there, including Codex and ChatGPT.",
+      "display_text_range": [
+        0,
+        91
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "thsottiaux",
+      "url": "https://x.com/thsottiaux",
+      "id": "1953337039510003712",
+      "followers": 409574,
+      "following": 70,
+      "likes": 8978,
+      "media_count": 118,
+      "name": "Tibo",
+      "description": "Codex & ChatGPT @OpenAI",
+      "raw_description": {
+        "text": "Codex & ChatGPT @OpenAI",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2075819673263001600/pj1vyX6I_200x200.jpg",
+      "joined": "Thu Aug 07 06:07:07 +0000 2025",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 533,
+    "retweets": 89,
+    "likes": 2554,
+    "bookmarks": 598,
+    "quotes": 25,
+    "created_at": "Thu Aug 06 18:29:02 +0000 2026",
+    "created_timestamp": 1786040942,
+    "views": 396069,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/OpenAIDevs/status/2085398373511918022",
+      "id": "2085398373511918022",
+      "text": "Build a plugin once and use it across compatible agent clients.\n\nIntroducing Agent Plugins, an open standard developed with @awsdevelopers, @cursor_ai, @github, @code, and @vercel that packages Agent Skills and supports MCP server configurations in a shared format.",
+      "raw_text": {
+        "text": "Build a plugin once and use it across compatible agent clients.\n\nIntroducing Agent Plugins, an open standard developed with @awsdevelopers, @cursor_ai, @github, @code, and @vercel that packages Agent Skills and supports MCP server configurations in a shared format. https://t.co/JOQe4sc40N",
+        "display_text_range": [
+          0,
+          265
+        ],
+        "facets": [
+          {
+            "type": "mention",
+            "indices": [
+              124,
+              138
+            ],
+            "original": "awsdevelopers",
+            "id": "1402745460205391873"
+          },
+          {
+            "type": "mention",
+            "indices": [
+              140,
+              150
+            ],
+            "original": "cursor_ai",
+            "id": "1695890961094909952"
+          },
+          {
+            "type": "mention",
+            "indices": [
+              152,
+              159
+            ],
+            "original": "github",
+            "id": "13334762"
+          },
+          {
+            "type": "mention",
+            "indices": [
+              161,
+              166
+            ],
+            "original": "code",
+            "id": "3167734591"
+          },
+          {
+            "type": "mention",
+            "indices": [
+              172,
+              179
+            ],
+            "original": "vercel",
+            "id": "4686835494"
+          },
+          {
+            "type": "media",
+            "indices": [
+              266,
+              289
+            ],
+            "id": "2085398091726041088",
+            "display": "pic.x.com/JOQe4sc40N",
+            "original": "https://t.co/JOQe4sc40N",
+            "replacement": "https://x.com/OpenAIDevs/status/2085398373511918022/video/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "OpenAIDevs",
+        "url": "https://x.com/OpenAIDevs",
+        "id": "1633874951508721686",
+        "followers": 389749,
+        "following": 1,
+        "likes": 3310,
+        "media_count": 472,
+        "name": "OpenAI Developers",
+        "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://status.openai.com",
+        "raw_description": {
+          "text": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                92,
+                115
+              ],
+              "original": "https://t.co/kZwnwdYYEq",
+              "replacement": "https://status.openai.com",
+              "display": "status.openai.com"
+            }
+          ]
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1633874951508721686/1769809873",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_200x200.jpg",
+        "joined": "Thu Mar 09 16:58:51 +0000 2023",
+        "protected": false,
+        "website": {
+          "url": "https://developers.openai.com",
+          "display_url": "developers.openai.com"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "organization"
+        },
+        "avatar_color": null
+      },
+      "replies": 272,
+      "retweets": 511,
+      "likes": 5971,
+      "bookmarks": 3553,
+      "quotes": 325,
+      "created_at": "Thu Aug 06 16:11:31 +0000 2026",
+      "created_timestamp": 1786032691,
+      "possibly_sensitive": false,
+      "views": 1600509,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "id": "2085398091726041088",
+            "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/3840x2160/NuKUPY4GQNRZE2bu.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2085398091726041088/img/_ewlc6Y9cjX6GZnN.jpg",
+            "duration": 95.095,
+            "width": 3840,
+            "height": 2160,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/pl/D4h1aBQpS3kwpnP1.m3u8?tag=29&v=6b3",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/480x270/d9QVIht5M3CrdS2h.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/640x360/R7e3GsBm74G0p2-c.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/1280x720/LqBCl1fCitMcbgbu.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/1920x1080/pDAcTYHH4xHj3fgr.mp4?tag=29",
+                "bitrate": 10368000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/3840x2160/NuKUPY4GQNRZE2bu.mp4?tag=29",
+                "bitrate": 25128000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/pl/D4h1aBQpS3kwpnP1.m3u8?tag=29&v=6b3",
+                "bitrate": 0,
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/480x270/d9QVIht5M3CrdS2h.mp4?tag=29",
+                "bitrate": 256000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/640x360/R7e3GsBm74G0p2-c.mp4?tag=29",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/1280x720/LqBCl1fCitMcbgbu.mp4?tag=29",
+                "bitrate": 2176000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/1920x1080/pDAcTYHH4xHj3fgr.mp4?tag=29",
+                "bitrate": 10368000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/3840x2160/NuKUPY4GQNRZE2bu.mp4?tag=29",
+                "bitrate": 25128000,
+                "content_type": "video/mp4"
+              }
+            ]
+          }
+        ],
+        "videos": [
+          {
+            "id": "2085398091726041088",
+            "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/3840x2160/NuKUPY4GQNRZE2bu.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2085398091726041088/img/_ewlc6Y9cjX6GZnN.jpg",
+            "duration": 95.095,
+            "width": 3840,
+            "height": 2160,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/pl/D4h1aBQpS3kwpnP1.m3u8?tag=29&v=6b3",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/480x270/d9QVIht5M3CrdS2h.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/640x360/R7e3GsBm74G0p2-c.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/1280x720/LqBCl1fCitMcbgbu.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/1920x1080/pDAcTYHH4xHj3fgr.mp4?tag=29",
+                "bitrate": 10368000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/3840x2160/NuKUPY4GQNRZE2bu.mp4?tag=29",
+                "bitrate": 25128000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/pl/D4h1aBQpS3kwpnP1.m3u8?tag=29&v=6b3",
+                "bitrate": 0,
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/480x270/d9QVIht5M3CrdS2h.mp4?tag=29",
+                "bitrate": 256000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/640x360/R7e3GsBm74G0p2-c.mp4?tag=29",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/1280x720/LqBCl1fCitMcbgbu.mp4?tag=29",
+                "bitrate": 2176000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/1920x1080/pDAcTYHH4xHj3fgr.mp4?tag=29",
+                "bitrate": 10368000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2085398091726041088/vid/avc1/3840x2160/NuKUPY4GQNRZE2bu.mp4?tag=29",
+                "bitrate": 25128000,
+                "content_type": "video/mp4"
+              }
+            ]
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "player",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/PMbackttfuture/status/2085524457750462551",
+    "id": "2085524457750462551",
+    "text": "Codex/WorkBuddy都支持的Goal Skill！\n把一句模糊需求，变成自动运行可验收的长程任务！\n\n特别喜欢Codex的Goal模式\n参考了Codex官方指引+grill-me Skill后\n我把Goal模式封装成了一个Skill\n\n安装后你只需要在写完描述后 加一个goalgo\nAgent就会理解后，追加一些它还不清楚的问题\n然后自动整理成适配目标模式的详细提示词\n\n等你确认后自动打开目标模式全力干活！\n\n同时，我也基于WorkBuddy做了改造\n一样适用！",
+    "raw_text": {
+      "text": "Codex/WorkBuddy都支持的Goal Skill！\n把一句模糊需求，变成自动运行可验收的长程任务！\n\n特别喜欢Codex的Goal模式\n参考了Codex官方指引+grill-me Skill后\n我把Goal模式封装成了一个Skill\n\n安装后你只需要在写完描述后 加一个goalgo\nAgent就会理解后，追加一些它还不清楚的问题\n然后自动整理成适配目标模式的详细提示词\n\n等你确认后自动打开目标模式全力干活！\n\n同时，我也基于WorkBuddy做了改造\n一样适用！",
+      "display_text_range": [
+        0,
+        238
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            171,
+            194
+          ],
+          "id": "2085524422975217664",
+          "display": "pic.x.com/Uj8r5I4tWp",
+          "original": "https://t.co/Uj8r5I4tWp",
+          "replacement": "https://x.com/PMbackttfuture/status/2085524457750462551/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            171,
+            194
+          ],
+          "id": "2085524422950039552",
+          "display": "pic.x.com/Uj8r5I4tWp",
+          "original": "https://t.co/Uj8r5I4tWp",
+          "replacement": "https://x.com/PMbackttfuture/status/2085524457750462551/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "PMbackttfuture",
+      "url": "https://x.com/PMbackttfuture",
+      "id": "1717728951123025920",
+      "followers": 22132,
+      "following": 301,
+      "likes": 1744,
+      "media_count": 457,
+      "name": "AI产品黄叔",
+      "description": "两家公司AI产品顾问  Agent社团+系列课程：https://www.zhenganhuo.com/",
+      "raw_description": {
+        "text": "两家公司AI产品顾问  Agent社团+系列课程：https://t.co/TtGbuxT7Qg",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              25,
+              48
+            ],
+            "original": "https://t.co/TtGbuxT7Qg",
+            "replacement": "https://www.zhenganhuo.com/",
+            "display": "zhenganhuo.com"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1743267669124816896/wv6pXt1q_200x200.jpg",
+      "joined": "Fri Oct 27 02:24:41 +0000 2023",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 17,
+    "retweets": 6,
+    "likes": 42,
+    "bookmarks": 48,
+    "quotes": 0,
+    "created_at": "Fri Aug 07 00:32:32 +0000 2026",
+    "created_timestamp": 1786062752,
+    "possibly_sensitive": false,
+    "views": 3867,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085524422975217664",
+          "url": "https://pbs.twimg.com/media/HPFFacHW4AAUnzd.jpg?name=orig",
+          "width": 1898,
+          "height": 1752
+        },
+        {
+          "type": "photo",
+          "id": "2085524422950039552",
+          "url": "https://pbs.twimg.com/media/HPFFacBWsAA8ZdN.jpg?name=orig",
+          "width": 864,
+          "height": 1821
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085524422975217664",
+          "url": "https://pbs.twimg.com/media/HPFFacHW4AAUnzd.jpg?name=orig",
+          "width": 1898,
+          "height": 1752
+        },
+        {
+          "type": "photo",
+          "id": "2085524422950039552",
+          "url": "https://pbs.twimg.com/media/HPFFacBWsAA8ZdN.jpg?name=orig",
+          "width": 864,
+          "height": 1821
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2085524457750462551/HPFFacHW4AAUnzd/HPFFacBWsAA8ZdN",
+          "webp": "https://mosaic.fxtwitter.com/webp/2085524457750462551/HPFFacHW4AAUnzd/HPFFacBWsAA8ZdN"
+        }
+      }
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

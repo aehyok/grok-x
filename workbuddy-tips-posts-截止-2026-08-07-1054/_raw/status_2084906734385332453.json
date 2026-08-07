@@ -1,0 +1,118 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/WorkBuddy_AI/status/2084906734385332453",
+    "id": "2084906734385332453",
+    "text": "Consider this your August productivity upgrade ✨\n\nHy3 from @TencentHunyuan  is now free to use in WorkBuddy Global through August 31, 2026 (PT).\n\nBring your backlog, your half-finished deck, or that task you’ve been putting off.",
+    "raw_text": {
+      "text": "Consider this your August productivity upgrade ✨\n\nHy3 from @TencentHunyuan  is now free to use in WorkBuddy Global through August 31, 2026 (PT).\n\nBring your backlog, your half-finished deck, or that task you’ve been putting off. https://t.co/HXSz3SXU7I",
+      "display_text_range": [
+        0,
+        228
+      ],
+      "facets": [
+        {
+          "type": "mention",
+          "indices": [
+            59,
+            74
+          ],
+          "original": "TencentHunyuan",
+          "id": "1810933558703493120"
+        },
+        {
+          "type": "media",
+          "indices": [
+            229,
+            252
+          ],
+          "id": "2084904254096228352",
+          "display": "pic.x.com/HXSz3SXU7I",
+          "original": "https://t.co/HXSz3SXU7I",
+          "replacement": "https://x.com/WorkBuddy_AI/status/2084906734385332453/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "WorkBuddy_AI",
+      "url": "https://x.com/WorkBuddy_AI",
+      "id": "2058822381167398912",
+      "followers": 4110,
+      "following": 6,
+      "likes": 90,
+      "media_count": 43,
+      "name": "WorkBuddy",
+      "description": "An AI-native agent designed for everyday office professionals.\nJoin our Discord: https://discord.gg/5455FPe78Z",
+      "raw_description": {
+        "text": "An AI-native agent designed for everyday office professionals.\nJoin our Discord: https://t.co/FJ6oCYPBJk",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              81,
+              104
+            ],
+            "original": "https://t.co/FJ6oCYPBJk",
+            "replacement": "https://discord.gg/5455FPe78Z",
+            "display": "discord.gg/5455FPe78Z"
+          }
+        ]
+      },
+      "location": "Singapore",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2058822381167398912/1779704931",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2058853956714164224/SkCh2A3G_200x200.jpg",
+      "joined": "Mon May 25 08:08:01 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "http://Workbuddy.ai",
+        "display_url": "Workbuddy.ai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 12,
+    "retweets": 6,
+    "likes": 64,
+    "bookmarks": 20,
+    "quotes": 8,
+    "created_at": "Wed Aug 05 07:37:55 +0000 2026",
+    "created_timestamp": 1785915475,
+    "possibly_sensitive": false,
+    "views": 9994,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2084904254096228352",
+          "url": "https://pbs.twimg.com/media/HO8RX3AbQAAHMbB.jpg?name=orig",
+          "width": 1672,
+          "height": 941
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2084904254096228352",
+          "url": "https://pbs.twimg.com/media/HO8RX3AbQAAHMbB.jpg?name=orig",
+          "width": 1672,
+          "height": 941
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/TencentAI_News/status/2084835629213577720",
+    "id": "2084835629213577720",
+    "text": "A month after we shipped Hy3, the more interesting question became where you can actually use it  \n\nMore entry points live now:  \n>WorkBuddy, our agent workspace. In internal evals at tencent, Hy3 delivered a task success rate above 90% and cut average task time by 34% over the previous Hy model. Grab it at http://workbuddy.ai \n>Miora, our creative studio, Hy3 handling reasoning across multi-agent design work\n >TokenHub, Tencent Cloud's MaaS platform, with routing across Hy3 and other models\n \nMore of the Tencent Cloud AI-native stack is next, and the API and open weights aren't going anywhere\n\nwhat's the touchpoint you'd want to see Hy3 in next?",
+    "raw_text": {
+      "text": "A month after we shipped Hy3, the more interesting question became where you can actually use it  \n\nMore entry points live now:  \n>WorkBuddy, our agent workspace. In internal evals at tencent, Hy3 delivered a task success rate above 90% and cut average task time by 34% over the previous Hy model. Grab it at https://t.co/xtD9QP3Tta \n>Miora, our creative studio, Hy3 handling reasoning across multi-agent design work\n >TokenHub, Tencent Cloud's MaaS platform, with routing across Hy3 and other models\n \nMore of the Tencent Cloud AI-native stack is next, and the API and open weights aren't going anywhere\n\nwhat's the touchpoint you'd want to see Hy3 in next?",
+      "display_text_range": [
+        0,
+        658
+      ],
+      "facets": [
+        {
+          "type": "bold",
+          "indices": [
+            100,
+            129
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            131,
+            142
+          ]
+        },
+        {
+          "type": "media",
+          "indices": [
+            282,
+            305
+          ],
+          "id": "2084835462628413440",
+          "display": "pic.x.com/S3nTFf4SFq",
+          "original": "https://t.co/S3nTFf4SFq",
+          "replacement": "https://x.com/TencentAI_News/status/2084835629213577720/photo/1"
+        },
+        {
+          "type": "url",
+          "indices": [
+            309,
+            332
+          ],
+          "original": "https://t.co/xtD9QP3Tta",
+          "replacement": "http://workbuddy.ai",
+          "display": "workbuddy.ai"
+        },
+        {
+          "type": "bold",
+          "indices": [
+            335,
+            340
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            419,
+            427
+          ]
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "TencentAI_News",
+      "url": "https://x.com/TencentAI_News",
+      "id": "2000391102923481088",
+      "followers": 16578,
+      "following": 86,
+      "likes": 145,
+      "media_count": 177,
+      "name": "Tencent AI",
+      "description": "The official @Tencentglobal newsroom for AI updates and developer resources.",
+      "raw_description": {
+        "text": "The official @Tencentglobal newsroom for AI updates and developer resources.",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2003780428591960064/H6DEq1-G_200x200.jpg",
+      "joined": "Mon Dec 15 02:23:19 +0000 2025",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 9,
+    "retweets": 73,
+    "likes": 132,
+    "bookmarks": 136,
+    "quotes": 38,
+    "created_at": "Wed Aug 05 02:55:23 +0000 2026",
+    "created_timestamp": 1785898523,
+    "possibly_sensitive": false,
+    "views": 225927,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2084835462628413440",
+          "url": "https://pbs.twimg.com/media/HO7Szq0akAAzTCv.jpg?name=orig",
+          "width": 1974,
+          "height": 1120
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2084835462628413440",
+          "url": "https://pbs.twimg.com/media/HO7Szq0akAAzTCv.jpg?name=orig",
+          "width": 1974,
+          "height": 1120
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

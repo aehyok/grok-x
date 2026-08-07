@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/ai_xiaomu/status/2085294198774022252",
+    "id": "2085294198774022252",
+    "text": "workbuddy一打开一大堆的icon砸脸上这种体验真的好吗？好的skill应该是无感知自动调用的吧？",
+    "raw_text": {
+      "text": "workbuddy一打开一大堆的icon砸脸上这种体验真的好吗？好的skill应该是无感知自动调用的吧？ https://t.co/TFYrl96xec",
+      "display_text_range": [
+        0,
+        52
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            53,
+            76
+          ],
+          "id": "2085294052589932545",
+          "display": "pic.x.com/TFYrl96xec",
+          "original": "https://t.co/TFYrl96xec",
+          "replacement": "https://x.com/ai_xiaomu/status/2085294198774022252/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "ai_xiaomu",
+      "url": "https://x.com/ai_xiaomu",
+      "id": "885347162233610242",
+      "followers": 40704,
+      "following": 656,
+      "likes": 6455,
+      "media_count": 1308,
+      "name": "黄小木",
+      "description": "- 前大厂T11，来X记录OPC走的弯路。\n- 踩坑FDE中:  培训 & 知识库 & GEO。\n- 企业ai赋能 & OPC群 & 咨询，联系👇",
+      "raw_description": {
+        "text": "- 前大厂T11，来X记录OPC走的弯路。\n- 踩坑FDE中:  培训 & 知识库 & GEO。\n- 企业ai赋能 & OPC群 & 咨询，联系👇",
+        "facets": []
+      },
+      "location": "深圳",
+      "banner_url": "https://pbs.twimg.com/profile_banners/885347162233610242/1775030769",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2076716603392323584/v9BMuoo__200x200.jpg",
+      "joined": "Thu Jul 13 03:56:27 +0000 2017",
+      "protected": false,
+      "website": {
+        "url": "https://my.feishu.cn/wiki/OLq5wsLUti49vpkctPzcrPKOnme",
+        "display_url": "my.feishu.cn/wiki/OLq5wsLUt…"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 51,
+    "retweets": 0,
+    "likes": 18,
+    "bookmarks": 10,
+    "quotes": 0,
+    "created_at": "Thu Aug 06 09:17:34 +0000 2026",
+    "created_timestamp": 1786007854,
+    "possibly_sensitive": false,
+    "views": 18180,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085294052589932545",
+          "url": "https://pbs.twimg.com/media/HPBz5HjbkAEdT4D.jpg?name=orig",
+          "width": 1996,
+          "height": 1280
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085294052589932545",
+          "url": "https://pbs.twimg.com/media/HPBz5HjbkAEdT4D.jpg?name=orig",
+          "width": 1996,
+          "height": 1280
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

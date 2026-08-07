@@ -1,0 +1,895 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Sirilee2026/status/2083033279192875298",
+    "id": "2083033279192875298",
+    "text": "听说workbuddy很厉害，于是我尝试直接丢给它15段跳舞视频让它帮忙剪辑拼接。结果....",
+    "raw_text": {
+      "text": "听说workbuddy很厉害，于是我尝试直接丢给它15段跳舞视频让它帮忙剪辑拼接。结果.... https://t.co/9UVCaLVoOo",
+      "display_text_range": [
+        0,
+        71
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "Sirilee2026",
+      "url": "https://x.com/Sirilee2026",
+      "id": "2049481608110153729",
+      "followers": 73,
+      "following": 38,
+      "likes": 73,
+      "media_count": 37,
+      "name": "AI求道者Siri",
+      "description": "AI提示词工程师 丨阿里AI赛事亚军得主丨字节AI赛事先锋奖得主\nAI类人化研究者丨AI创客丨AI讲师丨AI视频创作者丨AI博主(全网粉丝1万+）\n注册评审专家丨副高级职称丨高级项目管理师丨硕士\n持续分享高质量提示词、AI技能与可落地干货",
+      "raw_description": {
+        "text": "AI提示词工程师 丨阿里AI赛事亚军得主丨字节AI赛事先锋奖得主\nAI类人化研究者丨AI创客丨AI讲师丨AI视频创作者丨AI博主(全网粉丝1万+）\n注册评审专家丨副高级职称丨高级项目管理师丨硕士\n持续分享高质量提示词、AI技能与可落地干货",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2049481608110153729/1777473628",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2049484363197530113/grl3XdiN_200x200.jpg",
+      "joined": "Wed Apr 29 13:31:38 +0000 2026",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 3,
+    "retweets": 0,
+    "likes": 15,
+    "bookmarks": 14,
+    "quotes": 1,
+    "created_at": "Fri Jul 31 03:33:29 +0000 2026",
+    "created_timestamp": 1785468809,
+    "possibly_sensitive": false,
+    "views": 10064,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-07-31T03:33:29.000Z",
+      "modified_at": "2026-07-31T03:33:29.000Z",
+      "id": "2083027801922265088",
+      "title": "实测帖：让workbuddy剪辑视频居然是这样的结果？",
+      "preview_text": "听说workbuddy很厉害，于是我尝试直接丢给它15段跳舞视频让它帮忙剪辑拼接，这些视频里面有一些有静态画面或者其它问题，我在提示词里提醒了workBuddy：\n \n就让它自己玩去了，\n期间只是在它询问用哪个音乐的时候，",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOhrjXEbsAAKAAIccTip+RogAQAA",
+        "media_id": "2083033082891055104",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 24.25,
+                "rgb": {
+                  "blue": 27,
+                  "green": 205,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 14.29,
+                "rgb": {
+                  "blue": 29,
+                  "green": 66,
+                  "red": 234
+                }
+              },
+              {
+                "percentage": 11.83,
+                "rgb": {
+                  "blue": 17,
+                  "green": 23,
+                  "red": 28
+                }
+              },
+              {
+                "percentage": 10.03,
+                "rgb": {
+                  "blue": 71,
+                  "green": 155,
+                  "red": 52
+                }
+              },
+              {
+                "percentage": 9.42,
+                "rgb": {
+                  "blue": 224,
+                  "green": 246,
+                  "red": 249
+                }
+              }
+            ]
+          },
+          "original_img_height": 1280,
+          "original_img_url": "https://pbs.twimg.com/media/HOhrjXEbsAAbB8A.jpg",
+          "original_img_width": 3200
+        },
+        "media_key": "3_2083033082891055104"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 81,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "542gq",
+            "text": "听说workbuddy很厉害，于是我尝试直接丢给它15段跳舞视频让它帮忙剪辑拼接，这些视频里面有一些有静态画面或者其它问题，我在提示词里提醒了workBuddy：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "989l1",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b5krd",
+            "text": "就让它自己玩去了，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b69tg",
+            "text": "期间只是在它询问用哪个音乐的时候，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8ihl0",
+            "text": "丢给它一段AI原创音乐。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "er6cu",
+            "text": "然后，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "c8ha3",
+            "text": "我得到了这段卡点舞蹈混剪视频：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f7rne",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1jdaa",
+            "text": "咦，我感觉",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5slob",
+            "text": "它剪出来的效果也还不错啊！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8mc9m",
+            "text": "一共150秒的素材被剪成81.6秒的成片。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2degr",
+            "text": "关键是我自己不用动手剪辑，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6vvua",
+            "text": "那些静帧穿模硬伤都被剪掉了，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bogvm",
+            "text": "而且不同片段节奏也不同，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7pcqo",
+            "text": "音乐节奏也还对的上。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "91sgv",
+            "text": "挺智能的！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4q8s",
+            "text": "不过...",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dbe3c",
+            "text": "世界上的事情总是会有反转的，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c867f",
+            "text": "我想着剪辑都搞定了，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bhor7",
+            "text": "不如让workbuddy帮忙做件小事——去水印！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "132m7",
+            "text": "因为豆包的活动水印太难搞了，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "73qvc",
+            "text": "我也想偷个懒。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d1hc7",
+            "text": "然后，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ad8dr",
+            "text": "我就得到了这个视频：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5km51",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1pg5",
+            "text": "噗！哈哈哈哈哈哈哈！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dc00l",
+            "text": "workbuddy，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ahcbv",
+            "text": "你居然是这样的！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dq394",
+            "text": "没想到，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cr0ed",
+            "text": "没见过。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cf4no",
+            "text": "不过看过程记录，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fgl62",
+            "text": "可以看出，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1q0gj",
+            "text": "workbuddy已经很努力地在对付这个水印了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bim13",
+            "text": "只能怪豆包水印太反人类了！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1debs",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "36m2r",
+            "text": "通过这次实测，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "539fu",
+            "text": "我觉得workbuddy的规划和识别能力是不错的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "12d9j",
+            "text": "对付水印就差了一点，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a795k",
+            "text": "不过相信它很快能变得更强的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "500vb",
+            "text": "加油！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4jeut",
+            "text": "workbuddy！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 21,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3r72n",
+            "text": "通过这次好玩的测试，各位观众有什么感想吗？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "c6la3",
+            "text": "欢迎评论区留言哦！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 26,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "lr8f",
+            "text": "另外，这个舞蹈视频的完整提示词（由15段视频组成），",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4df1u",
+            "text": "我会每天在评论区放一段。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7tc6v",
+            "text": "喜欢的，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fp4ga",
+            "text": "欢迎关注哦！",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "0f916203-d909-4e03-9eef-af1eb9436326",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083028073591848960"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "c3893d84-aaca-4b79-a0d0-b083a13f8ed2",
+                "mediaItems": [
+                  {
+                    "localMediaId": "5",
+                    "mediaCategory": "AmplifyVideo",
+                    "mediaId": "2083028533358764032"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "fa66b239-531a-4d26-9bbd-c424c1f9df03",
+                "mediaItems": [
+                  {
+                    "localMediaId": "10",
+                    "mediaCategory": "AmplifyVideo",
+                    "mediaId": "2083030431960879104"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "5e6230e9-fc0f-44dd-adf8-d27685f8197a",
+                "mediaItems": [
+                  {
+                    "localMediaId": "13",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083031155444731904"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhm/x+bwAAKAAIccTip+RogAQAA",
+          "media_id": "2083028073591848960",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 93.71,
+                  "rgb": {
+                    "blue": 250,
+                    "green": 250,
+                    "red": 250
+                  }
+                },
+                {
+                  "percentage": 6.22,
+                  "rgb": {
+                    "blue": 134,
+                    "green": 134,
+                    "red": 134
+                  }
+                }
+              ]
+            },
+            "original_img_height": 386,
+            "original_img_url": "https://pbs.twimg.com/media/HOhm_x-bwAABYnf.png",
+            "original_img_width": 883
+          },
+          "media_key": "3_2083028073591848960"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAECgABHOhnaivaIAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2083028533358764032",
+          "media_info": {
+            "__typename": "ApiVideo",
+            "aspect_ratio": {
+              "denominator": 9,
+              "numerator": 16
+            },
+            "duration_millis": 96039,
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 62.08,
+                    "rgb": {
+                      "blue": 66,
+                      "green": 48,
+                      "red": 31
+                    }
+                  },
+                  {
+                    "percentage": 34.74,
+                    "rgb": {
+                      "blue": 157,
+                      "green": 127,
+                      "red": 105
+                    }
+                  },
+                  {
+                    "percentage": 1.57,
+                    "rgb": {
+                      "blue": 112,
+                      "green": 77,
+                      "red": 45
+                    }
+                  },
+                  {
+                    "percentage": 1.4,
+                    "rgb": {
+                      "blue": 226,
+                      "green": 205,
+                      "red": 183
+                    }
+                  },
+                  {
+                    "percentage": 0.12,
+                    "rgb": {
+                      "blue": 185,
+                      "green": 132,
+                      "red": 88
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 720,
+              "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2083028533358764032/img/Psss5x1hd39atSAc.jpg",
+              "original_img_width": 1280
+            },
+            "variants": [
+              {
+                "bit_rate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083028533358764032/vid/avc1/480x270/ZWkQ060BLlSABMeS.mp4?tag=29"
+              },
+              {
+                "bit_rate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083028533358764032/vid/avc1/640x360/7I3QAliqhInlV820.mp4?tag=29"
+              },
+              {
+                "bit_rate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083028533358764032/vid/avc1/1280x720/8CYiayHO9ilQIZ5t.mp4?tag=29"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2083028533358764032/pl/qyv66EKQF_EJye9o.m3u8?tag=29"
+              }
+            ]
+          },
+          "media_key": "13_2083028533358764032"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAECgABHOhpJDlbUAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2083030431960879104",
+          "media_info": {
+            "__typename": "ApiVideo",
+            "aspect_ratio": {
+              "denominator": 9,
+              "numerator": 16
+            },
+            "duration_millis": 96085,
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 62.55,
+                    "rgb": {
+                      "blue": 69,
+                      "green": 50,
+                      "red": 32
+                    }
+                  },
+                  {
+                    "percentage": 34.41,
+                    "rgb": {
+                      "blue": 157,
+                      "green": 127,
+                      "red": 103
+                    }
+                  },
+                  {
+                    "percentage": 1.61,
+                    "rgb": {
+                      "blue": 112,
+                      "green": 77,
+                      "red": 44
+                    }
+                  },
+                  {
+                    "percentage": 1.35,
+                    "rgb": {
+                      "blue": 229,
+                      "green": 207,
+                      "red": 187
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 720,
+              "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2083030431960879104/img/bL3uwg9ko0U40DNe.jpg",
+              "original_img_width": 1280
+            },
+            "variants": [
+              {
+                "bit_rate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083030431960879104/vid/avc1/480x270/SZEqXjrV5QvVhK14.mp4?tag=29"
+              },
+              {
+                "bit_rate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083030431960879104/vid/avc1/640x360/-golmNrcG1NgF4oM.mp4?tag=29"
+              },
+              {
+                "bit_rate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083030431960879104/vid/avc1/1280x720/Xe2_QpiN0GX_jajm.mp4?tag=29"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2083030431960879104/pl/tjsXNNbNl8t13lgx.m3u8?tag=29"
+              }
+            ]
+          },
+          "media_key": "13_2083030431960879104"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOhpzKxa0AAKAAIccTip+RogAQAA",
+          "media_id": "2083031155444731904",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.93,
+                  "rgb": {
+                    "blue": 250,
+                    "green": 250,
+                    "red": 250
+                  }
+                },
+                {
+                  "percentage": 6.96,
+                  "rgb": {
+                    "blue": 131,
+                    "green": 131,
+                    "red": 131
+                  }
+                },
+                {
+                  "percentage": 0.1,
+                  "rgb": {
+                    "blue": 53,
+                    "green": 53,
+                    "red": 53
+                  }
+                }
+              ]
+            },
+            "original_img_height": 471,
+            "original_img_url": "https://pbs.twimg.com/media/HOhpzKxa0AAy3J3.png",
+            "original_img_width": 905
+          },
+          "media_key": "3_2083031155444731904"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

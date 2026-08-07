@@ -1,0 +1,119 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/eternityspring/status/2085328009704493196",
+    "id": "2085328009704493196",
+    "text": "本地能跑 MiniMax H3 之后，都以为 AI 短剧的门槛天塌了\n\n真正去做才发现，要把小说改成剧本然后分镜制作就必须得先固定人物角色。\n\n我开源了一个 skill 专门来做这件事，Claude Code / Codex 都能跑：\n- 丢一本小说进去，AI 自动拆出每个角色：人物画像 + 卡通形象 prompt + 音色 prompt\n- 如果你装的有 codex cli 环境，还会调用 Codex 生成角色三视图\n- 一条命令 /novel-characters ./你的小说.txt 跑完\n\n走你当前订阅的额度，不用另配 API key。最终会生成一个 report 页面以供审阅\n\n项目地址：http://github.com/eternityspring/shuohao-skills\n\n欢迎感兴趣的朋友评论区交流。",
+    "raw_text": {
+      "text": "本地能跑 MiniMax H3 之后，都以为 AI 短剧的门槛天塌了\n\n真正去做才发现，要把小说改成剧本然后分镜制作就必须得先固定人物角色。\n\n我开源了一个 skill 专门来做这件事，Claude Code / Codex 都能跑：\n- 丢一本小说进去，AI 自动拆出每个角色：人物画像 + 卡通形象 prompt + 音色 prompt\n- 如果你装的有 codex cli 环境，还会调用 Codex 生成角色三视图\n- 一条命令 /novel-characters ./你的小说.txt 跑完\n\n走你当前订阅的额度，不用另配 API key。最终会生成一个 report 页面以供审阅\n\n项目地址：https://t.co/AwV9LsQBSH\n\n欢迎感兴趣的朋友评论区交流。",
+      "display_text_range": [
+        0,
+        342
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            173,
+            196
+          ],
+          "id": "2085314757318594561",
+          "display": "pic.x.com/n59heyrFK6",
+          "original": "https://t.co/n59heyrFK6",
+          "replacement": "https://x.com/eternityspring/status/2085328009704493196/photo/1"
+        },
+        {
+          "type": "url",
+          "indices": [
+            303,
+            326
+          ],
+          "original": "https://t.co/AwV9LsQBSH",
+          "replacement": "http://github.com/eternityspring/shuohao-skills",
+          "display": "github.com/eternityspring…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "eternityspring",
+      "url": "https://x.com/eternityspring",
+      "id": "2765417028",
+      "followers": 6151,
+      "following": 535,
+      "likes": 3088,
+      "media_count": 316,
+      "name": "烁皓",
+      "description": "AI 探索者 / 独立开发者\n数字资产：http://timesugar.com\n公众号「阿皓AI」",
+      "raw_description": {
+        "text": "AI 探索者 / 独立开发者\n数字资产：https://t.co/IifFFgWhdp\n公众号「阿皓AI」",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              20,
+              43
+            ],
+            "original": "https://t.co/IifFFgWhdp",
+            "replacement": "http://timesugar.com",
+            "display": "timesugar.com"
+          }
+        ]
+      },
+      "location": "Hubei",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2765417028/1780995156",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2064269397582385152/D2rjc6wa_200x200.jpg",
+      "joined": "Mon Aug 25 05:57:56 +0000 2014",
+      "protected": false,
+      "website": {
+        "url": "https://79px.com",
+        "display_url": "79px.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 38,
+    "retweets": 125,
+    "likes": 852,
+    "bookmarks": 1127,
+    "quotes": 4,
+    "created_at": "Thu Aug 06 11:31:55 +0000 2026",
+    "created_timestamp": 1786015915,
+    "possibly_sensitive": false,
+    "views": 43173,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085314757318594561",
+          "url": "https://pbs.twimg.com/media/HPCGuSra0AEubma.jpg?name=orig",
+          "width": 3590,
+          "height": 2174
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085314757318594561",
+          "url": "https://pbs.twimg.com/media/HPCGuSra0AEubma.jpg?name=orig",
+          "width": 3590,
+          "height": 2174
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

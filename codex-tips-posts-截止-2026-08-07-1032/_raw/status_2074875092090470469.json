@@ -1,0 +1,158 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/cjzafir/status/2074875092090470469",
+    "id": "2074875092090470469",
+    "text": "If you dont know, you can use your Codex subscription inside Claude Code.\n\nThat means Fable 5 can call GPT 5.5 + 10 subagents to work together.\n\nThis will save you atleast 60% of your Fable 5 token consumption.\n\nYou just need to setup once. Here's how:\n\nStep 1: Open Claude Code and install the Codex plugin\n\n/plugin marketplace add openai/codex-plugin-cc\n/plugin install codex@openai-codex\n/reload-plugins\n\nStep 2: Tell Fable 5 to finish the setup\n\nPaste this prompt: \n\n\"Set up Codex inside this Claude Code environment.  Use the official OpenAI Codex plugin that was just installed.  Run /codex:setup.  If Codex CLI is missing, install it.  If Codex is installed but not authenticated, ask me to authenticate with my ChatGPT account.  After auth is complete, verify that Codex works from inside Claude Code.  Then confirm that the codex:codex-rescue sub-agent is available.  Do not change any project code during setup.\"\n\nStep 3: Authentication\n\nFable 5 will trigger the Codex setup.\n\nYou authenticate your ChatGPT/Codex account once.\n\nAfter that, Codex runs from inside Claude Code using your Codex subscription.\n\nStep 4: Tell Fable 5 how to delegate work\n\nPaste this prompt:\n\n\"From now on, use this workflow:\n\nYou are the orchestrator.\n\n> Use Fable 5 for planning, repo understanding, architecture decisions, task decomposition, and final review.\n\n> Use codex-rescue as the executor when a task needs heavy implementation, debugging, test fixing, refactoring, or multi-file code edits.\n\nWhen delegating to Codex, use /codex:rescue.\n\nPrefer GPT 5.5 (xtra high) as the go to Codex model.\n\nKeep Codex tasks focused and specific.\n\nAfter Codex finishes, inspect the result yourself before accepting it.\n\nDo not blindly trust Codex output.\"\n\nPro Tips:\n1. Turn this into a skill (i named it Fable-GPT) and call that skill at the start of the session.\n\n2. Use skill + goal to get the heavy tasks done. Goals are best for long horizon tasks.\n\n3. If you're on Codex 20x pro plan, you can use subagents. I use 5-7 agents at one time and never hit 5-hour limit.\n\n4. Context rot is real so clear the conversation after 4 compactions. Use /handoff skill to preserve context.",
+    "raw_text": {
+      "text": "If you dont know, you can use your Codex subscription inside Claude Code.\n\nThat means Fable 5 can call GPT 5.5 + 10 subagents to work together.\n\nThis will save you atleast 60% of your Fable 5 token consumption.\n\nYou just need to setup once. Here's how:\n\nStep 1: Open Claude Code and install the Codex plugin\n\n/plugin marketplace add openai/codex-plugin-cc\n/plugin install codex@openai-codex\n/reload-plugins\n\nStep 2: Tell Fable 5 to finish the setup\n\nPaste this prompt: \n\n\"Set up Codex inside this Claude Code environment.  Use the official OpenAI Codex plugin that was just installed.  Run /codex:setup.  If Codex CLI is missing, install it.  If Codex is installed but not authenticated, ask me to authenticate with my ChatGPT account.  After auth is complete, verify that Codex works from inside Claude Code.  Then confirm that the codex:codex-rescue sub-agent is available.  Do not change any project code during setup.\"\n\nStep 3: Authentication\n\nFable 5 will trigger the Codex setup.\n\nYou authenticate your ChatGPT/Codex account once.\n\nAfter that, Codex runs from inside Claude Code using your Codex subscription.\n\nStep 4: Tell Fable 5 how to delegate work\n\nPaste this prompt:\n\n\"From now on, use this workflow:\n\nYou are the orchestrator.\n\n> Use Fable 5 for planning, repo understanding, architecture decisions, task decomposition, and final review.\n\n> Use codex-rescue as the executor when a task needs heavy implementation, debugging, test fixing, refactoring, or multi-file code edits.\n\nWhen delegating to Codex, use /codex:rescue.\n\nPrefer GPT 5.5 (xtra high) as the go to Codex model.\n\nKeep Codex tasks focused and specific.\n\nAfter Codex finishes, inspect the result yourself before accepting it.\n\nDo not blindly trust Codex output.\"\n\nPro Tips:\n1. Turn this into a skill (i named it Fable-GPT) and call that skill at the start of the session.\n\n2. Use skill + goal to get the heavy tasks done. Goals are best for long horizon tasks.\n\n3. If you're on Codex 20x pro plan, you can use subagents. I use 5-7 agents at one time and never hit 5-hour limit.\n\n4. Context rot is real so clear the conversation after 4 compactions. Use /handoff skill to preserve context.",
+      "display_text_range": [
+        0,
+        2164
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "cjzafir",
+      "url": "https://x.com/cjzafir",
+      "id": "1468443406250950656",
+      "followers": 63107,
+      "following": 980,
+      "likes": 10744,
+      "media_count": 1231,
+      "name": "CJ Zafir",
+      "description": "I fine-tune small language models (SLMs) and beat large language models (LLMs)",
+      "raw_description": {
+        "text": "I fine-tune small language models (SLMs) and beat large language models (LLMs)",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1468443406250950656/1751036160",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1782802003078299648/q3bQeEyp_200x200.jpg",
+      "joined": "Wed Dec 08 04:53:04 +0000 2021",
+      "protected": false,
+      "website": {
+        "url": "http://skilltune.dev",
+        "display_url": "skilltune.dev"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 80,
+    "retweets": 231,
+    "likes": 2701,
+    "bookmarks": 5749,
+    "quotes": 24,
+    "created_at": "Wed Jul 08 15:15:45 +0000 2026",
+    "created_timestamp": 1783523745,
+    "views": 484092,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/cjzafir/status/2074845317699444795",
+      "id": "2074845317699444795",
+      "text": "Fable 5 calling GPT 5.5 on-demand inside Claude Code is the biggest cheat-code right now.\n\n> 2B tokens burned in 24 hrs\n> only 49% Fable  5 weekly limits consumed\n> 30% Codex weekly limits consumed\n> 3x work got done\n\nJust use Fable 5 as orchestrator & GPT 5.5 as executor. Trust me",
+      "raw_text": {
+        "text": "Fable 5 calling GPT 5.5 on-demand inside Claude Code is the biggest cheat-code right now.\n\n> 2B tokens burned in 24 hrs\n> only 49% Fable  5 weekly limits consumed\n> 30% Codex weekly limits consumed\n> 3x work got done\n\nJust use Fable 5 as orchestrator & GPT 5.5 as executor. Trust me",
+        "display_text_range": [
+          0,
+          282
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              296,
+              319
+            ],
+            "id": "2074843991993114625",
+            "display": "pic.x.com/FW5p14MC6A",
+            "original": "https://t.co/FW5p14MC6A",
+            "replacement": "https://x.com/cjzafir/status/2074845317699444795/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "cjzafir",
+        "url": "https://x.com/cjzafir",
+        "id": "1468443406250950656",
+        "followers": 63107,
+        "following": 980,
+        "likes": 10744,
+        "media_count": 1231,
+        "name": "CJ Zafir",
+        "description": "I fine-tune small language models (SLMs) and beat large language models (LLMs)",
+        "raw_description": {
+          "text": "I fine-tune small language models (SLMs) and beat large language models (LLMs)",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1468443406250950656/1751036160",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1782802003078299648/q3bQeEyp_200x200.jpg",
+        "joined": "Wed Dec 08 04:53:04 +0000 2021",
+        "protected": false,
+        "website": {
+          "url": "http://skilltune.dev",
+          "display_url": "skilltune.dev"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 42,
+      "retweets": 27,
+      "likes": 507,
+      "bookmarks": 489,
+      "quotes": 6,
+      "created_at": "Wed Jul 08 13:17:27 +0000 2026",
+      "created_timestamp": 1783516647,
+      "possibly_sensitive": false,
+      "views": 381612,
+      "is_note_tweet": true,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2074843991993114625",
+            "url": "https://pbs.twimg.com/media/HMtTniMaYAENzxR.jpg?name=orig",
+            "width": 1032,
+            "height": 142
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2074843991993114625",
+            "url": "https://pbs.twimg.com/media/HMtTniMaYAENzxR.jpg?name=orig",
+            "width": 1032,
+            "height": 142
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

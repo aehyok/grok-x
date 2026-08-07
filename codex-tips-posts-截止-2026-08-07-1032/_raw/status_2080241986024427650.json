@@ -1,0 +1,118 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/NielsRogge/status/2080241986024427650",
+    "id": "2080241986024427650",
+    "text": "For Codex users, here are some tips and tricks I use all the time  \n\n- Press both ⌘ buttons; this captures your screen, which gets sent to Codex directly. The feature is called AppShots, super useful to debug frontend issues (see below)  \n\n- Use \"meta\" features. You can ask Codex about other threads, or even ask it to create new threads in goal mode. Ask it about previous chats you had, and it'll find them, or change its config  \n\n-  Do not use the built-in plan mode; instead, just ask Codex to write a PLAN.md and iterate on it. Use the /grill-me skill by @mattpocockuk after it creates the first plan, then tell it to update it after each question  \n\n- When you are prompting Codex a lot of times in the same way, turn it into a reusable Skill. Ask it to turn the task into a skill using the /skill-creator Skill  \n\n- Use /goal mode for long-running, async tasks. Usually results in more thorough results compared to non-goal mode",
+    "raw_text": {
+      "text": "For Codex users, here are some tips and tricks I use all the time  \n\n- Press both ⌘ buttons; this captures your screen, which gets sent to Codex directly. The feature is called AppShots, super useful to debug frontend issues (see below)  \n\n- Use \"meta\" features. You can ask Codex about other threads, or even ask it to create new threads in goal mode. Ask it about previous chats you had, and it'll find them, or change its config  \n\n-  Do not use the built-in plan mode; instead, just ask Codex to write a PLAN.md and iterate on it. Use the /grill-me skill by @mattpocockuk after it creates the first plan, then tell it to update it after each question  \n\n- When you are prompting Codex a lot of times in the same way, turn it into a reusable Skill. Ask it to turn the task into a skill using the /skill-creator Skill  \n\n- Use /goal mode for long-running, async tasks. Usually results in more thorough results compared to non-goal mode",
+      "display_text_range": [
+        0,
+        937
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            275,
+            298
+          ],
+          "id": "2080241942823149568",
+          "display": "pic.x.com/p2s9ZZ5hbN",
+          "original": "https://t.co/p2s9ZZ5hbN",
+          "replacement": "https://x.com/NielsRogge/status/2080241986024427650/photo/1"
+        },
+        {
+          "type": "mention",
+          "indices": [
+            562,
+            575
+          ],
+          "original": "mattpocockuk",
+          "id": "346640777"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "NielsRogge",
+      "url": "https://x.com/NielsRogge",
+      "id": "133818617",
+      "followers": 21987,
+      "following": 741,
+      "likes": 1988,
+      "media_count": 933,
+      "name": "Niels Rogge",
+      "description": "ML Engineer @huggingface. Building http://paperswithco.de. @KU_Leuven grad. General interest in machine & deep learning. Making AI more accessible for everyone!",
+      "raw_description": {
+        "text": "ML Engineer @huggingface. Building https://t.co/z4nyO4pjVE. @KU_Leuven grad. General interest in machine & deep learning. Making AI more accessible for everyone!",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              35,
+              58
+            ],
+            "original": "https://t.co/z4nyO4pjVE",
+            "replacement": "http://paperswithco.de",
+            "display": "paperswithco.de"
+          }
+        ]
+      },
+      "location": "Belgium",
+      "banner_url": "https://pbs.twimg.com/profile_banners/133818617/1636026056",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1828883496066060288/n0OUAXhz_200x200.jpg",
+      "joined": "Fri Apr 16 18:18:57 +0000 2010",
+      "protected": false,
+      "website": {
+        "url": "http://nielsrogge.github.io",
+        "display_url": "nielsrogge.github.io"
+      },
+      "verification": {
+        "verified": false,
+        "verified_at": null,
+        "type": null
+      },
+      "avatar_color": null
+    },
+    "replies": 9,
+    "retweets": 18,
+    "likes": 228,
+    "bookmarks": 292,
+    "quotes": 1,
+    "created_at": "Thu Jul 23 10:41:53 +0000 2026",
+    "created_timestamp": 1784803313,
+    "possibly_sensitive": false,
+    "views": 16845,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2080241942823149568",
+          "url": "https://pbs.twimg.com/media/HN6BBoDXoAA1k-J.jpg?name=orig",
+          "width": 1766,
+          "height": 608
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2080241942823149568",
+          "url": "https://pbs.twimg.com/media/HN6BBoDXoAA1k-J.jpg?name=orig",
+          "width": 1766,
+          "height": 608
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

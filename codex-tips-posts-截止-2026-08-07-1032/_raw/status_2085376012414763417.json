@@ -1,0 +1,331 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/codex_lab_/status/2085376012414763417",
+    "id": "2085376012414763417",
+    "text": "【速報】\nエージェント用ブラウザ「Lightpanda」、Codex連携に対応！！\n\nhttps://x.com/lightpanda_io/status/2085370920995049698/video/1\n\n既存のChatGPT/Codexサブスクをそのまま活用し、追加のトークン課金を支払わずにWeb操作AIを実行可能に\n\n・/provider codex コマンド＋認証コードのみで簡単セットアップ \n・設定は自動保存され、次回以降もシームレスにCodex経由で起動 \n・マシン専用設計ブラウザで、自然言語による高度なWeb自動化が完結",
+    "raw_text": {
+      "text": "【速報】\nエージェント用ブラウザ「Lightpanda」、Codex連携に対応！！\n\nhttps://t.co/1Ed0q53B0y\n\n既存のChatGPT/Codexサブスクをそのまま活用し、追加のトークン課金を支払わずにWeb操作AIを実行可能に\n\n・/provider codex コマンド＋認証コードのみで簡単セットアップ \n・設定は自動保存され、次回以降もシームレスにCodex経由で起動 \n・マシン専用設計ブラウザで、自然言語による高度なWeb自動化が完結",
+      "display_text_range": [
+        0,
+        234
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            43,
+            66
+          ],
+          "original": "https://t.co/1Ed0q53B0y",
+          "replacement": "https://x.com/lightpanda_io/status/2085370920995049698/video/1",
+          "display": "x.com/lightpanda_io/…"
+        },
+        {
+          "type": "media",
+          "indices": [
+            43,
+            66
+          ],
+          "id": "2085370894214365184",
+          "display": "pic.x.com/qz8AuZddgT",
+          "original": "https://t.co/qz8AuZddgT",
+          "replacement": "https://x.com/lightpanda_io/status/2085370920995049698/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "codex_lab_",
+      "url": "https://x.com/codex_lab_",
+      "id": "2035325342421028864",
+      "followers": 813,
+      "following": 9,
+      "likes": 165,
+      "media_count": 51,
+      "name": "Codex 研究所",
+      "description": "旧帝大発・学生起業家 / 実務開発歴5年 / AIモデル開発経験あり。\n初心者でも使えるCodex活用法を研究 → 開発現場の目線でわかりやすくお届け。\n法人向けAI研修・AIコンサル、開発等のご依頼はDMへ📩",
+      "raw_description": {
+        "text": "旧帝大発・学生起業家 / 実務開発歴5年 / AIモデル開発経験あり。\n初心者でも使えるCodex活用法を研究 → 開発現場の目線でわかりやすくお届け。\n法人向けAI研修・AIコンサル、開発等のご依頼はDMへ📩",
+        "facets": []
+      },
+      "location": "ご相談はDMへ",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2035325342421028864/1778862047",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2055301910505332736/ALPx6NZs_200x200.jpg",
+      "joined": "Sat Mar 21 11:59:28 +0000 2026",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 3,
+    "retweets": 13,
+    "likes": 156,
+    "bookmarks": 226,
+    "quotes": 3,
+    "created_at": "Thu Aug 06 14:42:40 +0000 2026",
+    "created_timestamp": 1786027360,
+    "possibly_sensitive": false,
+    "views": 14752,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "ja",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2085370894214365184",
+          "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/3840x2160/T3ATe0xVzFLxfpXo.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2085370894214365184/img/mZWWqxdH6nEpDZsq.jpg",
+          "duration": 24.428,
+          "width": 3840,
+          "height": 2160,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/pl/05-XKcUJlzAR-g4L.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/480x270/dYUFLDQ0el1ulzB6.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/640x360/ofYsuYclhALZbqmk.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/1280x720/Flfih7XEZQ_VVkiG.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/1920x1080/oFboXbxsu7cX82TH.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/3840x2160/T3ATe0xVzFLxfpXo.mp4?tag=29",
+              "bitrate": 25128000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": {
+            "screen_name": "lightpanda_io",
+            "url": "https://x.com/lightpanda_io",
+            "id": "1729181382956429312",
+            "followers": 2769,
+            "following": 106,
+            "likes": 453,
+            "media_count": 88,
+            "statuses": 300,
+            "name": "Lightpanda",
+            "description": "A new browser built for machines. Not a fork. Not a patch.\n\nCome chat: http://discord.gg/K63XeymfB5",
+            "raw_description": {
+              "text": "A new browser built for machines. Not a fork. Not a patch.\n\nCome chat: https://t.co/kVeHkYWcwj",
+              "facets": [
+                {
+                  "type": "url",
+                  "indices": [
+                    71,
+                    94
+                  ],
+                  "original": "https://t.co/kVeHkYWcwj",
+                  "replacement": "http://discord.gg/K63XeymfB5",
+                  "display": "discord.gg/K63XeymfB5"
+                }
+              ]
+            },
+            "location": "Paris, France",
+            "banner_url": "https://pbs.twimg.com/profile_banners/1729181382956429312/1740509824",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1772190825570570240/Ea2GtTc0_normal.jpg",
+            "joined": "Mon Nov 27 16:52:51 +0000 2023",
+            "protected": false,
+            "website": {
+              "url": "https://lightpanda.io/",
+              "display_url": "lightpanda.io"
+            },
+            "verification": {
+              "verified": false,
+              "verified_at": null,
+              "type": null
+            },
+            "type": "profile"
+          },
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/pl/05-XKcUJlzAR-g4L.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/480x270/dYUFLDQ0el1ulzB6.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/640x360/ofYsuYclhALZbqmk.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/1280x720/Flfih7XEZQ_VVkiG.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/1920x1080/oFboXbxsu7cX82TH.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/3840x2160/T3ATe0xVzFLxfpXo.mp4?tag=29",
+              "bitrate": 25128000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2085370894214365184",
+          "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/3840x2160/T3ATe0xVzFLxfpXo.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2085370894214365184/img/mZWWqxdH6nEpDZsq.jpg",
+          "duration": 24.428,
+          "width": 3840,
+          "height": 2160,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/pl/05-XKcUJlzAR-g4L.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/480x270/dYUFLDQ0el1ulzB6.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/640x360/ofYsuYclhALZbqmk.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/1280x720/Flfih7XEZQ_VVkiG.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/1920x1080/oFboXbxsu7cX82TH.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/3840x2160/T3ATe0xVzFLxfpXo.mp4?tag=29",
+              "bitrate": 25128000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": {
+            "screen_name": "lightpanda_io",
+            "url": "https://x.com/lightpanda_io",
+            "id": "1729181382956429312",
+            "followers": 2769,
+            "following": 106,
+            "likes": 453,
+            "media_count": 88,
+            "statuses": 300,
+            "name": "Lightpanda",
+            "description": "A new browser built for machines. Not a fork. Not a patch.\n\nCome chat: http://discord.gg/K63XeymfB5",
+            "raw_description": {
+              "text": "A new browser built for machines. Not a fork. Not a patch.\n\nCome chat: https://t.co/kVeHkYWcwj",
+              "facets": [
+                {
+                  "type": "url",
+                  "indices": [
+                    71,
+                    94
+                  ],
+                  "original": "https://t.co/kVeHkYWcwj",
+                  "replacement": "http://discord.gg/K63XeymfB5",
+                  "display": "discord.gg/K63XeymfB5"
+                }
+              ]
+            },
+            "location": "Paris, France",
+            "banner_url": "https://pbs.twimg.com/profile_banners/1729181382956429312/1740509824",
+            "avatar_url": "https://pbs.twimg.com/profile_images/1772190825570570240/Ea2GtTc0_normal.jpg",
+            "joined": "Mon Nov 27 16:52:51 +0000 2023",
+            "protected": false,
+            "website": {
+              "url": "https://lightpanda.io/",
+              "display_url": "lightpanda.io"
+            },
+            "verification": {
+              "verified": false,
+              "verified_at": null,
+              "type": null
+            },
+            "type": "profile"
+          },
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/pl/05-XKcUJlzAR-g4L.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/480x270/dYUFLDQ0el1ulzB6.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/640x360/ofYsuYclhALZbqmk.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/1280x720/Flfih7XEZQ_VVkiG.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/1920x1080/oFboXbxsu7cX82TH.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2085370894214365184/vid/avc1/3840x2160/T3ATe0xVzFLxfpXo.mp4?tag=29",
+              "bitrate": 25128000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

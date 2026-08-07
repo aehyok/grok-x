@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Voxyz_ai/status/2078175217839403150",
+    "id": "2078175217839403150",
+    "text": "Codex tip: take a skill or automation workflow you already wrote, throw it back at Codex, and have it run a 𝗯𝗮𝗰𝗸𝘁𝗲𝘀𝘁 against your past sessions.\n\nit rewrites the skill into how you actually work.\n\n𝗰𝗼𝗽𝘆 𝗽𝗮𝘀𝘁𝗲 𝗽𝗿𝗼𝗺𝗽𝘁 𝗮𝘁 𝘁𝗵𝗲 𝗯𝗼𝘁𝘁𝗼𝗺.\n\n・once a skill is done, have Codex evaluate it against the relevant sessions\n・it finds the steps you always skip, the work you keep patching manually, and the order you actually run things in\n・rerun this every few weeks and the skill keeps up with how your work changes\n\nthe call behind it: skills should grow out of real work history.\n\nwhat you write from memory is the flowchart. sessions record how you actually did it and where the rework happened.\n\nsession logs used to be leftovers from getting work done. now they double as an 𝗲𝘃𝗮𝗹 𝘀𝗲𝘁 for your skills.\n\nthe way people write skills is changing.\n\nmore builders are letting the agent read its own session history and reshape its own tools around it.\n\n𝗽𝗿𝗼𝗺𝗽𝘁:\n\nread [skill name, workflow file, or folder path] and run a backtest against my past sessions related to it.\n\nprefer sessions from the same project and same task type. first list the samples you plan to use and why you picked them. if you can't access enough sessions, say so directly instead of guessing.\n\ncompare what the skill assumes vs how i actually work. focus on:\n\n- steps i often skip, rewrite, or run more than once\n- work i still do manually that the skill never covers\n- the order i actually do things in\n- spots that keep causing rework, getting stuck, or needing extra clarification\n\nseparate stable patterns from one-off exceptions. never rewrite a rule over a single anomaly.\n\noutput a dry run first, nothing else:\n\n- keep / modify / add / remove\n- session evidence for each item\n- proposed diff and reasoning\n\ndo not modify any files until i confirm.\n\nafter i confirm, update the skill, run existing checks, and summarize before / after. if there's no existing way to verify, say so.\n\nfinally, based on how fast new sessions accumulate, suggest a weekly or biweekly review. show me the schedule, scope, and trigger conditions first, then create the recurring task after i confirm.\n\nevery scheduled review outputs a dry run only. no auto-modifying the skill without confirmation.",
+    "raw_text": {
+      "text": "Codex tip: take a skill or automation workflow you already wrote, throw it back at Codex, and have it run a 𝗯𝗮𝗰𝗸𝘁𝗲𝘀𝘁 against your past sessions.\n\nit rewrites the skill into how you actually work.\n\n𝗰𝗼𝗽𝘆 𝗽𝗮𝘀𝘁𝗲 𝗽𝗿𝗼𝗺𝗽𝘁 𝗮𝘁 𝘁𝗵𝗲 𝗯𝗼𝘁𝘁𝗼𝗺.\n\n・once a skill is done, have Codex evaluate it against the relevant sessions\n・it finds the steps you always skip, the work you keep patching manually, and the order you actually run things in\n・rerun this every few weeks and the skill keeps up with how your work changes\n\nthe call behind it: skills should grow out of real work history.\n\nwhat you write from memory is the flowchart. sessions record how you actually did it and where the rework happened.\n\nsession logs used to be leftovers from getting work done. now they double as an 𝗲𝘃𝗮𝗹 𝘀𝗲𝘁 for your skills.\n\nthe way people write skills is changing.\n\nmore builders are letting the agent read its own session history and reshape its own tools around it.\n\n𝗽𝗿𝗼𝗺𝗽𝘁:\n\nread [skill name, workflow file, or folder path] and run a backtest against my past sessions related to it.\n\nprefer sessions from the same project and same task type. first list the samples you plan to use and why you picked them. if you can't access enough sessions, say so directly instead of guessing.\n\ncompare what the skill assumes vs how i actually work. focus on:\n\n- steps i often skip, rewrite, or run more than once\n- work i still do manually that the skill never covers\n- the order i actually do things in\n- spots that keep causing rework, getting stuck, or needing extra clarification\n\nseparate stable patterns from one-off exceptions. never rewrite a rule over a single anomaly.\n\noutput a dry run first, nothing else:\n\n- keep / modify / add / remove\n- session evidence for each item\n- proposed diff and reasoning\n\ndo not modify any files until i confirm.\n\nafter i confirm, update the skill, run existing checks, and summarize before / after. if there's no existing way to verify, say so.\n\nfinally, based on how fast new sessions accumulate, suggest a weekly or biweekly review. show me the schedule, scope, and trigger conditions first, then create the recurring task after i confirm.\n\nevery scheduled review outputs a dry run only. no auto-modifying the skill without confirmation.",
+      "display_text_range": [
+        0,
+        2286
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "Voxyz_ai",
+      "url": "https://x.com/Voxyz_ai",
+      "id": "1994077573694046208",
+      "followers": 17173,
+      "following": 175,
+      "likes": 3506,
+      "media_count": 398,
+      "name": "Vox",
+      "description": "Building Voxyz. The only human inside.\nPracticing the AI-native future before it arrives.\nSharing every step on the road. ↓",
+      "raw_description": {
+        "text": "Building Voxyz. The only human inside.\nPracticing the AI-native future before it arrives.\nSharing every step on the road. ↓",
+        "facets": []
+      },
+      "location": "London",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1994077573694046208/1768647112",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1998303259279138816/5bqsxKJS_200x200.jpg",
+      "joined": "Thu Nov 27 16:15:26 +0000 2025",
+      "protected": false,
+      "website": {
+        "url": "https://www.voxyz.ai",
+        "display_url": "voxyz.ai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 9,
+    "retweets": 17,
+    "likes": 290,
+    "bookmarks": 556,
+    "quotes": 1,
+    "created_at": "Fri Jul 17 17:49:17 +0000 2026",
+    "created_timestamp": 1784310557,
+    "views": 30990,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

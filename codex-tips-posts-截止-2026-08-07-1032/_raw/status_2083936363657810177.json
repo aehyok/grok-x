@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/ForwardEditor/status/2083936363657810177",
+    "id": "2083936363657810177",
+    "text": "codex tip: set an automation that keeps your computer running smoothly. \n\n- kill all headless instances after test runs\n- clear cache\n- audit computer for further opportunities\n\nThis can be a Luna agent, it will cost you near nothing\n\nThis is the difference between my computer running at 100ºC and 40. Unusably laggy vs smooth as butter!",
+    "raw_text": {
+      "text": "codex tip: set an automation that keeps your computer running smoothly. \n\n- kill all headless instances after test runs\n- clear cache\n- audit computer for further opportunities\n\nThis can be a Luna agent, it will cost you near nothing\n\nThis is the difference between my computer running at 100ºC and 40. Unusably laggy vs smooth as butter!",
+      "display_text_range": [
+        0,
+        338
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "ForwardEditor",
+      "url": "https://x.com/ForwardEditor",
+      "id": "2008264275178250240",
+      "followers": 8010,
+      "following": 1163,
+      "likes": 6919,
+      "media_count": 276,
+      "name": "Forward Future Brian",
+      "description": "Obsessed with making perfect videos.\n\nhttp://modelrumor.com\nEditor for @matthewberman EX: Red Bull",
+      "raw_description": {
+        "text": "Obsessed with making perfect videos.\n\nhttps://t.co/AGUXhcHnOw\nEditor for @matthewberman EX: Red Bull",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              38,
+              61
+            ],
+            "original": "https://t.co/AGUXhcHnOw",
+            "replacement": "http://modelrumor.com",
+            "display": "modelrumor.com"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2008264275178250240/1772777572",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2029801903832363008/q7tubSuK_200x200.jpg",
+      "joined": "Mon Jan 05 19:48:24 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "http://www.futurebrian.com",
+        "display_url": "futurebrian.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 55,
+    "retweets": 54,
+    "likes": 1248,
+    "bookmarks": 2348,
+    "quotes": 13,
+    "created_at": "Sun Aug 02 15:22:01 +0000 2026",
+    "created_timestamp": 1785684121,
+    "views": 260169,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter for Android",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

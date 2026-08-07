@@ -1,0 +1,72 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Qiaoqiao2001/status/2080003441821163958",
+    "id": "2080003441821163958",
+    "text": "I solved 6 open Erdős problems in 5 days, using @OpenAI GPT-5.6 Sol.\n\nI have a math background, but the Codex workflow I used does not require deep mathematical knowledge.\n\nHere’s exactly how I approached it, including my prompts 🧵",
+    "raw_text": {
+      "text": "I solved 6 open Erdős problems in 5 days, using @OpenAI GPT-5.6 Sol.\n\nI have a math background, but the Codex workflow I used does not require deep mathematical knowledge.\n\nHere’s exactly how I approached it, including my prompts 🧵",
+      "display_text_range": [
+        0,
+        231
+      ],
+      "facets": [
+        {
+          "type": "mention",
+          "indices": [
+            48,
+            55
+          ],
+          "original": "OpenAI",
+          "id": "4398626122"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Qiaoqiao2001",
+      "url": "https://x.com/Qiaoqiao2001",
+      "id": "1691163669529333760",
+      "followers": 3642,
+      "following": 687,
+      "likes": 424,
+      "media_count": 4,
+      "name": "Shouqiao Wang",
+      "description": "PhD candidate @Columbia_Biz; prev @PKU1898 School of Mathematical Sciences",
+      "raw_description": {
+        "text": "PhD candidate @Columbia_Biz; prev @PKU1898 School of Mathematical Sciences",
+        "facets": []
+      },
+      "location": "New York, NY",
+      "banner_url": "",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1823182344766836736/5YwQsWZb_200x200.jpg",
+      "joined": "Mon Aug 14 19:03:42 +0000 2023",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 126,
+    "retweets": 678,
+    "likes": 6326,
+    "bookmarks": 5271,
+    "quotes": 209,
+    "created_at": "Wed Jul 22 18:53:59 +0000 2026",
+    "created_timestamp": 1784746439,
+    "views": 1576962,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/TencentHunyuan/status/2084836757095526689",
+    "id": "2084836757095526689",
+    "text": "🚀 Hy3 is now live in WorkBuddy global—free for users worldwide through August 31, 2026 (PT).\n\nResearch, analyze data, create documents and presentations, and handle workplace communications in an agentic AI workspace—no setup required.\n\nHy3 is also available through Tencent Design Miora and Tencent Cloud TokenHub.\n\nTry it:\nhttps://workbuddy.ai\n\n#TencentHy #Hy3 #WorkBuddy #Miora #TencentCloud",
+    "raw_text": {
+      "text": "🚀 Hy3 is now live in WorkBuddy global—free for users worldwide through August 31, 2026 (PT).\n\nResearch, analyze data, create documents and presentations, and handle workplace communications in an agentic AI workspace—no setup required.\n\nHy3 is also available through Tencent Design Miora and Tencent Cloud TokenHub.\n\nTry it:\nhttps://t.co/nT4bY3MpFr\n\n#TencentHy #Hy3 #WorkBuddy #Miora #TencentCloud",
+      "display_text_range": [
+        0,
+        398
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            275,
+            298
+          ],
+          "id": "2084836212976820224",
+          "display": "pic.x.com/dzhfniK3SK",
+          "original": "https://t.co/dzhfniK3SK",
+          "replacement": "https://x.com/TencentHunyuan/status/2084836757095526689/photo/1"
+        },
+        {
+          "type": "url",
+          "indices": [
+            325,
+            348
+          ],
+          "original": "https://t.co/nT4bY3MpFr",
+          "replacement": "https://workbuddy.ai",
+          "display": "workbuddy.ai"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            350,
+            360
+          ],
+          "original": "TencentHy"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            361,
+            365
+          ],
+          "original": "Hy3"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            366,
+            376
+          ],
+          "original": "WorkBuddy"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            377,
+            383
+          ],
+          "original": "Miora"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            384,
+            397
+          ],
+          "original": "TencentCloud"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "TencentHunyuan",
+      "url": "https://x.com/TencentHunyuan",
+      "id": "1810933558703493120",
+      "followers": 45777,
+      "following": 8,
+      "likes": 1279,
+      "media_count": 302,
+      "name": "Tencent Hy",
+      "description": "Tencent's foundation model for text, image, video, and 3D generation.",
+      "raw_description": {
+        "text": "Tencent's foundation model for text, image, video, and 3D generation.",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1810933558703493120/1754362168",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1810934469769195520/kKSVenHW_200x200.jpg",
+      "joined": "Wed Jul 10 07:06:45 +0000 2024",
+      "protected": false,
+      "website": {
+        "url": "https://discord.gg/dNBrdrGGMa",
+        "display_url": "discord.gg/dNBrdrGGMa"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "organization"
+      },
+      "avatar_color": null
+    },
+    "replies": 30,
+    "retweets": 55,
+    "likes": 385,
+    "bookmarks": 172,
+    "quotes": 28,
+    "created_at": "Wed Aug 05 02:59:51 +0000 2026",
+    "created_timestamp": 1785898791,
+    "possibly_sensitive": false,
+    "views": 139120,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2084836212976820224",
+          "url": "https://pbs.twimg.com/media/HO7TfWFaoAA4Yq9.jpg?name=orig",
+          "width": 2066,
+          "height": 1170
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2084836212976820224",
+          "url": "https://pbs.twimg.com/media/HO7TfWFaoAA4Yq9.jpg?name=orig",
+          "width": 2066,
+          "height": 1170
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

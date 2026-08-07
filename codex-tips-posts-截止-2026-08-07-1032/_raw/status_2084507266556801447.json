@@ -1,0 +1,95 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Ananth7e/status/2084507266556801447",
+    "id": "2084507266556801447",
+    "text": "codex tip: set up an automation to keep your skills updated. \n\ninstead of letting your codex skill sit static, get it to update itself weekly based on your usage patterns, so it can reflect more of the workflow changes.\n\nprompt: \"set up a weekly automation that reviews the 7 days of my accessible codex session history and logs, then automatically update the skill named [skill name] and its skill.md to reflect my current workflow.\n\nonly make changes supported by repeated evidence. preserve useful existing instructions, avoid unrelated rewrites, and update only this skill file. do not include secrets or personal data. after applying the changes, report a concise summary.  if no meaningful changes are found, leave the file unchanged and report that.\"\n\nthis way your skill evolves alongside your workflow instead of going stale the moment your process changes.\n\n(not a new concept if you've been using codex for a while, just in case some of you didn't know it)",
+    "raw_text": {
+      "text": "codex tip: set up an automation to keep your skills updated. \n\ninstead of letting your codex skill sit static, get it to update itself weekly based on your usage patterns, so it can reflect more of the workflow changes.\n\nprompt: \"set up a weekly automation that reviews the 7 days of my accessible codex session history and logs, then automatically update the skill named [skill name] and its skill.md to reflect my current workflow.\n\nonly make changes supported by repeated evidence. preserve useful existing instructions, avoid unrelated rewrites, and update only this skill file. do not include secrets or personal data. after applying the changes, report a concise summary.  if no meaningful changes are found, leave the file unchanged and report that.\"\n\nthis way your skill evolves alongside your workflow instead of going stale the moment your process changes.\n\n(not a new concept if you've been using codex for a while, just in case some of you didn't know it)",
+      "display_text_range": [
+        0,
+        967
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            281,
+            304
+          ],
+          "id": "2084507139012481024",
+          "display": "pic.x.com/jVvbHRQbTV",
+          "original": "https://t.co/jVvbHRQbTV",
+          "replacement": "https://x.com/Ananth7e/status/2084507266556801447/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Ananth7e",
+      "url": "https://x.com/Ananth7e",
+      "id": "2062854671828713472",
+      "followers": 1559,
+      "following": 249,
+      "likes": 6959,
+      "media_count": 810,
+      "name": "Ananth",
+      "description": "head of the voices dept. @openai\n\"single handedly delayed image AGI\"\nposting about AI, coding agents, and tech",
+      "raw_description": {
+        "text": "head of the voices dept. @openai\n\"single handedly delayed image AGI\"\nposting about AI, coding agents, and tech",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2062854671828713472/1785910350",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2062941617456349184/n8Sqd-nm_200x200.jpg",
+      "joined": "Fri Jun 05 11:19:29 +0000 2026",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 4,
+    "retweets": 4,
+    "likes": 110,
+    "bookmarks": 182,
+    "quotes": 0,
+    "created_at": "Tue Aug 04 05:10:35 +0000 2026",
+    "created_timestamp": 1785820235,
+    "possibly_sensitive": false,
+    "views": 10498,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2084507139012481024",
+          "url": "https://pbs.twimg.com/media/HO2oMuCa0AAAsw2.png?name=orig",
+          "width": 383,
+          "height": 90
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2084507139012481024",
+          "url": "https://pbs.twimg.com/media/HO2oMuCa0AAAsw2.png?name=orig",
+          "width": 383,
+          "height": 90
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

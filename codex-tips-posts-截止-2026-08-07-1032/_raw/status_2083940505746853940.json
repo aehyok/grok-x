@@ -1,0 +1,2040 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/dair_ai/status/2083940505746853940",
+    "id": "2083940505746853940",
+    "text": "",
+    "raw_text": {
+      "text": "https://t.co/9eLBnDvRf0",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "dair_ai",
+      "url": "https://x.com/dair_ai",
+      "id": "889050642903293953",
+      "followers": 129278,
+      "following": 1,
+      "likes": 4975,
+      "media_count": 303,
+      "name": "DAIR.AI",
+      "description": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://academy.dair.ai/courses/elements-of-ai-agents",
+      "raw_description": {
+        "text": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https://t.co/HHXg8rryu4",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              90,
+              113
+            ],
+            "original": "https://t.co/HHXg8rryu4",
+            "replacement": "https://academy.dair.ai/courses/elements-of-ai-agents",
+            "display": "academy.dair.ai/courses/elemen…"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/889050642903293953/1773242460",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_200x200.jpg",
+      "joined": "Sun Jul 23 09:12:45 +0000 2017",
+      "protected": false,
+      "website": {
+        "url": "https://www.dair.ai/",
+        "display_url": "dair.ai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 10,
+    "retweets": 38,
+    "likes": 223,
+    "bookmarks": 351,
+    "quotes": 4,
+    "created_at": "Sun Aug 02 15:38:28 +0000 2026",
+    "created_timestamp": 1785685108,
+    "possibly_sensitive": false,
+    "views": 46071,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-02T15:38:28.000Z",
+      "modified_at": "2026-08-02T15:38:28.000Z",
+      "id": "2083939320742703104",
+      "title": "🥇Top AI Papers of the Week",
+      "preview_text": "Welcome to The Top AI Papers of the Week (July 27 - August 2):\n1. NOOA\n \nAgent development today is split across prompt templates, tool schemas, callback code, and workflow graphs, four",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOuj6ctW8AAKAAIMVorZbZVgAQAA",
+        "media_id": "2083939477123166208",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 95.96,
+                "rgb": {
+                  "blue": 249,
+                  "green": 251,
+                  "red": 252
+                }
+              },
+              {
+                "percentage": 1.53,
+                "rgb": {
+                  "blue": 135,
+                  "green": 137,
+                  "red": 136
+                }
+              },
+              {
+                "percentage": 1.15,
+                "rgb": {
+                  "blue": 228,
+                  "green": 211,
+                  "red": 191
+                }
+              },
+              {
+                "percentage": 0.87,
+                "rgb": {
+                  "blue": 235,
+                  "green": 213,
+                  "red": 245
+                }
+              },
+              {
+                "percentage": 0.32,
+                "rgb": {
+                  "blue": 179,
+                  "green": 215,
+                  "red": 201
+                }
+              }
+            ]
+          },
+          "original_img_height": 383,
+          "original_img_url": "https://pbs.twimg.com/media/HOuj6ctW8AA_NTL.jpg",
+          "original_img_width": 957
+        },
+        "media_key": "3_2083939477123166208"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e6hjg",
+            "text": "Welcome to The Top AI Papers of the Week (July 27 - August 2):",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1cioj",
+            "text": "1. NOOA",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "59hns",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dbuoe",
+            "text": "Agent development today is split across prompt templates, tool schemas, callback code, and workflow graphs, four representations that drift apart as a system grows. NVIDIA Object-Oriented Agents replaces all four with one abstraction that developers already know.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "10cbo",
+            "text": "An agent is a Python object: Its methods are the actions the model can take, its fields hold state, its docstrings are the prompts, and its type annotations act as contracts, so there is nothing new to learn before writing an agent.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 33,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3cdpf",
+            "text": "The boundary lives in the source: A method whose body is \"...\" gets completed at runtime by a validated LLM loop, while a method with a normal body stays deterministic Python, putting the line between probabilistic and deterministic behavior right where you can read it.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 38,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "61to2",
+            "text": "Six model-facing ideas on one surface: The paper claims the first combination of typed input and output, pass-by-reference over live objects, code as action, programmable loop engineering, explicit object state, and model-callable harness APIs for context and events, evaluated on SWE-bench Verified, Terminal-Bench 2.0, and ARC-AGI-3.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "c2srp",
+            "text": "Why it matters: Because agents and developers share one programming model, agent behavior becomes testable, traceable, and refactorable with the tooling already sitting in the repo, which is a more realistic path to reliability than another orchestration DSL.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 5,
+                "offset": 0
+              },
+              {
+                "key": 2,
+                "length": 5,
+                "offset": 8
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "5us46",
+            "text": "Paper | Tweet",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "e2nca",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1f4co",
+            "text": "Message from our Sponsor",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "63urd",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 190,
+                  "text": "getdial.ai",
+                  "toIndex": 200
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 4,
+                "offset": 0
+              },
+              {
+                "key": 6,
+                "length": 10,
+                "offset": 190
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ensef",
+            "text": "Dial gives your agent its own real phone number. It reads the OTP itself and the run keeps going, then it's a phone: calls, SMS, iMessage, via MCP, CLI, or SDK. Free number in 30 seconds at getdial.ai",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c9vg7",
+            "text": "Paste this into Claude Code, Codex, or Cursor:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cu8km",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 30,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 30,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "483k",
+            "text": "Give your agent a phone number",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2o7g8",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "foa3q",
+            "text": "2. ReOPD",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fe4fd",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aq0fh",
+            "text": "On-policy distillation for agentic tasks is expensive because every update needs fresh student rollouts through the environment plus teacher queries at each visited history. Microsoft Research and the University of Amsterdam propose reusing pre-collected teacher trajectories instead.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3g9ru",
+            "text": "Replayed prefixes: ReOPD samples a teacher trajectory, replays it as a prefix, has the student act at selected steps, and lets the teacher supply dense per-step supervision, with no new environment interaction during student training.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "90hcn",
+            "text": "The prefix trap: The paper names a real pathology in multi-turn distillation. Pushing histories toward the student's own distribution makes them more relevant to the student and simultaneously drags the teacher onto states where its targets are unreliable, a two-sided shift between student occupancy and teacher reliability.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "doavc",
+            "text": "A simple control: Treating this as reliability-aware prefix distribution design, ReOPD uses a step-decaying sampling schedule that emphasizes early, lower-shift prefixes rather than trying to match the student everywhere.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "42jpp",
+            "text": "Why it matters: Across math reasoning with Python and search environments, over multiple teacher and student scales, it preserves or improves accuracy, uses zero tool calls during student training, and runs at least 4 times faster per rollout, turning agent-environment interaction into a reusable offline asset.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 5,
+                "offset": 0
+              },
+              {
+                "key": 12,
+                "length": 5,
+                "offset": 8
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "1dqh2",
+            "text": "Paper | Tweet",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bu9p6",
+            "text": "3. Invisible Reasoning",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "bhta",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "52st9",
+            "text": "Chain-of-thought monitoring rests on the assumption that a model expresses its reasoning in its output tokens. This work demonstrates a concrete failure of that assumption in models shipping today.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 32,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "a2eqn",
+            "text": "Filler tokens carry computation: Across 13 frontier models and three tasks, many models improve significantly when given semantically irrelevant filler tokens, with accuracy gains of up to 13 percentage points, and the benefit depends on which tokens are used.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 32,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6n1b5",
+            "text": "Hidden objectives are reachable: Filler tokens let Claude Opus 4.5 satisfy a hidden modular arithmetic constraint without sacrificing accuracy on its primary task, showing that invisible reasoning can serve goals a CoT monitor never sees.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "61odk",
+            "text": "Training does not induce it: Reinforcement learning gives Qwen3-235B strong preferences over filler token content, but neither RL nor supervised fine-tuning produces a filler token benefit that persists at test time, so this is a property of the frontier models rather than a trick you can bolt on.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1kk7m",
+            "text": "Why it matters: If consequential computation already happens with no interpretable trace in the output tokens, then CoT-based oversight is a partial signal, and safety cases built on reading the reasoning need to account for what is not written down.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 5,
+                "offset": 0
+              },
+              {
+                "key": 15,
+                "length": 5,
+                "offset": 8
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "em080",
+            "text": "Paper | Tweet",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b9uru",
+            "text": "4. Molt",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "55tou",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vl46",
+            "text": "Agentic RL research is constant algorithm modification, and in mainstream frameworks each change threads through layers of trainer, distributed backend, and rollout glue. NVIDIA's Molt is a PyTorch-native training framework built to make that cost small.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 19,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dpntf",
+            "text": "Readable by design: The stated target is a codebase compact and clean enough for a researcher to hold in their head, and for an AI coding assistant to read and reason about in its entirety, so the algorithm flow can be traced and changed end to end.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 36,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fb5tm",
+            "text": "The agent stays an ordinary program: One asynchronous loop trains multimodal and mixture-of-experts policies while never training on a token it did not generate, staying consistent in tokens, policy versions, and model semantics.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "414o9",
+            "text": "Throughput holds: Under a matched, fully asynchronous protocol, Molt comes out statistically comparable to a state-of-the-art Megatron-based stack, so the simplicity does not show up as a throughput penalty.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7bh7s",
+            "text": "Why it matters: Recipes and containers are open source, and the framing is notable on its own. Being legible to an AI coding assistant now sits alongside throughput as a stated design constraint on research infrastructure.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 17,
+                "length": 5,
+                "offset": 0
+              },
+              {
+                "key": 18,
+                "length": 5,
+                "offset": 8
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "8c03h",
+            "text": "Paper | Tweet",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "705kp",
+            "text": "5. JAXBench",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 19,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6cn21",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7tmro",
+            "text": "GPU kernel optimization has KernelBench to hillclimb on. TPUs had nothing, and the Pallas DSL is documented thinly enough that models mostly guess. Google, with Harvard and UC Berkeley, closes that gap and finds a clean lesson about context along the way.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 32,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1s30e",
+            "text": "Built from production workloads: JAXBench holds 50 JAX workloads, 17 production ML operators extracted from MaxText architectures such as Llama-3.1, DeepSeek-V3, Mixtral, Mamba-2, and AlphaFold2, plus 33 operators translated from KernelBench and resized for high TPU v6e MXU utilization.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 25,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "28nvc",
+            "text": "Measured against experts: Eight of the 17 production operators ship with hand-optimized Pallas kernels from the public Tokamax library, block-size tuned, so agent output gets compared to expert work instead of a naive baseline.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 20,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5mjd7",
+            "text": "Context beats scale: With Gemini 3 Flash, conditioning on curated TPU documentation raises per-sample correctness from 5.8% to 37.3% and solves 48 of 50 benchmarks at a 1.28x geomean speedup, while Autocomp's beam search pushes it to 1.36x and reaches 1.60x on the hand-tuned subset.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "cpshj",
+            "text": "Why it matters: Correctness turned out to be a documentation problem and speed turned out to be a search problem, a split that generalizes to any agent working against an API it was never trained on.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 20,
+                "length": 5,
+                "offset": 0
+              },
+              {
+                "key": 21,
+                "length": 5,
+                "offset": 8
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "1gbdj",
+            "text": "Paper | Tweet",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ac0g2",
+            "text": "6. ACM",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 22,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3oj91",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6thpm",
+            "text": "Production agents accumulate context every turn. The usual fix compresses on a token threshold and throws the remainder away, so the trigger fires for reasons unrelated to what the agent is working on. Meta and CMU hand the decision to the agent instead.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 26,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5dtnt",
+            "text": "Context editing as a tool: ACM equips the agent with purpose-built context editing tools, so it decides when to compress, offloads what it drops into an external memory system, and queries that store on demand when it needs the detail back.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 24,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "14v3a",
+            "text": "Short-term to long-term: The design is modeled on the interaction between short-term and long-term human memory, which turns compression from a lossy truncation into a transfer between two stores.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 25,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ekc5b",
+            "text": "A post-training pipeline: A post-training pipeline built on high-quality context management demonstrations yields a 27% relative gain on BrowseComp-Plus and closes much of the distance to open-source models roughly 40 times larger, with code, data, and checkpoints released.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "50kv1",
+            "text": "Why it matters: Analysis shows effective context management lowers peak token pressure, lets the agent explore longer before running out of room, and produces more consistent solutions across independent trials of the same task.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 23,
+                "length": 5,
+                "offset": 0
+              },
+              {
+                "key": 24,
+                "length": 5,
+                "offset": 8
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "5r3f4",
+            "text": "Paper | Tweet",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1pe05",
+            "text": "7. Filesystem Memory Audited",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 25,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6sm80",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2723t",
+            "text": "Deployed agents increasingly keep long-term memory as a directory tree of markdown files they read, write, and reorganize with ordinary file tools. Research had mostly designed bespoke memory representations instead, leaving the default's two working assumptions untested.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1g6te",
+            "text": "Three roles, one filesystem: The setting is formalized as a management agent that integrates and organizes incoming content, a search agent that answers queries with cited sources, and an execution agent that supplies trajectories distilled into skills, unifying declarative memory and skills in one store.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 33,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9a0t4",
+            "text": "Organization buys search economy: Across long-conversation benchmarks and embodied tasks, organized stores roughly halve retrieval cost when the material is large, which is a real and measurable win.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 26,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5p7up",
+            "text": "Answer quality stays flat: No agent in the study converted organization into better answers, and in the growth study the store degraded for every management agent except the strongest one, so the second assumption does not hold yet.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fec68",
+            "text": "Why it matters: The tool harness matters as much as the model. Changing the tool set alone reshapes the memory store as strongly as swapping the model, which is a lever most teams currently leave untouched.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 26,
+                "length": 5,
+                "offset": 0
+              },
+              {
+                "key": 27,
+                "length": 5,
+                "offset": 8
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "jau3",
+            "text": "Paper | Tweet",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "beh2v",
+            "text": "8. Beyond AdamW",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9eoch",
+            "text": "Higher-order optimizers have promised faster convergence than AdamW for a while, with computational cost and numerical stability as the standing objections. This NVIDIA work adapts them for large-scale pretraining, identifying instabilities in SOAP at large batch sizes and eliminating the loss spikes with per-step QR orthogonalization and improved preconditioning, then running a unified study of SOAP, Muon, and AdamW under update-RMS matching for fair learning rate transfer. On multi-billion-parameter models trained over trillions of tokens, SOAP and Muon consistently beat AdamW, and at batch sizes up to 100M tokens for next-token prediction they hold stability and quality while AdamW degrades. A layer-wise distributed optimizer compatible with Megatron-LM balances memory and hides communication without approximating the optimizer math.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 28,
+                "length": 5,
+                "offset": 0
+              },
+              {
+                "key": 29,
+                "length": 5,
+                "offset": 8
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "5pps6",
+            "text": "Paper | Tweet",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "81en9",
+            "text": "9. Role Drift",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bkvco",
+            "text": "End-to-end RL improves the accuracy of a multi-module LLM pipeline without constraining how the modules divide labor internally. Harvard and MIT name the resulting failure mode, Role Drift, where a module preserves or improves end-task performance while abandoning its assigned role through shortcuts that system-level evaluation cannot see. Two instances showed up. A decomposer meant to split a question into sub-questions for a separate solver instead plants the answer inside them, and a reader meant to answer from retrieved passages instead falls back on parametric memory. Hold the decomposer to its role and 86% of the apparent RL gain disappears. Role Anchor, the proposed regularizer, preserves how the role prompt shifts a module's next-token predictions relative to a neutral prompt, and gradient analysis suggests it reduces alignment with the drift direction rather than simply suppressing learning.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 30,
+                "length": 5,
+                "offset": 0
+              },
+              {
+                "key": 31,
+                "length": 5,
+                "offset": 8
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "4scjo",
+            "text": "Paper | Tweet",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rfc7",
+            "text": "10. The Self-Speculating Agent",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5hj0r",
+            "text": "Agents spend a large share of wall-clock time waiting on tool results. Speculation hides that latency by predicting and pre-executing the next call, but external draft models and cached traces model a different policy, so they miss too often to help. UC Santa Barbara and LinkedIn identify this speculator-agent gap and unify both roles in one model. It runs in agent mode to solve the task and in speculator mode to predict its next tool call from a partial trajectory, fully reusing the prefix KV cache. Joint agent-speculator reinforcement learning derives speculation targets from the agent's own rollouts and alternates updates between the two modes. Next tool-call Hit@1 rises from 44.1 to 61.2 for Qwen3-4B and from 48.9 to 66.3 for Qwen3.5-4B, with agent task success preserved.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 32,
+                "length": 5,
+                "offset": 0
+              },
+              {
+                "key": 33,
+                "length": 5,
+                "offset": 8
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "41og9",
+            "text": "Paper | Tweet",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "url": "https://x.com/dair_ai/status/2081560214554419700"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "url": "https://getdial.ai/?utm_source=elvissaravia&utm_medium=newsletter&utm_campaign=behind-bars&utm_content=button"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "19",
+            "value": {
+              "data": {
+                "entityKey": "333dd33f-b608-4cc1-983a-361f070c8c6d",
+                "mediaItems": [
+                  {
+                    "localMediaId": "12",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083940128758616064"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "23",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2607.23809"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "84864a6d-2336-4777-9bc2-88dd36bb84c9",
+                "mediaItems": [
+                  {
+                    "localMediaId": "4",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083939906485637120"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "url": "https://x.com/dair_ai/status/2082111593270383082"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2607.04763"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "33",
+            "value": {
+              "data": {
+                "url": "https://x.com/dair_ai/status/2082677582378811762"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "22",
+            "value": {
+              "data": {
+                "entityKey": "52231ad7-5130-4656-baad-7f723177e225",
+                "mediaItems": [
+                  {
+                    "localMediaId": "14",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083940162032041984"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "26",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2607.26637"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "entityKey": "ce07932f-3c2d-443b-9428-052a550a7190",
+                "mediaItems": [
+                  {
+                    "localMediaId": "8",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083940056947908608"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "24",
+            "value": {
+              "data": {
+                "url": "https://x.com/omarsar0/status/2082105300392542246"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "entityKey": "b2e73f2a-c1c2-4910-80fa-6ee0347e96be",
+                "mediaItems": [
+                  {
+                    "localMediaId": "10",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083940095044792320"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "url": "https://getdial.ai/?utm_source=elvissaravia&utm_medium=newsletter&utm_campaign=behind-bars&utm_content=body"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "entityKey": "60d2555d-55ec-4fe8-956e-855b0bbd0513",
+                "mediaItems": [
+                  {
+                    "localMediaId": "6",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083940023691333632"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "21",
+            "value": {
+              "data": {
+                "url": "https://x.com/omarsar0/status/2081530022947705201"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "32",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2607.25816"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "url": "https://getdial.ai/?utm_source=elvissaravia&utm_medium=newsletter&utm_campaign=behind-bars&utm_content=body"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2607.20709"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2607.21653"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "25",
+            "value": {
+              "data": {
+                "entityKey": "107c25df-edc6-4e5d-b70d-c1adda49246e",
+                "mediaItems": [
+                  {
+                    "localMediaId": "16",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083940194709872640"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2607.22925"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "31",
+            "value": {
+              "data": {
+                "url": "https://x.com/omarsar0/status/2081834515849515325"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "e8f0fe50-bbd1-4541-a29c-24a684f7cb24",
+                "mediaItems": [
+                  {
+                    "localMediaId": "2",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083939621428170752"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "20",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2607.20466"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "27",
+            "value": {
+              "data": {
+                "url": "https://x.com/dair_ai/status/2082883931582713893"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "url": "https://x.com/omarsar0/status/2082602113558077599"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "18",
+            "value": {
+              "data": {
+                "url": "https://x.com/dair_ai/status/2081770344952803628"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "30",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2607.21627"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "markdown": "```\nGet yourself a Dial phone number and call me. Say hello and\nthat setup is working, then ask if I have any questions.\nFollow https://getdial.ai/skills.md\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "29",
+            "value": {
+              "data": {
+                "url": "https://x.com/omarsar0/status/2081471875885203791"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "28",
+            "value": {
+              "data": {
+                "url": "https://arxiv.org/abs/2607.20548"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOukgYPW0AAKAAIMVorZbZVgAQAA",
+          "media_id": "2083940128758616064",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 83.63,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 243,
+                    "red": 233
+                  }
+                },
+                {
+                  "percentage": 9.31,
+                  "rgb": {
+                    "blue": 242,
+                    "green": 198,
+                    "red": 210
+                  }
+                },
+                {
+                  "percentage": 2.75,
+                  "rgb": {
+                    "blue": 205,
+                    "green": 239,
+                    "red": 204
+                  }
+                },
+                {
+                  "percentage": 1.76,
+                  "rgb": {
+                    "blue": 250,
+                    "green": 192,
+                    "red": 208
+                  }
+                },
+                {
+                  "percentage": 1.22,
+                  "rgb": {
+                    "blue": 207,
+                    "green": 215,
+                    "red": 243
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1068,
+            "original_img_url": "https://pbs.twimg.com/media/HOukgYPW0AAgSVc.jpg",
+            "original_img_width": 2840
+          },
+          "media_key": "3_2083940128758616064"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOukiUMXAAAKAAIMVorZbZVgAQAA",
+          "media_id": "2083940162032041984",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 84.95,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 254,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 4.13,
+                  "rgb": {
+                    "blue": 60,
+                    "green": 60,
+                    "red": 221
+                  }
+                },
+                {
+                  "percentage": 3.6,
+                  "rgb": {
+                    "blue": 241,
+                    "green": 243,
+                    "red": 200
+                  }
+                },
+                {
+                  "percentage": 3.11,
+                  "rgb": {
+                    "blue": 142,
+                    "green": 142,
+                    "red": 235
+                  }
+                },
+                {
+                  "percentage": 2.43,
+                  "rgb": {
+                    "blue": 173,
+                    "green": 198,
+                    "red": 246
+                  }
+                }
+              ]
+            },
+            "original_img_height": 529,
+            "original_img_url": "https://pbs.twimg.com/media/HOukiUMXAAAk6IO.png",
+            "original_img_width": 897
+          },
+          "media_key": "3_2083940162032041984"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOukTcNWUAAKAAIMVorZbZVgAQAA",
+          "media_id": "2083939906485637120",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 83.03,
+                  "rgb": {
+                    "blue": 32,
+                    "green": 19,
+                    "red": 11
+                  }
+                },
+                {
+                  "percentage": 6.22,
+                  "rgb": {
+                    "blue": 199,
+                    "green": 194,
+                    "red": 191
+                  }
+                },
+                {
+                  "percentage": 3.59,
+                  "rgb": {
+                    "blue": 79,
+                    "green": 137,
+                    "red": 237
+                  }
+                },
+                {
+                  "percentage": 2.26,
+                  "rgb": {
+                    "blue": 234,
+                    "green": 99,
+                    "red": 37
+                  }
+                },
+                {
+                  "percentage": 0.76,
+                  "rgb": {
+                    "blue": 55,
+                    "green": 60,
+                    "red": 80
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1260,
+            "original_img_url": "https://pbs.twimg.com/media/HOukTcNWUAA93Cb.jpg",
+            "original_img_width": 2400
+          },
+          "media_key": "3_2083939906485637120"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOukkN7XIAAKAAIMVorZbZVgAQAA",
+          "media_id": "2083940194709872640",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.25,
+                  "rgb": {
+                    "blue": 239,
+                    "green": 242,
+                    "red": 243
+                  }
+                },
+                {
+                  "percentage": 1.68,
+                  "rgb": {
+                    "blue": 234,
+                    "green": 217,
+                    "red": 205
+                  }
+                },
+                {
+                  "percentage": 0.8,
+                  "rgb": {
+                    "blue": 159,
+                    "green": 209,
+                    "red": 235
+                  }
+                }
+              ]
+            },
+            "original_img_height": 485,
+            "original_img_url": "https://pbs.twimg.com/media/HOukkN7XIAArFx3.jpg",
+            "original_img_width": 914
+          },
+          "media_key": "3_2083940194709872640"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOukC2SWkAAKAAIMVorZbZVgAQAA",
+          "media_id": "2083939621428170752",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 94.48,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 253,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 1.81,
+                  "rgb": {
+                    "blue": 229,
+                    "green": 216,
+                    "red": 201
+                  }
+                },
+                {
+                  "percentage": 1.41,
+                  "rgb": {
+                    "blue": 232,
+                    "green": 201,
+                    "red": 242
+                  }
+                },
+                {
+                  "percentage": 1.28,
+                  "rgb": {
+                    "blue": 136,
+                    "green": 134,
+                    "red": 134
+                  }
+                },
+                {
+                  "percentage": 0.77,
+                  "rgb": {
+                    "blue": 186,
+                    "green": 219,
+                    "red": 203
+                  }
+                }
+              ]
+            },
+            "original_img_height": 538,
+            "original_img_url": "https://pbs.twimg.com/media/HOukC2SWkAAXJih.jpg",
+            "original_img_width": 957
+          },
+          "media_key": "3_2083939621428170752"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOukcMuWYAAKAAIMVorZbZVgAQAA",
+          "media_id": "2083940056947908608",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 77.32,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 7.52,
+                  "rgb": {
+                    "blue": 153,
+                    "green": 123,
+                    "red": 177
+                  }
+                },
+                {
+                  "percentage": 4.34,
+                  "rgb": {
+                    "blue": 120,
+                    "green": 153,
+                    "red": 164
+                  }
+                },
+                {
+                  "percentage": 3.29,
+                  "rgb": {
+                    "blue": 158,
+                    "green": 104,
+                    "red": 167
+                  }
+                },
+                {
+                  "percentage": 1.71,
+                  "rgb": {
+                    "blue": 86,
+                    "green": 166,
+                    "red": 174
+                  }
+                }
+              ]
+            },
+            "original_img_height": 509,
+            "original_img_url": "https://pbs.twimg.com/media/HOukcMuWYAAB88K.png",
+            "original_img_width": 1709
+          },
+          "media_key": "3_2083940056947908608"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOukaQ1XUAAKAAIMVorZbZVgAQAA",
+          "media_id": "2083940023691333632",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.25,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 254,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 3.09,
+                  "rgb": {
+                    "blue": 229,
+                    "green": 212,
+                    "red": 198
+                  }
+                },
+                {
+                  "percentage": 1.59,
+                  "rgb": {
+                    "blue": 156,
+                    "green": 100,
+                    "red": 40
+                  }
+                },
+                {
+                  "percentage": 1.18,
+                  "rgb": {
+                    "blue": 198,
+                    "green": 212,
+                    "red": 240
+                  }
+                },
+                {
+                  "percentage": 0.62,
+                  "rgb": {
+                    "blue": 121,
+                    "green": 176,
+                    "red": 135
+                  }
+                }
+              ]
+            },
+            "original_img_height": 480,
+            "original_img_url": "https://pbs.twimg.com/media/HOukaQ1XUAAXxjN.jpg",
+            "original_img_width": 987
+          },
+          "media_key": "3_2083940023691333632"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOukeapWsAAKAAIMVorZbZVgAQAA",
+          "media_id": "2083940095044792320",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.56,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 248,
+                    "red": 248
+                  }
+                },
+                {
+                  "percentage": 1.59,
+                  "rgb": {
+                    "blue": 240,
+                    "green": 176,
+                    "red": 194
+                  }
+                },
+                {
+                  "percentage": 1.02,
+                  "rgb": {
+                    "blue": 203,
+                    "green": 214,
+                    "red": 192
+                  }
+                },
+                {
+                  "percentage": 0.39,
+                  "rgb": {
+                    "blue": 242,
+                    "green": 191,
+                    "red": 208
+                  }
+                },
+                {
+                  "percentage": 0.23,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 201,
+                    "red": 179
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1024,
+            "original_img_url": "https://pbs.twimg.com/media/HOukeapWsAAs1GA.jpg",
+            "original_img_width": 1536
+          },
+          "media_key": "3_2083940095044792320"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

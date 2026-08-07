@@ -1,0 +1,206 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/jamonholmgren/status/2076001786700394610",
+    "id": "2076001786700394610",
+    "text": "I'm just going to dump my whole agentic setup out here, because I see too many people missing giant chunks of this and it's hurting them.\n\nHere's what I have and recommend:\n\n0. an AGENTS.md that is a router -- it sends the agent to the right skills, docs, tools\n\n1. a standard workflow doc/skill customized to my needs ... (grab Matt Pocock skills if you don't already have something) ... I tag this in most sessions with `@/AGENT_WORKFLOW.md` and it pulls it in.\n\n2. self-healing docs for every system, and agents are instructed to keep them updated ... I tag the ones I know I need, or let the agent find them through AGENTS.md ... I also provide a more detailed summary in the first 7 lines of every doc, so they're easily greppable to find the right thing, and this is documented in AGENTS.md\n\n3. agents always run the app ... the agent should always actually run the app itself, and test its work and fix issues as it goes, especially if running autonomously / asynchronously\n\n4. end-to-end tests and instructions to write more and keep up to date, and docs on how to write tests, what to  avoid, and a list of all the tests and what they test in yet another markdown doc ... write and run targeted tests during implementation, improve and commit with work\n\n5. custom linters at precommit hooks looking for any problems you run across, with `--fix` fixing the problems automatically, OR if that's not feasible, it shells out to a cheaper LLM like Composer 2.5 or Sonnet to fix the problems -- NOT just flagging them, but actually resulting in cleaned code\n\n6. cross-agent review at each major point: research, plan, implementation, and wrap-up. I mean codex, claude, cursor, whatever -- but it shouldn't be the same model reviewing the same code. And specific docs for agent review, what to look for, how to approach it. Also, personas -- looking at the code from different perspectives, such as maintainability, code quality, security, performance, AI smells, domains (e.g. \"financial services expert\" or whatever) ... and each persona also \"owns\" a set of system docs too and keeps them up to date\n\n7. agent traces / worksheets that track what the agent is doing each session. if the agent fails partway through, you should be able to hand this worksheet to another agent and it could finish the job. commit this worksheet with the work so it's all connected and easy to reference later (you will reference these later!!), also have the agent apply git tags that correspond to specific worksheet names so they're easy to find\n\n8. automatic agent feedback to you at the end of the session, added to a doc that is also committed with the work, that you periodically ingest into an interactive session and improve your workflows\n\n9. a tools or bin folder that contains python or bash scripts that the agent has skills to make to make its job easier (for example, I have an `agent_review` bash script that lets the agent kick off agent reviews via CLI without knowing each agent's particular incantations) ... docs on how to make scripts effectively, and instructions to constantly build these out more\n\n10. periodic agent sweeps through recent commits, looking for problems / gotchas from a higher level across commits\n\n11. a coding conventions doc that is just for specific coding conventions you want to see in the code base, your review agents use these a lot (but a lot of this should be in linters)\n\n12. an agent loop / night shift skill for autonomous work, that lays out how the agent is to approach this, from an orchestration standpoint\n\n13. a task queue that is accessible to the agent (mine is just a TODOS.md, but yours might be in Linear etc, with a CLI to fetch via API)\n\n14. a periodic false-confidence test audit skill that looks for tests that aren't actually testing what you think they're testing, and that fix those\n\n15. visual regression tests -- take screenshots, compare via tool and with agent visual review, commit with work (git lfs useful here) or at least push into the PR\n\n16. automatic performance benchmark tests that notice when performance degrades\n\n17. performance profiling tools that can be used by agents for targeted benchmarking, trying new techniques, comparing outputs, and comparing profiles\n\n18. end-of-shift full validations, including running all tests, performance, agent reviews, sweeps, everything -- when you return, it's all as pristine as it can be\n\nIf you have all this, your agentic coding experience is going to be very different than dry prompting and manually guiding it toward the right thing every time.",
+    "raw_text": {
+      "text": "I'm just going to dump my whole agentic setup out here, because I see too many people missing giant chunks of this and it's hurting them.\n\nHere's what I have and recommend:\n\n0. an AGENTS.md that is a router -- it sends the agent to the right skills, docs, tools\n\n1. a standard workflow doc/skill customized to my needs ... (grab Matt Pocock skills if you don't already have something) ... I tag this in most sessions with `@/AGENT_WORKFLOW.md` and it pulls it in.\n\n2. self-healing docs for every system, and agents are instructed to keep them updated ... I tag the ones I know I need, or let the agent find them through AGENTS.md ... I also provide a more detailed summary in the first 7 lines of every doc, so they're easily greppable to find the right thing, and this is documented in AGENTS.md\n\n3. agents always run the app ... the agent should always actually run the app itself, and test its work and fix issues as it goes, especially if running autonomously / asynchronously\n\n4. end-to-end tests and instructions to write more and keep up to date, and docs on how to write tests, what to  avoid, and a list of all the tests and what they test in yet another markdown doc ... write and run targeted tests during implementation, improve and commit with work\n\n5. custom linters at precommit hooks looking for any problems you run across, with `--fix` fixing the problems automatically, OR if that's not feasible, it shells out to a cheaper LLM like Composer 2.5 or Sonnet to fix the problems -- NOT just flagging them, but actually resulting in cleaned code\n\n6. cross-agent review at each major point: research, plan, implementation, and wrap-up. I mean codex, claude, cursor, whatever -- but it shouldn't be the same model reviewing the same code. And specific docs for agent review, what to look for, how to approach it. Also, personas -- looking at the code from different perspectives, such as maintainability, code quality, security, performance, AI smells, domains (e.g. \"financial services expert\" or whatever) ... and each persona also \"owns\" a set of system docs too and keeps them up to date\n\n7. agent traces / worksheets that track what the agent is doing each session. if the agent fails partway through, you should be able to hand this worksheet to another agent and it could finish the job. commit this worksheet with the work so it's all connected and easy to reference later (you will reference these later!!), also have the agent apply git tags that correspond to specific worksheet names so they're easy to find\n\n8. automatic agent feedback to you at the end of the session, added to a doc that is also committed with the work, that you periodically ingest into an interactive session and improve your workflows\n\n9. a tools or bin folder that contains python or bash scripts that the agent has skills to make to make its job easier (for example, I have an `agent_review` bash script that lets the agent kick off agent reviews via CLI without knowing each agent's particular incantations) ... docs on how to make scripts effectively, and instructions to constantly build these out more\n\n10. periodic agent sweeps through recent commits, looking for problems / gotchas from a higher level across commits\n\n11. a coding conventions doc that is just for specific coding conventions you want to see in the code base, your review agents use these a lot (but a lot of this should be in linters)\n\n12. an agent loop / night shift skill for autonomous work, that lays out how the agent is to approach this, from an orchestration standpoint\n\n13. a task queue that is accessible to the agent (mine is just a TODOS.md, but yours might be in Linear etc, with a CLI to fetch via API)\n\n14. a periodic false-confidence test audit skill that looks for tests that aren't actually testing what you think they're testing, and that fix those\n\n15. visual regression tests -- take screenshots, compare via tool and with agent visual review, commit with work (git lfs useful here) or at least push into the PR\n\n16. automatic performance benchmark tests that notice when performance degrades\n\n17. performance profiling tools that can be used by agents for targeted benchmarking, trying new techniques, comparing outputs, and comparing profiles\n\n18. end-of-shift full validations, including running all tests, performance, agent reviews, sweeps, everything -- when you return, it's all as pristine as it can be\n\nIf you have all this, your agentic coding experience is going to be very different than dry prompting and manually guiding it toward the right thing every time.",
+      "display_text_range": [
+        0,
+        4565
+      ],
+      "facets": [
+        {
+          "type": "bold",
+          "indices": [
+            180,
+            189
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            268,
+            285
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            468,
+            502
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            815,
+            826
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            985,
+            1001
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            1266,
+            1299
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            1565,
+            1583
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            2109,
+            2134
+          ]
+        },
+        {
+          "type": "italic",
+          "indices": [
+            2399,
+            2403
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            2537,
+            2561
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            2737,
+            2758
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            3111,
+            3132
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            3230,
+            3252
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            3416,
+            3440
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            3557,
+            3567
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            3705,
+            3732
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            3845,
+            3868
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            4020,
+            4047
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            4091,
+            4118
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            4256,
+            4272
+          ]
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "jamonholmgren",
+      "url": "https://x.com/jamonholmgren",
+      "id": "30273948",
+      "followers": 34485,
+      "following": 4264,
+      "likes": 221835,
+      "media_count": 9485,
+      "name": "Jamon",
+      "description": "Obsessed with coding since 1992. Founder/CEO @infinite_red, game dev @jammingames (Gunship Origins with MicroProse), hockey goalie, Lutheran, dad x4, gpa x1.",
+      "raw_description": {
+        "text": "Obsessed with coding since 1992. Founder/CEO @infinite_red, game dev @jammingames (Gunship Origins with MicroProse), hockey goalie, Lutheran, dad x4, gpa x1.",
+        "facets": []
+      },
+      "location": "Vancouver, WA",
+      "banner_url": "https://pbs.twimg.com/profile_banners/30273948/1677434237",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1712505856905170944/LDFMYGSQ_200x200.jpg",
+      "joined": "Fri Apr 10 18:09:08 +0000 2009",
+      "protected": false,
+      "website": {
+        "url": "https://jamon.dev",
+        "display_url": "jamon.dev"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 152,
+    "retweets": 262,
+    "likes": 4022,
+    "bookmarks": 10382,
+    "quotes": 34,
+    "created_at": "Sat Jul 11 17:52:50 +0000 2026",
+    "created_timestamp": 1783792370,
+    "views": 346018,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

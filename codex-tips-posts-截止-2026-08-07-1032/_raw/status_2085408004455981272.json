@@ -1,0 +1,201 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/reach_vb/status/2085408004455981272",
+    "id": "2085408004455981272",
+    "text": "codex tip: ask your codex use the visualize skill when explaining things to you\n\n\"add this to my agents md: When explaining something to the user, use the Visualize skill.\"",
+    "raw_text": {
+      "text": "codex tip: ask your codex use the visualize skill when explaining things to you\n\n\"add this to my agents md: When explaining something to the user, use the Visualize skill.\" https://t.co/znEXdtAFUO",
+      "display_text_range": [
+        0,
+        172
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            173,
+            196
+          ],
+          "id": "2085407460677103616",
+          "display": "pic.x.com/znEXdtAFUO",
+          "original": "https://t.co/znEXdtAFUO",
+          "replacement": "https://x.com/reach_vb/status/2085408004455981272/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "reach_vb",
+      "url": "https://x.com/reach_vb",
+      "id": "874987512850128897",
+      "followers": 55620,
+      "following": 297,
+      "likes": 23520,
+      "media_count": 2040,
+      "name": "Vaibhav (VB) Srivastav",
+      "description": "founder mode @OpenAI | ex @huggingface | F1 fan | Here for @at_sofdog’s wisdom | *opinions my own",
+      "raw_description": {
+        "text": "founder mode @OpenAI | ex @huggingface | F1 fan | Here for @at_sofdog’s wisdom | *opinions my own",
+        "facets": []
+      },
+      "location": "codex -m gpt 5.6-sol",
+      "banner_url": "https://pbs.twimg.com/profile_banners/874987512850128897/1651638851",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1509901130670747666/JFlrSzB4_200x200.jpg",
+      "joined": "Wed Jun 14 13:50:54 +0000 2017",
+      "protected": false,
+      "website": {
+        "url": "http://vaibhavs10.github.io",
+        "display_url": "vaibhavs10.github.io"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 22,
+    "retweets": 35,
+    "likes": 649,
+    "bookmarks": 822,
+    "quotes": 5,
+    "created_at": "Thu Aug 06 16:49:47 +0000 2026",
+    "created_timestamp": 1786034987,
+    "possibly_sensitive": false,
+    "views": 72217,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085407460677103616",
+          "url": "https://pbs.twimg.com/media/HPDbCVmbsAASEyc.jpg?name=orig",
+          "width": 1884,
+          "height": 918
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085407460677103616",
+          "url": "https://pbs.twimg.com/media/HPDbCVmbsAASEyc.jpg?name=orig",
+          "width": 1884,
+          "height": 918
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/jxnlco/status/2085389600487624727",
+      "id": "2085389600487624727",
+      "text": "99% of people don't know you can tell your chief of staff thread to use `/visualize`\n\nI have a pinned travel thread that tells me my travel schedule. @PhilippSpiess has done incredible work here",
+      "raw_text": {
+        "text": "99% of people don't know you can tell your chief of staff thread to use `/visualize`\n\nI have a pinned travel thread that tells me my travel schedule. @PhilippSpiess has done incredible work here https://t.co/tKKhRTA8nK",
+        "display_text_range": [
+          0,
+          194
+        ],
+        "facets": [
+          {
+            "type": "mention",
+            "indices": [
+              150,
+              164
+            ],
+            "original": "PhilippSpiess",
+            "id": "24545598"
+          },
+          {
+            "type": "media",
+            "indices": [
+              195,
+              218
+            ],
+            "id": "2085388133370408960",
+            "display": "pic.x.com/tKKhRTA8nK",
+            "original": "https://t.co/tKKhRTA8nK",
+            "replacement": "https://x.com/jxnlco/status/2085389600487624727/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "jxnlco",
+        "url": "https://x.com/jxnlco",
+        "id": "17203692",
+        "followers": 124473,
+        "following": 2817,
+        "likes": 7966,
+        "media_count": 3752,
+        "name": "jason",
+        "description": "vibes @openai",
+        "raw_description": {
+          "text": "vibes @openai",
+          "facets": []
+        },
+        "location": "San Francisco, CA",
+        "banner_url": "",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2079316705029832704/Cb5f0ORi_200x200.jpg",
+        "joined": "Thu Nov 06 02:36:46 +0000 2008",
+        "protected": false,
+        "website": {
+          "url": "http://jxnl.co",
+          "display_url": "jxnl.co"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 29,
+      "retweets": 12,
+      "likes": 328,
+      "bookmarks": 255,
+      "quotes": 8,
+      "created_at": "Thu Aug 06 15:36:40 +0000 2026",
+      "created_timestamp": 1786030600,
+      "possibly_sensitive": false,
+      "views": 104266,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2085388133370408960",
+            "url": "https://pbs.twimg.com/media/HPDJdVxbsAAC4MT.jpg?name=orig",
+            "width": 1244,
+            "height": 1168
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2085388133370408960",
+            "url": "https://pbs.twimg.com/media/HPDJdVxbsAAC4MT.jpg?name=orig",
+            "width": 1244,
+            "height": 1168
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

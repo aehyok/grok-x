@@ -1,0 +1,86 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/nini_incrypto_/status/2076660274770440452",
+    "id": "2076660274770440452",
+    "text": "Workbuddy最搞钱的8个skill\n\n1 xhs-ops 小红书代运营\n账号定位 + 爆款选题 + 文案仿写 + 数据复盘\n接单用来做账号诊断、内容规划，博主起号刚需\n\n2 claude-finance 金融分析\n拆解财报、整理企业资料、输出研报框架\n适合投研、财经自媒体，可卖个股深度分析报告\n\n3 claude-legal 企业法务\n自动筛查合同风险、标注异常条款\n创业者 / 中小企业刚需，交付合同风险清单就能收费\n\n4 cross-border-skill 跨境电商\n亚马逊 / TikTok/Shopify 选品 + 竞品调研\n打包成选品方案、店铺运营报告，跨境卖家愿意买单\n\n5 markitdown 文档转换\nPDF / 图片 / 网页一键清洗转 Markdown\n搭建 RAG、企业知识库必备，资料整理服务核心工具\n\n6 Open-LLM-VTuber 虚拟主播\n本地 AI 数字人，自定义形象音色\n可出直播 demo、虚拟客服方案，可视化效果超好成交\n\n7 skill-store 一键技能安装包\n内置 72 款热门 Skill，可打包自媒体 / 投研 / 电商行业套装\n\n8 last30days-skill 选题雷达\n抓取海外平台 30天热点，自动生成选题库给品牌、内容团队做热点周报、竞品监测",
+    "raw_text": {
+      "text": "Workbuddy最搞钱的8个skill\n\n1 xhs-ops 小红书代运营\n账号定位 + 爆款选题 + 文案仿写 + 数据复盘\n接单用来做账号诊断、内容规划，博主起号刚需\n\n2 claude-finance 金融分析\n拆解财报、整理企业资料、输出研报框架\n适合投研、财经自媒体，可卖个股深度分析报告\n\n3 claude-legal 企业法务\n自动筛查合同风险、标注异常条款\n创业者 / 中小企业刚需，交付合同风险清单就能收费\n\n4 cross-border-skill 跨境电商\n亚马逊 / TikTok/Shopify 选品 + 竞品调研\n打包成选品方案、店铺运营报告，跨境卖家愿意买单\n\n5 markitdown 文档转换\nPDF / 图片 / 网页一键清洗转 Markdown\n搭建 RAG、企业知识库必备，资料整理服务核心工具\n\n6 Open-LLM-VTuber 虚拟主播\n本地 AI 数字人，自定义形象音色\n可出直播 demo、虚拟客服方案，可视化效果超好成交\n\n7 skill-store 一键技能安装包\n内置 72 款热门 Skill，可打包自媒体 / 投研 / 电商行业套装\n\n8 last30days-skill 选题雷达\n抓取海外平台 30天热点，自动生成选题库给品牌、内容团队做热点周报、竞品监测",
+      "display_text_range": [
+        0,
+        561
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "nini_incrypto_",
+      "url": "https://x.com/nini_incrypto_",
+      "id": "2033549131797733376",
+      "followers": 19365,
+      "following": 1229,
+      "likes": 26226,
+      "media_count": 373,
+      "name": "nini",
+      "description": "07大二在读\n长期关注美股、crypto、AI\n交流群https://t.me/+Sw4BvUnJWcFjNjRl\n全类AI产品代充https://nini.kbshub.store",
+      "raw_description": {
+        "text": "07大二在读\n长期关注美股、crypto、AI\n交流群https://t.co/9A9lWfawIP\n全类AI产品代充https://t.co/KP6assFb8W",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              27,
+              50
+            ],
+            "original": "https://t.co/9A9lWfawIP",
+            "replacement": "https://t.me/+Sw4BvUnJWcFjNjRl",
+            "display": "t.me/+Sw4BvUnJWcFjN…"
+          },
+          {
+            "type": "url",
+            "indices": [
+              59,
+              82
+            ],
+            "original": "https://t.co/KP6assFb8W",
+            "replacement": "https://nini.kbshub.store",
+            "display": "nini.kbshub.store"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2033549131797733376/1774090328",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2035875407359262720/qVUpg1XW_200x200.jpg",
+      "joined": "Mon Mar 16 14:26:02 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "https://linktr.ee/nini.onchain",
+        "display_url": "linktr.ee/nini.onchain"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 20,
+    "retweets": 102,
+    "likes": 463,
+    "bookmarks": 439,
+    "quotes": 3,
+    "created_at": "Mon Jul 13 13:29:26 +0000 2026",
+    "created_timestamp": 1783949366,
+    "views": 29817,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter for iPhone",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/mattpocockuk/status/2084985277102031137",
+    "id": "2084985277102031137",
+    "text": "mattpocock/skills v1.2 is out!\n\nWe're now the 19th most-starred repo of all time. 13.5m downloads on skills​.sh. Thanks for your support!\n\nHere's what's new:\n\n- Docs: the community's biggest ask. Every skill documented, with explanations of the main flows + troubleshooting\n- Claude Plugin: install via Claude's official marketplace\n- Codex Support: full Codex support via agents/openai.yaml files\n\nUpdated Skills:\n\n- /grilling now asks you questions in rounds, not one-by-one\n- /prototype now uses HTML instead of a TUI for building logic prototypes - easier to share and far richer\n- /writing-for-agents renamed from /writing-great-skills, use it for ANYTHING your agents read (AGENTS.md, system prompts, docs)\n\nNew Skills:\n\n- /wizard: tired of provisioning infra? Get your agent to build you a TUI to walk you through it\n- /to-questionnaire: hit a grilling question you can't answer? Turn the session into a doc you can walk through on a call with a colleague\n- /wait-what: no idea what the model said? Refocus it in your domain language and simplify with ASD-STE100\n\nFull changelog + docs below. Video soon!",
+    "raw_text": {
+      "text": "mattpocock/skills v1.2 is out!\n\nWe're now the 19th most-starred repo of all time. 13.5m downloads on skills​.sh. Thanks for your support!\n\nHere's what's new:\n\n- Docs: the community's biggest ask. Every skill documented, with explanations of the main flows + troubleshooting\n- Claude Plugin: install via Claude's official marketplace\n- Codex Support: full Codex support via agents/openai.yaml files\n\nUpdated Skills:\n\n- /grilling now asks you questions in rounds, not one-by-one\n- /prototype now uses HTML instead of a TUI for building logic prototypes - easier to share and far richer\n- /writing-for-agents renamed from /writing-great-skills, use it for ANYTHING your agents read (AGENTS.md, system prompts, docs)\n\nNew Skills:\n\n- /wizard: tired of provisioning infra? Get your agent to build you a TUI to walk you through it\n- /to-questionnaire: hit a grilling question you can't answer? Turn the session into a doc you can walk through on a call with a colleague\n- /wait-what: no idea what the model said? Refocus it in your domain language and simplify with ASD-STE100\n\nFull changelog + docs below. Video soon!",
+      "display_text_range": [
+        0,
+        1111
+      ],
+      "facets": [
+        {
+          "type": "bold",
+          "indices": [
+            161,
+            165
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            276,
+            289
+          ]
+        },
+        {
+          "type": "media",
+          "indices": [
+            276,
+            299
+          ],
+          "id": "2084982491807371265",
+          "display": "pic.x.com/n759FjCIxb",
+          "original": "https://t.co/n759FjCIxb",
+          "replacement": "https://x.com/mattpocockuk/status/2084985277102031137/photo/1"
+        },
+        {
+          "type": "bold",
+          "indices": [
+            335,
+            348
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            418,
+            427
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            479,
+            489
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            586,
+            605
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            729,
+            736
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            826,
+            843
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            965,
+            975
+          ]
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "mattpocockuk",
+      "url": "https://x.com/mattpocockuk",
+      "id": "346640777",
+      "followers": 323799,
+      "following": 796,
+      "likes": 64294,
+      "media_count": 2723,
+      "name": "Matt Pocock",
+      "description": "I teach devs for a living. Author of Total TypeScript and AI Hero. Ex-@vercel. Used to be a voice coach.",
+      "raw_description": {
+        "text": "I teach devs for a living. Author of Total TypeScript and AI Hero. Ex-@vercel. Used to be a voice coach.",
+        "facets": []
+      },
+      "location": "Oxford, England",
+      "banner_url": "https://pbs.twimg.com/profile_banners/346640777/1779721449",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1666460461884211204/SmBm505D_200x200.jpg",
+      "joined": "Mon Aug 01 16:08:26 +0000 2011",
+      "protected": false,
+      "website": {
+        "url": "https://aihero.dev",
+        "display_url": "aihero.dev"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 143,
+    "retweets": 479,
+    "likes": 5739,
+    "bookmarks": 5218,
+    "quotes": 79,
+    "created_at": "Wed Aug 05 12:50:01 +0000 2026",
+    "created_timestamp": 1785934201,
+    "possibly_sensitive": false,
+    "views": 567515,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2084982491807371265",
+          "url": "https://pbs.twimg.com/media/HO9Yh5MWUAE7p-b.jpg?name=orig",
+          "width": 1435,
+          "height": 667
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2084982491807371265",
+          "url": "https://pbs.twimg.com/media/HO9Yh5MWUAE7p-b.jpg?name=orig",
+          "width": 1435,
+          "height": 667
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

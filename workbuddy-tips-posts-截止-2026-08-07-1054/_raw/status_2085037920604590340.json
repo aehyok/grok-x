@@ -1,0 +1,216 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/qilua02/status/2085037920604590340",
+    "id": "2085037920604590340",
+    "text": "Fucking ~3 Billion FREEEEEEEEEE TOKENS!!!!! 🔥\n\nTencent’s Hy3 model is free on WorkBuddy till Aug 31. With 26 days left, using ~100M tokens a day equals ~3B total tokens for zero dollars.\n\nSite: http://workbuddy.ai\n\nTime to drain the quota dry until there's nothing left!",
+    "raw_text": {
+      "text": "Fucking ~3 Billion FREEEEEEEEEE TOKENS!!!!! 🔥\n\nTencent’s Hy3 model is free on WorkBuddy till Aug 31. With 26 days left, using ~100M tokens a day equals ~3B total tokens for zero dollars.\n\nSite: https://t.co/aOApZZOhnA\n\nTime to drain the quota dry until there's nothing left! https://t.co/4gpSuRmM4K",
+      "display_text_range": [
+        0,
+        274
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            194,
+            217
+          ],
+          "original": "https://t.co/aOApZZOhnA",
+          "replacement": "http://workbuddy.ai",
+          "display": "workbuddy.ai"
+        },
+        {
+          "type": "media",
+          "indices": [
+            275,
+            298
+          ],
+          "id": "2085037796314779648",
+          "display": "pic.x.com/4gpSuRmM4K",
+          "original": "https://t.co/4gpSuRmM4K",
+          "replacement": "https://x.com/qilua02/status/2085037920604590340/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "qilua02",
+      "url": "https://x.com/qilua02",
+      "id": "2000931902002487302",
+      "followers": 856,
+      "following": 1380,
+      "likes": 44,
+      "media_count": 253,
+      "name": "qilua",
+      "description": "AI, Tech, part time troll",
+      "raw_description": {
+        "text": "AI, Tech, part time troll",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2000931902002487302/1780726170",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2063141199633158144/fsiDeRHn_200x200.jpg",
+      "joined": "Tue Dec 16 14:12:15 +0000 2025",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": false,
+        "verified_at": null,
+        "type": null
+      },
+      "avatar_color": null
+    },
+    "replies": 5,
+    "retweets": 14,
+    "likes": 245,
+    "bookmarks": 249,
+    "quotes": 1,
+    "created_at": "Wed Aug 05 16:19:13 +0000 2026",
+    "created_timestamp": 1785946753,
+    "possibly_sensitive": false,
+    "views": 16555,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085037796314779648",
+          "url": "https://pbs.twimg.com/media/HO-K1CibEAAK54d.png?name=orig",
+          "width": 359,
+          "height": 528
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085037796314779648",
+          "url": "https://pbs.twimg.com/media/HO-K1CibEAAK54d.png?name=orig",
+          "width": 359,
+          "height": 528
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/qilua02/status/2084903882787045500",
+      "id": "2084903882787045500",
+      "text": "1B FREEEEEEEEEE tokens until Aug 12! 🔥\n\nmodels: \n• deepseek-v4-flash \n• gemma-4-31B-it-fp8 \n• Qwen3.6-35B-A3B-FP8 \n...and more! 👀\n\nWeb: http://inferx.net \nBase URL: https://model.inferx.net/endpoints/v1\n\nMilk it dry before it ends!!!!",
+      "raw_text": {
+        "text": "1B FREEEEEEEEEE tokens until Aug 12! 🔥\n\nmodels: \n• deepseek-v4-flash \n• gemma-4-31B-it-fp8 \n• Qwen3.6-35B-A3B-FP8 \n...and more! 👀\n\nWeb: https://t.co/HOveNc8VQk \nBase URL: https://t.co/xurcKJTWac\n\nMilk it dry before it ends!!!! https://t.co/8cs8GJVWUO",
+        "display_text_range": [
+          0,
+          226
+        ],
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              136,
+              159
+            ],
+            "original": "https://t.co/HOveNc8VQk",
+            "replacement": "http://inferx.net",
+            "display": "inferx.net"
+          },
+          {
+            "type": "url",
+            "indices": [
+              171,
+              194
+            ],
+            "original": "https://t.co/xurcKJTWac",
+            "replacement": "https://model.inferx.net/endpoints/v1",
+            "display": "model.inferx.net/endpoints/v1"
+          },
+          {
+            "type": "media",
+            "indices": [
+              227,
+              250
+            ],
+            "id": "2084902342735093760",
+            "display": "pic.x.com/8cs8GJVWUO",
+            "original": "https://t.co/8cs8GJVWUO",
+            "replacement": "https://x.com/qilua02/status/2084903882787045500/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "qilua02",
+        "url": "https://x.com/qilua02",
+        "id": "2000931902002487302",
+        "followers": 856,
+        "following": 1380,
+        "likes": 44,
+        "media_count": 253,
+        "name": "qilua",
+        "description": "AI, Tech, part time troll",
+        "raw_description": {
+          "text": "AI, Tech, part time troll",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/2000931902002487302/1780726170",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2063141199633158144/fsiDeRHn_200x200.jpg",
+        "joined": "Tue Dec 16 14:12:15 +0000 2025",
+        "protected": false,
+        "website": null,
+        "verification": {
+          "verified": false,
+          "verified_at": null,
+          "type": null
+        },
+        "avatar_color": null
+      },
+      "replies": 13,
+      "retweets": 39,
+      "likes": 485,
+      "bookmarks": 560,
+      "quotes": 3,
+      "created_at": "Wed Aug 05 07:26:35 +0000 2026",
+      "created_timestamp": 1785914795,
+      "possibly_sensitive": false,
+      "views": 59934,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2084902342735093760",
+            "url": "https://pbs.twimg.com/media/HO8Pomoa4AAvvEH.jpg?name=orig",
+            "width": 1093,
+            "height": 621
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2084902342735093760",
+            "url": "https://pbs.twimg.com/media/HO8Pomoa4AAvvEH.jpg?name=orig",
+            "width": 1093,
+            "height": 621
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

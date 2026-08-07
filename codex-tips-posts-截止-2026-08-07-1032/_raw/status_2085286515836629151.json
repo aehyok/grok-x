@@ -1,0 +1,87 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Suu766/status/2085286515836629151",
+    "id": "2085286515836629151",
+    "text": "我发现还有很多人不知道，Codex 的 Skill 其实可以自己更新自己？？\n\n你的工作流每天都在变，但 skill.md 还停在创建那天\n\n真正会用的人，已经让 Codex 每周复盘过去 7 天的会话和日志，只根据反复出现的使用习惯，自动更新指定 Skill\n\n直接复制：\n\n“设置一个每周自动运行的任务，审查我过去 7 天可访问的 Codex 会话历史记录和日志，然后自动更新名为 [skill name] 的技能及其 skill.md 文件，以反映我当前的工作流程。\n\n仅基于重复证据进行更改。保留有用的现有指令，避免无关的重写，仅更新此技能文件。不要包含机密或个人数据。应用更改后，报告一个简洁的摘要。如果没有发现有意义的更改，则保持文件不变并报告这一点。”\n\n别人还在到处下载 Skill\n\n你的 Skill，已经开始根据你的使用记录自己升级了\n\n未来真正拉开差距的，不是谁的 Skill 更多，而是谁的 Skill 越用越懂自己",
+    "raw_text": {
+      "text": "我发现还有很多人不知道，Codex 的 Skill 其实可以自己更新自己？？\n\n你的工作流每天都在变，但 skill.md 还停在创建那天\n\n真正会用的人，已经让 Codex 每周复盘过去 7 天的会话和日志，只根据反复出现的使用习惯，自动更新指定 Skill\n\n直接复制：\n\n“设置一个每周自动运行的任务，审查我过去 7 天可访问的 Codex 会话历史记录和日志，然后自动更新名为 [skill name] 的技能及其 skill.md 文件，以反映我当前的工作流程。\n\n仅基于重复证据进行更改。保留有用的现有指令，避免无关的重写，仅更新此技能文件。不要包含机密或个人数据。应用更改后，报告一个简洁的摘要。如果没有发现有意义的更改，则保持文件不变并报告这一点。”\n\n别人还在到处下载 Skill\n\n你的 Skill，已经开始根据你的使用记录自己升级了\n\n未来真正拉开差距的，不是谁的 Skill 更多，而是谁的 Skill 越用越懂自己",
+      "display_text_range": [
+        0,
+        420
+      ],
+      "facets": [
+        {
+          "type": "bold",
+          "indices": [
+            0,
+            38
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            132,
+            137
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            379,
+            420
+          ]
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Suu766",
+      "url": "https://x.com/Suu766",
+      "id": "1875420384247640064",
+      "followers": 24371,
+      "following": 1152,
+      "likes": 23259,
+      "media_count": 1014,
+      "name": "Suu",
+      "description": "抽象大学生｜AI & Web3 干货实践者\n把信息差变成普通人能直接用的机会 ⚡\n空投 · 本地 Agent · X增长 · 实用工具\n只分享亲自验证的经验",
+      "raw_description": {
+        "text": "抽象大学生｜AI & Web3 干货实践者\n把信息差变成普通人能直接用的机会 ⚡\n空投 · 本地 Agent · X增长 · 实用工具\n只分享亲自验证的经验",
+        "facets": []
+      },
+      "location": "Suu：",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1875420384247640064/1782534624",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2070726018491613184/S-yznhhJ_200x200.jpg",
+      "joined": "Sat Jan 04 05:54:09 +0000 2025",
+      "protected": false,
+      "website": {
+        "url": "http://conso.tg/c/suuu",
+        "display_url": "conso.tg/c/suuu"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 94,
+    "retweets": 0,
+    "likes": 20,
+    "bookmarks": 7,
+    "quotes": 0,
+    "created_at": "Thu Aug 06 08:47:02 +0000 2026",
+    "created_timestamp": 1786006022,
+    "views": 6118,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

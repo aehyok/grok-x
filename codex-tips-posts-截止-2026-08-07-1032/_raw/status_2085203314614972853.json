@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/kun66666677/status/2085203314614972853",
+    "id": "2085203314614972853",
+    "text": "AI剪视频，现在已经开始进入自动化生产阶段  \n\n最近发现一个开源项目：OpenMontage  \n\nGitHub 上热度增长很快，Star 已超过 4.5 万  \n\n它的思路不是做一个普通的视频剪辑工具，\n\n而是把 Claude Code、Cursor、Codex 这类 AI 编程助手，变成一个视频制作工作流  \n\n你只需要输入一个想法，它可以协助完成： \n选题和脚本生成 \n素材整理 \n配音与字幕 \n视频剪辑 \n自动合成  \n\n甚至可以把一条爆款视频丢进去，让 AI 分析 内容结构 镜头节奏 叙事方式 视觉风格，然后生成不同方向的创作方案  \n\n内层内置12条视频生产流水线、100+工具、700+ Agent Skills，从创意到成片几乎一站式搞定\n\n对内容创业的人来说，这类工具值得关注",
+    "raw_text": {
+      "text": "AI剪视频，现在已经开始进入自动化生产阶段  \n\n最近发现一个开源项目：OpenMontage  \n\nGitHub 上热度增长很快，Star 已超过 4.5 万  \n\n它的思路不是做一个普通的视频剪辑工具，\n\n而是把 Claude Code、Cursor、Codex 这类 AI 编程助手，变成一个视频制作工作流  \n\n你只需要输入一个想法，它可以协助完成： \n选题和脚本生成 \n素材整理 \n配音与字幕 \n视频剪辑 \n自动合成  \n\n甚至可以把一条爆款视频丢进去，让 AI 分析 内容结构 镜头节奏 叙事方式 视觉风格，然后生成不同方向的创作方案  \n\n内层内置12条视频生产流水线、100+工具、700+ Agent Skills，从创意到成片几乎一站式搞定\n\n对内容创业的人来说，这类工具值得关注",
+      "display_text_range": [
+        0,
+        350
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "kun66666677",
+      "url": "https://x.com/kun66666677",
+      "id": "1952285643503255552",
+      "followers": 4629,
+      "following": 892,
+      "likes": 460,
+      "media_count": 27,
+      "name": "想赚钱的坤",
+      "description": "专注于web3 空投 币圈，美股学习，AI干货\n努力努力再努力！\n事在认为！\n合作: https://t.me/kun66666677",
+      "raw_description": {
+        "text": "专注于web3 空投 币圈，美股学习，AI干货\n努力努力再努力！\n事在认为！\n合作: https://t.co/OUrxgLlSeL",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              43,
+              66
+            ],
+            "original": "https://t.co/OUrxgLlSeL",
+            "replacement": "https://t.me/kun66666677",
+            "display": "t.me/kun66666677"
+          }
+        ]
+      },
+      "location": "TG群👉",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1952285643503255552/1785828956",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2028777171104477184/o5IfMLJp_200x200.jpg",
+      "joined": "Mon Aug 04 08:29:12 +0000 2025",
+      "protected": false,
+      "website": {
+        "url": "https://t.me/kunnb77777",
+        "display_url": "t.me/kunnb77777"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 48,
+    "retweets": 25,
+    "likes": 134,
+    "bookmarks": 159,
+    "quotes": 1,
+    "created_at": "Thu Aug 06 03:16:26 +0000 2026",
+    "created_timestamp": 1785986186,
+    "views": 11265,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

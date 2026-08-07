@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/webtekno/status/2085259697485996532",
+    "id": "2085259697485996532",
+    "text": "Tencent, 295 milyar parametreli yeni yapay zekâ modeli Hy3’ü dünya genelinde kullanıma açtı. \n\nModel; güçlü akıl yürütme, kodlama, veri analizi ve yapay zekâ ajanı özellikleriyle öne çıkıyor.\n\nHy3’e WorkBuddy, Tencent Design Miora, Tencent Cloud TokenHub ve API üzerinden erişilebiliyor. WorkBuddy, 31 Ağustos 2026’ya kadar ücretsiz kullanılabilecek.\n\nApache 2.0 lisansıyla yayımlanan model, ticari projelerde kullanılabiliyor. 256 bin token bağlam desteği sunan Hy3, düşük API maliyeti ve yüksek görev başarısıyla geliştiricileri ve şirketleri hedefliyor.",
+    "raw_text": {
+      "text": "Tencent, 295 milyar parametreli yeni yapay zekâ modeli Hy3’ü dünya genelinde kullanıma açtı. \n\nModel; güçlü akıl yürütme, kodlama, veri analizi ve yapay zekâ ajanı özellikleriyle öne çıkıyor.\n\nHy3’e WorkBuddy, Tencent Design Miora, Tencent Cloud TokenHub ve API üzerinden erişilebiliyor. WorkBuddy, 31 Ağustos 2026’ya kadar ücretsiz kullanılabilecek.\n\nApache 2.0 lisansıyla yayımlanan model, ticari projelerde kullanılabiliyor. 256 bin token bağlam desteği sunan Hy3, düşük API maliyeti ve yüksek görev başarısıyla geliştiricileri ve şirketleri hedefliyor.",
+      "display_text_range": [
+        0,
+        556
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            272,
+            295
+          ],
+          "id": "2085259651264704512",
+          "display": "pic.x.com/yK6oCZBPmv",
+          "original": "https://t.co/yK6oCZBPmv",
+          "replacement": "https://x.com/webtekno/status/2085259697485996532/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            272,
+            295
+          ],
+          "id": "2085259681061048320",
+          "display": "pic.x.com/yK6oCZBPmv",
+          "original": "https://t.co/yK6oCZBPmv",
+          "replacement": "https://x.com/webtekno/status/2085259697485996532/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "webtekno",
+      "url": "https://x.com/webtekno",
+      "id": "992633006",
+      "followers": 509206,
+      "following": 6,
+      "likes": 3779,
+      "media_count": 110794,
+      "name": "Webtekno",
+      "description": "Teknolojiyi senin için sadeleştiren, ilham veren ve hayatına dokunan içerikler.",
+      "raw_description": {
+        "text": "Teknolojiyi senin için sadeleştiren, ilham veren ve hayatına dokunan içerikler.",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/992633006/1758713082",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2007054448728670208/tdRFPc4P_200x200.jpg",
+      "joined": "Thu Dec 06 08:16:01 +0000 2012",
+      "protected": false,
+      "website": {
+        "url": "http://webtekno.com",
+        "display_url": "webtekno.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "organization"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 4,
+    "likes": 40,
+    "bookmarks": 27,
+    "quotes": 0,
+    "created_at": "Thu Aug 06 07:00:28 +0000 2026",
+    "created_timestamp": 1785999628,
+    "possibly_sensitive": false,
+    "views": 14728,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "tr",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085259651264704512",
+          "url": "https://pbs.twimg.com/media/HPBUmsoWcAAzIVH.jpg?name=orig",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "type": "photo",
+          "id": "2085259681061048320",
+          "url": "https://pbs.twimg.com/media/HPBUoboWkAAtejR.png?name=orig",
+          "width": 686,
+          "height": 386
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085259651264704512",
+          "url": "https://pbs.twimg.com/media/HPBUmsoWcAAzIVH.jpg?name=orig",
+          "width": 1000,
+          "height": 600
+        },
+        {
+          "type": "photo",
+          "id": "2085259681061048320",
+          "url": "https://pbs.twimg.com/media/HPBUoboWkAAtejR.png?name=orig",
+          "width": 686,
+          "height": 386
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2085259697485996532/HPBUmsoWcAAzIVH/HPBUoboWkAAtejR",
+          "webp": "https://mosaic.fxtwitter.com/webp/2085259697485996532/HPBUmsoWcAAzIVH/HPBUoboWkAAtejR"
+        }
+      }
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

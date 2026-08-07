@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/reach_vb/status/2078108681678299194",
+    "id": "2078108681678299194",
+    "text": "Codex tip: when building a skill to automate your workflow, ask Codex to evaluate it against your past sessions.\n\nIt can identify how you actually work, then refine the skill around those patterns, making it far more effective.\n\nBonus: repeat this every few weeks so your skills evolve as your day-to-day work changes.",
+    "raw_text": {
+      "text": "Codex tip: when building a skill to automate your workflow, ask Codex to evaluate it against your past sessions.\n\nIt can identify how you actually work, then refine the skill around those patterns, making it far more effective.\n\nBonus: repeat this every few weeks so your skills evolve as your day-to-day work changes.",
+      "display_text_range": [
+        0,
+        318
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            279,
+            302
+          ],
+          "id": "2078108045989556224",
+          "display": "pic.x.com/JLNnqIXUMe",
+          "original": "https://t.co/JLNnqIXUMe",
+          "replacement": "https://x.com/reach_vb/status/2078108681678299194/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "reach_vb",
+      "url": "https://x.com/reach_vb",
+      "id": "874987512850128897",
+      "followers": 55620,
+      "following": 297,
+      "likes": 23520,
+      "media_count": 2040,
+      "name": "Vaibhav (VB) Srivastav",
+      "description": "founder mode @OpenAI | ex @huggingface | F1 fan | Here for @at_sofdog’s wisdom | *opinions my own",
+      "raw_description": {
+        "text": "founder mode @OpenAI | ex @huggingface | F1 fan | Here for @at_sofdog’s wisdom | *opinions my own",
+        "facets": []
+      },
+      "location": "codex -m gpt 5.6-sol",
+      "banner_url": "https://pbs.twimg.com/profile_banners/874987512850128897/1651638851",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1509901130670747666/JFlrSzB4_200x200.jpg",
+      "joined": "Wed Jun 14 13:50:54 +0000 2017",
+      "protected": false,
+      "website": {
+        "url": "http://vaibhavs10.github.io",
+        "display_url": "vaibhavs10.github.io"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 25,
+    "retweets": 21,
+    "likes": 439,
+    "bookmarks": 347,
+    "quotes": 3,
+    "created_at": "Fri Jul 17 13:24:53 +0000 2026",
+    "created_timestamp": 1784294693,
+    "possibly_sensitive": false,
+    "views": 19891,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2078108045989556224",
+          "url": "https://pbs.twimg.com/media/HNbsQe4WsAAF1Qz.jpg?name=orig",
+          "width": 2840,
+          "height": 2004
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2078108045989556224",
+          "url": "https://pbs.twimg.com/media/HNbsQe4WsAAF1Qz.jpg?name=orig",
+          "width": 2840,
+          "height": 2004
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

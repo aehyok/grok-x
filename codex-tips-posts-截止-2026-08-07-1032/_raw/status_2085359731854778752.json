@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/xie_Dl/status/2085359731854778752",
+    "id": "2085359731854778752",
+    "text": "大幅降低Codex额度消耗的设置方法\n\n开始任务前给Codex发提示：\n\n你主要负责关键决策和交付审计，一些简单和繁琐的活你可以交给子代理用GPT 5.6 Luna Max 去处理，以降低任务的执行成本。\n\n开始前记得打开Luna Max：\n\n去设置-配置-可用推理强度把Max打开\n\n这样设置以后，可以大幅降低Codex额度消耗，并且不会影响交付质量。",
+    "raw_text": {
+      "text": "大幅降低Codex额度消耗的设置方法\n\n开始任务前给Codex发提示：\n\n你主要负责关键决策和交付审计，一些简单和繁琐的活你可以交给子代理用GPT 5.6 Luna Max 去处理，以降低任务的执行成本。\n\n开始前记得打开Luna Max：\n\n去设置-配置-可用推理强度把Max打开\n\n这样设置以后，可以大幅降低Codex额度消耗，并且不会影响交付质量。",
+      "display_text_range": [
+        0,
+        177
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "xie_Dl",
+      "url": "https://x.com/xie_Dl",
+      "id": "1904976024",
+      "followers": 997,
+      "following": 1270,
+      "likes": 920,
+      "media_count": 219,
+      "name": "谢小总",
+      "description": "耐心，稳定，长期主义",
+      "raw_description": {
+        "text": "耐心，稳定，长期主义",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1967305918242230273/vN6WtHha_200x200.jpg",
+      "joined": "Wed Sep 25 18:14:41 +0000 2013",
+      "protected": false,
+      "website": {
+        "url": "http://vidkite.com",
+        "display_url": "vidkite.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 56,
+    "retweets": 8,
+    "likes": 105,
+    "bookmarks": 146,
+    "quotes": 1,
+    "created_at": "Thu Aug 06 13:37:58 +0000 2026",
+    "created_timestamp": 1786023478,
+    "views": 22394,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter for iPhone",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

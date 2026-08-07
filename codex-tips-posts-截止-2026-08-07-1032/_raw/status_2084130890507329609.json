@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/RoundtableSpace/status/2084130890507329609",
+    "id": "2084130890507329609",
+    "text": "Simple Codex tip worth saving.\n\nTell Sol to configure Luna Max as a subagent by creating a custom agent at ~/.codex/agents/luna-worker.toml. Set the model to gpt-5.6-luna, reasoning effort to max, give it a description and instructions for bounded delegated work, then tell it to validate against your installed Codex version and show you the diff before using luna_worker for subagent tasks.\n\nSol orchestrates. Luna handles the routine work. You stop burning Sol tokens on tasks that don't need them.",
+    "raw_text": {
+      "text": "Simple Codex tip worth saving.\n\nTell Sol to configure Luna Max as a subagent by creating a custom agent at ~/.codex/agents/luna-worker.toml. Set the model to gpt-5.6-luna, reasoning effort to max, give it a description and instructions for bounded delegated work, then tell it to validate against your installed Codex version and show you the diff before using luna_worker for subagent tasks.\n\nSol orchestrates. Luna handles the routine work. You stop burning Sol tokens on tasks that don't need them.",
+      "display_text_range": [
+        0,
+        501
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            280,
+            303
+          ],
+          "id": "2084063901218480128",
+          "display": "pic.x.com/au2V0iwpGq",
+          "original": "https://t.co/au2V0iwpGq",
+          "replacement": "https://x.com/RoundtableSpace/status/2084130890507329609/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "RoundtableSpace",
+      "url": "https://x.com/RoundtableSpace",
+      "id": "1536693901230321666",
+      "followers": 258614,
+      "following": 6259,
+      "likes": 211822,
+      "media_count": 32625,
+      "name": "0xMarioNawfal",
+      "description": "@MarioNawfal’s Crypto & AI Account",
+      "raw_description": {
+        "text": "@MarioNawfal’s Crypto & AI Account",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1536693901230321666/1706150593",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2012162102283407360/U-fPj6wg_200x200.jpg",
+      "joined": "Tue Jun 14 12:56:16 +0000 2022",
+      "protected": false,
+      "website": {
+        "url": "http://roundtable.live",
+        "display_url": "roundtable.live"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "organization"
+      },
+      "avatar_color": null
+    },
+    "replies": 11,
+    "retweets": 0,
+    "likes": 47,
+    "bookmarks": 21,
+    "quotes": 0,
+    "created_at": "Mon Aug 03 04:15:00 +0000 2026",
+    "created_timestamp": 1785730500,
+    "possibly_sensitive": false,
+    "views": 6573,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2084063901218480128",
+          "url": "https://pbs.twimg.com/media/HOwVE4lXoAAcyvp.jpg?name=orig",
+          "width": 1600,
+          "height": 1068
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2084063901218480128",
+          "url": "https://pbs.twimg.com/media/HOwVE4lXoAAcyvp.jpg?name=orig",
+          "width": 1600,
+          "height": 1068
+        }
+      ]
+    },
+    "source": "Twitter Web Client",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/ziwenxu_/status/2084924184740663738",
+    "id": "2084924184740663738",
+    "text": "OpenCode Go is now wired into Codex!!\n\nThe pricing is insane. $10 gets you 10,000 DeepSeek requests every 5 hours (no weekly limits).\n\nI converted that into DeepSeek API dollars because I thought I was reading it wrong, and the same 5 hours of usage would run somewhere between $10 and $30 depending on how big your context gets.\n\nSo one afternoon of use already covers the whole sub.\n\nIt comes with Kimi K3 as well. Both sit in the picker next to my other models now.\n\nNext time we hit a limit in the middle of a loop, we can grab it and keep going.",
+    "raw_text": {
+      "text": "OpenCode Go is now wired into Codex!!\n\nThe pricing is insane. $10 gets you 10,000 DeepSeek requests every 5 hours (no weekly limits).\n\nI converted that into DeepSeek API dollars because I thought I was reading it wrong, and the same 5 hours of usage would run somewhere between $10 and $30 depending on how big your context gets.\n\nSo one afternoon of use already covers the whole sub.\n\nIt comes with Kimi K3 as well. Both sit in the picker next to my other models now.\n\nNext time we hit a limit in the middle of a loop, we can grab it and keep going.",
+      "display_text_range": [
+        0,
+        550
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            278,
+            301
+          ],
+          "id": "2084922907793178624",
+          "display": "pic.x.com/68qvct3z1T",
+          "original": "https://t.co/68qvct3z1T",
+          "replacement": "https://x.com/ziwenxu_/status/2084924184740663738/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "ziwenxu_",
+      "url": "https://x.com/ziwenxu_",
+      "id": "1781009683743997952",
+      "followers": 16729,
+      "following": 389,
+      "likes": 50235,
+      "media_count": 827,
+      "name": "Ziwen",
+      "description": "25 | Claude & Codex | Tech, AI & startups | Building http://hypercho.com",
+      "raw_description": {
+        "text": "25 | Claude & Codex | Tech, AI & startups | Building https://t.co/uuEn9gTVty",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              53,
+              76
+            ],
+            "original": "https://t.co/uuEn9gTVty",
+            "replacement": "http://hypercho.com",
+            "display": "hypercho.com"
+          }
+        ]
+      },
+      "location": "AI employees for business 👉",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1781009683743997952/1732226002",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2009704432674426880/Q29hAGJR_200x200.jpg",
+      "joined": "Thu Apr 18 17:19:40 +0000 2024",
+      "protected": false,
+      "website": {
+        "url": "https://hypercho.com/ai-employee-plan",
+        "display_url": "hypercho.com/ai-employee-pl…"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 123,
+    "retweets": 122,
+    "likes": 2217,
+    "bookmarks": 2703,
+    "quotes": 5,
+    "created_at": "Wed Aug 05 08:47:16 +0000 2026",
+    "created_timestamp": 1785919636,
+    "possibly_sensitive": false,
+    "views": 408554,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2084922907793178624",
+          "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/1782x1080/ByLG5RTBcRdg7vYD.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084922907793178624/img/6QGZAE4lGdgNJMrH.jpg",
+          "duration": 17.933,
+          "width": 1782,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/pl/u4GMz-m3KK86Gm-2.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/444x270/HsROQIzNjbJji1c3.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/594x360/ZnsKVj3jCZ_lVN1j.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/1188x720/Tm90SY-zCKYim-0v.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/1782x1080/ByLG5RTBcRdg7vYD.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/pl/u4GMz-m3KK86Gm-2.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/444x270/HsROQIzNjbJji1c3.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/594x360/ZnsKVj3jCZ_lVN1j.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/1188x720/Tm90SY-zCKYim-0v.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/1782x1080/ByLG5RTBcRdg7vYD.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2084922907793178624",
+          "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/1782x1080/ByLG5RTBcRdg7vYD.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084922907793178624/img/6QGZAE4lGdgNJMrH.jpg",
+          "duration": 17.933,
+          "width": 1782,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/pl/u4GMz-m3KK86Gm-2.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/444x270/HsROQIzNjbJji1c3.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/594x360/ZnsKVj3jCZ_lVN1j.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/1188x720/Tm90SY-zCKYim-0v.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/1782x1080/ByLG5RTBcRdg7vYD.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/pl/u4GMz-m3KK86Gm-2.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/444x270/HsROQIzNjbJji1c3.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/594x360/ZnsKVj3jCZ_lVN1j.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/1188x720/Tm90SY-zCKYim-0v.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084922907793178624/vid/avc1/1782x1080/ByLG5RTBcRdg7vYD.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/ziwenxu_/status/2084223134685667637",
+      "id": "2084223134685667637",
+      "text": "Codex can run Qwen-3.8-max now as well!!\n\nAlibaba most capable model, dropped today and it's already in my codex picker.\n\nIt's a token plan subscription, not metered api billing.\n\nYou take the key from your Qwen plan, drop it into Codex Router, and it spends down the plan instead of your card.\n\nThere's a catch though. Qwen's official setup switches your whole codex over to them, so your ChatGPT models stop showing up at all.\n\nThat's exactly what Codex Router is for. It adds models to the list instead of replacing them, so sol, Grok, kimi, Deepseek and now Qwen 3.8 max all sit in the same picker and it can grab whichever one suits the job.\n\nRouter's open source, setup's in the video 👇",
+      "raw_text": {
+        "text": "Codex can run Qwen-3.8-max now as well!!\n\nAlibaba most capable model, dropped today and it's already in my codex picker.\n\nIt's a token plan subscription, not metered api billing.\n\nYou take the key from your Qwen plan, drop it into Codex Router, and it spends down the plan instead of your card.\n\nThere's a catch though. Qwen's official setup switches your whole codex over to them, so your ChatGPT models stop showing up at all.\n\nThat's exactly what Codex Router is for. It adds models to the list instead of replacing them, so sol, Grok, kimi, Deepseek and now Qwen 3.8 max all sit in the same picker and it can grab whichever one suits the job.\n\nRouter's open source, setup's in the video 👇",
+        "display_text_range": [
+          0,
+          693
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              281,
+              304
+            ],
+            "id": "2084222638327517184",
+            "display": "pic.x.com/hrxPTiwuzU",
+            "original": "https://t.co/hrxPTiwuzU",
+            "replacement": "https://x.com/ziwenxu_/status/2084223134685667637/video/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "ziwenxu_",
+        "url": "https://x.com/ziwenxu_",
+        "id": "1781009683743997952",
+        "followers": 16729,
+        "following": 389,
+        "likes": 50235,
+        "media_count": 827,
+        "name": "Ziwen",
+        "description": "25 | Claude & Codex | Tech, AI & startups | Building http://hypercho.com",
+        "raw_description": {
+          "text": "25 | Claude & Codex | Tech, AI & startups | Building https://t.co/uuEn9gTVty",
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                53,
+                76
+              ],
+              "original": "https://t.co/uuEn9gTVty",
+              "replacement": "http://hypercho.com",
+              "display": "hypercho.com"
+            }
+          ]
+        },
+        "location": "AI employees for business 👉",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1781009683743997952/1732226002",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2009704432674426880/Q29hAGJR_200x200.jpg",
+        "joined": "Thu Apr 18 17:19:40 +0000 2024",
+        "protected": false,
+        "website": {
+          "url": "https://hypercho.com/ai-employee-plan",
+          "display_url": "hypercho.com/ai-employee-pl…"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 25,
+      "retweets": 20,
+      "likes": 254,
+      "bookmarks": 380,
+      "quotes": 2,
+      "created_at": "Mon Aug 03 10:21:32 +0000 2026",
+      "created_timestamp": 1785752492,
+      "possibly_sensitive": false,
+      "views": 398304,
+      "is_note_tweet": true,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "id": "2084222638327517184",
+            "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/3156x2160/KPBYJE43e5honzpQ.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084222638327517184/img/BWEaD2s46sx6_xl3.jpg",
+            "duration": 16.8,
+            "width": 3156,
+            "height": 2160,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/pl/a5ek7aEcLfljp-lw.m3u8?tag=29&v=cfc",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/394x270/ww12bwqsdT2Qhf5P.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/526x360/XO47-SJr4q05hB6F.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/1052x720/kCvKteiGt6FdKxHL.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/1578x1080/d97CAXutnKlYJhIs.mp4?tag=29",
+                "bitrate": 10368000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/3156x2160/KPBYJE43e5honzpQ.mp4?tag=29",
+                "bitrate": 25128000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/pl/a5ek7aEcLfljp-lw.m3u8?tag=29&v=cfc",
+                "bitrate": 0,
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/394x270/ww12bwqsdT2Qhf5P.mp4?tag=29",
+                "bitrate": 256000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/526x360/XO47-SJr4q05hB6F.mp4?tag=29",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/1052x720/kCvKteiGt6FdKxHL.mp4?tag=29",
+                "bitrate": 2176000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/1578x1080/d97CAXutnKlYJhIs.mp4?tag=29",
+                "bitrate": 10368000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/3156x2160/KPBYJE43e5honzpQ.mp4?tag=29",
+                "bitrate": 25128000,
+                "content_type": "video/mp4"
+              }
+            ]
+          }
+        ],
+        "videos": [
+          {
+            "id": "2084222638327517184",
+            "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/3156x2160/KPBYJE43e5honzpQ.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084222638327517184/img/BWEaD2s46sx6_xl3.jpg",
+            "duration": 16.8,
+            "width": 3156,
+            "height": 2160,
+            "format": "video/mp4",
+            "type": "video",
+            "formats": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/pl/a5ek7aEcLfljp-lw.m3u8?tag=29&v=cfc",
+                "container": "m3u8"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/394x270/ww12bwqsdT2Qhf5P.mp4?tag=29",
+                "bitrate": 256000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/526x360/XO47-SJr4q05hB6F.mp4?tag=29",
+                "bitrate": 832000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/1052x720/kCvKteiGt6FdKxHL.mp4?tag=29",
+                "bitrate": 2176000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/1578x1080/d97CAXutnKlYJhIs.mp4?tag=29",
+                "bitrate": 10368000,
+                "container": "mp4",
+                "codec": "h264"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/3156x2160/KPBYJE43e5honzpQ.mp4?tag=29",
+                "bitrate": 25128000,
+                "container": "mp4",
+                "codec": "h264"
+              }
+            ],
+            "publisher": null,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/pl/a5ek7aEcLfljp-lw.m3u8?tag=29&v=cfc",
+                "bitrate": 0,
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/394x270/ww12bwqsdT2Qhf5P.mp4?tag=29",
+                "bitrate": 256000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/526x360/XO47-SJr4q05hB6F.mp4?tag=29",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/1052x720/kCvKteiGt6FdKxHL.mp4?tag=29",
+                "bitrate": 2176000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/1578x1080/d97CAXutnKlYJhIs.mp4?tag=29",
+                "bitrate": 10368000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/2084222638327517184/vid/avc1/3156x2160/KPBYJE43e5honzpQ.mp4?tag=29",
+                "bitrate": 25128000,
+                "content_type": "video/mp4"
+              }
+            ]
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "player",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

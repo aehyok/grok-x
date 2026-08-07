@@ -1,0 +1,1200 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/ZhaoHg59511/status/2081388606825095679",
+    "id": "2081388606825095679",
+    "text": "WorkBuddy 延伸判断篇:我用 3 个月腾讯的 WorkBuddy 之后,看到了这件事的 12 个判断。",
+    "raw_text": {
+      "text": "WorkBuddy 延伸判断篇:我用 3 个月腾讯的 WorkBuddy 之后,看到了这件事的 12 个判断。 https://t.co/vHGydB4ltP",
+      "display_text_range": [
+        0,
+        79
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "ZhaoHg59511",
+      "url": "https://x.com/ZhaoHg59511",
+      "id": "1678094737042178048",
+      "followers": 202,
+      "following": 202,
+      "likes": 99,
+      "media_count": 13,
+      "name": "Hardy",
+      "description": "AI赋能  |  提效  |  工具  |  创作  \n搞钱  | 判断 | 决策 \n如需文档，可私",
+      "raw_description": {
+        "text": "AI赋能  |  提效  |  工具  |  创作  \n搞钱  | 判断 | 决策 \n如需文档，可私",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1678094737042178048/1784693418",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2080573741134974976/1Tr1a3OY_200x200.jpg",
+      "joined": "Sun Jul 09 17:32:46 +0000 2023",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 1,
+    "retweets": 1,
+    "likes": 2,
+    "bookmarks": 1,
+    "quotes": 1,
+    "created_at": "Sun Jul 26 14:38:08 +0000 2026",
+    "created_timestamp": 1785076688,
+    "possibly_sensitive": false,
+    "views": 1127,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-07-26T14:38:08.000Z",
+      "modified_at": "2026-07-26T14:38:08.000Z",
+      "id": "2081381884043702273",
+      "title": "WorkBuddy 延伸判断篇:我用 3 个月腾讯的 WorkBuddy 之后,看到了这件事的 12 个判断。",
+      "preview_text": "第 1条 · 简言\n我用 3 个月腾讯的 WorkBuddy 之后,关于\"AI 替你干活\"这件事,有 12 个判断想分享。\n不是教程,不是软文——是我自己信了的真实想法。\n看完你会知道:2026 该不该用 AI Agent、用哪个、怎么用\n第 2条 ·",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOKTfAUaEAAKAAIXScpFvNoAAAAA",
+        "media_id": "2081388138669412352",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 66.38,
+                "rgb": {
+                  "blue": 21,
+                  "green": 4,
+                  "red": 1
+                }
+              },
+              {
+                "percentage": 11.43,
+                "rgb": {
+                  "blue": 66,
+                  "green": 24,
+                  "red": 11
+                }
+              },
+              {
+                "percentage": 4.89,
+                "rgb": {
+                  "blue": 181,
+                  "green": 176,
+                  "red": 175
+                }
+              },
+              {
+                "percentage": 3.02,
+                "rgb": {
+                  "blue": 184,
+                  "green": 50,
+                  "red": 38
+                }
+              },
+              {
+                "percentage": 1.59,
+                "rgb": {
+                  "blue": 105,
+                  "green": 24,
+                  "red": 27
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HOKTfAUaEAADz7a.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2081388138669412352"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "f5r8r",
+            "text": "第 1条 · 简言",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 51,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5gm57",
+            "text": "我用 3 个月腾讯的 WorkBuddy 之后,关于\"AI 替你干活\"这件事,有 12 个判断想分享。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "47nv9",
+            "text": "不是教程,不是软文——是我自己信了的真实想法。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 33,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bq8kn",
+            "text": "看完你会知道:2026 该不该用 AI Agent、用哪个、怎么用",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ajvse",
+            "text": "第 2条 · 一个反直觉的判断",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a12bc",
+            "text": "很多人装上 WorkBuddy 第一反应:\"这不就是国产版 ChatGPT?\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dkqs",
+            "text": "不是。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "80qgl",
+            "text": "ChatGPT 是百科全书——你问它答。 WorkBuddy 是能替你干活的实习生——你说一句话,它自己动手。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1177k",
+            "text": "最大区别:一个\"说\",一个\"做\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ckrb4",
+            "text": "第 3 条 · 2026 是分水岭之年",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8kn1k",
+            "text": "把时间线拉一下:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "77ur0",
+            "text": "2022 ChatGPT → AI 陪你聊",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "29fg6",
+            "text": "2024 Cursor → AI 帮你写",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 32,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "e35c7",
+            "text": "2026 OpenClaw/WorkBuddy → AI 替你做",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e7r0e",
+            "text": "2027-28 (我预测) 行业洗牌",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "705fn",
+            "text": "2029-30 (我预测) AI 数字员工普及",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 26,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6813g",
+            "text": "2026 之于 AI,就像 2007 之于智能手机。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3rl2p",
+            "text": "第 4 条 · 三大赛道,通用型最香",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1fa44",
+            "text": "AI Agent 分 3 派:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9ssok",
+            "text": "对话型(ChatGPT/豆包)→ 格局已定",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ql8o",
+            "text": "编程型(Cursor)→ 壁垒已成",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 16
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6kgj7",
+            "text": "通用型(WorkBuddy)→ 🔥 最后蓝海",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "75tpd",
+            "text": "普通人想抓机会,首选通用型。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e8edj",
+            "text": "第 5 条 · 一句话:WorkBuddy 是谁?",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 34,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "vdnq",
+            "text": "WorkBuddy = 腾讯 2026 年出的桌面 AI Agent。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7td67",
+            "text": "你说\"把桌面 PDF 按日期重命名\",它真就动手归好档。 你说\"明早 9 点提醒开会\",它到点推消息。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 29,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5hgns",
+            "text": "不是 ChatGPT 那种\"给建议\",是\"直接交付结果\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dqd1h",
+            "text": "第 6 条 · 我的 TOP 3 押注",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1flcp",
+            "text": "按 2026 下半年的判断:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 2,
+                "style": "Bold"
+              }
+            ],
+            "key": "dmr78",
+            "text": "🥇 WorkBuddy — 腾讯资源 + 微信生态 ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 2,
+                "style": "Bold"
+              }
+            ],
+            "key": "elq20",
+            "text": "🥈 Claude Cowork — 模型最强,但墙是硬伤 ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 2,
+                "style": "Bold"
+              }
+            ],
+            "key": "bmhag",
+            "text": "🥉 Cursor — 编程赛道顶流,跟普通用户关系不大",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 25,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6im96",
+            "text": "普通职场人,80% 选 WorkBuddy,没错。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3lji",
+            "text": "第 7 条 · 一个可能被打脸的预测",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 50,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "67it0",
+            "text": "WorkBuddy 真正的对手,可能不是 Claude 或 360——而是未来某个微信自带的 AI。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e4v1b",
+            "text": "如果微信直接说\"我自带 AI,能回消息、整理文件、订日程\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "46pqh",
+            "text": "还需要 WorkBuddy 吗?",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 26,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1r81b",
+            "text": "我判断:WorkBuddy 还有 1-2 年窗口期。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2sutp",
+            "text": "第 8 条 · 给普通人的 5 类赚钱机会",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bp32l",
+            "text": "用 3 个月 WorkBuddy 后,我整理了 5 类机会:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "44q53",
+            "text": "1️⃣ AI 提效咨询师/培训师(门槛低) ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "b5k9e",
+            "text": "2️⃣ AI 提效博主(门槛低) ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "58nuq",
+            "text": "3️⃣ 行业 Skill 开发者(壁垒高,赚钱多) ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6q6m3",
+            "text": "4️⃣ AI 助理服务(轻创业) ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 4,
+                "style": "Bold"
+              }
+            ],
+            "key": "ervuo",
+            "text": "5️⃣ 用 AI 改造自己的生意(我最推荐的)",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 39,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fql7m",
+            "text": "第 5 类性价比最高——你不需要懂技术,只需要知道哪些环节\"该外包给 AI\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ea5tk",
+            "text": "第 9 条 · 做 Shopee/跨境电商的,8 个被忽视的提效场景",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "e1n69",
+            "text": "1️⃣ 批量 Listing 多语言生成翻译 ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fkgbk",
+            "text": "2️⃣ 关键词研究自动化 ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "agh72",
+            "text": "3️⃣ 客服自动回复(常见问题) ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fvll4",
+            "text": "4️⃣ 多站点数据自动汇总 ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7k6kk",
+            "text": "5️⃣ 选品调研自动化 ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1bbcv",
+            "text": "6️⃣ 竞品监控自动报警 ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "72k7e",
+            "text": "7️⃣ 海报/素材自动生成 ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 3,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fm7ck",
+            "text": "8️⃣ 财务/库存自动管理",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8ve8e",
+            "text": "真实效果:30-50% 重复工作时间被省下。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ctqae",
+            "text": "第 10 条 · 一个最大的隐性风险",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8lbt8",
+            "text": "不是\"AI 没用\",是\"你离不开 AI\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 45,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "f5oun",
+            "text": "用惯了 WorkBuddy,你不会自己写周报了;用惯了 Skill,你忘了某些操作怎么做。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "74opi",
+            "text": "对冲方法:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5oo8k",
+            "text": "每周留 1-2 小时\"无 AI 日\"",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9lfv4",
+            "text": "关键技能(写作/PPT/数据分析)还要自己练",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ap7rf",
+            "text": "AI 是放大器,不是替代器",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "djat8",
+            "text": "第 11 条 · 未来 1-5 年,我押的 3 个判断",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 17,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 2,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 55,
+                "style": "Bold"
+              }
+            ],
+            "key": "7k923",
+            "text": "📌 短期(2026 内):Skill 数量从 200+ 涨到 5000+,出现第一批 AI 提效培训机构 → 最佳入场期",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 18,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 2,
+                "style": "Bold"
+              },
+              {
+                "length": 8,
+                "offset": 40,
+                "style": "Bold"
+              }
+            ],
+            "key": "7viuo",
+            "text": "📌 中期(2027-28):行业洗牌,出现垂直版(电商版/法律版/医疗版) → 成为专家的关键期",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 19,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 2,
+                "style": "Bold"
+              }
+            ],
+            "key": "5r7bv",
+            "text": "📌 长期(2029-30):每个职场人配 AI 数字员工 → 不会用 AI 的人 = 不会用电脑的人",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eulkm",
+            "text": "第 12 条 · 最后一句",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 38,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "31lfn",
+            "text": "未来 5 年,真正的红利不是\"AI 多强\",而是\"谁能把 AI 用得最溜\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 21,
+                "offset": 50,
+                "style": "Bold"
+              }
+            ],
+            "key": "dhdrq",
+            "text": "WorkBuddy 只是这个时代的一个切入口。 3 年后可能被淘汰,10 年后可能变 OS 级别。 但\"AI 帮你动手\"这个趋势,是不会变的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dkc8h",
+            "text": "最难的不是用哪个工具,是你愿不愿意迈出第一步。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "cpv2e",
+            "text": "你站哪边?评论区告诉我",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/34-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/35-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "19",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f4cc.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/31-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/37-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/33-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/31-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/35-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/38-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/32-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/32-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/33-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f947.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f4cc.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/36-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f525.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f948.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "18",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f4cc.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/34-20e3.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f949.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          }
+        ]
+      },
+      "media_entities": []
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

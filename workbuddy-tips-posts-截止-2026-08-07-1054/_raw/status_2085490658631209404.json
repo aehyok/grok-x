@@ -1,0 +1,75 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/dankzheng/status/2085490658631209404",
+    "id": "2085490658631209404",
+    "text": "@ai_xiaomu 腾讯急于把自己手上有的东西扔给用户，至于怎么用他们就不管了。个人感受workbuddy最开始还是先不要安装任何其他skill，只使用系统默认的，先用起来再说。",
+    "raw_text": {
+      "text": "@ai_xiaomu 腾讯急于把自己手上有的东西扔给用户，至于怎么用他们就不管了。个人感受workbuddy最开始还是先不要安装任何其他skill，只使用系统默认的，先用起来再说。",
+      "display_text_range": [
+        11,
+        90
+      ],
+      "facets": [
+        {
+          "type": "mention",
+          "indices": [
+            0,
+            10
+          ],
+          "original": "ai_xiaomu",
+          "id": "885347162233610242"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "dankzheng",
+      "url": "https://x.com/dankzheng",
+      "id": "393264187",
+      "followers": 1205,
+      "following": 424,
+      "likes": 1100,
+      "media_count": 264,
+      "name": "dank",
+      "description": "Serial Entrepreneur | Senior Full-Stack Architect & AI PM  | Bridging the gap between AI tech & business.  Consulting on AI product design &  dev.",
+      "raw_description": {
+        "text": "Serial Entrepreneur | Senior Full-Stack Architect & AI PM  | Bridging the gap between AI tech & business.  Consulting on AI product design &  dev.",
+        "facets": []
+      },
+      "location": "shanghai",
+      "banner_url": "https://pbs.twimg.com/profile_banners/393264187/1751438909",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1940301487952777216/1_t-ATmX_200x200.jpg",
+      "joined": "Tue Oct 18 08:27:22 +0000 2011",
+      "protected": false,
+      "website": {
+        "url": "https://blog.dankying.com",
+        "display_url": "blog.dankying.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "quotes": 0,
+    "created_at": "Thu Aug 06 22:18:14 +0000 2026",
+    "created_timestamp": 1786054694,
+    "views": 330,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": "ai_xiaomu",
+    "replying_to_status": "2085294198774022252",
+    "source": "Twitter for Android",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

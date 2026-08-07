@@ -1,0 +1,1550 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Heidifu666/status/2081012109987463536",
+    "id": "2081012109987463536",
+    "text": "我是一个资料整理狂魔。我不允许我微信收藏混乱、文件夹混乱，收藏夹混乱，这会严重影响我的inner peace。现在ima知识库加上workbuddy调用，真的把文件管理的清清爽爽了！",
+    "raw_text": {
+      "text": "我是一个资料整理狂魔。我不允许我微信收藏混乱、文件夹混乱，收藏夹混乱，这会严重影响我的inner peace。现在ima知识库加上workbuddy调用，真的把文件管理的清清爽爽了！ https://t.co/592zBCoFqz",
+      "display_text_range": [
+        0,
+        115
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "Heidifu666",
+      "url": "https://x.com/Heidifu666",
+      "id": "1581214386068197376",
+      "followers": 74,
+      "following": 326,
+      "likes": 111,
+      "media_count": 74,
+      "name": "赛博大福",
+      "description": "二生三咨询创始人｜罗兰贝格特聘顾问\nAI艺术家｜混沌讲师｜得到讲师｜北大国发院讲师｜创业黑马导师\nAI营销专家｜服务企业：宝洁、韩束、嘉士伯、可乐、诺和诺德、高露洁等行业头部企业\n前江小白品牌总经理｜中粮品牌总经理｜宝洁、玛氏总监",
+      "raw_description": {
+        "text": "二生三咨询创始人｜罗兰贝格特聘顾问\nAI艺术家｜混沌讲师｜得到讲师｜北大国发院讲师｜创业黑马导师\nAI营销专家｜服务企业：宝洁、韩束、嘉士伯、可乐、诺和诺德、高露洁等行业头部企业\n前江小白品牌总经理｜中粮品牌总经理｜宝洁、玛氏总监",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1581214386068197376/1727998563",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2040276616295899136/GHS2Q99n_200x200.jpg",
+      "joined": "Sat Oct 15 09:24:29 +0000 2022",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 2,
+    "retweets": 1,
+    "likes": 4,
+    "bookmarks": 5,
+    "quotes": 0,
+    "created_at": "Sat Jul 25 13:42:05 +0000 2026",
+    "created_timestamp": 1784986925,
+    "possibly_sensitive": false,
+    "views": 1081,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-07-25T13:42:04.000Z",
+      "modified_at": "2026-07-25T13:42:04.000Z",
+      "id": "2081006099550085120",
+      "title": "用WorkBuddy x ima，个人知识库，终于管清爽了",
+      "preview_text": "我是一个资料整理狂魔。我不允许我微信收藏混乱、文件夹混乱，收藏夹混乱，这会严重影响我的inner peace。",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOE84qjaIAAKAAIV8ZobQ1UQAAAA",
+        "media_id": "2081011447015022592",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 59.28,
+                "rgb": {
+                  "blue": 187,
+                  "green": 217,
+                  "red": 219
+                }
+              },
+              {
+                "percentage": 30.36,
+                "rgb": {
+                  "blue": 76,
+                  "green": 157,
+                  "red": 94
+                }
+              },
+              {
+                "percentage": 10.55,
+                "rgb": {
+                  "blue": 126,
+                  "green": 184,
+                  "red": 152
+                }
+              },
+              {
+                "percentage": 0.9,
+                "rgb": {
+                  "blue": 136,
+                  "green": 195,
+                  "red": 170
+                }
+              },
+              {
+                "percentage": 0.25,
+                "rgb": {
+                  "blue": 68,
+                  "green": 166,
+                  "red": 90
+                }
+              }
+            ]
+          },
+          "original_img_height": 766,
+          "original_img_url": "https://pbs.twimg.com/media/HOE84qjaIAAITGP.jpg",
+          "original_img_width": 1916
+        },
+        "media_key": "3_2081011447015022592"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "24d3r",
+            "text": "我是一个资料整理狂魔。我不允许我微信收藏混乱、文件夹混乱，收藏夹混乱，这会严重影响我的inner peace。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 17,
+                "style": "Bold"
+              },
+              {
+                "length": 14,
+                "offset": 54,
+                "style": "Bold"
+              }
+            ],
+            "key": "1kfav",
+            "text": "为了解决这个问题，我试过很多工具：有道云笔记、Cubox，飞书剪存，以及各种国内国外知识管理软件。就是为了“把微信/网页收藏文章整理明白”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 12,
+                "style": "Bold"
+              },
+              {
+                "length": 19,
+                "offset": 69,
+                "style": "Bold"
+              }
+            ],
+            "key": "dcleu",
+            "text": "但最近一个月，我换成了 腾讯AI知识管家ima。原因很简单：免费、快捷，而且它不只是帮你「收藏」资料，配合workbuddy、还能直接帮你调取资料、阅读资料，把资料真正用起来。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "25sts",
+            "text": "如果你是，微信收藏了一堆文章，却几乎从来不看的「收藏党」；电脑文件夹、浏览器收藏夹总是越整理越乱的「整理困难户」；想把碎片信息真正变成可用知识的自媒体人或知识工作者；写报告、做方案时，总要花大量时间翻找资料的职场人。那你大概率会喜欢上它。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "acjh3",
+            "text": "01/微信文章、网页、本地资料一键存进ima",
+            "type": "header-two"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 7,
+                  "text": "https://ima.qq.com/",
+                  "toIndex": 26
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 35,
+                "style": "Bold"
+              }
+            ],
+            "key": "5u8bl",
+            "text": "ima知识库（https://ima.qq.com/）是腾讯推出的一款免费AI智能工作台，",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "61iqi",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 65,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "c9ois",
+            "text": "ima 的核心能力，就是把你散落的资料，变成一个可以直接对话的 AI 知识库。官方定位：“会思考的知识库”或“你的专属第二大脑”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 15,
+                "style": "Bold"
+              },
+              {
+                "length": 6,
+                "offset": 38,
+                "style": "Bold"
+              }
+            ],
+            "key": "5rieg",
+            "text": "简单来说，ima 做了三件事：存资料、懂资料、用资料。就这么个小功能，解决我个人资料管理的大头疼问题了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 45,
+                "style": "Bold"
+              }
+            ],
+            "key": "e9qg4",
+            "text": "在手机端和电脑端安装好工具，平时公众号读到的好文章，朋友发进来的微信文件，以及刷到的网页，先无脑丢到ima。具体怎么做，也是超简单的：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 1,
+                "style": "Bold"
+              }
+            ],
+            "key": "8nsdq",
+            "text": "\n01-公众号文章保存ima\n\n打开文章，点击右上角“…”；找到“用小程序打开”图标；选择用ima知识库打开，即可存入。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "14j62",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 8,
+                "style": "Bold"
+              },
+              {
+                "length": 12,
+                "offset": 39,
+                "style": "Bold"
+              }
+            ],
+            "key": "d2f0n",
+            "text": "也可以文章点击“复制链接”，然后打开ima ，新建网页页面，把链接粘上去，它会自动把内容抓下来变成笔记。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ekkof",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 9,
+                "offset": 94,
+                "style": "Bold"
+              }
+            ],
+            "key": "49mh0",
+            "text": "02-微信文件保存ima\n微信朋友或者群里，经常会分享一些有趣有价值的文件，比如我收到群里转发的“梁文锋投资者交流会议纪要”，这么值得精读的文件，如上文操作，我直接手机长按或者电脑端右键，选择 ima 保存，就可以轻松入库啦。\n",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "c959t",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 22,
+                "style": "Bold"
+              }
+            ],
+            "key": "9cqnf",
+            "text": "03-网页保存ima 打开ima官网，找到 浏览器插件 下载入口",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "a9dru",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 11,
+                "style": "Bold"
+              }
+            ],
+            "key": "det4k",
+            "text": "然后在浏览器中安装完成ima知识库插件。 ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dnvo8",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 5,
+                "style": "Bold"
+              }
+            ],
+            "key": "cm8u7",
+            "text": "接着，使用微信扫码完成登录，就可以把插件钉到右上角，这样，之后浏览任意网页，点击工具栏ima图标，就可以一键保存到知识库啦。 ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9oma9",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4e2vo",
+            "text": "04-文件直接上传ima ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 43,
+                "offset": 36,
+                "style": "Bold"
+              }
+            ],
+            "key": "48jpu",
+            "text": "本地文件、腾讯文档，也都只是直接上传ima，支持的文件类型非常全，包括 PDF、Word、PPT、Excel、图片、Markdown、Xmind，甚至音频文件，都可以直接上传。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bh8n1",
+            "text": "ima新用户自带30GB存储空间，通过双端安装+20GB，最高可扩至100GB，对大多数人来说，用来整理日常知识和资料已经完全够用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ek6k9",
+            "text": "但我并不建议把 ima 变成另一个网上硬盘。电脑里的本地文件，本来就有文件夹和网盘可以存，我还有得到get笔记，用于录音文件管理。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 14,
+                "style": "Bold"
+              },
+              {
+                "length": 9,
+                "offset": 45,
+                "style": "Bold"
+              }
+            ],
+            "key": "e5mu4",
+            "text": "ima 对我更大的价值，是把散落在网上的微信文章、网页资料、行业报告、灵感素材和零碎信息，统一收进一个知识库里。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 18,
+                "style": "Bold"
+              },
+              {
+                "length": 13,
+                "offset": 94,
+                "style": "Bold"
+              }
+            ],
+            "key": "cpppe",
+            "text": "ima还有很多花哨功能， ima 的问答功能，基于你的资料进行智能问答；甚至能直接帮你出PPT。但在我看来，这些都不是 ima 最不可替代的能力。资料的阅读、调用和内容生成，完全可以交给 WorkBuddy 来完成，而且能力更全面。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 11,
+                "style": "Bold"
+              }
+            ],
+            "key": "aa438",
+            "text": "我用ima 聚焦解决是知识碎片，轻松整理入库。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d3sip",
+            "text": "02/workbuddy调用ima资料",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 20,
+                "style": "Bold"
+              },
+              {
+                "length": 8,
+                "offset": 46,
+                "style": "Bold"
+              },
+              {
+                "length": 7,
+                "offset": 76,
+                "style": "Bold"
+              },
+              {
+                "length": 13,
+                "offset": 90,
+                "style": "Bold"
+              }
+            ],
+            "key": "e1i32",
+            "text": "知识库真正重要的不是“存”，而是重要的是将资料“为我所用”，帮助自己吸收新的知识，把旧内容会重新变成新的输出。而我现在的搭配做法是，资料、笔记、专业知识长期存在ima；需要干活时，WorkBuddy直接读取，再进行分析、生成和执行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 1,
+                "style": "Bold"
+              },
+              {
+                "length": 7,
+                "offset": 48,
+                "style": "Bold"
+              },
+              {
+                "length": 6,
+                "offset": 73,
+                "style": "Bold"
+              }
+            ],
+            "key": "3tdh0",
+            "text": "\nSTEP 01workbuddy关联ima知识库\nWorkBuddy里用ima的体验非常丝滑，免装Skill、不装插件、不配接口、不填文件路径，一键扫码登录，就可以直接浏览、订阅、检索ima知识库，十分方便。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2tbjj",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 34,
+                "offset": 42,
+                "style": "Bold"
+              }
+            ],
+            "key": "af0uo",
+            "text": "STEP 02 WorkBuddy 里调用 ima 资料\n这是利用ima最强的能力：我导入的所有资料作为知识库，用AI调用，且跨多个文档理解关联和总结。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 25,
+                "style": "Bold"
+              }
+            ],
+            "key": "2pui8",
+            "text": "点击workbuddy点输入框旁边的加号 ，选择「添加文件」，选择ima知识库里的文件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "nif3",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4quht",
+            "text": "比如知识库文件处理",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1ucer",
+            "text": "1-知识库存储消费者访谈报告",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7tdvp",
+            "text": "2-直接关联访谈笔记问：「找到这几份消费者访谈笔记大家有什么共同诉求点和差异化需求？」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5of07",
+            "text": "3-ima 会跨文档阅读和对比，提炼出核心结论，还会标注每条结论来自哪一份访谈，方便你随时回到原文核对。在此基础上，你还可以让它直接生成《访谈分析报告》、提炼用户画像，甚至整理成方案框架。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c3n04",
+            "text": "这也是 ima 和普通 AI 写作工具最大的区别：普通 AI 是从零开始生成，ima 是基于你知识库里的资料进行分析和写作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1vajh",
+            "text": "看到这里，是不是看到了洗稿的方法？！把各家公众号文章精华存进知识库，再让 AI 帮你重新梳理、交叉分析，最后按照自己的需求，组织成一篇新内容……咳，这个当我没说。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 1,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 48,
+                "style": "Bold"
+              },
+              {
+                "length": 4,
+                "offset": 85,
+                "style": "Bold"
+              },
+              {
+                "length": 9,
+                "offset": 109,
+                "style": "Bold"
+              }
+            ],
+            "key": "2devk",
+            "text": "\nSTEP 03workbuddy好的产出，回存知识库\n回到存也一样简单：打开产物预览，右上角「上传到云端」→ 选 ima 知识库 → 确认。几秒钟，这个产物就变成了你的数字资产。或者，我最简单的，在workbuddy直接输入以下提示词，就归档到我的个人知识库啦。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5i6hc",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8jles",
+            "text": "03/如何和其他文档工具配合",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9jc70",
+            "text": "我相信每个人的工作和个人文件非常多和复杂：像我有公司的团队飞书文档，有我个人的飞书文档，有得到大脑笔记、也有电脑里的各种本地文件……我觉得很难做到个人所有知识库的大一统。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 26,
+                "style": "Bold"
+              },
+              {
+                "length": 9,
+                "offset": 40,
+                "style": "Bold"
+              },
+              {
+                "length": 8,
+                "offset": 78,
+                "style": "Bold"
+              },
+              {
+                "length": 11,
+                "offset": 102,
+                "style": "Bold"
+              }
+            ],
+            "key": "orae",
+            "text": "我现在的做法，这些文件按照各自工作场景，归在自己它们原来的地方，ima专注于收集腾讯生态的个人文件，作为初始素材库。网上看到的文章、报告、案例和零碎信息，先统一收进 ima；再通过 WorkBuddy 做调取、筛选、归纳和使用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 67,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 72,
+                "style": "Bold"
+              }
+            ],
+            "key": "27mlc",
+            "text": "Workbuddy或者Codex这样的智能体，可以调用本地文件夹，或者通过skill或Cli调用其他飞书、得到笔记等文档，结合它本身的长期记忆和上下文记忆功能，真的是，越用越懂你。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "60j2u",
+            "text": "最后说一点我自己的体会。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 12,
+                "style": "Bold"
+              },
+              {
+                "length": 7,
+                "offset": 51,
+                "style": "Bold"
+              }
+            ],
+            "key": "7d04k",
+            "text": "知识库是东西放进去，以后定期看、定期用、定期筛、定期删也很重要，整理知识库，其实不只是整理文件，也是在整理自己的思维。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 58,
+                "style": "Bold"
+              },
+              {
+                "length": 9,
+                "offset": 89,
+                "style": "Bold"
+              }
+            ],
+            "key": "ca1dm",
+            "text": "以前很多想法都是散的：一篇文章里的一个观点，一份报告里的一个数据，一次项目里的一个经验，各自躺在不同的地方。当它们被持续收集、反复调用，原本零散的内容就会慢慢连接起来，变成自己的判断、方法和体系。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4n85h",
+            "text": "\n只有真正流动起来的知识，才是有价值的知识。长期积累下来，它不只是你的资料库。它会慢慢变成你的内容体系，甚至是你的第二大脑。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a1vo3",
+            "text": "我现在打开自己的ima知识库，看到文章归文章、资料归资料、灵感归灵感，需要的时候随时都能找到能调用，真的有一种把家里所有抽屉都整理干净的舒爽感！",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "entityKey": "abc1a6bf-6933-4d59-ba5b-874f92c316fb",
+                "mediaItems": [
+                  {
+                    "localMediaId": "28",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2081010962963070976"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "de41309f-b47a-48e8-88e1-841967047ca9",
+                "mediaItems": [
+                  {
+                    "localMediaId": "16",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2081009861387857921"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "entityKey": "46323ab4-41b9-4848-adfa-f9606362f8f2",
+                "mediaItems": [
+                  {
+                    "localMediaId": "30",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2081011150381256704"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "entityKey": "f9b2c592-a1de-404b-8755-65d3bc103366",
+                "mediaItems": [
+                  {
+                    "localMediaId": "18",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2081009924088500224"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "entityKey": "f87ab30e-4275-4a1a-becd-683f20ad6c07",
+                "mediaItems": [
+                  {
+                    "localMediaId": "20",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2081009980883566594"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "3bb91928-a15e-4c3d-9b48-4229995eeade",
+                "mediaItems": [
+                  {
+                    "localMediaId": "8",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2081007388711399424"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "225ac557-676f-4385-a5e3-7ccd52c33a37",
+                "mediaItems": [
+                  {
+                    "localMediaId": "2",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2081006800594522113"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "053611e5-4d3a-4f2d-9974-1f3505d3e971",
+                "mediaItems": [
+                  {
+                    "localMediaId": "10",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2081007537273618432"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "entityKey": "23374b80-d288-42b6-af0e-7fd7498e8161",
+                "mediaItems": [
+                  {
+                    "localMediaId": "24",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2081010763888807937"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "ff43851f-10b4-452f-917c-0a3c3a810970",
+                "mediaItems": [
+                  {
+                    "localMediaId": "12",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2081007711362412544"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOE8nZgaEAAKAAIV8ZobQ1UQAAAA",
+          "media_id": "2081011150381256704",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.55,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 0.45,
+                  "rgb": {
+                    "blue": 105,
+                    "green": 105,
+                    "red": 105
+                  }
+                }
+              ]
+            },
+            "original_img_height": 219,
+            "original_img_url": "https://pbs.twimg.com/media/HOE8nZgaEAACeLA.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2081011150381256704"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOE5fOKa8AAKAAIV8ZobQ1UQAAAA",
+          "media_id": "2081007711362412544",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 64.49,
+                  "rgb": {
+                    "blue": 238,
+                    "green": 238,
+                    "red": 238
+                  }
+                },
+                {
+                  "percentage": 28.46,
+                  "rgb": {
+                    "blue": 76,
+                    "green": 76,
+                    "red": 76
+                  }
+                },
+                {
+                  "percentage": 1.12,
+                  "rgb": {
+                    "blue": 65,
+                    "green": 65,
+                    "red": 201
+                  }
+                },
+                {
+                  "percentage": 0.46,
+                  "rgb": {
+                    "blue": 56,
+                    "green": 57,
+                    "red": 120
+                  }
+                },
+                {
+                  "percentage": 0.38,
+                  "rgb": {
+                    "blue": 172,
+                    "green": 229,
+                    "red": 166
+                  }
+                }
+              ]
+            },
+            "original_img_height": 960,
+            "original_img_url": "https://pbs.twimg.com/media/HOE5fOKa8AALwg7.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2081007711362412544"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOE7gBNbkAAKAAIV8ZobQ1UQAAAA",
+          "media_id": "2081009924088500224",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.77,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 252,
+                    "red": 252
+                  }
+                }
+              ]
+            },
+            "original_img_height": 692,
+            "original_img_url": "https://pbs.twimg.com/media/HOE7gBNbkAAl52H.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2081009924088500224"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOE4qNSb0AEKAAIV8ZobQ1UQAAAA",
+          "media_id": "2081006800594522113",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.59,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 253,
+                    "red": 250
+                  }
+                },
+                {
+                  "percentage": 2.77,
+                  "rgb": {
+                    "blue": 59,
+                    "green": 58,
+                    "red": 57
+                  }
+                },
+                {
+                  "percentage": 0.35,
+                  "rgb": {
+                    "blue": 121,
+                    "green": 123,
+                    "red": 119
+                  }
+                }
+              ]
+            },
+            "original_img_height": 353,
+            "original_img_url": "https://pbs.twimg.com/media/HOE4qNSb0AEYM5O.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2081006800594522113"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOE5VFoawAAKAAIV8ZobQ1UQAAAA",
+          "media_id": "2081007537273618432",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.06,
+                  "rgb": {
+                    "blue": 247,
+                    "green": 247,
+                    "red": 247
+                  }
+                },
+                {
+                  "percentage": 1.46,
+                  "rgb": {
+                    "blue": 22,
+                    "green": 185,
+                    "red": 185
+                  }
+                },
+                {
+                  "percentage": 1.24,
+                  "rgb": {
+                    "blue": 59,
+                    "green": 59,
+                    "red": 59
+                  }
+                },
+                {
+                  "percentage": 1.17,
+                  "rgb": {
+                    "blue": 189,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 1.09,
+                  "rgb": {
+                    "blue": 12,
+                    "green": 121,
+                    "red": 120
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2456,
+            "original_img_url": "https://pbs.twimg.com/media/HOE5VFoawAAF-03.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2081007537273618432"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOE7cXobsAEKAAIV8ZobQ1UQAAAA",
+          "media_id": "2081009861387857921",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.58,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 253,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 1.7,
+                  "rgb": {
+                    "blue": 177,
+                    "green": 246,
+                    "red": 234
+                  }
+                },
+                {
+                  "percentage": 0.8,
+                  "rgb": {
+                    "blue": 209,
+                    "green": 244,
+                    "red": 196
+                  }
+                },
+                {
+                  "percentage": 0.29,
+                  "rgb": {
+                    "blue": 91,
+                    "green": 79,
+                    "red": 80
+                  }
+                },
+                {
+                  "percentage": 0.16,
+                  "rgb": {
+                    "blue": 130,
+                    "green": 234,
+                    "red": 199
+                  }
+                }
+              ]
+            },
+            "original_img_height": 299,
+            "original_img_url": "https://pbs.twimg.com/media/HOE7cXobsAE6anX.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2081009861387857921"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOE8Q5tbUAEKAAIV8ZobQ1UQAAAA",
+          "media_id": "2081010763888807937",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 94.28,
+                  "rgb": {
+                    "blue": 243,
+                    "green": 247,
+                    "red": 241
+                  }
+                },
+                {
+                  "percentage": 1.6,
+                  "rgb": {
+                    "blue": 22,
+                    "green": 165,
+                    "red": 163
+                  }
+                },
+                {
+                  "percentage": 1.22,
+                  "rgb": {
+                    "blue": 95,
+                    "green": 95,
+                    "red": 95
+                  }
+                },
+                {
+                  "percentage": 0.59,
+                  "rgb": {
+                    "blue": 145,
+                    "green": 249,
+                    "red": 246
+                  }
+                },
+                {
+                  "percentage": 0.4,
+                  "rgb": {
+                    "blue": 11,
+                    "green": 229,
+                    "red": 224
+                  }
+                }
+              ]
+            },
+            "original_img_height": 830,
+            "original_img_url": "https://pbs.twimg.com/media/HOE8Q5tbUAE1OkV.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2081010763888807937"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOE7jUybgAIKAAIV8ZobQ1UQAAAA",
+          "media_id": "2081009980883566594",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 87.07,
+                  "rgb": {
+                    "blue": 243,
+                    "green": 247,
+                    "red": 239
+                  }
+                },
+                {
+                  "percentage": 7.44,
+                  "rgb": {
+                    "blue": 145,
+                    "green": 217,
+                    "red": 196
+                  }
+                },
+                {
+                  "percentage": 1.46,
+                  "rgb": {
+                    "blue": 161,
+                    "green": 222,
+                    "red": 142
+                  }
+                },
+                {
+                  "percentage": 1.16,
+                  "rgb": {
+                    "blue": 145,
+                    "green": 219,
+                    "red": 227
+                  }
+                },
+                {
+                  "percentage": 0.92,
+                  "rgb": {
+                    "blue": 42,
+                    "green": 153,
+                    "red": 154
+                  }
+                }
+              ]
+            },
+            "original_img_height": 473,
+            "original_img_url": "https://pbs.twimg.com/media/HOE7jUybgAIp7BI.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2081009980883566594"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOE8cfUbgAAKAAIV8ZobQ1UQAAAA",
+          "media_id": "2081010962963070976",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 93.9,
+                  "rgb": {
+                    "blue": 250,
+                    "green": 250,
+                    "red": 250
+                  }
+                },
+                {
+                  "percentage": 1.56,
+                  "rgb": {
+                    "blue": 25,
+                    "green": 116,
+                    "red": 116
+                  }
+                },
+                {
+                  "percentage": 1.51,
+                  "rgb": {
+                    "blue": 123,
+                    "green": 123,
+                    "red": 123
+                  }
+                },
+                {
+                  "percentage": 1.16,
+                  "rgb": {
+                    "blue": 88,
+                    "green": 240,
+                    "red": 243
+                  }
+                },
+                {
+                  "percentage": 1.12,
+                  "rgb": {
+                    "blue": 152,
+                    "green": 239,
+                    "red": 239
+                  }
+                }
+              ]
+            },
+            "original_img_height": 475,
+            "original_img_url": "https://pbs.twimg.com/media/HOE8cfUbgAA87pW.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2081010962963070976"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOE5McMbMAAKAAIV8ZobQ1UQAAAA",
+          "media_id": "2081007388711399424",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 73.31,
+                  "rgb": {
+                    "blue": 247,
+                    "green": 247,
+                    "red": 247
+                  }
+                },
+                {
+                  "percentage": 11.47,
+                  "rgb": {
+                    "blue": 2,
+                    "green": 6,
+                    "red": 17
+                  }
+                },
+                {
+                  "percentage": 4.64,
+                  "rgb": {
+                    "blue": 39,
+                    "green": 76,
+                    "red": 114
+                  }
+                },
+                {
+                  "percentage": 1.83,
+                  "rgb": {
+                    "blue": 24,
+                    "green": 161,
+                    "red": 160
+                  }
+                },
+                {
+                  "percentage": 1.55,
+                  "rgb": {
+                    "blue": 14,
+                    "green": 221,
+                    "red": 223
+                  }
+                }
+              ]
+            },
+            "original_img_height": 765,
+            "original_img_url": "https://pbs.twimg.com/media/HOE5McMbMAAesaN.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2081007388711399424"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

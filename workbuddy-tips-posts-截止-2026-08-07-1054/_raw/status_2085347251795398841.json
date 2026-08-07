@@ -1,0 +1,266 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/rionaifantasy/status/2085347251795398841",
+    "id": "2085347251795398841",
+    "text": "真没想到啊。。我一个天天用claude和codex的AI博主，也开始对国产办公 Agent 刮目相看了😲。。。\n\n这几天我把腾讯 WorkBuddy 里的 Skills、Connectors 和 Automation 都翻了一遍。\n最直观的感受：它想解决的不是怎么把话说得更漂亮，而是 AI 回答完以后，那一串最烦的脏活。\n\n问 AI → 搬内容 → 找文件 → 开文档 → 发群 → 设提醒\n\nWorkBuddy 想把后面几步接成一条任务链。\n\n下面说 4 个我认为真正值得看的点：\n\n试一下: https://workbuddy.ai\n使用指南: https://www.workbuddy.ai/docs/workbuddy/Overview",
+    "raw_text": {
+      "text": "真没想到啊。。我一个天天用claude和codex的AI博主，也开始对国产办公 Agent 刮目相看了😲。。。\n\n这几天我把腾讯 WorkBuddy 里的 Skills、Connectors 和 Automation 都翻了一遍。\n最直观的感受：它想解决的不是怎么把话说得更漂亮，而是 AI 回答完以后，那一串最烦的脏活。\n\n问 AI → 搬内容 → 找文件 → 开文档 → 发群 → 设提醒\n\nWorkBuddy 想把后面几步接成一条任务链。\n\n下面说 4 个我认为真正值得看的点：\n\n试一下: https://t.co/rHHW0EKSoe\n使用指南: https://t.co/N9QfA062mg",
+      "display_text_range": [
+        0,
+        303
+      ],
+      "facets": [
+        {
+          "type": "bold",
+          "indices": [
+            0,
+            56
+          ]
+        },
+        {
+          "type": "media",
+          "indices": [
+            176,
+            199
+          ],
+          "id": "2085337172891123712",
+          "display": "pic.x.com/UeDgErKius",
+          "original": "https://t.co/UeDgErKius",
+          "replacement": "https://x.com/rionaifantasy/status/2085347251795398841/photo/1"
+        },
+        {
+          "type": "url",
+          "indices": [
+            249,
+            272
+          ],
+          "original": "https://t.co/rHHW0EKSoe",
+          "replacement": "https://workbuddy.ai",
+          "display": "workbuddy.ai"
+        },
+        {
+          "type": "url",
+          "indices": [
+            279,
+            302
+          ],
+          "original": "https://t.co/N9QfA062mg",
+          "replacement": "https://www.workbuddy.ai/docs/workbuddy/Overview",
+          "display": "workbuddy.ai/docs/workbuddy…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "rionaifantasy",
+      "url": "https://x.com/rionaifantasy",
+      "id": "1451831560991170569",
+      "followers": 14316,
+      "following": 3275,
+      "likes": 75084,
+      "media_count": 531,
+      "name": "Rion Wu",
+      "description": "00后 qs30 硕士 \n| 正在用AI＆Web3＆自媒体杠杆，重启人生   \n|  ADHD&ENTP  |  AI视频/ AI自动化与产品构建  / AI工具测评与教学 / 个人和企业AI培训 | 合作微信: a668899universe｜邮箱：rionwu98@gmail.com",
+      "raw_description": {
+        "text": "00后 qs30 硕士 \n| 正在用AI＆Web3＆自媒体杠杆，重启人生   \n|  ADHD&ENTP  |  AI视频/ AI自动化与产品构建  / AI工具测评与教学 / 个人和企业AI培训 | 合作微信: a668899universe｜邮箱：rionwu98@gmail.com",
+        "facets": []
+      },
+      "location": "Australia",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1451831560991170569/1768964987",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1996577388478844928/WkPc65TY_200x200.jpg",
+      "joined": "Sat Oct 23 08:43:26 +0000 2021",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 32,
+    "retweets": 9,
+    "likes": 74,
+    "bookmarks": 84,
+    "quotes": 9,
+    "created_at": "Thu Aug 06 12:48:23 +0000 2026",
+    "created_timestamp": 1786020503,
+    "possibly_sensitive": false,
+    "views": 46554,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2085337172891123712",
+          "url": "https://pbs.twimg.com/media/HPCbHDMXwAALFQb.jpg?name=orig",
+          "width": 1152,
+          "height": 768
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2085337172891123712",
+          "url": "https://pbs.twimg.com/media/HPCbHDMXwAALFQb.jpg?name=orig",
+          "width": 1152,
+          "height": 768
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/TencentHunyuan/status/2084836757095526689",
+      "id": "2084836757095526689",
+      "text": "🚀 Hy3 is now live in WorkBuddy global—free for users worldwide through August 31, 2026 (PT).\n\nResearch, analyze data, create documents and presentations, and handle workplace communications in an agentic AI workspace—no setup required.\n\nHy3 is also available through Tencent Design Miora and Tencent Cloud TokenHub.\n\nTry it:\nhttps://workbuddy.ai\n\n#TencentHy #Hy3 #WorkBuddy #Miora #TencentCloud",
+      "raw_text": {
+        "text": "🚀 Hy3 is now live in WorkBuddy global—free for users worldwide through August 31, 2026 (PT).\n\nResearch, analyze data, create documents and presentations, and handle workplace communications in an agentic AI workspace—no setup required.\n\nHy3 is also available through Tencent Design Miora and Tencent Cloud TokenHub.\n\nTry it:\nhttps://t.co/nT4bY3MpFr\n\n#TencentHy #Hy3 #WorkBuddy #Miora #TencentCloud",
+        "display_text_range": [
+          0,
+          398
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              275,
+              298
+            ],
+            "id": "2084836212976820224",
+            "display": "pic.x.com/dzhfniK3SK",
+            "original": "https://t.co/dzhfniK3SK",
+            "replacement": "https://x.com/TencentHunyuan/status/2084836757095526689/photo/1"
+          },
+          {
+            "type": "url",
+            "indices": [
+              325,
+              348
+            ],
+            "original": "https://t.co/nT4bY3MpFr",
+            "replacement": "https://workbuddy.ai",
+            "display": "workbuddy.ai"
+          },
+          {
+            "type": "hashtag",
+            "indices": [
+              350,
+              360
+            ],
+            "original": "TencentHy"
+          },
+          {
+            "type": "hashtag",
+            "indices": [
+              361,
+              365
+            ],
+            "original": "Hy3"
+          },
+          {
+            "type": "hashtag",
+            "indices": [
+              366,
+              376
+            ],
+            "original": "WorkBuddy"
+          },
+          {
+            "type": "hashtag",
+            "indices": [
+              377,
+              383
+            ],
+            "original": "Miora"
+          },
+          {
+            "type": "hashtag",
+            "indices": [
+              384,
+              397
+            ],
+            "original": "TencentCloud"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "TencentHunyuan",
+        "url": "https://x.com/TencentHunyuan",
+        "id": "1810933558703493120",
+        "followers": 45777,
+        "following": 8,
+        "likes": 1279,
+        "media_count": 302,
+        "name": "Tencent Hy",
+        "description": "Tencent's foundation model for text, image, video, and 3D generation.",
+        "raw_description": {
+          "text": "Tencent's foundation model for text, image, video, and 3D generation.",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1810933558703493120/1754362168",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1810934469769195520/kKSVenHW_200x200.jpg",
+        "joined": "Wed Jul 10 07:06:45 +0000 2024",
+        "protected": false,
+        "website": {
+          "url": "https://discord.gg/dNBrdrGGMa",
+          "display_url": "discord.gg/dNBrdrGGMa"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "organization"
+        },
+        "avatar_color": null
+      },
+      "replies": 30,
+      "retweets": 55,
+      "likes": 385,
+      "bookmarks": 172,
+      "quotes": 28,
+      "created_at": "Wed Aug 05 02:59:51 +0000 2026",
+      "created_timestamp": 1785898791,
+      "possibly_sensitive": false,
+      "views": 139134,
+      "is_note_tweet": true,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2084836212976820224",
+            "url": "https://pbs.twimg.com/media/HO7TfWFaoAA4Yq9.jpg?name=orig",
+            "width": 2066,
+            "height": 1170
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2084836212976820224",
+            "url": "https://pbs.twimg.com/media/HO7TfWFaoAA4Yq9.jpg?name=orig",
+            "width": 2066,
+            "height": 1170
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

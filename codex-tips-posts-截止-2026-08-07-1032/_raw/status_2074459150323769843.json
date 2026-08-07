@@ -1,0 +1,3782 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/laowangbabababa/status/2074459150323769843",
+    "id": "2074459150323769843",
+    "text": "",
+    "raw_text": {
+      "text": "https://t.co/25UV75OSNA",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "laowangbabababa",
+      "url": "https://x.com/laowangbabababa",
+      "id": "1780429591137652736",
+      "followers": 7664,
+      "following": 188,
+      "likes": 1592,
+      "media_count": 208,
+      "name": "产品经理老王霸",
+      "description": "🏫前Top2大厂产品经理 ，独立开发者\n📚《电商产品经理》作者 \n🏫微信跳转网：http://wx.laowangba.com\n🏫AI编程课程：http://vibecoding.page\n👀 分享AI出海，AI实操分享，AI 编程经验和踩坑分享\n🔥 企业AI培训 | AI 工具推广，合作V: pmlaowangba",
+      "raw_description": {
+        "text": "🏫前Top2大厂产品经理 ，独立开发者\n📚《电商产品经理》作者 \n🏫微信跳转网：https://t.co/Jv28W2vHBW\n🏫AI编程课程：https://t.co/7ga2DzE33l\n👀 分享AI出海，AI实操分享，AI 编程经验和踩坑分享\n🔥 企业AI培训 | AI 工具推广，合作V: pmlaowangba",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              40,
+              63
+            ],
+            "original": "https://t.co/Jv28W2vHBW",
+            "replacement": "http://wx.laowangba.com",
+            "display": "wx.laowangba.com"
+          },
+          {
+            "type": "url",
+            "indices": [
+              72,
+              95
+            ],
+            "original": "https://t.co/7ga2DzE33l",
+            "replacement": "http://vibecoding.page",
+            "display": "vibecoding.page"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1780429591137652736/1768192989",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2010279972905394177/G-phJLI-_200x200.jpg",
+      "joined": "Wed Apr 17 02:54:39 +0000 2024",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 34,
+    "retweets": 170,
+    "likes": 758,
+    "bookmarks": 1657,
+    "quotes": 14,
+    "created_at": "Tue Jul 07 11:42:57 +0000 2026",
+    "created_timestamp": 1783424577,
+    "possibly_sensitive": false,
+    "views": 653557,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-07-07T11:42:57.000Z",
+      "modified_at": "2026-07-07T11:42:57.000Z",
+      "id": "2074455505171521536",
+      "title": "开源我月入10w+的Codex的使用方法（超详细教学）",
+      "preview_text": "Codex 这种东西，直觉告诉你应该是程序员用的。但最先玩转它的那批人，是产品经理、运营、自媒体博主、大学生、个体户老板——没几个会写代码的。\n因为程序员用它，是从 80 分到 95 分。你不会写代码，是从 0 分直接到",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHMn1lKObQAAKAAIYtVtHr1qQAAAA",
+        "media_id": "2074459122129649664",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 81.1,
+                "rgb": {
+                  "blue": 241,
+                  "green": 250,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 4.75,
+                "rgb": {
+                  "blue": 15,
+                  "green": 20,
+                  "red": 31
+                }
+              },
+              {
+                "percentage": 3.86,
+                "rgb": {
+                  "blue": 39,
+                  "green": 89,
+                  "red": 252
+                }
+              },
+              {
+                "percentage": 2.76,
+                "rgb": {
+                  "blue": 137,
+                  "green": 169,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 1.19,
+                "rgb": {
+                  "blue": 237,
+                  "green": 225,
+                  "red": 214
+                }
+              }
+            ]
+          },
+          "original_img_height": 821,
+          "original_img_url": "https://pbs.twimg.com/media/HMn1lKObQAAfmRQ.jpg",
+          "original_img_width": 2052
+        },
+        "media_key": "3_2074459122129649664"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "k1qq9",
+            "text": "Codex 这种东西，直觉告诉你应该是程序员用的。但最先玩转它的那批人，是产品经理、运营、自媒体博主、大学生、个体户老板——没几个会写代码的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "zj9o8",
+            "text": "因为程序员用它，是从 80 分到 95 分。你不会写代码，是从 0 分直接到 60 分。那个跨越感，完全不一样。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dteiy",
+            "text": "黄仁勋讲得更直白：一个年薪五十万刀的工程师，一年用不了二十五万 token，那才不正常。token 不是成本，是生产资料。以前工厂烧煤，今天知识工作烧算力。你不用，别人用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "xi3ap",
+            "text": "别再只把 AI 当聊天机器人了。ChatGPT 陪你唠嗑，Codex 替你干活。两个东西。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "kn7v7",
+            "text": "我用 codex，一个月收入 10W+，今天把使用方法全部开源。从注册、安装到每种使用方式的页面拆解，全部配截图。不需要编程基础，跟着走一遍，让 AI 开始替你干活。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "losdf",
+            "text": "一、Codex 是什么",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7otnv",
+            "text": "Codex 是 OpenAI 推出的 AI 编程 Agent。它跟普通 ChatGPT 对话不一样，Codex 能直接在你的电脑上创建文件、修改代码、运行命令、安装依赖、部署网站。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "gcz5n",
+            "text": "你说需求，它干完活，你审核结果。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "q7szv",
+            "text": "用 Codex 能做这些事。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "gwhh3",
+            "text": "开发网站：帮我用 Next.js 做一个个人博客",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cqxzx",
+            "text": "修 bug：这个登录接口为什么会 500，帮我查一下",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "pdqcj",
+            "text": "写脚本：写一个 Python 脚本，每天自动抓取微博热搜",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7lxr9",
+            "text": "部署上线：把这个项目部署到 Vercel",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "90utx",
+            "text": "重构代码：把这段代码从 JavaScript 改成 TypeScript",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ryse1",
+            "text": "写文档：给这个项目写 README 和 API 文档",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "x6r26",
+            "text": "数据处理：把这个 CSV 里的数据清洗一遍，输出统计图表",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ry8pf",
+            "text": "开发小程序：帮我初始化一个微信小程序项目",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "wy0cx",
+            "text": "Codex 不等于 ChatGPT。ChatGPT 只能给你文字建议，Codex 能直接动手改你的项目文件、跑终端命令。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "tkpw4",
+            "text": "二、注册与订阅",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "sptcp",
+            "text": "Codex 不单独收费，包含在 ChatGPT 套餐里。你需要有一个 ChatGPT 付费账号。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "71vt4",
+            "text": "1 注册 Google 账号",
+            "type": "header-two"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 3,
+                  "text": "https://accounts.google.com/signup",
+                  "toIndex": 37
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9sjxb",
+            "text": "打开 https://accounts.google.com/signup ，按提示填写信息。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "91umm",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "i6y05",
+            "text": "注册时需要手机号验证，国内手机号 +86 开头可以正常收到验证码。注册完成后你就有了一个 Gmail 邮箱。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6p7qp",
+            "text": "如果已经有 Google 账号，跳过这一步。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8klg8",
+            "text": "2 注册 OpenAI 账号",
+            "type": "header-two"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 3,
+                  "text": "https://chatgpt.com/",
+                  "toIndex": 23
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5bfy3",
+            "text": "打开 https://chatgpt.com/ ，用刚才注册的 Gmail 邮箱注册 OpenAI 账号。国内手机号也可以用来验证。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "wmbd0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vyu3j",
+            "text": "注意，OpenAI 对部分 IP 有限制。如果注册时提示不可用，换个网络环境再试。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "iu2vq",
+            "text": "3 套餐选择",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "0dgha",
+            "text": "套餐：Plus；月费：$20/月；Codex 权限：可用，有使用额度；适合谁：个人学习、轻度开发，推荐先开这个",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rr52x",
+            "text": "套餐：Pro；月费：$100-200/月；Codex 权限：可用，额度很高；适合谁：重度日常使用、专业开发者",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "o0tux",
+            "text": "套餐：Team；月费：$25/人/月；Codex 权限：可用；适合谁：小团队协作",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vmdul",
+            "text": "套餐：Business；月费：联系销售；Codex 权限：可用；适合谁：企业",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "jy6hg",
+            "text": "套餐：Enterprise；月费：联系销售；Codex 权限：可用；适合谁：大企业",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ukb4y",
+            "text": "4 订阅方法，推荐安卓 Google Play",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "evd1j",
+            "text": "ChatGPT Plus 最稳的订阅方式是通过安卓手机上的 Google Play 支付。下面是完整流程。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3oc98",
+            "text": "-",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "96t7u",
+            "text": "第一步，准备一台安卓手机",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "nc4lh",
+            "text": "没有安卓手机的话，可以在电脑上装一个安卓模拟器，比如 MuMu 模拟器或雷电模拟器。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "xtgjp",
+            "text": "第二步，在手机上登录 Google 账号",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "xfcif",
+            "text": "打开手机设置，找到「账号」或「账户」，添加 Google 账号，用 2.1 里注册的 Gmail 登录。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rnc22",
+            "text": "第三步，给 Google Play 添加支付方式",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qk3q7",
+            "text": "打开手机上的 Google Play 商店，点击右上角头像，进入「付款和订阅」、「付款方式」，添加一张信用卡或借记卡。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "m0mqi",
+            "text": "国内银行发行的 Visa 或 MasterCard 信用卡大部分可以用。如果没有外币信用卡，可以在淘宝购买 Google Play 礼品卡充值。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "kyvc0",
+            "text": "第四步，安装 ChatGPT App",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "v0reg",
+            "text": "在 Google Play 商店搜索「ChatGPT」，下载安装。注意区分，OpenAI 官方的 ChatGPT 图标是绿色底白色线条，别下错了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "meaiy",
+            "text": "第五步，登录并订阅",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bw050",
+            "text": "打开 ChatGPT App，用 2.2 里注册的 OpenAI 账号登录。登录后点击左下角的「Upgrade plan」，选择 Plus 套餐，支付方式选 Google Play。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "mx1r9",
+            "text": "价格显示为 $19.99/月，Google Play 会自动按当月汇率扣款。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "gydpk",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2vca7",
+            "text": "三、Codex 的四种使用方式",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c20e8",
+            "text": "Codex 提供了四种入口，针对不同使用习惯。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 21,
+                  "text": "chatgpt.com/codex",
+                  "toIndex": 38
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "zr9vy",
+            "text": "方式：Web 网页端；是什么：浏览器打开 chatgpt.com/codex；适合谁：新手入门、不想装任何东西",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "g668y",
+            "text": "方式：桌面 App；是什么：下载安装 ChatGPT 桌面应用；适合谁：需要读写本地文件、日常主力使用",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "mceel",
+            "text": "方式：CLI 命令行；是什么：终端里运行 codex 命令；适合谁：习惯命令行的开发者、在服务器上使用",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "p04fg",
+            "text": "方式：IDE 插件；是什么：在 VS Code、Cursor 或 Windsurf 里装扩展；适合谁：已经在用这些编辑器的人",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "prgkv",
+            "text": "四种方式共用一个账号、共享额度，选一个最顺手的就行，不用全装。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "sfchx",
+            "text": "四、安装分步教学",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cjc7k",
+            "text": "1 Web 网页端，零安装",
+            "type": "header-two"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 9,
+                  "text": "https://chatgpt.com/codex",
+                  "toIndex": 34
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "56ndn",
+            "text": "直接用浏览器打开 https://chatgpt.com/codex",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "r1gkl",
+            "text": "登录你的 ChatGPT 账号，即可在网页里使用 Codex。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "0p700",
+            "text": "优点是不用装，任何电脑打开就能用。缺点是不能直接访问你电脑上的本地文件夹，需要手动上传文件。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "mubsq",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qu9o1",
+            "text": "2 桌面 App，推荐大多数同学用这个",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8i2w4",
+            "text": "macOS 安装",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7sj1c",
+            "text": "打开 App Store，搜索「ChatGPT」",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "i6ssu",
+            "text": "点击获取 / 安装 ChatGPT",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "wdlc9",
+            "text": "打开后登录你的 ChatGPT 账号",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "r7p4v",
+            "text": "在 App 内选择 Codex 模式",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "0djxc",
+            "text": "macOS 用户注意，App 需要 macOS 14 Sonoma 及以上版本。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "zizbr",
+            "text": "Windows 安装",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 3,
+                  "text": "https://chatgpt.com/download",
+                  "toIndex": 31
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a0x81",
+            "text": "打开 https://chatgpt.com/download",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "p0sjs",
+            "text": "下载 Windows 版安装包",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "mvgw8",
+            "text": "双击安装，一路下一步",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "hchxz",
+            "text": "打开后登录 ChatGPT 账号",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qhydy",
+            "text": "Windows 用户注意，需要 Windows 10 及以上。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "zou8i",
+            "text": "打开 App，登录，如果看到 Codex 入口，就说明安装成功。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9g8mg",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6iuu5",
+            "text": "3 CLI 命令行，在终端里用",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f4dw8",
+            "text": "macOS 和 Linux 安装",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "pfcc3",
+            "text": "打开终端，复制粘贴这行命令。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 11,
+                  "text": "https://chatgpt.com/codex/install.sh",
+                  "toIndex": 47
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3hiuu",
+            "text": "curl -fsSL https://chatgpt.com/codex/install.sh | sh",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dgosl",
+            "text": "也可以用包管理器安装。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "iv9ux",
+            "text": "# npm，需要先装好 Node.js\nnpm install -g @openai/codex\n\n# Homebrew，仅 macOS\nbrew install codex",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "z6vs1",
+            "text": "Windows 安装",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e5ems",
+            "text": "打开 PowerShell，复制粘贴这行命令。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9pd5h",
+            "text": "npm install -g @openai/codex",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b97pq",
+            "text": "在终端输入。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "im5rq",
+            "text": "codex",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ydzpx",
+            "text": "如果出现登录界面，说明安装成功。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2v2uu",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "oz9j9",
+            "text": "第一次运行会提示你登录，选择 Sign in with ChatGPT，浏览器会自动打开，确认授权，就完成了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "sxg9f",
+            "text": "CLI 除了登录 ChatGPT 账号，也可以配 API Key 使用。但新手直接用 ChatGPT 账号登录就行，不用折腾 API。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6a0b9",
+            "text": "4 IDE 插件，在编辑器里用",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6iz9k",
+            "text": "VS Code 安装",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "mj2k6",
+            "text": "打开 VS Code",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8cc9q",
+            "text": "打开扩展面板（左侧方块图标，或 Ctrl+Shift+X）",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ct7vj",
+            "text": "搜索「Codex」或「OpenAI Codex」",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "82hwm",
+            "text": "点击安装",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "t78l2",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "0jhlu",
+            "text": "五、桌面 App 页面功能全解",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "95mmv",
+            "text": "这一章按你实际看到的界面来讲。桌面 App 左侧有四块主导航：新对话、搜索、已安排、插件。中间是对话或功能页，底部是账号和权限入口。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "j4b4k",
+            "text": "下面 8 张图，清楚一块区域。建议装完 App 后对照着点一遍。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f6oyc",
+            "text": "1 对话主页面，日常干活的地方",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "v7qbs",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "pcbe4",
+            "text": "编号：②；区域：项目区；干什么用：按项目归类会话，一个文件夹对应一类工作；怎么用：先建项目再开对话，比如「老王Win库」「调研短链方案」；同项目下的对话共享上下文",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "454vt",
+            "text": "编号：④；区域：会话标题；干什么用：当前这条对话的名字；怎么用：顶部显示，方便辨认；建议改成任务名，别留着默认的「新对话」",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "hgt3a",
+            "text": "编号：⑥；区域：内容区；干什么用：Codex 的回复正文；怎么用：看它写了什么、改了什么、跑了什么命令；长回复往上滚",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "nqd46",
+            "text": "编号：⑦；区域：链接；干什么用：回复里的可点击 URL；怎么用：比如本地预览地址 http://127.0.0.1:8788/，点一下直接在浏览器打开",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "uebqj",
+            "text": "编号：⑨；区域：附件列表；干什么用：本轮改动涉及的文件卡片；怎么用：显示 log.md、README.md 等；点文件名或用「打开方式」在系统默认编辑器里打开",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2xyp3",
+            "text": "编号：⑩；区域：消息操作；干什么用：复制、点赞/踩、重新生成；怎么用：回复不满意点重新生成；好的回复可以复制存档",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7hjwq",
+            "text": "编号：⑫；区域：权限与模型区；干什么用：当前账号、权限档位、模型选择；怎么用：见 5.4 账号菜单；编程建议开「完全访问」，模型一般默认即可",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ddect",
+            "text": "新项目：左侧项目区 → 选或建项目 → 点「新对话」→ 改会话标题 → 在输入框描述需求。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "obw46",
+            "text": "它改完文件后，先看 ⑧ 要点列表 和 ⑨ 附件列表，确认动过哪些文件，再逐个点开检查。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qmc3m",
+            "text": "本地服务跑起来后，直接点 ⑦ 链接 预览，不用自己猜端口。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "h28bv",
+            "text": "2 插件页面，给 Codex 接外部工具",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "te7ae",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c5ooe",
+            "text": "编号：②；区域：页面标签；干什么用：在「插件」和「技能 Skills」之间切换；怎么用：插件管外部集成；技能管内置能力包，别混",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "deimf",
+            "text": "编号：③；区域：页面标题；干什么用：当前是插件市场；怎么用：副标题「在你常用的工具中使用 Codex」",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "s5big",
+            "text": "编号：⑤；区域：已安装区域；干什么用：当前启用的插件图标条；怎么用：右侧齿轮进插件总设置；已装的会出现在这里",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "94qex",
+            "text": "编号：⑥；区域：来源分类；干什么用：按提供方筛选；怎么用：OpenAI 官方 / 工作空间 / 个人，找自己需要的来源",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "31ejk",
+            "text": "编号：⑧；区域：插件卡片；干什么用：单个插件的介绍；怎么用：看图标、名称、一句话说明判断要不要装",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "zlnnb",
+            "text": "编号：⑨；区域：Try in chat；干什么用：已安装插件的快速入口；怎么用：点它直接开对话并带上该插件上下文",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "upril",
+            "text": "编号：⑪；区域：更多集成提示；干什么用：底部折叠的更多插件；怎么用：点「查看 Notion、Outlook…」展开完整列表",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6sdty",
+            "text": "实操建议",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "kq7n2",
+            "text": "写代码常用：GitHub（读写仓库）、Chrome（浏览器操作）。按你实际栈再装 Figma、Cloudflare 等。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "kb7xo",
+            "text": "装完看 ⑤ 已安装区域 有没有图标，没有说明没装成功，重试或检查网络。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7er5f",
+            "text": "想立刻试：点 ⑨ Try in chat，别回对话页自己猜插件有没有生效。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "trfbj",
+            "text": "3 已安排页面，定时任务和提醒",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "xslq0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "kdzj0",
+            "text": "编号：②；区域：页面标签；干什么用：Tasks（任务）/ Templates（模板）；怎么用：任务看已创建的；模板从预设快速建",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "buyxe",
+            "text": "编号：③；区域：页面标题；干什么用：当前模块名「已安排」；怎么用：—",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "mxb20",
+            "text": "编号：⑤；区域：了解更多；干什么用：官方帮助文档链接；怎么用：不确定能干什么时点进去看",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "g0fu4",
+            "text": "编号：⑥；区域：通过聊天创建；干什么用：右上角主操作按钮；怎么用：点下拉选创建方式，或跳回对话用自然语言建任务",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7nb3k",
+            "text": "编号：⑧；区域：创建首个已安排任务；干什么用：空状态下的引导文案；怎么用：鼓励你先建一条",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "wajgd",
+            "text": "编号：⑨；区域：快捷模板；干什么用：一键套用常见任务类型；怎么用：每日简报 / 每周回顾 / 项目监控，点一个按提示填参数",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "x1qtm",
+            "text": "新手先点 ⑨ 每日简报 或 每周回顾，感受一轮自动化输出长什么样。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "jowao",
+            "text": "也可以回对话页直接说：「每天早上 9 点给我昨天 GitHub 提交摘要」，它会帮你落到已安排里。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9lp8y",
+            "text": "有任务后 ⑦ 会变成列表，可暂停、编辑、删除。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fnn26",
+            "text": "4 账号菜单，用量和设置入口",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "p5eb7",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "gojgs",
+            "text": "左下角头像点开后弹出账号面板。管登录信息、设置入口、额度、升级。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4yz2a",
+            "text": "编号：①；区域：头像与账号入口；干什么用：左下角固定入口；怎么用：显示昵称和套餐徽章（Plus / Pro）；点开弹菜单",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "t8s5j",
+            "text": "编号：②；区域：账号菜单面板；干什么用：账号相关功能集合；怎么用：点外面或再点头像关闭",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dgn4j",
+            "text": "编号：④；区域：个人账户；干什么用：账号类型标签；怎么用：个人版 / 团队版区分",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "exp9p",
+            "text": "编号：⑤；区域：个人资料；干什么用：改昵称、头像等；怎么用：按需维护",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "s9iel",
+            "text": "编号：⑦；区域：邀请好友；干什么用：生成邀请链接；怎么用：有邀请额度时用",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "apah3",
+            "text": "编号：⑧；区域：剩余用量；干什么用：额度概览标题；怎么用：下面两条进度条看细节",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "caak0",
+            "text": "编号：⑩；区域：升级至 Pro；干什么用：订阅升级入口；怎么用：Plus 不够用时考虑",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "k5vvf",
+            "text": "编号：⑪；区域：了解更多；干什么用：额度规则说明；怎么用：搞不清限速原因时点",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "zl9s7",
+            "text": "感觉变慢或提示限额：先看 ⑨ 哪条满了。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rsoi0",
+            "text": "改权限、装 MCP、远程连接：都从 ⑥ 设置 进，别在对话里瞎试命令。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "l1gb9",
+            "text": "5 设置 · 常规，工作模式和权限",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fnwbc",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b9ipk",
+            "text": "Ctrl+, 或账号菜单 → 设置，左侧选 常规。这里决定 Codex 说话风格、文件权限、终端环境。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7c7tj",
+            "text": "编号：①；区域：返回应用；干什么用：退出设置回主界面；怎么用：左上角箭头",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "0h7nh",
+            "text": "编号：③；区域：左侧设置导航；干什么用：个人 / 集成 / 编码 / 已归档 分类；怎么用：权限相关分散在多处，编程重点看「常规」「MCP 服务器」「连接」",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f38ha",
+            "text": "编号：④；区域：页面标题；干什么用：当前在「常规」；怎么用：—",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "watl3",
+            "text": "编号：⑦；区域：默认权限；干什么用：工作区内读写文件；怎么用：基础权限，一般保持开启",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ddm3u",
+            "text": "编号：⑧；区域：自动审核；干什么用：自动批准额外访问请求；怎么用：省事但有误操作风险；新手先关，熟悉后再开",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "08bd4",
+            "text": "编号：⑩；区域：常规选项区；干什么用：文件打开方式、Shell、语言、终端位置；怎么用：Windows 把 Shell 设 PowerShell；终端位置选底部或右侧看习惯",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "z97y0",
+            "text": "实操建议",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2cgn4",
+            "text": "第一次用：工作模式选 适用于编程，开 默认权限，完全访问 按你能接受的风险决定（要写本地项目基本需要）。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "duhe6",
+            "text": "自动审核 建议关着，至少前两周。每次批准命令，你知道它在干什么。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "49pu5",
+            "text": "命令跑不起来：检查 ⑩ Shell 是不是 PowerShell，跟你系统一致。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "0fhfb",
+            "text": "6 设置 · MCP 服务器，接外部数据源",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "gs7ed",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qpl7h",
+            "text": "编号：②；区域：搜索设置；干什么用：搜 MCP 相关项；怎么用：服务器多时用",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ajsnb",
+            "text": "编号：③；区域：左侧导航；干什么用：当前在「集成」分组；怎么用：MCP / 浏览器 / 电脑控制 都在这里",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6f2wt",
+            "text": "编号：⑤；区域：了解更多；干什么用：MCP 官方文档；怎么用：自己写 MCP Server 时看",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8cg3z",
+            "text": "编号：⑥；区域：添加服务器；干什么用：新建 MCP 配置；怎么用：点 + 添加服务器，填名称、启动命令或 URL",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "m2j7m",
+            "text": "编号：⑧；区域：服务器名称；干什么用：配置标识；怎么用：如 node_repl、unityMCP；对话里会按这个名字调用",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "yu2ym",
+            "text": "编号：⑨；区域：设置图标；干什么用：编辑该服务器配置；怎么用：点齿轮改命令、环境变量、参数",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "jqse6",
+            "text": "实操建议",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "yuvd4",
+            "text": "装第三方 MCP 后：列表里要有条目 → 开关打开 → 回对话试一句「列出 MCP 可用工具」。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cwg50",
+            "text": "某个 MCP 报错：先 ⑩ 关掉，确认是不是它引起的，再 ⑨ 改配置。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "runi2",
+            "text": "本课前期可以空着，用到 Unity、数据库、自定义 API 再装。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "70waa",
+            "text": "7 设置 · 连接，手机遥控这台电脑",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "qjvfq",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vd7o1",
+            "text": "设置 → 编码 → 连接。用手机或其他设备远程让 Codex 控制这台电脑。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5k4fs",
+            "text": "编号：①；区域：返回应用；干什么用：回主界面；怎么用：—",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "q9dw1",
+            "text": "编号：③；区域：设置导航；干什么用：当前在「编码」→「连接」；怎么用：同组还有 Hooks、Git、环境、Worktree",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "0gi6u",
+            "text": "编号：④；区域：页面标题；干什么用：连接配置；怎么用：管远程控制",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ujml",
+            "text": "编号：⑥；区域：可控制此电脑的设备；干什么用：已授权设备列表；怎么用：看谁连过",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "zydk9",
+            "text": "编号：⑦；区域：刷新设备列表；干什么用：更新列表；怎么用：新设备授权后点一下",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "m06dz",
+            "text": "编号：⑨；区域：添加设备；干什么用：授权新设备；怎么用：按提示在手机 Codex / ChatGPT App 扫码或确认",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5cz32",
+            "text": "编号：⑩；区域：其他设置；干什么用：辅助选项；怎么用：—",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "inl24",
+            "text": "实操建议",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ijovb",
+            "text": "不需要手机遥控：⑧ 直接关，少一个攻击面。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "q88if",
+            "text": "要用：开 ⑧ → ⑨ 添加设备 → 手机端确认 → ⑦ 刷新看是否出现。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1ligz",
+            "text": "合盖跑远程：开 ⑪，并保证电源接通。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1wmr0",
+            "text": "8 设置 · 宠物，界面上的小伴侣",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "mvzv5",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "y95ds",
+            "text": "设置 → 个人 → 宠物。选一个桌面小图标陪工，纯彩蛋，不影响功能。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bixmw",
+            "text": "编号：①；区域：左侧设置导航；干什么用：切到「宠物」；怎么用：在「个人」分组里",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ww5f",
+            "text": "编号：③；区域：创建自己的宠物；干什么用：自定义伴侣；怎么用：想玩可以点；一般选现成的就够",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "v56a2",
+            "text": "编号：④；区域：刷新；干什么用：重新加载宠物列表；怎么用：列表异常时点",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "37va0",
+            "text": "编号：⑥；区域：宠物列表；干什么用：所有可选宠物；怎么用：往下滚看全套",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "lbtga",
+            "text": "编号：⑦；区域：宠物卡片；干什么用：单只宠物的名字 + 性格说明；怎么用：如 Fireball「Hot path energy for fast iteration」",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "q109o",
+            "text": "编号：⑨；区域：已选状态；干什么用：当前激活项；怎么用：按钮变灰「已选」，同一时间只有一只",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "v7xpm",
+            "text": "编号：⑩；区域：悬浮宠物图标；干什么用：窗口右下角动画；怎么用：工作时能看到；嫌碍眼可在设置里关或换回 Codex 默认",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ataku",
+            "text": "实操建议",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "najvt",
+            "text": "纯好玩，不影响写代码。嫌分心选 Codex 默认或 Null Signal（偏极简）。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "emlqn",
+            "text": "右下角 ⑩ 挡到按钮：换一只小的，或关掉悬浮显示（看当前版本有没有该选项）。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3gc35",
+            "text": "六、CLI 命令行使用入门",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "wpqki",
+            "text": "如果你装了 CLI 版本，在终端输入 codex 即可进入。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "diecn",
+            "text": "1 基本用法",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "p7xb3",
+            "text": "# 进入交互模式\ncodex\n\n# 在指定目录下启动\ncodex --workspace /path/to/your/project\n\n# 直接发指令，一次性模式\ncodex 帮我创建一个 React 项目",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "157hz",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "py18p",
+            "text": "2 CLI 常用命令",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "oik16",
+            "text": "/clear：清空当前会话上下文",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6jtsw",
+            "text": "/model：切换模型",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fw7ry",
+            "text": "/permissions：管理权限设置",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "kd6c1",
+            "text": "/cost：查看本次会话用量",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "djdqk",
+            "text": "CLI 模式适合在远程服务器上操作、跑批量自动化脚本、习惯纯键盘操作的同学。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "yldma",
+            "text": "七、权限与安全设置，必看",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8cg6z",
+            "text": "Codex 能操作你的文件、执行命令，所以权限设置非常重要。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "kj77y",
+            "text": "1 工作目录权限",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "tojv0",
+            "text": "Codex 默认只能访问你指定的工作目录。桌面 App 里选中的文件夹、CLI 里 --workspace 指定的路径，就是它的活动范围。它不能随便读你电脑上的其他文件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "efqqi",
+            "text": "️ 不要用 --workspace ~/ 让 Codex 访问整个用户目录。给每个项目建一个独立文件夹。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cepmn",
+            "text": "2 命令执行权限",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "0eupo",
+            "text": "模式：自动执行；说明：直接跑，不问你；推荐：仅限有经验的开发者",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "n6c81",
+            "text": "模式：禁止执行；说明：不让 Codex 跑任何命令；推荐：太受限，基本没法用",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "v34jk",
+            "text": "新手先用「每次询问」，看清楚它要跑什么命令再点同意，等熟悉了再调松。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "44oju",
+            "text": "3 网络权限",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "uj34w",
+            "text": "允许或禁止 Codex 访问网络",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1n5ms",
+            "text": "设置允许访问的域名白名单",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qainy",
+            "text": "4 Git 安全",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fbbj2",
+            "text": "Codex 操作项目时有几个原则。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "q9vjw",
+            "text": "不要让它直接 git push，除非你盯着看",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "tjhsn",
+            "text": "建议先 git commit 保存改动，再让 Codex 干活，这样搞坏了可以回退",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5wu5p",
+            "text": "让 Codex 在独立分支上操作更安全",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8ngc3",
+            "text": "八、第一次使用，完整示范",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "yo94q",
+            "text": "场景，让 Codex 从零写一个网页计算器。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "gejgc",
+            "text": "Step 1 启动 Codex",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f7ka2",
+            "text": "桌面 App。打开 ChatGPT App，切换到 Codex 模式，新建会话",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "o8c9i",
+            "text": "CLI。终端输入 codex",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 7,
+                  "text": "chatgpt.com/codex",
+                  "toIndex": 24
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "318uu",
+            "text": "Web。打开 chatgpt.com/codex",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1p5q6",
+            "text": "Step 2 指定项目目录",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "zmdm6",
+            "text": "新建一个空文件夹，比如 ~/projects/my-calculator/，选它。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "xfx0b",
+            "text": "Step 3 发指令",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5d9xt",
+            "text": "在输入框输入。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rluuf",
+            "text": "要求是。\n界面好看，现代简约风格\n支持键盘输入\n直接生成一个 index.html 文件",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ji3cg",
+            "text": "Step 4 看 Codex 干活",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ms2cr",
+            "text": "Codex 会按这个流程走。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "w1hwu",
+            "text": "先分析需求，告诉你它打算怎么做",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "jyrjn",
+            "text": "创建 index.html 文件",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "x13e5",
+            "text": "在里面写 HTML、CSS 和 JS 代码",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "angyj",
+            "text": "显示 Diff 对比，因为是新文件，全是绿色新增",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "zn3uf",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "j6f2a",
+            "text": "Step 5 审查并接受",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vch61",
+            "text": "看 Diff 里的代码是否合理",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3nsk6",
+            "text": "点击 Accept 接受改动",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "pd0jw",
+            "text": "文件就写好了",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vsn8e",
+            "text": "Step 6 预览",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "g4t5q",
+            "text": "Codex 可能会主动说「要不要我帮你打开浏览器预览」，或者说「文件已创建，你可以在浏览器打开 index.html 看效果」。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "zjnd2",
+            "text": "如果它没主动说，你可以接着问。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vecht",
+            "text": "帮我在浏览器里打开 index.html 预览一下",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "m10sd",
+            "text": "Step 7 迭代修改",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "g3mqh",
+            "text": "看了效果不满意？接着提需求就行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6taa7",
+            "text": "把计算器改成深色主题，按钮换成圆角的",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "r2n70",
+            "text": "九、日常使用技巧",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5emm0",
+            "text": "1 写好 AGENTS.md，像 Karpathy 一样",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qckia",
+            "text": "Andrej Karpathy 是前特斯拉 AI 总监、OpenAI 联合创始人，他用 AI 写代码有个标志性做法，在项目根目录放一个极详细的 CLAUDE.md，相当于 Codex 里的 AGENTS.md。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "nnzed",
+            "text": "他的核心思路是，把这个文件当成给一个天才但不了解你项目的新同事写的入职文档。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "pezgp",
+            "text": "下面是一个参考示例。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 17,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6gml1",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "kog73",
+            "text": "2 指令要具体",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "jeiil",
+            "text": "修一下 bug：点击登录按钮后页面卡住了，帮我看一下 LoginButton 组件",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "0wq4t",
+            "text": "优化性能：首页加载要 5 秒，帮我看一下是哪个接口慢",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dhw3a",
+            "text": "3 分步来，别一口气说太多",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a2wgz",
+            "text": "4 用截图和图片",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6f3zw",
+            "text": "遇到报错不知道怎么描述？直接截图，上传到 Codex。它可以读图片里的报错信息。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "j7c7l",
+            "text": "5 不会了就问",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "720bn",
+            "text": "不确定下一步怎么办？直接问 Codex。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cnjl9",
+            "text": "接下来我应该做什么？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "yleq3",
+            "text": "Codex 会分析当前项目状态，给你建议。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "h43ot",
+            "text": "6 善用命令",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7wk5x",
+            "text": "CLI 里有很多快捷命令，不需要每次都打完整句子。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2zy3q",
+            "text": "/help # 查看帮助\n/clear # 清空上下文\n/permissions # 调权限\n/cost # 查看用量花了多少",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qv01r",
+            "text": "十七、常见问题",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "j7mdr",
+            "text": "Q Codex 和 Cursor 有什么区别？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "hu96d",
+            "text": "Cursor 是一个 AI 编辑器，你必须用它的编辑器。Codex 是一个 Agent，可以在任何地方用，终端、网页、App、甚至 Cursor 里面都行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vy9d2",
+            "text": "Q Codex 和 Claude Code 有什么区别？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ad29",
+            "text": "两者都是 coding agent。Codex 跟 ChatGPT 账号和 OpenAI 生态绑定；Claude Code 跟 Anthropic 账号绑定。看你订阅哪个、习惯哪套工具链。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "35atm",
+            "text": "Q Plus 的 Codex 额度够用吗？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ofve5",
+            "text": "日常开发一天几小时的话完全够。如果你连续重度使用 8 小时以上，可能会触发限速。先开 Plus 一个月试试，不够再升级。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "xih3m",
+            "text": "Q Codex 生成的代码能直接上生产吗？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7ut5x",
+            "text": "简单的 CRUD、页面、脚本接近生产可用。复杂业务逻辑需要你 review 和调整。Codex 是加速器，不是替代你思考的东西。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "kf2pq",
+            "text": "Q 国内能用 Codex 吗？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6ikcs",
+            "text": "能用。注册和订阅按本文 Gmail + Google Play 流程走。使用 Codex 需要能稳定访问 OpenAI 服务。桌面 App 和 CLI 在本地跑，网络主要用于跟模型通信。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "30met",
+            "text": "Q Codex 把我的代码搞坏了怎么办？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "to8fv",
+            "text": "有三个保险。第一，改之前先 git commit，搞坏了直接 git checkout 回退。第二，Codex 的改动都需要你手动 Accept，看到不合理的点 Reject。第三，对话里可以说「把刚才的改动撤销掉」。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "zbf4v",
+            "text": "Q 能让 Codex 连我的数据库吗？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bjew1",
+            "text": "可以。你告诉它数据库连接信息，建议用环境变量 .env，别直接写在对话里。它能帮你写 SQL、建表、查数据。但生产数据库操作要特别小心。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "75a16",
+            "text": "Q Web 端和 App 端用哪个？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "uqyt0",
+            "text": "新手先用 Web 零安装试一圈。真要写项目、改本地文件，装桌面 App。CLI 适合开发者和服务器场景。四种入口共用一个账号，选一个最顺手的就行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vbr7m",
+            "text": "十八、写在最后",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ysskp",
+            "text": "跟完这篇，你应该能完成：Gmail / OpenAI 注册、Plus 订阅、至少一种 Codex 入口的安装、桌面 App 各页面对号入座、第一次完整跑通一个 demo。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 11,
+                "style": "Bold"
+              }
+            ],
+            "key": "aubod",
+            "text": "更多文章，关注公众号：老王霸 AI Lab",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "entityKey": "9832e32d-aad3-4474-88dc-c96b9de2b063",
+                "mediaItems": [
+                  {
+                    "localMediaId": "13",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456336176422912"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "entityKey": "6b656b84-32ac-4d06-83a0-49574040f1a3",
+                "mediaItems": [
+                  {
+                    "localMediaId": "9",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456303993499648"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "8d7b7167-0279-4a27-81bb-b14bcdff2bbc",
+                "mediaItems": [
+                  {
+                    "localMediaId": "5",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456265842180097"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "entityKey": "6832f441-da08-4a85-b81a-dc1bb059c3cc",
+                "mediaItems": [
+                  {
+                    "localMediaId": "12",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456328165355521"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "entityKey": "38196a73-48a8-41a7-995f-a3f09407325e",
+                "mediaItems": [
+                  {
+                    "localMediaId": "10",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456312252071936"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "entityKey": "c57dcd86-3cae-4006-82e1-d2d3a9f1a9b2",
+                "mediaItems": [
+                  {
+                    "localMediaId": "14",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456344573415424"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "entityKey": "45632ce7-dbca-43d0-bf2e-1fcaddb56b27",
+                "mediaItems": [
+                  {
+                    "localMediaId": "16",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456360931184640"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "entityKey": "726e0baf-c861-489d-8483-b89cbab8ba1a",
+                "mediaItems": [
+                  {
+                    "localMediaId": "6",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456273962340352"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "entityKey": "c9be586d-9d05-4a6b-b918-e2d752d37ac9",
+                "mediaItems": [
+                  {
+                    "localMediaId": "11",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456320183582720"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "entityKey": "90c7d764-4ff9-4f2a-b2ce-12a3eae72c5d",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456287895777281"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "f13a0ff2-42e2-4eb4-8abd-0b9f22df273d",
+                "mediaItems": [
+                  {
+                    "localMediaId": "2",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456241368367105"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {
+                "markdown": "```\n# AGENTS.md\n\n> AI Agent 每次新对话、上下文恢复、开始新任务前，必须先读本文件。\n> 子目录有更近的 AGENTS.md 时，读完本文件后继续读；子规则可细化，不可违反本节红线。\n\n---\n\n## 1. 项目是什么\n\n- **名称**：（填项目名）\n- **类型**：（网站 / 脚本 / 知识库 / 小程序 / 其他）\n- **技术栈**：（如 Next.js + TypeScript + Supabase）\n- **一句话**：这个项目解决什么问题\n\n---\n\n## 2. 红线（必须先问人）\n\n以下操作不能自动执行，必须先征得负责人同意：\n\n- 删除文件、目录或 git 历史\n- `git push`、`git rebase`、`git reset --hard`、强制推送\n- 修改 `.env`、密钥、token、CI/CD 配置\n- 数据库表结构变更、数据迁移、清空数据\n- 生产部署、`npm publish`、公开发布内容\n- 安装全局依赖、修改系统级配置\n\n临时脚本、预览文件、缓存等过程产物，验证完成后应主动清理。\n\n---\n\n## 3. 目录结构\n\ntext\n（按实际填写，示例）\nsrc/           业务代码\napp/           页面或 API 路由\ntests/         测试\ndocs/          文档\nscripts/       工具脚本\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "entityKey": "ad6d48e4-b102-4a30-a88a-0b506c23199c",
+                "mediaItems": [
+                  {
+                    "localMediaId": "15",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456352890777600"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "512f07d4-7ab5-477c-b980-8cae7fb23ea5",
+                "mediaItems": [
+                  {
+                    "localMediaId": "1",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456233931845632"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "625410b2-029c-494b-a809-e74ba4f7d128",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456248838410240"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "entityKey": "5b3d3b27-b773-4869-8f05-94e72eeca9e9",
+                "mediaItems": [
+                  {
+                    "localMediaId": "8",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456295969845248"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "0d069494-0c01-4d50-8983-089cb8e4aa89",
+                "mediaItems": [
+                  {
+                    "localMediaId": "4",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074456257092841472"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMny+5ubQAEKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456265842180097",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 93.38,
+                  "rgb": {
+                    "blue": 12,
+                    "green": 12,
+                    "red": 12
+                  }
+                },
+                {
+                  "percentage": 5.28,
+                  "rgb": {
+                    "blue": 231,
+                    "green": 231,
+                    "red": 231
+                  }
+                },
+                {
+                  "percentage": 0.83,
+                  "rgb": {
+                    "blue": 8,
+                    "green": 57,
+                    "red": 69
+                  }
+                },
+                {
+                  "percentage": 0.2,
+                  "rgb": {
+                    "blue": 58,
+                    "green": 43,
+                    "red": 23
+                  }
+                },
+                {
+                  "percentage": 0.17,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 15,
+                    "red": 40
+                  }
+                }
+              ]
+            },
+            "original_img_height": 924,
+            "original_img_url": "https://pbs.twimg.com/media/HMny-5ubQAE0cX1.jpg",
+            "original_img_width": 1532
+          },
+          "media_key": "3_2074456265842180097"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnzBH2aMAAKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456303993499648",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.35,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 0.97,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 181,
+                    "red": 172
+                  }
+                },
+                {
+                  "percentage": 0.4,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 125,
+                    "red": 105
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 251,
+                    "green": 75,
+                    "red": 48
+                  }
+                },
+                {
+                  "percentage": 0.1,
+                  "rgb": {
+                    "blue": 160,
+                    "green": 185,
+                    "red": 181
+                  }
+                }
+              ]
+            },
+            "original_img_height": 682,
+            "original_img_url": "https://pbs.twimg.com/media/HMnzBH2aMAA8XNb.jpg",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2074456303993499648"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMny9C2aMAAKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456233931845632",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.05,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 0.36,
+                  "rgb": {
+                    "blue": 210,
+                    "green": 97,
+                    "red": 25
+                  }
+                },
+                {
+                  "percentage": 0.29,
+                  "rgb": {
+                    "blue": 241,
+                    "green": 198,
+                    "red": 172
+                  }
+                }
+              ]
+            },
+            "original_img_height": 516,
+            "original_img_url": "https://pbs.twimg.com/media/HMny9C2aMAARrMt.jpg",
+            "original_img_width": 1179
+          },
+          "media_key": "3_2074456233931845632"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMny9ejagAEKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456241368367105",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.78,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 0.22,
+                  "rgb": {
+                    "blue": 140,
+                    "green": 139,
+                    "red": 140
+                  }
+                }
+              ]
+            },
+            "original_img_height": 360,
+            "original_img_url": "https://pbs.twimg.com/media/HMny9ejagAEBLcg.jpg",
+            "original_img_width": 1002
+          },
+          "media_key": "3_2074456241368367105"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnzEb9aUAAKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456360931184640",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.63,
+                  "rgb": {
+                    "blue": 245,
+                    "green": 245,
+                    "red": 244
+                  }
+                },
+                {
+                  "percentage": 3,
+                  "rgb": {
+                    "blue": 29,
+                    "green": 26,
+                    "red": 22
+                  }
+                },
+                {
+                  "percentage": 0.89,
+                  "rgb": {
+                    "blue": 111,
+                    "green": 120,
+                    "red": 18
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1377,
+            "original_img_url": "https://pbs.twimg.com/media/HMnzEb9aUAA4-sy.jpg",
+            "original_img_width": 2277
+          },
+          "media_key": "3_2074456360931184640"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMny96YaUAAKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456248838410240",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.43,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 0.43,
+                  "rgb": {
+                    "blue": 140,
+                    "green": 138,
+                    "red": 137
+                  }
+                }
+              ]
+            },
+            "original_img_height": 771,
+            "original_img_url": "https://pbs.twimg.com/media/HMny96YaUAAmRYl.jpg",
+            "original_img_width": 945
+          },
+          "media_key": "3_2074456248838410240"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnzAL4acAEKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456287895777281",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.51,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 251,
+                    "red": 250
+                  }
+                },
+                {
+                  "percentage": 0.72,
+                  "rgb": {
+                    "blue": 250,
+                    "green": 183,
+                    "red": 170
+                  }
+                },
+                {
+                  "percentage": 0.38,
+                  "rgb": {
+                    "blue": 250,
+                    "green": 136,
+                    "red": 110
+                  }
+                },
+                {
+                  "percentage": 0.2,
+                  "rgb": {
+                    "blue": 219,
+                    "green": 229,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 248,
+                    "green": 96,
+                    "red": 59
+                  }
+                }
+              ]
+            },
+            "original_img_height": 682,
+            "original_img_url": "https://pbs.twimg.com/media/HMnzAL4acAENcYj.jpg",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2074456287895777281"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMny+ZIa8AAKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456257092841472",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.77,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 0.2,
+                  "rgb": {
+                    "blue": 86,
+                    "green": 83,
+                    "red": 82
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1230,
+            "original_img_url": "https://pbs.twimg.com/media/HMny-ZIa8AAlY3Y.jpg",
+            "original_img_width": 1920
+          },
+          "media_key": "3_2074456257092841472"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnzBmnaAAAKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456312252071936",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.55,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 0.85,
+                  "rgb": {
+                    "blue": 251,
+                    "green": 187,
+                    "red": 174
+                  }
+                },
+                {
+                  "percentage": 0.35,
+                  "rgb": {
+                    "blue": 251,
+                    "green": 137,
+                    "red": 104
+                  }
+                },
+                {
+                  "percentage": 0.13,
+                  "rgb": {
+                    "blue": 177,
+                    "green": 200,
+                    "red": 195
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 251,
+                    "green": 94,
+                    "red": 51
+                  }
+                }
+              ]
+            },
+            "original_img_height": 682,
+            "original_img_url": "https://pbs.twimg.com/media/HMnzBmnaAAAHRd2.jpg",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2074456312252071936"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnzD+AbcAAKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456352890777600",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.38,
+                  "rgb": {
+                    "blue": 12,
+                    "green": 12,
+                    "red": 12
+                  }
+                },
+                {
+                  "percentage": 4.68,
+                  "rgb": {
+                    "blue": 232,
+                    "green": 232,
+                    "red": 232
+                  }
+                },
+                {
+                  "percentage": 1.37,
+                  "rgb": {
+                    "blue": 102,
+                    "green": 102,
+                    "red": 102
+                  }
+                },
+                {
+                  "percentage": 1.21,
+                  "rgb": {
+                    "blue": 7,
+                    "green": 59,
+                    "red": 71
+                  }
+                },
+                {
+                  "percentage": 0.17,
+                  "rgb": {
+                    "blue": 37,
+                    "green": 13,
+                    "red": 33
+                  }
+                }
+              ]
+            },
+            "original_img_height": 866,
+            "original_img_url": "https://pbs.twimg.com/media/HMnzD-AbcAA8Uny.png",
+            "original_img_width": 1166
+          },
+          "media_key": "3_2074456352890777600"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnzCEKbQAAKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456320183582720",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.85,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 1.42,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 189,
+                    "red": 169
+                  }
+                },
+                {
+                  "percentage": 0.45,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 139,
+                    "red": 106
+                  }
+                },
+                {
+                  "percentage": 0.17,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 99,
+                    "red": 58
+                  }
+                }
+              ]
+            },
+            "original_img_height": 768,
+            "original_img_url": "https://pbs.twimg.com/media/HMnzCEKbQAAWYIm.jpg",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2074456320183582720"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnzCh5bcAEKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456328165355521",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.23,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 1.03,
+                  "rgb": {
+                    "blue": 242,
+                    "green": 168,
+                    "red": 186
+                  }
+                },
+                {
+                  "percentage": 0.4,
+                  "rgb": {
+                    "blue": 238,
+                    "green": 108,
+                    "red": 139
+                  }
+                },
+                {
+                  "percentage": 0.22,
+                  "rgb": {
+                    "blue": 137,
+                    "green": 137,
+                    "red": 137
+                  }
+                }
+              ]
+            },
+            "original_img_height": 768,
+            "original_img_url": "https://pbs.twimg.com/media/HMnzCh5bcAEPbgN.jpg",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2074456328165355521"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMny/X+bEAAKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456273962340352",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.09,
+                  "rgb": {
+                    "blue": 28,
+                    "green": 26,
+                    "red": 25
+                  }
+                },
+                {
+                  "percentage": 1.1,
+                  "rgb": {
+                    "blue": 49,
+                    "green": 41,
+                    "red": 26
+                  }
+                },
+                {
+                  "percentage": 0.75,
+                  "rgb": {
+                    "blue": 111,
+                    "green": 111,
+                    "red": 111
+                  }
+                },
+                {
+                  "percentage": 0.4,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 43,
+                    "red": 98
+                  }
+                },
+                {
+                  "percentage": 0.32,
+                  "rgb": {
+                    "blue": 96,
+                    "green": 65,
+                    "red": 35
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1664,
+            "original_img_url": "https://pbs.twimg.com/media/HMny_X-bEAA-CGs.jpg",
+            "original_img_width": 2391
+          },
+          "media_key": "3_2074456273962340352"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnzC/vaoAAKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456336176422912",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.14,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 1.74,
+                  "rgb": {
+                    "blue": 159,
+                    "green": 198,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 0.52,
+                  "rgb": {
+                    "blue": 85,
+                    "green": 156,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 0.42,
+                  "rgb": {
+                    "blue": 140,
+                    "green": 140,
+                    "red": 140
+                  }
+                },
+                {
+                  "percentage": 0.13,
+                  "rgb": {
+                    "blue": 241,
+                    "green": 217,
+                    "red": 193
+                  }
+                }
+              ]
+            },
+            "original_img_height": 768,
+            "original_img_url": "https://pbs.twimg.com/media/HMnzC_vaoAASYQ-.jpg",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2074456336176422912"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnzAp9a8AAKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456295969845248",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.37,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 1.13,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 185,
+                    "red": 171
+                  }
+                },
+                {
+                  "percentage": 0.45,
+                  "rgb": {
+                    "blue": 213,
+                    "green": 231,
+                    "red": 238
+                  }
+                },
+                {
+                  "percentage": 0.28,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 116,
+                    "red": 86
+                  }
+                },
+                {
+                  "percentage": 0.13,
+                  "rgb": {
+                    "blue": 250,
+                    "green": 147,
+                    "red": 124
+                  }
+                }
+              ]
+            },
+            "original_img_height": 682,
+            "original_img_url": "https://pbs.twimg.com/media/HMnzAp9a8AA0q9G.jpg",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2074456295969845248"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMnzDfBakAAKAAIYtVtHr1qQAAAA",
+          "media_id": "2074456344573415424",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.85,
+                  "rgb": {
+                    "blue": 251,
+                    "green": 251,
+                    "red": 251
+                  }
+                },
+                {
+                  "percentage": 0.85,
+                  "rgb": {
+                    "blue": 226,
+                    "green": 171,
+                    "red": 162
+                  }
+                },
+                {
+                  "percentage": 0.51,
+                  "rgb": {
+                    "blue": 205,
+                    "green": 207,
+                    "red": 215
+                  }
+                },
+                {
+                  "percentage": 0.24,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 96,
+                    "red": 73
+                  }
+                },
+                {
+                  "percentage": 0.17,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 135,
+                    "red": 120
+                  }
+                }
+              ]
+            },
+            "original_img_height": 576,
+            "original_img_url": "https://pbs.twimg.com/media/HMnzDfBakAAI_iu.jpg",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2074456344573415424"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Tz_2022/status/2083568833164419449",
+    "id": "2083568833164419449",
+    "text": "这个很值得一试。。。\n\nCodex 小技巧：让 Sol 把 Luna Max 配置成专用子代理\n\n在 Codex 里，可以让 Sol 继续留在主线程负责统筹，再把任务拆给 Luna Max 处理。\n\n直接把下面这段提示词发给 Sol：\n\n-----\n请在以下路径创建一个名为 luna_worker 的自定义 Agent：  ~/.codex/agents/luna-worker.toml  使用以下配置：  model = \"gpt-5.6-luna\" model_reasoning_effort = \"max\"  请为这个 Agent 补充清晰的 description 和 instructions。  luna_worker 只负责处理范围明确、边界清晰、可以独立完成的委派任务，不负责修改整体任务目标，也不要自行扩大工作范围。  请保留我现有的其他 Codex 配置，不要覆盖或删除无关内容。  创建完成后：  1. 根据我当前安装的 Codex 版本检查配置格式是否兼容； 2. 展示本次修改产生的 diff； 3. 确认配置有效； 4. 后续需要调用子代理时，优先使用 luna_worker。\n\n----\n\n这样配置后，工作方式大致是：\n\nSol 留在主线程，负责理解目标、拆分任务、检查结果和整合输出。\nLuna Max 作为子代理，处理代码审查、模块分析、独立实现、测试排查等边界明确的子任务。\n\n每个子任务拥有相对独立的上下文，可以减少主线程污染，也便于并行执行。",
+    "raw_text": {
+      "text": "这个很值得一试。。。\n\nCodex 小技巧：让 Sol 把 Luna Max 配置成专用子代理\n\n在 Codex 里，可以让 Sol 继续留在主线程负责统筹，再把任务拆给 Luna Max 处理。\n\n直接把下面这段提示词发给 Sol：\n\n-----\n请在以下路径创建一个名为 luna_worker 的自定义 Agent：  ~/.codex/agents/luna-worker.toml  使用以下配置：  model = \"gpt-5.6-luna\" model_reasoning_effort = \"max\"  请为这个 Agent 补充清晰的 description 和 instructions。  luna_worker 只负责处理范围明确、边界清晰、可以独立完成的委派任务，不负责修改整体任务目标，也不要自行扩大工作范围。  请保留我现有的其他 Codex 配置，不要覆盖或删除无关内容。  创建完成后：  1. 根据我当前安装的 Codex 版本检查配置格式是否兼容； 2. 展示本次修改产生的 diff； 3. 确认配置有效； 4. 后续需要调用子代理时，优先使用 luna_worker。\n\n----\n\n这样配置后，工作方式大致是：\n\nSol 留在主线程，负责理解目标、拆分任务、检查结果和整合输出。\nLuna Max 作为子代理，处理代码审查、模块分析、独立实现、测试排查等边界明确的子任务。\n\n每个子任务拥有相对独立的上下文，可以减少主线程污染，也便于并行执行。",
+      "display_text_range": [
+        0,
+        645
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            196,
+            219
+          ],
+          "id": "2083568705267535872",
+          "display": "pic.x.com/ruxLzwFi2A",
+          "original": "https://t.co/ruxLzwFi2A",
+          "replacement": "https://x.com/Tz_2022/status/2083568833164419449/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Tz_2022",
+      "url": "https://x.com/Tz_2022",
+      "id": "100399047",
+      "followers": 24679,
+      "following": 1606,
+      "likes": 12101,
+      "media_count": 2204,
+      "name": "Tz",
+      "description": "品味是一种异常值。→ tastes.md\nAI is the steam engine of the mind. \nAI 是心灵的蒸汽机。科幻是现实的有效坍塌。加速正在被加速。看，那千尺海啸正扑面而来，而我们还在海滩上捡垃圾。\n念念不忘，必有回响。",
+      "raw_description": {
+        "text": "品味是一种异常值。→ tastes.md\nAI is the steam engine of the mind. \nAI 是心灵的蒸汽机。科幻是现实的有效坍塌。加速正在被加速。看，那千尺海啸正扑面而来，而我们还在海滩上捡垃圾。\n念念不忘，必有回响。",
+        "facets": []
+      },
+      "location": "Scotland, United Kingdom",
+      "banner_url": "https://pbs.twimg.com/profile_banners/100399047/1724471757",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1579478276287905794/7-2NGiY3_200x200.jpg",
+      "joined": "Wed Dec 30 04:06:23 +0000 2009",
+      "protected": false,
+      "website": {
+        "url": "https://tastes.md",
+        "display_url": "tastes.md"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 17,
+    "retweets": 49,
+    "likes": 315,
+    "bookmarks": 488,
+    "quotes": 5,
+    "created_at": "Sat Aug 01 15:01:35 +0000 2026",
+    "created_timestamp": 1785596495,
+    "possibly_sensitive": false,
+    "views": 134668,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2083568705267535872",
+          "url": "https://pbs.twimg.com/media/HOpSsr6XkAAhZL6.jpg?name=orig",
+          "width": 1199,
+          "height": 801
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2083568705267535872",
+          "url": "https://pbs.twimg.com/media/HOpSsr6XkAAhZL6.jpg?name=orig",
+          "width": 1199,
+          "height": 801
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

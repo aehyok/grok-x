@@ -1,0 +1,852 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/talwar_divyam/status/2083648143615517019",
+    "id": "2083648143615517019",
+    "text": "Stop spending Sol on clear work Luna can run at 25x fewer Codex credits.\n\nThe unlock is a three-profile router: Luna workers, Terra review, Sol only when ambiguity earns the spend.",
+    "raw_text": {
+      "text": "Stop spending Sol on clear work Luna can run at 25x fewer Codex credits.\n\nThe unlock is a three-profile router: Luna workers, Terra review, Sol only when ambiguity earns the spend. https://t.co/2sJTwyKna4",
+      "display_text_range": [
+        0,
+        204
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "talwar_divyam",
+      "url": "https://x.com/talwar_divyam",
+      "id": "1493444647561019395",
+      "followers": 155,
+      "following": 185,
+      "likes": 1286,
+      "media_count": 199,
+      "name": "Divyam",
+      "description": "Founding AI Engineer | OSS Contributor to YC & VC-Backed Startups\nhttps://www.linkedin.com/in/divyam-talwar-b68192216/\nhttps://github.com/DivyamTalwar",
+      "raw_description": {
+        "text": "Founding AI Engineer | OSS Contributor to YC & VC-Backed Startups\nhttps://t.co/rh4wdjbXWL\nhttps://t.co/Bs3vOV5dJL",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              66,
+              89
+            ],
+            "original": "https://t.co/rh4wdjbXWL",
+            "replacement": "https://www.linkedin.com/in/divyam-talwar-b68192216/",
+            "display": "linkedin.com/in/divyam-talw…"
+          },
+          {
+            "type": "url",
+            "indices": [
+              90,
+              113
+            ],
+            "original": "https://t.co/Bs3vOV5dJL",
+            "replacement": "https://github.com/DivyamTalwar",
+            "display": "github.com/DivyamTalwar"
+          }
+        ]
+      },
+      "location": "Australia",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1493444647561019395/1785644392",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2017916732049141760/G7boMYxQ_200x200.jpg",
+      "joined": "Tue Feb 15 04:39:01 +0000 2022",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 1,
+    "retweets": 1,
+    "likes": 20,
+    "bookmarks": 37,
+    "quotes": 1,
+    "created_at": "Sat Aug 01 20:16:44 +0000 2026",
+    "created_timestamp": 1785615404,
+    "possibly_sensitive": false,
+    "views": 28733,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-01T20:16:44.000Z",
+      "modified_at": "2026-08-01T20:16:44.000Z",
+      "id": "2083615478115958784",
+      "title": "Stop Wasting Sol: The Codex Configuration That Makes GPT-5.6 Luna Matter ",
+      "preview_text": "The expensive mistake is not choosing the wrong model. It is sending every task to the strongest one before you have classified the work.\nCodex now gives you three GPT-5.6 lanes: Luna, Terra, and Sol.",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOp97CobcAAKAAIUucf+jZVAAwAA",
+        "media_id": "2083616230884470784",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 54.96,
+                "rgb": {
+                  "blue": 250,
+                  "green": 254,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 30.24,
+                "rgb": {
+                  "blue": 255,
+                  "green": 92,
+                  "red": 23
+                }
+              },
+              {
+                "percentage": 3.48,
+                "rgb": {
+                  "blue": 0,
+                  "green": 107,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 3.34,
+                "rgb": {
+                  "blue": 66,
+                  "green": 53,
+                  "red": 49
+                }
+              },
+              {
+                "percentage": 2.34,
+                "rgb": {
+                  "blue": 253,
+                  "green": 147,
+                  "red": 102
+                }
+              }
+            ]
+          },
+          "original_img_height": 800,
+          "original_img_url": "https://pbs.twimg.com/media/HOp97CobcAAdh21.png",
+          "original_img_width": 2000
+        },
+        "media_key": "3_2083616230884470784"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 137,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9gqeh",
+            "text": "The expensive mistake is not choosing the wrong model. It is sending every task to the strongest one before you have classified the work.",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4cr4t",
+            "text": "Codex now gives you three GPT-5.6 lanes: Luna, Terra, and Sol. The useful question is not which one is best. It is which failures each lane can afford.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 19,
+                "offset": 184
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "47c1l",
+            "text": "OpenAI describes Luna as the fast, high-volume option for clear and repeatable work. Terra is the everyday workhorse. Sol is for difficult, ambiguous, high-value problems. The current Codex pricing guide makes the difference unusually concrete. Per million tokens, Sol consumes 125 Codex credits for input, 12.5 for cached input, and 750 for output. Luna consumes 5, 0.5, and 30.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "deupd",
+            "text": "That is exactly 25 times fewer Codex credits per token in all three categories. The same guide estimates 250 to 2,000 Luna local messages per five hours on Plus versus 10 to 100 for Sol, although actual usage varies by task and context.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8b5ee",
+            "text": "It is also easy to misuse. These are variable subscription-usage estimates, not an API token-price benchmark, and a cheap answer that creates rework is not cheap.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eoreb",
+            "text": "The real opportunity is to turn model selection into routing policy.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "efjv8",
+            "text": "Route by failure cost, not task name",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "20b5v",
+            "text": "“Write code” is not a useful category. A mechanical rename and a new authorization architecture are both code, but they have completely different uncertainty.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9084o",
+            "text": "Use three questions:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "78ihf",
+            "text": "Is the task unambiguous?",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f3qkn",
+            "text": "Is the result easy to reverse?",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d6jk3",
+            "text": "Can a machine check whether it is correct?",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bt2ln",
+            "text": "If all three answers are yes, Luna is a serious default.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a69rt",
+            "text": "Examples include log classification, test-failure clustering, structured extraction, file inventories, repetitive transformations, release-note drafts, narrow documentation updates, and focused changes with strong tests.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "728ga",
+            "text": "If the task has moderate ambiguity but familiar patterns, route it to Terra.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "50l7v",
+            "text": "If the task changes architecture, security boundaries, data ownership, or an interface whose failure would be costly, use Sol.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fkuua",
+            "text": "This is the rule:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 86,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "f1hut",
+            "text": "Luna handles volume. Terra handles ordinary judgment. Sol handles expensive ambiguity.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "144pv",
+            "text": "The diagram below turns that rule into a decision surface.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7bk1u",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "955vs",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "509i",
+            "text": "The missing variable is verification. A smaller model becomes much more valuable when the output contract is narrow and a deterministic check can reject bad work.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dpgg0",
+            "text": "Make the router executable",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 28,
+                "offset": 122
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8d6vn",
+            "text": "Codex profiles let you save named configuration layers instead of changing the model manually for every run. The official advanced configuration guide documents profile files next to the main Codex configuration and selection through --profile.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5v786",
+            "text": "Create a Luna worker profile:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9qtfn",
+            "text": "Save this as ~/.codex/luna-worker.config.toml:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "td22",
+            "text": "model = \"gpt-5.6-luna\"\nmodel_reasoning_effort = \"low\"\napproval_policy = \"on-request\"\nsandbox_mode = \"workspace-write\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fj2gv",
+            "text": "Create a separate deep-review profile:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bo8bo",
+            "text": "Save this as ~/.codex/sol-review.config.toml:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cctcp",
+            "text": "model = \"gpt-5.6-sol\"\nmodel_reasoning_effort = \"xhigh\"\napproval_policy = \"on-request\"\nsandbox_mode = \"read-only\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8j58q",
+            "text": "Now the model choice is visible in the command:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7kl7",
+            "text": "codex exec --profile luna-worker \\\n  --output-schema .codex/triage.schema.json \\\n  \"Cluster the failing tests by likely root cause. Cite the evidence line for every assignment.\"\n\ncodex exec --profile sol-review \\\n  \"Review the proposed fix for missed invariants, security regressions, and unsupported assumptions.\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "14slu",
+            "text": "The profile does not make routing intelligent by itself. The prompt, permissions, output schema, tests, and escalation rule complete the system.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "l7hh",
+            "text": "A worked example: 40 failing tests",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cu6s4",
+            "text": "Assume a dependency upgrade produces 40 failures across six packages.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3i4gi",
+            "text": "The bad workflow sends the entire repository to Sol with a broad instruction: “Fix everything.” Sol spends expensive context discovering that most failures share three mechanical causes.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7ito2",
+            "text": "The routed workflow starts with Luna.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2ng1i",
+            "text": "First, collect the test output and require structured fields: package, failing test, evidence line, likely cause, confidence, and recommended next check. Luna clusters the failures without editing code.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "br05i",
+            "text": "Second, accept only clusters whose evidence is explicit. Run a targeted command for each cluster. If the predicted cause reproduces, give Luna one narrow patch at a time.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "66dth",
+            "text": "Third, run the relevant tests after every patch. A passing test is not complete proof, but it is a much stronger boundary than “the model seemed confident.”",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "74vbv",
+            "text": "Fourth, escalate a cluster when any of these conditions appears:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "98jkv",
+            "text": "the failures cross ownership boundaries;",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "68l3l",
+            "text": "the proposed fix changes a public interface;",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aambv",
+            "text": "two plausible causes remain;",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9irrp",
+            "text": "no deterministic reproduction exists;",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ttl4",
+            "text": "the patch touches authentication, authorization, money, or destructive data paths.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7v7ou",
+            "text": "Those cases go to Terra or Sol with the evidence already compressed. The expensive model receives the hard residue, not the entire unclassified pile.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "egrtb",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cj770",
+            "text": "This is where the economics become real. The goal is not to maximize Luna usage. It is to minimize the amount of ambiguity purchased at Sol rates.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4bj5q",
+            "text": "The counterthesis: rework can erase the savings",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "82hsr",
+            "text": "There is no universal proof that Luna will be cheaper for your codebase. A weaker first pass can miss dependencies, generate plausible but incorrect clusters, or produce patches that a stronger model would have avoided.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bu20k",
+            "text": "Measure four things by task class:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f4gq0",
+            "text": "first-pass acceptance rate;",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3p2qq",
+            "text": "retries before verification passes;",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6i1ed",
+            "text": "human review time;",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4b3pn",
+            "text": "escaped defects found later.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9in1f",
+            "text": "If Luna needs three attempts and a senior engineer must reconstruct the reasoning, route that class upward. If it completes 80 repetitive checks with a stable schema and deterministic verification, keep it in the throughput lane.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 24,
+                "offset": 9
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "30abq",
+            "text": "OpenAI's model-selection guidance also notes that GPT-5.4 and GPT-5.4 mini are scheduled to retire from ChatGPT-authenticated Codex on August 31, 2026. That makes this a useful moment to remove stale model names from profiles, custom agents, and scheduled work instead of preserving accidental defaults.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ble07",
+            "text": "The strongest model should not be your reflex.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e0i6c",
+            "text": "Make Luna earn the batch. Make verification reject the weak work. Make Sol earn the escalation.",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "url": "https://learn.chatgpt.com/docs/models.md"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "caption": "The model decision depends on ambiguity, reversibility, and verification cost, not whether the task happens to involve code.",
+                "entityKey": "e7ecbf2d-f19d-4feb-a729-e48cfe164ddf",
+                "mediaItems": [
+                  {
+                    "localMediaId": "2",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083616267228106752"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "url": "https://learn.chatgpt.com/docs/pricing.md"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "url": "https://learn.chatgpt.com/docs/config-file/config-advanced.md"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "caption": "Cheap routing works when rejected work is detected early and only the ambiguous residue reaches the expensive model.",
+                "entityKey": "ed8f987d-c5d9-4e60-8ff1-11a6878a8f82",
+                "mediaItems": [
+                  {
+                    "localMediaId": "4",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083616350757638144"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOp99KBbUAAKAAIUucf+jZVAAwAA",
+          "media_id": "2083616267228106752",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 90.57,
+                  "rgb": {
+                    "blue": 238,
+                    "green": 244,
+                    "red": 247
+                  }
+                },
+                {
+                  "percentage": 1.92,
+                  "rgb": {
+                    "blue": 207,
+                    "green": 212,
+                    "red": 136
+                  }
+                },
+                {
+                  "percentage": 1.86,
+                  "rgb": {
+                    "blue": 246,
+                    "green": 181,
+                    "red": 153
+                  }
+                },
+                {
+                  "percentage": 1.78,
+                  "rgb": {
+                    "blue": 171,
+                    "green": 207,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 0.48,
+                  "rgb": {
+                    "blue": 0,
+                    "green": 107,
+                    "red": 255
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1200,
+            "original_img_url": "https://pbs.twimg.com/media/HOp99KBbUAAYYQZ.png",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2083616267228106752"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOp+CBMa0AAKAAIUucf+jZVAAwAA",
+          "media_id": "2083616350757638144",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 89.24,
+                  "rgb": {
+                    "blue": 238,
+                    "green": 244,
+                    "red": 247
+                  }
+                },
+                {
+                  "percentage": 5.27,
+                  "rgb": {
+                    "blue": 132,
+                    "green": 126,
+                    "red": 122
+                  }
+                },
+                {
+                  "percentage": 4.51,
+                  "rgb": {
+                    "blue": 246,
+                    "green": 207,
+                    "red": 190
+                  }
+                },
+                {
+                  "percentage": 0.49,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 158,
+                    "red": 117
+                  }
+                },
+                {
+                  "percentage": 0.49,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 105,
+                    "red": 41
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1200,
+            "original_img_url": "https://pbs.twimg.com/media/HOp-CBMa0AAv2OL.png",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2083616350757638144"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

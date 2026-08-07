@@ -1,0 +1,267 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/daniel_mac8/status/2084762735229685784",
+    "id": "2084762735229685784",
+    "text": "'sol-advisor' reached 1,300+ GitHub stars in 4 days.\n\nThat one was for the Codex users.\n\n'fable-advisor' is for the Claude Code users\n\nUses the same pattern as 'sol-advisor':\n\n1. Opus 5 as orchestrator\n\n2. Fable 5 as high complexity implementer\n\n3. GPT-5.6 Luna Max as routine implementer\n\n4. Fable 5 as advisor\n\nHaving a model as capable and efficient as Luna Max is incredible, especially when combined with Opus & Fable.\n\nTry it out below 👇",
+    "raw_text": {
+      "text": "'sol-advisor' reached 1,300+ GitHub stars in 4 days.\n\nThat one was for the Codex users.\n\n'fable-advisor' is for the Claude Code users\n\nUses the same pattern as 'sol-advisor':\n\n1. Opus 5 as orchestrator\n\n2. Fable 5 as high complexity implementer\n\n3. GPT-5.6 Luna Max as routine implementer\n\n4. Fable 5 as advisor\n\nHaving a model as capable and efficient as Luna Max is incredible, especially when combined with Opus & Fable.\n\nTry it out below 👇",
+      "display_text_range": [
+        0,
+        444
+      ],
+      "facets": [
+        {
+          "type": "bold",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            89,
+            105
+          ]
+        },
+        {
+          "type": "media",
+          "indices": [
+            277,
+            300
+          ],
+          "id": "2084761707604238339",
+          "display": "pic.x.com/fnSklaHIr8",
+          "original": "https://t.co/fnSklaHIr8",
+          "replacement": "https://x.com/daniel_mac8/status/2084762735229685784/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "daniel_mac8",
+      "url": "https://x.com/daniel_mac8",
+      "id": "1963466798",
+      "followers": 27830,
+      "following": 4502,
+      "likes": 66730,
+      "media_count": 3934,
+      "name": "Dan McAteer",
+      "description": "I build AI agents for a living and write about what they're doing to our minds. Essays weekly at http://attentionheads.blog · Agentic Ops @ AnswerRocket",
+      "raw_description": {
+        "text": "I build AI agents for a living and write about what they're doing to our minds. Essays weekly at https://t.co/ROXTvUfk75 · Agentic Ops @ AnswerRocket",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              97,
+              120
+            ],
+            "original": "https://t.co/ROXTvUfk75",
+            "replacement": "http://attentionheads.blog",
+            "display": "attentionheads.blog"
+          }
+        ]
+      },
+      "location": "United States",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1963466798/1774359703",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1972999017551249408/kNdZGnUv_200x200.jpg",
+      "joined": "Tue Oct 15 21:54:30 +0000 2013",
+      "protected": false,
+      "website": {
+        "url": "https://www.attentionheads.blog",
+        "display_url": "attentionheads.blog"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 28,
+    "retweets": 18,
+    "likes": 309,
+    "bookmarks": 513,
+    "quotes": 2,
+    "created_at": "Tue Aug 04 22:05:43 +0000 2026",
+    "created_timestamp": 1785881143,
+    "possibly_sensitive": false,
+    "views": 41150,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2084761707604238339",
+          "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/2174x1602/YkysmMgBkhVmF_ZJ.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084761707604238339/img/NDPn6ijWcXgUHW_x.jpg",
+          "duration": 12.051,
+          "width": 2174,
+          "height": 1602,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/pl/QEnZXrV_NczC_1rZ.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/366x270/ihGe0W1nvHxZd4QI.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/488x360/t31orYm2t1w9Gn84.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/976x720/ygRRMOUJKz-oC_6a.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/1464x1080/go4ZdLCHD5pHAv1w.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/2174x1602/YkysmMgBkhVmF_ZJ.mp4?tag=29",
+              "bitrate": 25128000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/pl/QEnZXrV_NczC_1rZ.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/366x270/ihGe0W1nvHxZd4QI.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/488x360/t31orYm2t1w9Gn84.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/976x720/ygRRMOUJKz-oC_6a.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/1464x1080/go4ZdLCHD5pHAv1w.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/2174x1602/YkysmMgBkhVmF_ZJ.mp4?tag=29",
+              "bitrate": 25128000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2084761707604238339",
+          "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/2174x1602/YkysmMgBkhVmF_ZJ.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2084761707604238339/img/NDPn6ijWcXgUHW_x.jpg",
+          "duration": 12.051,
+          "width": 2174,
+          "height": 1602,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/pl/QEnZXrV_NczC_1rZ.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/366x270/ihGe0W1nvHxZd4QI.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/488x360/t31orYm2t1w9Gn84.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/976x720/ygRRMOUJKz-oC_6a.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/1464x1080/go4ZdLCHD5pHAv1w.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/2174x1602/YkysmMgBkhVmF_ZJ.mp4?tag=29",
+              "bitrate": 25128000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/pl/QEnZXrV_NczC_1rZ.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/366x270/ihGe0W1nvHxZd4QI.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/488x360/t31orYm2t1w9Gn84.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/976x720/ygRRMOUJKz-oC_6a.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/1464x1080/go4ZdLCHD5pHAv1w.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2084761707604238339/vid/avc1/2174x1602/YkysmMgBkhVmF_ZJ.mp4?tag=29",
+              "bitrate": 25128000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

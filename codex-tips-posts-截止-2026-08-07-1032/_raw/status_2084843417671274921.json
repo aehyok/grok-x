@@ -1,0 +1,280 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/geegissss/status/2084843417671274921",
+    "id": "2084843417671274921",
+    "text": "บอกเลยมันทำง่ายมากกกก ใครอยากทำรูปเยอะๆอะ มาลองใช้ Codex by Chatgpt เลย อันนี้เราลองแบบ clean setup เลยนะ 🚀\nSteps\n1. โหลดโปรแกรมมาก่อน ต้องทำในคอมเท่านั้น\n2. เลือกด้านซ้ายเปลี่ยนโหมดจาก Chatgpt -> Codex\n3. สั่งมันเขียน prompt กี่อันก็ว่าไปลงในไฟล์\n4. สั่งมันเจนรูปเลย มันทำให้ทีเดียว 10 prompt ที่เราสั่งเลย ซึ่งปกติเราต้องไปโหลดใช่มะ แต่อันนี้มันอยู่ใน folder images ที่เราสั่งเลย\n5. สั่งมันเจน adobe metadata csv เลยก็ได้ เราจะก็ได้ไฟล์ csv เอาไปอัพโหลด\nลองแบบคร่าวๆให้นะ ไปลองปรับ workflow ยังไงเองดูต่อได้\nปล.เราใช้ 5.6 Luna High นะรู้สึกประหยัดดี มันจะมี weekly limit อยู่ \n\n#ขายรูปAdobe #ชูก้าบอกทริค",
+    "raw_text": {
+      "text": "บอกเลยมันทำง่ายมากกกก ใครอยากทำรูปเยอะๆอะ มาลองใช้ Codex by Chatgpt เลย อันนี้เราลองแบบ clean setup เลยนะ 🚀\nSteps\n1. โหลดโปรแกรมมาก่อน ต้องทำในคอมเท่านั้น\n2. เลือกด้านซ้ายเปลี่ยนโหมดจาก Chatgpt -> Codex\n3. สั่งมันเขียน prompt กี่อันก็ว่าไปลงในไฟล์\n4. สั่งมันเจนรูปเลย มันทำให้ทีเดียว 10 prompt ที่เราสั่งเลย ซึ่งปกติเราต้องไปโหลดใช่มะ แต่อันนี้มันอยู่ใน folder images ที่เราสั่งเลย\n5. สั่งมันเจน adobe metadata csv เลยก็ได้ เราจะก็ได้ไฟล์ csv เอาไปอัพโหลด\nลองแบบคร่าวๆให้นะ ไปลองปรับ workflow ยังไงเองดูต่อได้\nปล.เราใช้ 5.6 Luna High นะรู้สึกประหยัดดี มันจะมี weekly limit อยู่ \n\n#ขายรูปAdobe #ชูก้าบอกทริค",
+      "display_text_range": [
+        0,
+        607
+      ],
+      "facets": [
+        {
+          "type": "bold",
+          "indices": [
+            109,
+            114
+          ]
+        },
+        {
+          "type": "media",
+          "indices": [
+            271,
+            294
+          ],
+          "id": "2084842177323249664",
+          "display": "pic.x.com/8tA4Xl8nAL",
+          "original": "https://t.co/8tA4Xl8nAL",
+          "replacement": "https://x.com/geegissss/status/2084843417671274921/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            271,
+            294
+          ],
+          "id": "2084842186433269760",
+          "display": "pic.x.com/8tA4Xl8nAL",
+          "original": "https://t.co/8tA4Xl8nAL",
+          "replacement": "https://x.com/geegissss/status/2084843417671274921/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            271,
+            294
+          ],
+          "id": "2084842200693899264",
+          "display": "pic.x.com/8tA4Xl8nAL",
+          "original": "https://t.co/8tA4Xl8nAL",
+          "replacement": "https://x.com/geegissss/status/2084843417671274921/photo/1"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            580,
+            592
+          ],
+          "original": "ขายรูปAdobe"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            593,
+            606
+          ],
+          "original": "ชูก้าบอกทริค"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "geegissss",
+      "url": "https://x.com/geegissss",
+      "id": "2048719611324149760",
+      "followers": 6336,
+      "following": 3991,
+      "likes": 42049,
+      "media_count": 1963,
+      "name": "Geegi Sugar",
+      "description": "- แมวชื่อชูก้า 🥰 #เติมชูก้า และน้องเต้าหู้ #เติมเต้าหู้\n- #ขายรูปAdobe เน้นรูป AI\n- AI, vibe coding\n- รีวิวของกินเชียงใหม่ #สงครามหิวด่วน\n- #กินตามชูก้า",
+      "raw_description": {
+        "text": "- แมวชื่อชูก้า 🥰 #เติมชูก้า และน้องเต้าหู้ #เติมเต้าหู้\n- #ขายรูปAdobe เน้นรูป AI\n- AI, vibe coding\n- รีวิวของกินเชียงใหม่ #สงครามหิวด่วน\n- #กินตามชูก้า",
+        "facets": []
+      },
+      "location": "Chiang Mai",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2048719611324149760/1778429573",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2048729122957148160/LLfPlaw-_200x200.jpg",
+      "joined": "Mon Apr 27 11:03:25 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "https://sugarlovelove.com/support/",
+        "display_url": "sugarlovelove.com/support/"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 23,
+    "retweets": 570,
+    "likes": 846,
+    "bookmarks": 674,
+    "quotes": 6,
+    "created_at": "Wed Aug 05 03:26:19 +0000 2026",
+    "created_timestamp": 1785900379,
+    "possibly_sensitive": false,
+    "views": 82994,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "th",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2084842177323249664",
+          "url": "https://pbs.twimg.com/media/HO7Y6hAasAACcRk.png?name=orig",
+          "width": 282,
+          "height": 208
+        },
+        {
+          "type": "photo",
+          "id": "2084842186433269760",
+          "url": "https://pbs.twimg.com/media/HO7Y7C8akAA48yk.jpg?name=orig",
+          "width": 990,
+          "height": 860
+        },
+        {
+          "type": "photo",
+          "id": "2084842200693899264",
+          "url": "https://pbs.twimg.com/media/HO7Y74EagAAQgql.png?name=orig",
+          "width": 671,
+          "height": 317
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2084842177323249664",
+          "url": "https://pbs.twimg.com/media/HO7Y6hAasAACcRk.png?name=orig",
+          "width": 282,
+          "height": 208
+        },
+        {
+          "type": "photo",
+          "id": "2084842186433269760",
+          "url": "https://pbs.twimg.com/media/HO7Y7C8akAA48yk.jpg?name=orig",
+          "width": 990,
+          "height": 860
+        },
+        {
+          "type": "photo",
+          "id": "2084842200693899264",
+          "url": "https://pbs.twimg.com/media/HO7Y74EagAAQgql.png?name=orig",
+          "width": 671,
+          "height": 317
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2084843417671274921/HO7Y6hAasAACcRk/HO7Y7C8akAA48yk/HO7Y74EagAAQgql",
+          "webp": "https://mosaic.fxtwitter.com/webp/2084843417671274921/HO7Y6hAasAACcRk/HO7Y7C8akAA48yk/HO7Y74EagAAQgql"
+        }
+      }
+    },
+    "quote": {
+      "url": "https://x.com/geegissss/status/2082820073321079236",
+      "id": "2082820073321079236",
+      "text": "ล่าสุดเจนไปจนติด limit codex per week แล้วได้ 150 รูป แต่คิดว่าจิงๆได้เยอะกว่านี้นะเนี่ย แต่เราใช้ทำอย่างอื่นไปมันเลยเหลือไม่เยอะ เดียวทิตหน้าลองหใม่ อันนี้เราซับ chatgpt plus นะ เริ่มอยากไป pro ละมันจะได้เยอะขนาดไหน\n\n#ขายรูปAdobe",
+      "raw_text": {
+        "text": "ล่าสุดเจนไปจนติด limit codex per week แล้วได้ 150 รูป แต่คิดว่าจิงๆได้เยอะกว่านี้นะเนี่ย แต่เราใช้ทำอย่างอื่นไปมันเลยเหลือไม่เยอะ เดียวทิตหน้าลองหใม่ อันนี้เราซับ chatgpt plus นะ เริ่มอยากไป pro ละมันจะได้เยอะขนาดไหน\n\n#ขายรูปAdobe https://t.co/ZqKBiQvWSr",
+        "display_text_range": [
+          0,
+          230
+        ],
+        "facets": [
+          {
+            "type": "hashtag",
+            "indices": [
+              218,
+              230
+            ],
+            "original": "ขายรูปAdobe"
+          },
+          {
+            "type": "media",
+            "indices": [
+              231,
+              254
+            ],
+            "id": "2082819588316880896",
+            "display": "pic.x.com/ZqKBiQvWSr",
+            "original": "https://t.co/ZqKBiQvWSr",
+            "replacement": "https://x.com/geegissss/status/2082820073321079236/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "geegissss",
+        "url": "https://x.com/geegissss",
+        "id": "2048719611324149760",
+        "followers": 6336,
+        "following": 3991,
+        "likes": 42049,
+        "media_count": 1963,
+        "name": "Geegi Sugar",
+        "description": "- แมวชื่อชูก้า 🥰 #เติมชูก้า และน้องเต้าหู้ #เติมเต้าหู้\n- #ขายรูปAdobe เน้นรูป AI\n- AI, vibe coding\n- รีวิวของกินเชียงใหม่ #สงครามหิวด่วน\n- #กินตามชูก้า",
+        "raw_description": {
+          "text": "- แมวชื่อชูก้า 🥰 #เติมชูก้า และน้องเต้าหู้ #เติมเต้าหู้\n- #ขายรูปAdobe เน้นรูป AI\n- AI, vibe coding\n- รีวิวของกินเชียงใหม่ #สงครามหิวด่วน\n- #กินตามชูก้า",
+          "facets": []
+        },
+        "location": "Chiang Mai",
+        "banner_url": "https://pbs.twimg.com/profile_banners/2048719611324149760/1778429573",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2048729122957148160/LLfPlaw-_200x200.jpg",
+        "joined": "Mon Apr 27 11:03:25 +0000 2026",
+        "protected": false,
+        "website": {
+          "url": "https://sugarlovelove.com/support/",
+          "display_url": "sugarlovelove.com/support/"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 8,
+      "retweets": 270,
+      "likes": 421,
+      "bookmarks": 286,
+      "quotes": 2,
+      "created_at": "Thu Jul 30 13:26:17 +0000 2026",
+      "created_timestamp": 1785417977,
+      "possibly_sensitive": false,
+      "views": 82588,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "th",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2082819588316880896",
+            "url": "https://pbs.twimg.com/media/HOepYVzaYAAQs17.jpg?name=orig",
+            "width": 1410,
+            "height": 962
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2082819588316880896",
+            "url": "https://pbs.twimg.com/media/HOepYVzaYAAQs17.jpg?name=orig",
+            "width": 1410,
+            "height": 962
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

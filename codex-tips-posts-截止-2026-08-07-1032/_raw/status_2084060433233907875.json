@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/MatthewBerman/status/2084060433233907875",
+    "id": "2084060433233907875",
+    "text": "codex tip: use Luna Max to deploy for (nearly) free.\n\nLuna Max is more than capable enough to take an open PR, merge it, and get it deployed. Don't waste your Sol tokens on this easy task. The key is you need to spin up a new thread to do it. \n\nPrompt: \"Add this to your agents.md file: When I say 'deploy', finish testing, commit, and push this task’s changes. Then create a new Codex project task using gpt-5.6-luna with max reasoning to review and merge the PR, monitor exact-main CI and automatic deployment, and verify production. Follow that task to completion and report the result here. Prevent recursive handoffs.\"",
+    "raw_text": {
+      "text": "codex tip: use Luna Max to deploy for (nearly) free.\n\nLuna Max is more than capable enough to take an open PR, merge it, and get it deployed. Don't waste your Sol tokens on this easy task. The key is you need to spin up a new thread to do it. \n\nPrompt: \"Add this to your agents.md file: When I say 'deploy', finish testing, commit, and push this task’s changes. Then create a new Codex project task using gpt-5.6-luna with max reasoning to review and merge the PR, monitor exact-main CI and automatic deployment, and verify production. Follow that task to completion and report the result here. Prevent recursive handoffs.\"",
+      "display_text_range": [
+        0,
+        623
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "MatthewBerman",
+      "url": "https://x.com/MatthewBerman",
+      "id": "6681172",
+      "followers": 129104,
+      "following": 1334,
+      "likes": 28960,
+      "media_count": 2247,
+      "name": "Matthew Berman",
+      "description": "The future is bright.\n\nStay ahead in AI - http://forwardfuture.com",
+      "raw_description": {
+        "text": "The future is bright.\n\nStay ahead in AI - https://t.co/s5tbuuMFu6",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              42,
+              65
+            ],
+            "original": "https://t.co/s5tbuuMFu6",
+            "replacement": "http://forwardfuture.com",
+            "display": "forwardfuture.com"
+          }
+        ]
+      },
+      "location": "California",
+      "banner_url": "https://pbs.twimg.com/profile_banners/6681172/1772811156",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2051399921467830272/9RGo_6vv_200x200.jpg",
+      "joined": "Fri Jun 08 20:52:25 +0000 2007",
+      "protected": false,
+      "website": {
+        "url": "https://forwardfuture.com",
+        "display_url": "forwardfuture.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 56,
+    "retweets": 27,
+    "likes": 626,
+    "bookmarks": 711,
+    "quotes": 5,
+    "created_at": "Sun Aug 02 23:35:01 +0000 2026",
+    "created_timestamp": 1785713701,
+    "views": 61512,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

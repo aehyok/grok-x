@@ -1,0 +1,3269 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/sairahul1/status/2079817450028519801",
+    "id": "2079817450028519801",
+    "text": "",
+    "raw_text": {
+      "text": "https://t.co/WT9BInhEgt",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "sairahul1",
+      "url": "https://x.com/sairahul1",
+      "id": "299656190",
+      "followers": 132779,
+      "following": 805,
+      "likes": 58744,
+      "media_count": 5386,
+      "name": "Rahul",
+      "description": "Building with AI. Sharing what's wild, what's practical, and what's next.",
+      "raw_description": {
+        "text": "Building with AI. Sharing what's wild, what's practical, and what's next.",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/299656190/1704302273",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1999441729800536065/6-3Y5xyR_200x200.jpg",
+      "joined": "Mon May 16 13:37:09 +0000 2011",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 34,
+    "retweets": 87,
+    "likes": 747,
+    "bookmarks": 3113,
+    "quotes": 12,
+    "created_at": "Wed Jul 22 06:34:55 +0000 2026",
+    "created_timestamp": 1784702095,
+    "possibly_sensitive": false,
+    "views": 1941997,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Typefully",
+    "article": {
+      "created_at": "2026-07-22T06:34:55.000Z",
+      "modified_at": "2026-07-22T06:34:55.000Z",
+      "id": "2079817443892228096",
+      "title": "How to Build a Team of AI Agents That Actually Work Together (Full Course)",
+      "preview_text": "I run a one-person business.\nNo team. No employees. No co-founder.\nFor two years I have been the researcher, writer, planner, reviewer, and strategist.\nAll of it. At once.\nLast week I tried something",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAABCgABHNz+4Qlb0AAKAAIAAAAAAAAAAAAA",
+        "media_id": "2079817370416435200",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 81.94,
+                "rgb": {
+                  "blue": 236,
+                  "green": 245,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 6.91,
+                "rgb": {
+                  "blue": 120,
+                  "green": 152,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 4.17,
+                "rgb": {
+                  "blue": 32,
+                  "green": 40,
+                  "red": 60
+                }
+              },
+              {
+                "percentage": 1.9,
+                "rgb": {
+                  "blue": 203,
+                  "green": 180,
+                  "red": 195
+                }
+              },
+              {
+                "percentage": 1.15,
+                "rgb": {
+                  "blue": 66,
+                  "green": 83,
+                  "red": 134
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HNz-4Qlb0AANYXV.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2079817370416435200"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ0",
+            "text": "I run a one-person business.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ1",
+            "text": "No team. No employees. No co-founder.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ2",
+            "text": "For two years I have been the researcher, writer, planner, reviewer, and strategist.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ3",
+            "text": "All of it. At once.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ4",
+            "text": "Last week I tried something different.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ5",
+            "text": "I built a 5-agent team inside Raft.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ6",
+            "text": "Gave each agent a job. Let them work on each other's output. Watched what happened.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ7",
+            "text": "This is the full story.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ8",
+            "text": "What worked. What surprised me. What I would do differently.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ9",
+            "text": "And the exact setup so you can do it in under 30 minutes.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 35,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ10",
+            "text": "Problem with how most people use AI",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ11",
+            "text": "Most AI workflows today look like this:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ12",
+            "text": "You → AI → Output → You review → You prompt again → Repeat",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ13",
+            "text": "You are still the bottleneck.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ14",
+            "text": "You are still doing all the thinking.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ15",
+            "text": "You are just typing faster.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ16",
+            "text": "The model gets smarter every year. But the loop stays the same.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ17",
+            "text": "Human does everything. AI assists.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ18",
+            "text": "That's not a team.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ19",
+            "text": "That's a really fast pen.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ20",
+            "text": "The next bottleneck isn't model intelligence.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ21",
+            "text": "It's collaboration.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ22",
+            "text": "What if the AI agents could work with each other — and you just reviewed the result?",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ23",
+            "text": "That's what Raft is trying to answer.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ24",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 4,
+                "offset": 5
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ25",
+            "text": "What Raft actually is",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ26",
+            "text": "Before I get into the setup — quick context. ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ27",
+            "text": "Raft is not another AI chatbot.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ28",
+            "text": "It's not a wrapper around Claude or GPT.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 54,
+                "offset": 7,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ29",
+            "text": "It's a workspace where humans and agents share the same room.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ30",
+            "text": "Same channels. Same threads. Same tasks.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ31",
+            "text": "The difference from every other AI tool:",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 123,
+                  "text": "mentions",
+                  "toIndex": 132
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ32",
+            "text": "→ Agents have a persistent identity — a name, a role, a memory that carries across sessions \n→ Agents talk to each other — @mentions, handoffs, reviews, in plain sight \n→ Conversations become workflows — one message starts a chain of work that continues without you \n→ You bring your own AI subscriptions — Claude Code, Codex, Gemini CLI, Kimi CLI, Cursor — Raft wraps them",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ33",
+            "text": "Think of it as Slack — but instead of only humans, your agents have seats at the table too.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ34",
+            "text": "And those agents do not log off.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ35",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 33,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ36",
+            "text": "Step 1: Setup in under 10 minutes",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ37",
+            "text": "Here is the exact onboarding.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ38",
+            "text": "I timed it. 8 minutes from zero to first agent talking.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ39",
+            "text": "Create your server",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 6,
+                  "text": "raft.build",
+                  "toIndex": 16
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 10,
+                "offset": 6
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ40",
+            "text": "Go to raft.build → sign up → Create server.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ41",
+            "text": "Pick a name. The URL fills automatically.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 17,
+                  "text": "all",
+                  "toIndex": 21
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ42",
+            "text": "You land in your #all channel. It's quiet. Not for long.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ43",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 21,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ44",
+            "text": "Connect your computer",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ45",
+            "text": "Raft agents run on your machine — near your actual files and tools.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ46",
+            "text": "Go to Add Computer → copy the generated command → paste it into your terminal → run it.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ47",
+            "text": "Mac: press ⌘ + Space → type Terminal → paste → hit Return.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ48",
+            "text": "The dialog says \"Computer connected successfully.\" Name it. Done.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ49",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 23,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ50",
+            "text": "Create your first agent",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ51",
+            "text": "Open Create First Agent.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ52",
+            "text": "It comes named Cindy — your onboarding agent.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ53",
+            "text": "Add a short description.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ54",
+            "text": "Pick a runtime — this is where your existing AI subscription plugs in:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ55",
+            "text": "→ Claude Code (recommended if you have Claude Pro/Max) \n→ Codex CLI (if you have OpenAI) \n→ Gemini CLI, Kimi CLI, Cursor CLI, and others also work",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 21,
+                  "text": "all",
+                  "toIndex": 25
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ56",
+            "text": "The agent appears in #all and says hello.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ57",
+            "text": "Say hi back.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ58",
+            "text": "It answers.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ59",
+            "text": "That's when it gets real.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ60",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 30,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ61",
+            "text": "Step 2: Build the 5-agent team",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ62",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ63",
+            "text": "Once the onboarding agent is live, you build the rest of the team the same way.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ64",
+            "text": "Name → Description → Runtime → Done.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ65",
+            "text": "Here is the exact team I built and what each agent does:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 30,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ66",
+            "text": "Agent 1: Nova — Research Agent",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ67",
+            "text": "Description: \"Search for real competitor data, market trends, and specific facts. When asked to research something, go deep. Find actual evidence, not summaries.\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ68",
+            "text": "Runtime: Claude Code",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ69",
+            "text": "Agent 2: Rex — Planner Agent",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ70",
+            "text": "Description: \"Take research findings and turn them into a structured plan or strategy. Think in frameworks. Challenge assumptions. Ask what's missing before planning.\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ71",
+            "text": "Runtime: Claude Code",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ72",
+            "text": "Agent 3: Aria — Writer Agent",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ73",
+            "text": "Description: \"Take plans and turn them into clean, direct, punchy copy. No filler. Write for Twitter and X Articles. Short sentences. Strong verbs.\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ74",
+            "text": "Runtime: Codex CLI",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 29,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ75",
+            "text": "Agent 4: Max — Reviewer Agent",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ76",
+            "text": "Description: \"Review all content produced by Aria. Check for: accuracy against Nova's research, logical gaps, weak claims, vague language. Be specific in feedback.\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ77",
+            "text": "Runtime: Claude Code",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 37,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ78",
+            "text": "Agent 5: Kai — Devil's Advocate Agent",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ79",
+            "text": "Description: \"Challenge everything. If the team agrees on something, find the counterargument. Your job is to make the work harder to attack from the outside.\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ80",
+            "text": "Runtime: Gemini CLI",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ81",
+            "text": "Five agents. Five runtimes. One shared room.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 13,
+                  "text": "all",
+                  "toIndex": 17
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ82",
+            "text": "They all see #all. They all see each other's work.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 31,
+                "offset": 17,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ83",
+            "text": "The key insight: give each lane its own channel.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 2,
+                  "text": "research",
+                  "toIndex": 11
+                },
+                {
+                  "fromIndex": 23,
+                  "text": "planning",
+                  "toIndex": 32
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ84",
+            "text": "→ #research for Nova → #planning for Rex ",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 2,
+                  "text": "content",
+                  "toIndex": 10
+                },
+                {
+                  "fromIndex": 22,
+                  "text": "review",
+                  "toIndex": 29
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ85",
+            "text": "→ #content for Aria → #review for Max and Kai",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ86",
+            "text": "Agents follow the channels they're in. Work routes naturally. You don't have to manage who talks to who.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ87",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 27,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ88",
+            "text": "Step 3: Run a real workflow",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ89",
+            "text": "I gave the team one prompt:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 149,
+                "offset": 0,
+                "style": "Italic"
+              }
+            ],
+            "key": "typ90",
+            "text": "\"Research competitors in the AI productivity space. Find the top 10 tools. Identify where they're weak. Find an opportunity a new product could own.\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ91",
+            "text": "Then I stepped back.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ92",
+            "text": "Here is what happened — in order.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 19,
+                  "text": "research",
+                  "toIndex": 28
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 29,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ93",
+            "text": "Nova (Research) in #research:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ94",
+            "text": "Returned 10 competitors with actual data. User counts, pricing tiers, main complaints from App Store and Reddit reviews, and notable gaps. Not a summary. Evidence.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 17,
+                  "text": "planning",
+                  "toIndex": 26
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 27,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ95",
+            "text": "Rex (Planner) in #planning:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ96",
+            "text": "Took Nova's output. Built a positioning matrix. Identified 3 defensible angles. Flagged 2 of Nova's findings as needing verification before committing to a strategy.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 24,
+                  "text": "research",
+                  "toIndex": 33
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 34,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ97",
+            "text": "Nova (Research) back in #research:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ98",
+            "text": "Rex pinged her with the two flagged items. She went back, dug deeper, corrected one finding and confirmed the other.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 17,
+                  "text": "content",
+                  "toIndex": 25
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 26,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ99",
+            "text": "Aria (Writer) in #content:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ100",
+            "text": "Took Rex's positioning. Wrote 3 alternative X Article hooks for each angle. Short. Direct. Different tones.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 18,
+                  "text": "review",
+                  "toIndex": 25
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 26,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ101",
+            "text": "Max (Reviewer) in #review:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ102",
+            "text": "Flagged that two of Aria's hooks made a claim Nova's research didn't support. Sent them back with specific citations needed.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 26,
+                  "text": "review",
+                  "toIndex": 33
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 34,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ103",
+            "text": "Kai (Devil's Advocate) in #review:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ104",
+            "text": "Challenged the positioning Rex built. Argued that the \"opportunity\" Rex identified is only a gap because the incumbents haven't launched that feature yet — not because they can't. Forced Rex to revisit.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ105",
+            "text": "Rex (Planner) revised:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ106",
+            "text": "Came back with an updated strategy that held up against Kai's challenge.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 26,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ107",
+            "text": "Aria (Writer) final draft:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ108",
+            "text": "New hooks based on the hardened positioning.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ109",
+            "text": "Total time: I watched this happen over about 25 minutes.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ110",
+            "text": "I did not write a single word of the output.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ111",
+            "text": "I did not re-prompt anyone.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ112",
+            "text": "I approved the final draft.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ113",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 40,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ114",
+            "text": "The moment it clicked: agents have seats",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ115",
+            "text": "Most AI tools treat agents as tasks.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ116",
+            "text": "Fire a prompt. Get output. Task ends. Agent disappears.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ117",
+            "text": "Raft treats agents as team members.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ118",
+            "text": "The difference sounds philosophical until you live with it for a day.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ119",
+            "text": "When Nova corrected a finding because Rex challenged it — I did not ask Nova to do that.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 4,
+                  "text": "mentioned",
+                  "toIndex": 14
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ120",
+            "text": "Rex @mentioned her.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ121",
+            "text": "When Max sent Aria's hooks back with citations needed — I did not instruct Max to check accuracy.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ122",
+            "text": "Max was watching the channel.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ123",
+            "text": "When Kai challenged Rex's positioning — I never told Kai to be contrarian.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ124",
+            "text": "That's Kai's role. Kai owns it.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ125",
+            "text": "The agents are not waiting for you to prompt them.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ126",
+            "text": "They are watching the work. Picking up what belongs to their lane. Talking to each other.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ127",
+            "text": "This is what a \"seat\" means.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ128",
+            "text": "Not a task you fire and forget.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ129",
+            "text": "A persistent identity that shows up, remembers what happened yesterday, and gets better over time.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ130",
+            "text": "Correct an agent once. It stays corrected.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ131",
+            "text": "Over weeks, that compounds into something that looks like actual expertise.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ132",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 20,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ133",
+            "text": "What Raft gets right",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ134",
+            "text": "After a week of daily use, here is what stands out:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 34,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ135",
+            "text": "Agent identity changes everything.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ136",
+            "text": "When agents have names, roles, and memory — you stop treating them as tools and start treating them as colleagues. That shift changes how you design the work.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 39,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ137",
+            "text": "Shared context without you managing it.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ138",
+            "text": "In every other AI workflow I have used, I am the one passing context between prompts. In Raft, agents see each other's output in the channel. The context is already there.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 30,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ139",
+            "text": "Review loops happen naturally.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ140",
+            "text": "I did not build a review step into my workflow. Max and Kai just do it because that's their lane. The checking happens because of the team structure — not because I remembered to ask.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 27,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ141",
+            "text": "Multi-model teams are real.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ142",
+            "text": "Nova on Claude Code. Aria on Codex. Kai on Gemini CLI. They all operate in the same channel. Different models. One room. This is genuinely new.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 45,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ143",
+            "text": "The Hermes partnership signals the direction.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ144",
+            "text": "As of June 20, Hermes Agent joined Raft as an official agent partner. Raft agents can wake Hermes without exposing full message content — a privacy-first path for agent-to-agent collaboration across different systems.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ145",
+            "text": "This is not just a feature. It's the direction.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ146",
+            "text": "Raft is not trying to become another agent.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ147",
+            "text": "It's building the collaboration layer between agents.\n",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ148",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ149",
+            "text": "What still feels early",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ150",
+            "text": "Honest feedback.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 37,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ151",
+            "text": "How many agents do you actually need?",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ152",
+            "text": "I started with 5. For some projects 2 is enough. For others I wanted 7. There's no playbook yet. You figure it out by doing.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ153",
+            "text": "Role design takes iteration.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ154",
+            "text": "The first descriptions I wrote for each agent were too vague. \"Writer agent\" without specificity meant Aria wrote in whatever style felt natural. Tighter descriptions produce tighter output.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ155",
+            "text": "→ Bad: \"Write content\" \n→ Good: \"Write short punchy X Article hooks. No filler. Under 15 words per hook. Strong verbs only.\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 24,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ156",
+            "text": "The mental model is new.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ157",
+            "text": "Raft does not feel like an AI chatbot. It feels like running a small company. That's a different skill. It takes a few days to stop reaching for the old reflex — prompting one agent for everything — and trust the team.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 49,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ158",
+            "text": "Team structure best practices are still emerging.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ159",
+            "text": "Nobody has a fully-figured playbook for this yet. Raft's docs are honest about this. You are building as the field is being invented.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 38,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ160",
+            "text": "How to set up your first real workflow",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ161",
+            "text": "Here is the exact prompt system I use after a week of iteration.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 31,
+                  "text": "all",
+                  "toIndex": 35
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 46,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ162",
+            "text": "The team brief prompt (send to #all on Day 1):",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 42,
+                  "text": "research",
+                  "toIndex": 51
+                },
+                {
+                  "fromIndex": 138,
+                  "text": "planning",
+                  "toIndex": 147
+                },
+                {
+                  "fromIndex": 218,
+                  "text": "content",
+                  "toIndex": 226
+                },
+                {
+                  "fromIndex": 287,
+                  "text": "review",
+                  "toIndex": 294
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 27,
+                "offset": 0,
+                "style": "Italic"
+              },
+              {
+                "length": 96,
+                "offset": 28,
+                "style": "Italic"
+              },
+              {
+                "length": 78,
+                "offset": 125,
+                "style": "Italic"
+              },
+              {
+                "length": 69,
+                "offset": 204,
+                "style": "Italic"
+              },
+              {
+                "length": 115,
+                "offset": 274,
+                "style": "Italic"
+              },
+              {
+                "length": 117,
+                "offset": 390,
+                "style": "Italic"
+              },
+              {
+                "length": 36,
+                "offset": 508,
+                "style": "Italic"
+              }
+            ],
+            "key": "typ163",
+            "text": "\"Team — here's how we work. Nova: you own #research. When anyone needs facts, data, or verification, that goes to you first. Rex: you own #planning. When Nova's research is ready, you build the strategy. Aria: you own #content. When Rex has a plan, you execute the writing. Max: you own #review. Read everything Aria produces. Fact-check against Nova's research. Flag anything unsupported. Kai: your job is to challenge Rex's strategies and Max's reviews. If the team agrees, find the reason they shouldn't. I review final output. Let's start.\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ164",
+            "text": "The daily task prompt:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 55,
+                "offset": 0,
+                "style": "Italic"
+              },
+              {
+                "length": 59,
+                "offset": 56,
+                "style": "Italic"
+              },
+              {
+                "length": 68,
+                "offset": 116,
+                "style": "Italic"
+              },
+              {
+                "length": 90,
+                "offset": 185,
+                "style": "Italic"
+              }
+            ],
+            "key": "typ165",
+            "text": "\"Nova — [specific research task]. When done, brief Rex. Rex — when Nova briefs you, build the strategy. Brief Aria. Aria — when Rex briefs you, produce the content. Tag Max for review. Max and Kai — review and send back or approve. Tag me when you agree the output is ready.\"",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 37,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ166",
+            "text": "The tight agent description template:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ167",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ168",
+            "text": "Example for Nova:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ169",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ170",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ171",
+            "text": "The bigger picture",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ172",
+            "text": "Most AI products today are building individual workers.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ173",
+            "text": "One agent. One task. One prompt.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ174",
+            "text": "Raft is building something different.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ175",
+            "text": "A workspace where humans and agents collaborate as a team.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ176",
+            "text": "Where the work continues beyond a single conversation. Where agents develop real expertise over time. Where you stop being the bottleneck in your own workflow.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ177",
+            "text": "Is this the future of work?",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ178",
+            "text": "I don't know.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ179",
+            "text": "What I know is this:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ180",
+            "text": "Before Raft, I was the researcher, planner, writer, reviewer, and critic.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ181",
+            "text": "After Raft, I run a five-person team.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ182",
+            "text": "The team is available 24/7. Costs less than a SaaS subscription. Gets better every week. And none of them are taking Monday off.\n",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ183",
+            "text": "How to get started right now",
+            "type": "header-one"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 6,
+                  "text": "raft.build",
+                  "toIndex": 16
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 10,
+                "offset": 6
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ184",
+            "text": "Go to raft.build — create your account",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ185",
+            "text": "Create your server — takes 2 minutes",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ186",
+            "text": "Connect your computer — paste one command in terminal",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ187",
+            "text": "Create your first agent — Claude Code runtime if you have Claude Pro",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ188",
+            "text": "Use the team brief prompt above to set roles",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ189",
+            "text": "Give the team one real task and watch the room",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ190",
+            "text": "The hardest part is not the setup.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ191",
+            "text": "The hardest part is trusting the team.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ192",
+            "text": "Stopping yourself from jumping in and doing everything yourself.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ193",
+            "text": "The room will sort it out.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "typ194",
+            "text": "Resources",
+            "type": "header-one"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 222,
+                  "text": "raft_hq",
+                  "toIndex": 230
+                }
+              ],
+              "urls": [
+                {
+                  "fromIndex": 15,
+                  "text": "raft.build",
+                  "toIndex": 25
+                },
+                {
+                  "fromIndex": 47,
+                  "text": "docs.raft.build/meet-your-onboarding-agent",
+                  "toIndex": 89
+                },
+                {
+                  "fromIndex": 110,
+                  "text": "docs.raft.build/build-your-agent-team",
+                  "toIndex": 147
+                },
+                {
+                  "fromIndex": 170,
+                  "text": "raft.build/resources/use-cases",
+                  "toIndex": 200
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 10,
+                "offset": 15
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "typ195",
+            "text": "→ Get started: raft.build \n→ Onboarding guide: docs.raft.build/meet-your-onboarding-agent \n→ Build your team: docs.raft.build/build-your-agent-team \n→ Use case examples: raft.build/resources/use-cases \n→ Follow Raft on X: @raft_hq",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ196",
+            "text": "If this was useful:",
+            "type": "header-one"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 65,
+                  "text": "sairahul1",
+                  "toIndex": 75
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ197",
+            "text": "→ Repost to share it with every indie builder you know \n→ Follow @sairahul1 for more systems like this \n→ Bookmark this — the setup + prompt templates work, start tonight",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 13,
+                  "text": "theaibuilders.co",
+                  "toIndex": 29
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ198",
+            "text": "Subscribe to theaibuilders.co for more such interesting articles",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "typ199",
+            "text": "I write about AI, products, and systems that run without you.",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "TweetImage",
+                    "mediaId": "2079817436757663744"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "AmplifyVideo",
+                    "mediaId": "2079817389781532672"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "TweetImage",
+                    "mediaId": "2079817378486190081"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "url": "http://raft.build"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "AmplifyVideo",
+                    "mediaId": "2079817416243302400"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "TweetImage",
+                    "mediaId": "2079817411331846144"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "TweetImage",
+                    "mediaId": "2079817439047782400"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "url": "http://raft.build"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "TweetImage",
+                    "mediaId": "2079817381178929152"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "TweetImage",
+                    "mediaId": "2079817413630345216"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "TweetImage",
+                    "mediaId": "2079817383720734721"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "url": "https://raft.build"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "TweetImage",
+                    "mediaId": "2079817441602060288"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "TweetImage",
+                    "mediaId": "2079817373117493248"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "TweetImage",
+                    "mediaId": "2079817376095506432"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "mediaItems": [
+                  {
+                    "mediaCategory": "TweetImage",
+                    "mediaId": "2079817386430246912"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "url": "http://raft.build"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAABCgABHNz+6pAbcAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817411331846144",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.37,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 2.98,
+                  "rgb": {
+                    "blue": 134,
+                    "green": 134,
+                    "red": 134
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 187,
+                    "green": 121,
+                    "red": 62
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 96,
+                    "green": 156,
+                    "red": 78
+                  }
+                },
+                {
+                  "percentage": 0.12,
+                  "rgb": {
+                    "blue": 24,
+                    "green": 126,
+                    "red": 208
+                  }
+                }
+              ]
+            },
+            "original_img_height": 572,
+            "original_img_url": "https://pbs.twimg.com/media/HNz-6pAbcAAGZ44.jpg",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2079817411331846144"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAABCgABHNz+8ZxaQAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817441602060288",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 94.44,
+                  "rgb": {
+                    "blue": 245,
+                    "green": 244,
+                    "red": 240
+                  }
+                },
+                {
+                  "percentage": 5.56,
+                  "rgb": {
+                    "blue": 130,
+                    "green": 130,
+                    "red": 130
+                  }
+                }
+              ]
+            },
+            "original_img_height": 572,
+            "original_img_url": "https://pbs.twimg.com/media/HNz-8ZxaQAA7_5S.jpg",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2079817441602060288"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAABCgABHNz+5MPbMAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817386430246912",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 86.39,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 1.55,
+                  "rgb": {
+                    "blue": 112,
+                    "green": 139,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 1.54,
+                  "rgb": {
+                    "blue": 238,
+                    "green": 141,
+                    "red": 197
+                  }
+                },
+                {
+                  "percentage": 1.52,
+                  "rgb": {
+                    "blue": 132,
+                    "green": 200,
+                    "red": 117
+                  }
+                },
+                {
+                  "percentage": 1.37,
+                  "rgb": {
+                    "blue": 61,
+                    "green": 171,
+                    "red": 253
+                  }
+                }
+              ]
+            },
+            "original_img_height": 572,
+            "original_img_url": "https://pbs.twimg.com/media/HNz-5MPbMAAwW_d.jpg",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2079817386430246912"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAECgABHNz+5YubwAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817389781532672",
+          "media_info": {
+            "__typename": "ApiVideo",
+            "aspect_ratio": {
+              "denominator": 9,
+              "numerator": 16
+            },
+            "duration_millis": 46720,
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 95.38,
+                    "rgb": {
+                      "blue": 228,
+                      "green": 247,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 2.84,
+                    "rgb": {
+                      "blue": 71,
+                      "green": 74,
+                      "red": 79
+                    }
+                  },
+                  {
+                    "percentage": 1.25,
+                    "rgb": {
+                      "blue": 142,
+                      "green": 142,
+                      "red": 142
+                    }
+                  },
+                  {
+                    "percentage": 0.34,
+                    "rgb": {
+                      "blue": 113,
+                      "green": 171,
+                      "red": 150
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 720,
+              "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2079817389781532672/img/IoGULY2ZbUizdb7P.jpg",
+              "original_img_width": 1280
+            },
+            "variants": [
+              {
+                "bit_rate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2079817389781532672/vid/avc1/480x270/8dJseTG7oQx2ylSg.mp4?tag=14"
+              },
+              {
+                "bit_rate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2079817389781532672/vid/avc1/640x360/Z8Ik4Sds-vzlt-uq.mp4?tag=14"
+              },
+              {
+                "bit_rate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2079817389781532672/vid/avc1/1280x720/bTiVNO9v_oByvCfu.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2079817389781532672/pl/G5NYFCTip0q5Yx6L.m3u8?tag=14&v=2ec"
+              }
+            ]
+          },
+          "media_key": "13_2079817389781532672"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAABCgABHNz+4lvbkAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817376095506432",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.59,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 253,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 3.8,
+                  "rgb": {
+                    "blue": 64,
+                    "green": 212,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 1.14,
+                  "rgb": {
+                    "blue": 220,
+                    "green": 197,
+                    "red": 96
+                  }
+                },
+                {
+                  "percentage": 0.92,
+                  "rgb": {
+                    "blue": 121,
+                    "green": 207,
+                    "red": 232
+                  }
+                },
+                {
+                  "percentage": 0.61,
+                  "rgb": {
+                    "blue": 207,
+                    "green": 169,
+                    "red": 178
+                  }
+                }
+              ]
+            },
+            "original_img_height": 940,
+            "original_img_url": "https://pbs.twimg.com/media/HNz-4lvbkAAIqPQ.jpg",
+            "original_img_width": 1440
+          },
+          "media_key": "3_2079817376095506432"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAECgABHNz+67TaUAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817416243302400",
+          "media_info": {
+            "__typename": "ApiVideo",
+            "aspect_ratio": {
+              "denominator": 9,
+              "numerator": 16
+            },
+            "duration_millis": 79621,
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 75.01,
+                    "rgb": {
+                      "blue": 61,
+                      "green": 209,
+                      "red": 253
+                    }
+                  },
+                  {
+                    "percentage": 24.47,
+                    "rgb": {
+                      "blue": 239,
+                      "green": 203,
+                      "red": 35
+                    }
+                  },
+                  {
+                    "percentage": 0.23,
+                    "rgb": {
+                      "blue": 179,
+                      "green": 206,
+                      "red": 113
+                    }
+                  },
+                  {
+                    "percentage": 0.22,
+                    "rgb": {
+                      "blue": 119,
+                      "green": 207,
+                      "red": 184
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 1080,
+              "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2079817416243302400/img/J7Px9WU9mqytAUV0.jpg",
+              "original_img_width": 1920
+            },
+            "variants": [
+              {
+                "bit_rate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2079817416243302400/vid/avc1/480x270/bY-m8Bt_WAacvpOj.mp4?tag=14"
+              },
+              {
+                "bit_rate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2079817416243302400/vid/avc1/640x360/RcRenuhowIbZ2_qw.mp4?tag=14"
+              },
+              {
+                "bit_rate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2079817416243302400/vid/avc1/1280x720/t3BSgHZyoLBlcQ_a.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2079817416243302400/pl/M5PL03zlijX2sEir.m3u8?tag=14&v=c85"
+              }
+            ]
+          },
+          "media_key": "13_2079817416243302400"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAABCgABHNz+8HuaoAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817436757663744",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 94.48,
+                  "rgb": {
+                    "blue": 32,
+                    "green": 33,
+                    "red": 33
+                  }
+                },
+                {
+                  "percentage": 5.52,
+                  "rgb": {
+                    "blue": 113,
+                    "green": 112,
+                    "red": 111
+                  }
+                }
+              ]
+            },
+            "original_img_height": 231,
+            "original_img_url": "https://pbs.twimg.com/media/HNz-8HuaoAA-3uh.png",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2079817436757663744"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAABCgABHNz+4upagAEKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817378486190081",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.1,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 5.93,
+                  "rgb": {
+                    "blue": 64,
+                    "green": 212,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 1.2,
+                  "rgb": {
+                    "blue": 133,
+                    "green": 209,
+                    "red": 231
+                  }
+                },
+                {
+                  "percentage": 0.53,
+                  "rgb": {
+                    "blue": 164,
+                    "green": 122,
+                    "red": 247
+                  }
+                },
+                {
+                  "percentage": 0.2,
+                  "rgb": {
+                    "blue": 141,
+                    "green": 132,
+                    "red": 161
+                  }
+                }
+              ]
+            },
+            "original_img_height": 940,
+            "original_img_url": "https://pbs.twimg.com/media/HNz-4upagAEHW-x.png",
+            "original_img_width": 1440
+          },
+          "media_key": "3_2079817378486190081"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAABCgABHNz+8QQbEAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817439047782400",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 94.33,
+                  "rgb": {
+                    "blue": 32,
+                    "green": 33,
+                    "red": 33
+                  }
+                },
+                {
+                  "percentage": 5.67,
+                  "rgb": {
+                    "blue": 110,
+                    "green": 109,
+                    "red": 108
+                  }
+                }
+              ]
+            },
+            "original_img_height": 312,
+            "original_img_url": "https://pbs.twimg.com/media/HNz-8QQbEAA8INB.png",
+            "original_img_width": 1039
+          },
+          "media_key": "3_2079817439047782400"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAABCgABHNz+6xkbwAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817413630345216",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 91.84,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 5.76,
+                  "rgb": {
+                    "blue": 115,
+                    "green": 117,
+                    "red": 118
+                  }
+                },
+                {
+                  "percentage": 0.79,
+                  "rgb": {
+                    "blue": 115,
+                    "green": 159,
+                    "red": 188
+                  }
+                },
+                {
+                  "percentage": 0.74,
+                  "rgb": {
+                    "blue": 189,
+                    "green": 152,
+                    "red": 208
+                  }
+                },
+                {
+                  "percentage": 0.28,
+                  "rgb": {
+                    "blue": 54,
+                    "green": 54,
+                    "red": 54
+                  }
+                }
+              ]
+            },
+            "original_img_height": 572,
+            "original_img_url": "https://pbs.twimg.com/media/HNz-6xkbwAAW5Zb.jpg",
+            "original_img_width": 1024
+          },
+          "media_key": "3_2079817413630345216"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAABCgABHNz+44racAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817381178929152",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 85.43,
+                  "rgb": {
+                    "blue": 96,
+                    "green": 100,
+                    "red": 102
+                  }
+                },
+                {
+                  "percentage": 9.75,
+                  "rgb": {
+                    "blue": 248,
+                    "green": 249,
+                    "red": 249
+                  }
+                },
+                {
+                  "percentage": 1.87,
+                  "rgb": {
+                    "blue": 39,
+                    "green": 31,
+                    "red": 52
+                  }
+                },
+                {
+                  "percentage": 1.46,
+                  "rgb": {
+                    "blue": 184,
+                    "green": 222,
+                    "red": 232
+                  }
+                },
+                {
+                  "percentage": 0.54,
+                  "rgb": {
+                    "blue": 12,
+                    "green": 25,
+                    "red": 19
+                  }
+                }
+              ]
+            },
+            "original_img_height": 940,
+            "original_img_url": "https://pbs.twimg.com/media/HNz-44racAAWJPj.png",
+            "original_img_width": 1440
+          },
+          "media_key": "3_2079817381178929152"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAABCgABHNz+4apasAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817373117493248",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 75.55,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 18.22,
+                  "rgb": {
+                    "blue": 64,
+                    "green": 212,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 1.2,
+                  "rgb": {
+                    "blue": 243,
+                    "green": 204,
+                    "red": 39
+                  }
+                },
+                {
+                  "percentage": 1.2,
+                  "rgb": {
+                    "blue": 118,
+                    "green": 213,
+                    "red": 167
+                  }
+                },
+                {
+                  "percentage": 1.16,
+                  "rgb": {
+                    "blue": 168,
+                    "green": 125,
+                    "red": 254
+                  }
+                }
+              ]
+            },
+            "original_img_height": 987,
+            "original_img_url": "https://pbs.twimg.com/media/HNz-4apasAAnuC2.png",
+            "original_img_width": 1627
+          },
+          "media_key": "3_2079817373117493248"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAABCgABHNz+5CJbUAEKAAIAAAAAAAAAAAAA",
+          "media_id": "2079817383720734721",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 71.13,
+                  "rgb": {
+                    "blue": 102,
+                    "green": 102,
+                    "red": 102
+                  }
+                },
+                {
+                  "percentage": 22.32,
+                  "rgb": {
+                    "blue": 248,
+                    "green": 248,
+                    "red": 248
+                  }
+                },
+                {
+                  "percentage": 4.55,
+                  "rgb": {
+                    "blue": 26,
+                    "green": 85,
+                    "red": 102
+                  }
+                },
+                {
+                  "percentage": 0.95,
+                  "rgb": {
+                    "blue": 63,
+                    "green": 207,
+                    "red": 249
+                  }
+                },
+                {
+                  "percentage": 0.33,
+                  "rgb": {
+                    "blue": 195,
+                    "green": 241,
+                    "red": 255
+                  }
+                }
+              ]
+            },
+            "original_img_height": 940,
+            "original_img_url": "https://pbs.twimg.com/media/HNz-5CJbUAEZDae.png",
+            "original_img_width": 1440
+          },
+          "media_key": "3_2079817383720734721"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

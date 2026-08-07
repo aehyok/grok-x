@@ -1,0 +1,2400 @@
+{
+  "source": "H:\\github\\grok-x\\workbuddy-tips-top50-截止-2026-08-07-1054.md",
+  "out_dir": "H:\\github\\grok-x\\workbuddy-tips-posts-截止-2026-08-07-1054",
+  "entries_count": 57,
+  "jobs_count": 70,
+  "entries": [
+    {
+      "section": "top50",
+      "rank": 1,
+      "views_raw": "~424,000",
+      "views": 424000,
+      "date": "2026-07-15",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "WorkBuddy 生态有多强：连接器/专家/Skill 体系视频 + 进阶文推荐",
+      "status_ids": [
+        "2077211001590890576"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aehyok/status/2077211001590890576)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 2,
+      "views_raw": "~406,000",
+      "views": 406000,
+      "date": "2026-07-14",
+      "lang": "ZH",
+      "author": "legacyvps",
+      "topic": "进阶用法：连接器（QQ邮箱/腾讯文档）、助理小程序、项目、专家/Skill、自动化+锁屏远程",
+      "status_ids": [
+        "2077053923693822343"
+      ],
+      "article_ids": [
+        "2077052981330219008"
+      ],
+      "links": "[帖](https://x.com/legacyvps/status/2077053923693822343) · [Article](https://x.com/i/article/2077052981330219008)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 3,
+      "views_raw": "~369,000",
+      "views": 369000,
+      "date": "2026-07-10",
+      "lang": "ZH",
+      "author": "AYi_AInotes",
+      "topic": "强烈推荐官方产品负责人 Jason 深度播客（干货＞100 篇 AI 教程）+ 文字总结",
+      "status_ids": [
+        "2075409057553268778"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/AYi_AInotes/status/2075409057553268778)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 4,
+      "views_raw": "~224,000",
+      "views": 224000,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "TencentAI_News",
+      "topic": "Hy3 入口：WorkBuddy / Miora / TokenHub；内测任务成功率与提速数据",
+      "status_ids": [
+        "2084835629213577720"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/TencentAI_News/status/2084835629213577720)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 6,
+      "views_raw": "~183,000",
+      "views": 183000,
+      "date": "2026-07-14",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "Mac 指南系列中 WorkBuddy 做微信小程序（CloudBase Skill 全流程）",
+      "status_ids": [
+        "2076855134752268519"
+      ],
+      "article_ids": [
+        "2074857339983929345"
+      ],
+      "links": "[帖](https://x.com/aehyok/status/2076855134752268519) · [Article](https://x.com/i/article/2074857339983929345)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 7,
+      "views_raw": "~171,000",
+      "views": 171000,
+      "date": "2026-07-13",
+      "lang": "ZH",
+      "author": "canghe",
+      "topic": "WorkBuddy 蓝皮书相关长文（联合作者进阶/实战）",
+      "status_ids": [
+        "2076513303778742620"
+      ],
+      "article_ids": [
+        "2076505684636753920"
+      ],
+      "links": "[帖](https://x.com/canghe/status/2076513303778742620) · [Article](https://x.com/i/article/2076505684636753920)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 8,
+      "views_raw": "~149,000",
+      "views": 149000,
+      "date": "2026-07-29",
+      "lang": "ZH",
+      "author": "Jack_FluxAI",
+      "topic": "胡楚靓式「口喷」工作台：WorkBuddy/Trae + 大白话/截图复刻",
+      "status_ids": [
+        "2082345252699189274"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Jack_FluxAI/status/2082345252699189274)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 9,
+      "views_raw": "~138,000",
+      "views": 138000,
+      "date": "2026-08-04",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "飞书×豆包 vs WorkBuddy 生态竞争语境下的产品理解（视频）",
+      "status_ids": [
+        "2084481751737336180"
+      ],
+      "article_ids": [
+        "2083910623600250880"
+      ],
+      "links": "[帖](https://x.com/aehyok/status/2084481751737336180) · [Article](https://x.com/i/article/2083910623600250880)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 10,
+      "views_raw": "~137,000",
+      "views": 137000,
+      "date": "2026-08-03",
+      "lang": "ZH",
+      "author": "songsong",
+      "topic": "「看完你没入门，我入土」级 WorkBuddy 超全教程（含实操图；常被推荐抢券场景）",
+      "status_ids": [
+        "2084242161630126551"
+      ],
+      "article_ids": [
+        "2083416323800043521"
+      ],
+      "links": "[帖](https://x.com/songsong/status/2084242161630126551) · [Article](https://x.com/i/article/2083416323800043521)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 11,
+      "views_raw": "~130,000",
+      "views": 130000,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "TencentHunyuan",
+      "topic": "Hy3 全球上线 WorkBuddy，免费至 2026-08-31 PT",
+      "status_ids": [
+        "2084836757095526689"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/TencentHunyuan/status/2084836757095526689)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 12,
+      "views_raw": "~124,000",
+      "views": 124000,
+      "date": "2026-07-07",
+      "lang": "ZH",
+      "author": "zjp1997720",
+      "topic": "WorkBuddy 教程长文（公众号 8 万+ 浏览；后续复盘流量）",
+      "status_ids": [
+        "2074418155406111072"
+      ],
+      "article_ids": [
+        "2074410581554073600"
+      ],
+      "links": "[帖](https://x.com/zjp1997720/status/2074418155406111072) · [Article](https://x.com/i/article/2074410581554073600)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 13,
+      "views_raw": "~121,000",
+      "views": 121000,
+      "date": "2026-07-20",
+      "lang": "ZH",
+      "author": "gengdaJ",
+      "topic": "Skills 大全开源（微信/企微/抖音等；可装进 Agent 生态含 WorkBuddy 场景）",
+      "status_ids": [
+        "2079091937639022973"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/gengdaJ/status/2079091937639022973)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 14,
+      "views_raw": "~116,000",
+      "views": 116000,
+      "date": "2026-07-22",
+      "lang": "ZH",
+      "author": "KengGuangLong",
+      "topic": "「国内做 AI 赚钱不能不研究 WorkBuddy」宣言帖（带动一波跟进教程）",
+      "status_ids": [
+        "2079757066697380046"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/KengGuangLong/status/2079757066697380046)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 15,
+      "views_raw": "~116,000",
+      "views": 116000,
+      "date": "2026-07-31",
+      "lang": "ZH",
+      "author": "canghe",
+      "topic": "蓝皮书获官方认可，预告 2.0 企业级案例",
+      "status_ids": [
+        "2083066882182320399"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/canghe/status/2083066882182320399)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 16,
+      "views_raw": "~105,000",
+      "views": 105000,
+      "date": "2026-07-30",
+      "lang": "ZH",
+      "author": "AdrianPunk115",
+      "topic": "卖 Skill / WorkBuddy 火时的 skill 定制教程长文",
+      "status_ids": [
+        "2082706843466633354"
+      ],
+      "article_ids": [
+        "2082701201498587136"
+      ],
+      "links": "[帖](https://x.com/AdrianPunk115/status/2082706843466633354) · [Article](https://x.com/i/article/2082701201498587136)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 17,
+      "views_raw": "~88,000",
+      "views": 88000,
+      "date": "2026-07-31",
+      "lang": "ZH",
+      "author": "zjp1997720",
+      "topic": "教程公众号 8 万浏览复盘：接地气 + 专业信任怎么拿订单",
+      "status_ids": [
+        "2083078022043979796"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/zjp1997720/status/2083078022043979796)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 18,
+      "views_raw": "~73,000",
+      "views": 73000,
+      "date": "2026-08-06",
+      "lang": "ZH",
+      "author": "m1ssuo",
+      "topic": "WorkBuddy 命名梗图（热度高，技巧弱；作对照）",
+      "status_ids": [
+        "2085227520547524756"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/m1ssuo/status/2085227520547524756)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 19,
+      "views_raw": "~72,000",
+      "views": 72000,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "author": "jinchenma_ai",
+      "topic": "Codex/WorkBuddy + 飞书 CLI 管文档排版",
+      "status_ids": [
+        "2083567267464511735"
+      ],
+      "article_ids": [
+        "2083566013141139456"
+      ],
+      "links": "[帖](https://x.com/jinchenma_ai/status/2083567267464511735) · [Article](https://x.com/i/article/2083566013141139456)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 20,
+      "views_raw": "~60,000",
+      "views": 60000,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "qilua02",
+      "topic": "Hy3 在 WorkBuddy 免费窗口「狂吸 token」算账帖",
+      "status_ids": [
+        "2085037920604590340"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/qilua02/status/2085037920604590340)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 21,
+      "views_raw": "~40,000",
+      "views": 40000,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "GesoraMeshack",
+      "topic": "实测 Hy3 + WorkBuddy Agent 生产力工作流",
+      "status_ids": [
+        "2084883290704466290"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/GesoraMeshack/status/2084883290704466290)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 22,
+      "views_raw": "~38,000",
+      "views": 38000,
+      "date": "2026-07-17",
+      "lang": "ZH",
+      "author": "dontbesilent",
+      "topic": "最低门槛：微信小程序搜索 WorkBuddy →「安装 don 哥的 dbskill」",
+      "status_ids": [
+        "2078011866778132635"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/dontbesilent/status/2078011866778132635)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 23,
+      "views_raw": "~38,000",
+      "views": 38000,
+      "date": "2026-08-06",
+      "lang": "ZH",
+      "author": "rionaifantasy",
+      "topic": "Skills / Connectors / Automation 四看点：把「回答后的脏活」接成任务链",
+      "status_ids": [
+        "2085347251795398841"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/rionaifantasy/status/2085347251795398841)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 24,
+      "views_raw": "~36,000",
+      "views": 36000,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "豆包 vs WorkBuddy vs 千问办公 订阅性价比讨论",
+      "status_ids": [
+        "2083398834319925310"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aehyok/status/2083398834319925310)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 25,
+      "views_raw": "~30,000",
+      "views": 30000,
+      "date": "2026-07-13",
+      "lang": "ZH",
+      "author": "nini_incrypto_",
+      "topic": "最搞钱的 8 个 Skill（小红书/金融/法务/跨境/markitdown…）",
+      "status_ids": [
+        "2076660274770440452"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/nini_incrypto_/status/2076660274770440452)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 26,
+      "views_raw": "~28,000",
+      "views": 28000,
+      "date": "2026-07-13",
+      "lang": "ZH",
+      "author": "aikangarooking",
+      "topic": "WorkBuddy 蓝皮书开源（0→100 入门+进阶+多场景，MIT）",
+      "status_ids": [
+        "2076494215996215722"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aikangarooking/status/2076494215996215722)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 27,
+      "views_raw": "~27,000",
+      "views": 27000,
+      "date": "2026-07-29",
+      "lang": "ZH",
+      "author": "joshesye",
+      "topic": "国内火的真实感：专家模式+Skill 对小白表格/日报友好；对比 Codex",
+      "status_ids": [
+        "2082456478808490327"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/joshesye/status/2082456478808490327)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 28,
+      "views_raw": "~26,000",
+      "views": 26000,
+      "date": "2026-07-27",
+      "lang": "ZH",
+      "author": "alin_zone",
+      "topic": "小白向 WorkBuddy 文章（aehyok 引用：Hy3 免费积分 + Obsidian 技能库）",
+      "status_ids": [
+        "2081716933259673810"
+      ],
+      "article_ids": [
+        "2081712850385645570"
+      ],
+      "links": "[帖](https://x.com/alin_zone/status/2081716933259673810) · [Article](https://x.com/i/article/2081712850385645570)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 29,
+      "views_raw": "~24,000",
+      "views": 24000,
+      "date": "2026-08-03",
+      "lang": "ZH",
+      "author": "noahduck283",
+      "topic": "转发全教程 + 美团 40-20 券实用提醒",
+      "status_ids": [
+        "2084248581469614300"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/noahduck283/status/2084248581469614300)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 30,
+      "views_raw": "~23,000",
+      "views": 23000,
+      "date": "2026-07-30",
+      "lang": "ZH",
+      "author": "vista8",
+      "topic": "「务实低配 FDE = WorkBuddy + Skill 交付」观点",
+      "status_ids": [
+        "2082858101884272752"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/vista8/status/2082858101884272752)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 31,
+      "views_raw": "~23,000",
+      "views": 23000,
+      "date": "2026-07-30",
+      "lang": "ZH",
+      "author": "isnail",
+      "topic": "咸鱼接 Skill 定制：趁 WorkBuddy 火把教程学了变现",
+      "status_ids": [
+        "2082725631138115866"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/isnail/status/2082725631138115866)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 32,
+      "views_raw": "~22,000",
+      "views": 22000,
+      "date": "2026-08-06",
+      "lang": "ZH",
+      "author": "weiyux2021",
+      "topic": "「学 WorkBuddy 像 08 年拍拍网」暴论（认知帖）",
+      "status_ids": [
+        "2085373938452902151"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/weiyux2021/status/2085373938452902151)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 33,
+      "views_raw": "~19,000",
+      "views": 19000,
+      "date": "2026-07-27",
+      "lang": "ZH",
+      "author": "jinglian",
+      "topic": "邮箱场景长文；aehyok：QQ/网易邮箱+发票/订单规则优先 WorkBuddy",
+      "status_ids": [
+        "2081670924764426549"
+      ],
+      "article_ids": [
+        "2081622372503670784"
+      ],
+      "links": "[帖](https://x.com/jinglian/status/2081670924764426549) · [Article](https://x.com/i/article/2081622372503670784)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 35,
+      "views_raw": "~16,100",
+      "views": 16100,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "author": "touxnplayai",
+      "topic": "零基础保姆级视频教程：安装→功能→手机控电脑→个人网站实战",
+      "status_ids": [
+        "2083536225051566087"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/touxnplayai/status/2083536225051566087)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 36,
+      "views_raw": "~14,600",
+      "views": 14600,
+      "date": "2026-08-06",
+      "lang": "ZH",
+      "author": "ai_xiaomu",
+      "topic": "UI 吐槽兼产品观：Skill 应无感知自动调用 vs 一堆 icon",
+      "status_ids": [
+        "2085294198774022252"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ai_xiaomu/status/2085294198774022252)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 37,
+      "views_raw": "~13,800",
+      "views": 13800,
+      "date": "2026-08-06",
+      "lang": "TR",
+      "author": "webtekno",
+      "topic": "Hy3 + WorkBuddy 全球免费窗口新闻（土语）",
+      "status_ids": [
+        "2085259697485996532"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/webtekno/status/2085259697485996532)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 38,
+      "views_raw": "~11,700",
+      "views": 11700,
+      "date": "2026-07-28",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "用不了 Claude/Codex 时用 WorkBuddy：Hy3 免费 + 百级 Obsidian Skill",
+      "status_ids": [
+        "2081919965352034486"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aehyok/status/2081919965352034486)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 39,
+      "views_raw": "~11,000",
+      "views": 11000,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "author": "majiabin",
+      "topic": "录屏操作一遍蒸馏成 Skill（新神器演示）",
+      "status_ids": [
+        "2083524495038677403"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/majiabin/status/2083524495038677403)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 40,
+      "views_raw": "~10,500",
+      "views": 10500,
+      "date": "2026-07-20",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "Codex 给 WorkBuddy 换皮肤视频教程",
+      "status_ids": [
+        "2079045646141845717"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aehyok/status/2079045646141845717)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 41,
+      "views_raw": "~9,900",
+      "views": 9900,
+      "date": "2026-07-31",
+      "lang": "ZH",
+      "author": "Sirilee2026",
+      "topic": "丢 15 段跳舞视频让 WorkBuddy 剪辑拼接的实测 Article",
+      "status_ids": [
+        "2083033279192875298"
+      ],
+      "article_ids": [
+        "2083027801922265088"
+      ],
+      "links": "[帖](https://x.com/Sirilee2026/status/2083033279192875298) · [Article](https://x.com/i/article/2083027801922265088)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 42,
+      "views_raw": "~9,100",
+      "views": 9100,
+      "date": "2026-08-06",
+      "lang": "ZH",
+      "author": "Yunn260414",
+      "topic": "七猫扫榜 → 拆标杆 → 自动写小说完整链路演示",
+      "status_ids": [
+        "2085374669247705324"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Yunn260414/status/2085374669247705324)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 43,
+      "views_raw": "~8,800",
+      "views": 8800,
+      "date": "2026-07-31",
+      "lang": "ZH",
+      "author": "Jack_FluxAI",
+      "topic": "胡楚靓教程传播学拆解：把 AI 讲浅 vs 技术博主讲深",
+      "status_ids": [
+        "2082997493672132790"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Jack_FluxAI/status/2082997493672132790)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 44,
+      "views_raw": "~7,700",
+      "views": 7700,
+      "date": "2026-07-21",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "自动化定时任务：每天 9 点同步 AI 资讯到微信小程序（全程演示）",
+      "status_ids": [
+        "2079387104010989625"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aehyok/status/2079387104010989625)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 45,
+      "views_raw": "~6,700",
+      "views": 6700,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "WorkBuddy_AI",
+      "topic": "官方：Hy3 8 月生产力升级（Global 免费窗）",
+      "status_ids": [
+        "2084906734385332453"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/WorkBuddy_AI/status/2084906734385332453)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 46,
+      "views_raw": "~5,700",
+      "views": 5700,
+      "date": "2026-07-28",
+      "lang": "EN",
+      "author": "kane_120",
+      "topic": "FreeModel 文档配置 WorkBuddy 获取额度（需自查风险）",
+      "status_ids": [
+        "2082026543040368719"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/kane_120/status/2082026543040368719)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 47,
+      "views_raw": "~4,500",
+      "views": 4500,
+      "date": "2026-08-06",
+      "lang": "ZH",
+      "author": "realWeZZard",
+      "topic": "数据飞轮讨论：国内飞轮落到 WorkBuddy/HY",
+      "status_ids": [
+        "2085252900360704319"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/realWeZZard/status/2085252900360704319)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 48,
+      "views_raw": "~4,300",
+      "views": 4300,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "飞书合入豆包语境下再谈 WorkBuddy 竞争位",
+      "status_ids": [
+        "2084794997455671557"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aehyok/status/2084794997455671557)",
+      "is_article_entry": false
+    },
+    {
+      "section": "top50",
+      "rank": 49,
+      "views_raw": "~3,100",
+      "views": 3100,
+      "date": "2026-07-29",
+      "lang": "EN",
+      "author": "tenctcloud_Intl",
+      "topic": "零代码给 WorkBuddy 换皮肤实验 Article",
+      "status_ids": [
+        "2082298476390719991"
+      ],
+      "article_ids": [
+        "2082076291969556481"
+      ],
+      "links": "[帖](https://x.com/tenctcloud_Intl/status/2082298476390719991) · [Article](https://x.com/i/article/2082076291969556481)",
+      "is_article_entry": true
+    },
+    {
+      "section": "top50",
+      "rank": 50,
+      "views_raw": "~3,000",
+      "views": 3000,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "author": "libukai",
+      "topic": "「个人工作台」专家配置拆解：单 SKILL.md 出高质量 HTML 产物",
+      "status_ids": [
+        "2085017395765350775"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/libukai/status/2085017395765350775)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~2.9k",
+      "views": 2900,
+      "date": "07-26",
+      "lang": "ZH",
+      "author": "ZhaoHg59511",
+      "topic": "3 个月使用后的「AI 替你干活」最速上手指南 Article",
+      "status_ids": [
+        "2081357464050761835"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ZhaoHg59511/status/2081357464050761835)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~2.9k",
+      "views": 2900,
+      "date": "07-26",
+      "lang": "ZH",
+      "author": "ZhaoHg59511",
+      "topic": "3 个月后的 12 个判断 Article",
+      "status_ids": [
+        "2081388606825095679"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ZhaoHg59511/status/2081388606825095679)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~1.4k",
+      "views": 1400,
+      "date": "08-07",
+      "lang": "ZH",
+      "author": "PMbackttfuture",
+      "topic": "Goal Skill：模糊需求 → 可验收长程任务（Codex/WorkBuddy 双适配）",
+      "status_ids": [
+        "2085524457750462551"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/PMbackttfuture/status/2085524457750462551)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~1.2k",
+      "views": 1200,
+      "date": "08-06",
+      "lang": "ZH",
+      "author": "Sukiea1008",
+      "topic": "把 WorkBuddy 美团能力「借」给 Codex/Hermes 自动领券（提示词+边界）",
+      "status_ids": [
+        "2085259421719097640"
+      ],
+      "article_ids": [
+        "2085220350422614017"
+      ],
+      "links": "[帖](https://x.com/Sukiea1008/status/2085259421719097640) · [Article](https://x.com/i/article/2085220350422614017)",
+      "is_article_entry": true
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~1.1k",
+      "views": 1100,
+      "date": "07-25",
+      "lang": "ZH",
+      "author": "Heidifu666",
+      "topic": "ima 知识库 + WorkBuddy 文件整理",
+      "status_ids": [
+        "2081012109987463536"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Heidifu666/status/2081012109987463536)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~1.0k",
+      "views": 1000,
+      "date": "07-31",
+      "lang": "ZH",
+      "author": "tenctcloud_Intl",
+      "topic": "WorkBuddy + Hy 3D：4 天做 3D roguelike demo",
+      "status_ids": [
+        "2083047694147453414"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/tenctcloud_Intl/status/2083047694147453414)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~0.9k",
+      "views": 900,
+      "date": "08-04",
+      "lang": "ZH",
+      "author": "x_sanjin",
+      "topic": "速查：Plan/Default/Ask、六字段提示词、记忆三级、定时、额度",
+      "status_ids": [
+        "2084624392341029027"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/x_sanjin/status/2084624392341029027)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "—",
+      "views": 0,
+      "date": "08-06",
+      "lang": "ZH",
+      "author": "dankzheng",
+      "topic": "小技巧：先不要装一堆 Skill，只用系统默认跑通",
+      "status_ids": [
+        "2085490658631209404"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/dankzheng/status/2085490658631209404)",
+      "is_article_entry": false
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "—",
+      "views": 0,
+      "date": "08-07",
+      "lang": "ZH",
+      "author": "stellaeai099",
+      "topic": "用 WorkBuddy 爬微信公众号信息写 Skill，再让 Claude/Codex 拉起",
+      "status_ids": [
+        "2085536607160160279"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/stellaeai099/status/2085536607160160279)",
+      "is_article_entry": false
+    }
+  ],
+  "jobs": [
+    {
+      "section": "top50",
+      "rank": 1,
+      "views_raw": "~424,000",
+      "views": 424000,
+      "date": "2026-07-15",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "WorkBuddy 生态有多强：连接器/专家/Skill 体系视频 + 进阶文推荐",
+      "status_ids": [
+        "2077211001590890576"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aehyok/status/2077211001590890576)",
+      "is_article_entry": false,
+      "idx": "001",
+      "kind": "post",
+      "type": "status",
+      "id": "2077211001590890576"
+    },
+    {
+      "section": "top50",
+      "rank": 2,
+      "views_raw": "~406,000",
+      "views": 406000,
+      "date": "2026-07-14",
+      "lang": "ZH",
+      "author": "legacyvps",
+      "topic": "进阶用法：连接器（QQ邮箱/腾讯文档）、助理小程序、项目、专家/Skill、自动化+锁屏远程",
+      "status_ids": [
+        "2077053923693822343"
+      ],
+      "article_ids": [
+        "2077052981330219008"
+      ],
+      "links": "[帖](https://x.com/legacyvps/status/2077053923693822343) · [Article](https://x.com/i/article/2077052981330219008)",
+      "is_article_entry": true,
+      "idx": "002",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2077053923693822343"
+    },
+    {
+      "section": "top50",
+      "rank": 2,
+      "views_raw": "~406,000",
+      "views": 406000,
+      "date": "2026-07-14",
+      "lang": "ZH",
+      "author": "legacyvps",
+      "topic": "进阶用法：连接器（QQ邮箱/腾讯文档）、助理小程序、项目、专家/Skill、自动化+锁屏远程",
+      "status_ids": [
+        "2077053923693822343"
+      ],
+      "article_ids": [
+        "2077052981330219008"
+      ],
+      "links": "[帖](https://x.com/legacyvps/status/2077053923693822343) · [Article](https://x.com/i/article/2077052981330219008)",
+      "is_article_entry": true,
+      "idx": "002",
+      "kind": "article",
+      "type": "article",
+      "id": "2077052981330219008"
+    },
+    {
+      "section": "top50",
+      "rank": 3,
+      "views_raw": "~369,000",
+      "views": 369000,
+      "date": "2026-07-10",
+      "lang": "ZH",
+      "author": "AYi_AInotes",
+      "topic": "强烈推荐官方产品负责人 Jason 深度播客（干货＞100 篇 AI 教程）+ 文字总结",
+      "status_ids": [
+        "2075409057553268778"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/AYi_AInotes/status/2075409057553268778)",
+      "is_article_entry": false,
+      "idx": "003",
+      "kind": "post",
+      "type": "status",
+      "id": "2075409057553268778"
+    },
+    {
+      "section": "top50",
+      "rank": 4,
+      "views_raw": "~224,000",
+      "views": 224000,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "TencentAI_News",
+      "topic": "Hy3 入口：WorkBuddy / Miora / TokenHub；内测任务成功率与提速数据",
+      "status_ids": [
+        "2084835629213577720"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/TencentAI_News/status/2084835629213577720)",
+      "is_article_entry": false,
+      "idx": "004",
+      "kind": "post",
+      "type": "status",
+      "id": "2084835629213577720"
+    },
+    {
+      "section": "top50",
+      "rank": 6,
+      "views_raw": "~183,000",
+      "views": 183000,
+      "date": "2026-07-14",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "Mac 指南系列中 WorkBuddy 做微信小程序（CloudBase Skill 全流程）",
+      "status_ids": [
+        "2076855134752268519"
+      ],
+      "article_ids": [
+        "2074857339983929345"
+      ],
+      "links": "[帖](https://x.com/aehyok/status/2076855134752268519) · [Article](https://x.com/i/article/2074857339983929345)",
+      "is_article_entry": true,
+      "idx": "005",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2076855134752268519"
+    },
+    {
+      "section": "top50",
+      "rank": 6,
+      "views_raw": "~183,000",
+      "views": 183000,
+      "date": "2026-07-14",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "Mac 指南系列中 WorkBuddy 做微信小程序（CloudBase Skill 全流程）",
+      "status_ids": [
+        "2076855134752268519"
+      ],
+      "article_ids": [
+        "2074857339983929345"
+      ],
+      "links": "[帖](https://x.com/aehyok/status/2076855134752268519) · [Article](https://x.com/i/article/2074857339983929345)",
+      "is_article_entry": true,
+      "idx": "005",
+      "kind": "article",
+      "type": "article",
+      "id": "2074857339983929345"
+    },
+    {
+      "section": "top50",
+      "rank": 7,
+      "views_raw": "~171,000",
+      "views": 171000,
+      "date": "2026-07-13",
+      "lang": "ZH",
+      "author": "canghe",
+      "topic": "WorkBuddy 蓝皮书相关长文（联合作者进阶/实战）",
+      "status_ids": [
+        "2076513303778742620"
+      ],
+      "article_ids": [
+        "2076505684636753920"
+      ],
+      "links": "[帖](https://x.com/canghe/status/2076513303778742620) · [Article](https://x.com/i/article/2076505684636753920)",
+      "is_article_entry": true,
+      "idx": "006",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2076513303778742620"
+    },
+    {
+      "section": "top50",
+      "rank": 7,
+      "views_raw": "~171,000",
+      "views": 171000,
+      "date": "2026-07-13",
+      "lang": "ZH",
+      "author": "canghe",
+      "topic": "WorkBuddy 蓝皮书相关长文（联合作者进阶/实战）",
+      "status_ids": [
+        "2076513303778742620"
+      ],
+      "article_ids": [
+        "2076505684636753920"
+      ],
+      "links": "[帖](https://x.com/canghe/status/2076513303778742620) · [Article](https://x.com/i/article/2076505684636753920)",
+      "is_article_entry": true,
+      "idx": "006",
+      "kind": "article",
+      "type": "article",
+      "id": "2076505684636753920"
+    },
+    {
+      "section": "top50",
+      "rank": 8,
+      "views_raw": "~149,000",
+      "views": 149000,
+      "date": "2026-07-29",
+      "lang": "ZH",
+      "author": "Jack_FluxAI",
+      "topic": "胡楚靓式「口喷」工作台：WorkBuddy/Trae + 大白话/截图复刻",
+      "status_ids": [
+        "2082345252699189274"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Jack_FluxAI/status/2082345252699189274)",
+      "is_article_entry": false,
+      "idx": "007",
+      "kind": "post",
+      "type": "status",
+      "id": "2082345252699189274"
+    },
+    {
+      "section": "top50",
+      "rank": 9,
+      "views_raw": "~138,000",
+      "views": 138000,
+      "date": "2026-08-04",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "飞书×豆包 vs WorkBuddy 生态竞争语境下的产品理解（视频）",
+      "status_ids": [
+        "2084481751737336180"
+      ],
+      "article_ids": [
+        "2083910623600250880"
+      ],
+      "links": "[帖](https://x.com/aehyok/status/2084481751737336180) · [Article](https://x.com/i/article/2083910623600250880)",
+      "is_article_entry": true,
+      "idx": "008",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2084481751737336180"
+    },
+    {
+      "section": "top50",
+      "rank": 9,
+      "views_raw": "~138,000",
+      "views": 138000,
+      "date": "2026-08-04",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "飞书×豆包 vs WorkBuddy 生态竞争语境下的产品理解（视频）",
+      "status_ids": [
+        "2084481751737336180"
+      ],
+      "article_ids": [
+        "2083910623600250880"
+      ],
+      "links": "[帖](https://x.com/aehyok/status/2084481751737336180) · [Article](https://x.com/i/article/2083910623600250880)",
+      "is_article_entry": true,
+      "idx": "008",
+      "kind": "article",
+      "type": "article",
+      "id": "2083910623600250880"
+    },
+    {
+      "section": "top50",
+      "rank": 10,
+      "views_raw": "~137,000",
+      "views": 137000,
+      "date": "2026-08-03",
+      "lang": "ZH",
+      "author": "songsong",
+      "topic": "「看完你没入门，我入土」级 WorkBuddy 超全教程（含实操图；常被推荐抢券场景）",
+      "status_ids": [
+        "2084242161630126551"
+      ],
+      "article_ids": [
+        "2083416323800043521"
+      ],
+      "links": "[帖](https://x.com/songsong/status/2084242161630126551) · [Article](https://x.com/i/article/2083416323800043521)",
+      "is_article_entry": true,
+      "idx": "009",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2084242161630126551"
+    },
+    {
+      "section": "top50",
+      "rank": 10,
+      "views_raw": "~137,000",
+      "views": 137000,
+      "date": "2026-08-03",
+      "lang": "ZH",
+      "author": "songsong",
+      "topic": "「看完你没入门，我入土」级 WorkBuddy 超全教程（含实操图；常被推荐抢券场景）",
+      "status_ids": [
+        "2084242161630126551"
+      ],
+      "article_ids": [
+        "2083416323800043521"
+      ],
+      "links": "[帖](https://x.com/songsong/status/2084242161630126551) · [Article](https://x.com/i/article/2083416323800043521)",
+      "is_article_entry": true,
+      "idx": "009",
+      "kind": "article",
+      "type": "article",
+      "id": "2083416323800043521"
+    },
+    {
+      "section": "top50",
+      "rank": 11,
+      "views_raw": "~130,000",
+      "views": 130000,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "TencentHunyuan",
+      "topic": "Hy3 全球上线 WorkBuddy，免费至 2026-08-31 PT",
+      "status_ids": [
+        "2084836757095526689"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/TencentHunyuan/status/2084836757095526689)",
+      "is_article_entry": false,
+      "idx": "010",
+      "kind": "post",
+      "type": "status",
+      "id": "2084836757095526689"
+    },
+    {
+      "section": "top50",
+      "rank": 12,
+      "views_raw": "~124,000",
+      "views": 124000,
+      "date": "2026-07-07",
+      "lang": "ZH",
+      "author": "zjp1997720",
+      "topic": "WorkBuddy 教程长文（公众号 8 万+ 浏览；后续复盘流量）",
+      "status_ids": [
+        "2074418155406111072"
+      ],
+      "article_ids": [
+        "2074410581554073600"
+      ],
+      "links": "[帖](https://x.com/zjp1997720/status/2074418155406111072) · [Article](https://x.com/i/article/2074410581554073600)",
+      "is_article_entry": true,
+      "idx": "011",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2074418155406111072"
+    },
+    {
+      "section": "top50",
+      "rank": 12,
+      "views_raw": "~124,000",
+      "views": 124000,
+      "date": "2026-07-07",
+      "lang": "ZH",
+      "author": "zjp1997720",
+      "topic": "WorkBuddy 教程长文（公众号 8 万+ 浏览；后续复盘流量）",
+      "status_ids": [
+        "2074418155406111072"
+      ],
+      "article_ids": [
+        "2074410581554073600"
+      ],
+      "links": "[帖](https://x.com/zjp1997720/status/2074418155406111072) · [Article](https://x.com/i/article/2074410581554073600)",
+      "is_article_entry": true,
+      "idx": "011",
+      "kind": "article",
+      "type": "article",
+      "id": "2074410581554073600"
+    },
+    {
+      "section": "top50",
+      "rank": 13,
+      "views_raw": "~121,000",
+      "views": 121000,
+      "date": "2026-07-20",
+      "lang": "ZH",
+      "author": "gengdaJ",
+      "topic": "Skills 大全开源（微信/企微/抖音等；可装进 Agent 生态含 WorkBuddy 场景）",
+      "status_ids": [
+        "2079091937639022973"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/gengdaJ/status/2079091937639022973)",
+      "is_article_entry": false,
+      "idx": "012",
+      "kind": "post",
+      "type": "status",
+      "id": "2079091937639022973"
+    },
+    {
+      "section": "top50",
+      "rank": 14,
+      "views_raw": "~116,000",
+      "views": 116000,
+      "date": "2026-07-22",
+      "lang": "ZH",
+      "author": "KengGuangLong",
+      "topic": "「国内做 AI 赚钱不能不研究 WorkBuddy」宣言帖（带动一波跟进教程）",
+      "status_ids": [
+        "2079757066697380046"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/KengGuangLong/status/2079757066697380046)",
+      "is_article_entry": false,
+      "idx": "013",
+      "kind": "post",
+      "type": "status",
+      "id": "2079757066697380046"
+    },
+    {
+      "section": "top50",
+      "rank": 15,
+      "views_raw": "~116,000",
+      "views": 116000,
+      "date": "2026-07-31",
+      "lang": "ZH",
+      "author": "canghe",
+      "topic": "蓝皮书获官方认可，预告 2.0 企业级案例",
+      "status_ids": [
+        "2083066882182320399"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/canghe/status/2083066882182320399)",
+      "is_article_entry": false,
+      "idx": "014",
+      "kind": "post",
+      "type": "status",
+      "id": "2083066882182320399"
+    },
+    {
+      "section": "top50",
+      "rank": 16,
+      "views_raw": "~105,000",
+      "views": 105000,
+      "date": "2026-07-30",
+      "lang": "ZH",
+      "author": "AdrianPunk115",
+      "topic": "卖 Skill / WorkBuddy 火时的 skill 定制教程长文",
+      "status_ids": [
+        "2082706843466633354"
+      ],
+      "article_ids": [
+        "2082701201498587136"
+      ],
+      "links": "[帖](https://x.com/AdrianPunk115/status/2082706843466633354) · [Article](https://x.com/i/article/2082701201498587136)",
+      "is_article_entry": true,
+      "idx": "015",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2082706843466633354"
+    },
+    {
+      "section": "top50",
+      "rank": 16,
+      "views_raw": "~105,000",
+      "views": 105000,
+      "date": "2026-07-30",
+      "lang": "ZH",
+      "author": "AdrianPunk115",
+      "topic": "卖 Skill / WorkBuddy 火时的 skill 定制教程长文",
+      "status_ids": [
+        "2082706843466633354"
+      ],
+      "article_ids": [
+        "2082701201498587136"
+      ],
+      "links": "[帖](https://x.com/AdrianPunk115/status/2082706843466633354) · [Article](https://x.com/i/article/2082701201498587136)",
+      "is_article_entry": true,
+      "idx": "015",
+      "kind": "article",
+      "type": "article",
+      "id": "2082701201498587136"
+    },
+    {
+      "section": "top50",
+      "rank": 17,
+      "views_raw": "~88,000",
+      "views": 88000,
+      "date": "2026-07-31",
+      "lang": "ZH",
+      "author": "zjp1997720",
+      "topic": "教程公众号 8 万浏览复盘：接地气 + 专业信任怎么拿订单",
+      "status_ids": [
+        "2083078022043979796"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/zjp1997720/status/2083078022043979796)",
+      "is_article_entry": false,
+      "idx": "016",
+      "kind": "post",
+      "type": "status",
+      "id": "2083078022043979796"
+    },
+    {
+      "section": "top50",
+      "rank": 18,
+      "views_raw": "~73,000",
+      "views": 73000,
+      "date": "2026-08-06",
+      "lang": "ZH",
+      "author": "m1ssuo",
+      "topic": "WorkBuddy 命名梗图（热度高，技巧弱；作对照）",
+      "status_ids": [
+        "2085227520547524756"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/m1ssuo/status/2085227520547524756)",
+      "is_article_entry": false,
+      "idx": "017",
+      "kind": "post",
+      "type": "status",
+      "id": "2085227520547524756"
+    },
+    {
+      "section": "top50",
+      "rank": 19,
+      "views_raw": "~72,000",
+      "views": 72000,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "author": "jinchenma_ai",
+      "topic": "Codex/WorkBuddy + 飞书 CLI 管文档排版",
+      "status_ids": [
+        "2083567267464511735"
+      ],
+      "article_ids": [
+        "2083566013141139456"
+      ],
+      "links": "[帖](https://x.com/jinchenma_ai/status/2083567267464511735) · [Article](https://x.com/i/article/2083566013141139456)",
+      "is_article_entry": true,
+      "idx": "018",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2083567267464511735"
+    },
+    {
+      "section": "top50",
+      "rank": 19,
+      "views_raw": "~72,000",
+      "views": 72000,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "author": "jinchenma_ai",
+      "topic": "Codex/WorkBuddy + 飞书 CLI 管文档排版",
+      "status_ids": [
+        "2083567267464511735"
+      ],
+      "article_ids": [
+        "2083566013141139456"
+      ],
+      "links": "[帖](https://x.com/jinchenma_ai/status/2083567267464511735) · [Article](https://x.com/i/article/2083566013141139456)",
+      "is_article_entry": true,
+      "idx": "018",
+      "kind": "article",
+      "type": "article",
+      "id": "2083566013141139456"
+    },
+    {
+      "section": "top50",
+      "rank": 20,
+      "views_raw": "~60,000",
+      "views": 60000,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "qilua02",
+      "topic": "Hy3 在 WorkBuddy 免费窗口「狂吸 token」算账帖",
+      "status_ids": [
+        "2085037920604590340"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/qilua02/status/2085037920604590340)",
+      "is_article_entry": false,
+      "idx": "019",
+      "kind": "post",
+      "type": "status",
+      "id": "2085037920604590340"
+    },
+    {
+      "section": "top50",
+      "rank": 21,
+      "views_raw": "~40,000",
+      "views": 40000,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "GesoraMeshack",
+      "topic": "实测 Hy3 + WorkBuddy Agent 生产力工作流",
+      "status_ids": [
+        "2084883290704466290"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/GesoraMeshack/status/2084883290704466290)",
+      "is_article_entry": false,
+      "idx": "020",
+      "kind": "post",
+      "type": "status",
+      "id": "2084883290704466290"
+    },
+    {
+      "section": "top50",
+      "rank": 22,
+      "views_raw": "~38,000",
+      "views": 38000,
+      "date": "2026-07-17",
+      "lang": "ZH",
+      "author": "dontbesilent",
+      "topic": "最低门槛：微信小程序搜索 WorkBuddy →「安装 don 哥的 dbskill」",
+      "status_ids": [
+        "2078011866778132635"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/dontbesilent/status/2078011866778132635)",
+      "is_article_entry": false,
+      "idx": "021",
+      "kind": "post",
+      "type": "status",
+      "id": "2078011866778132635"
+    },
+    {
+      "section": "top50",
+      "rank": 23,
+      "views_raw": "~38,000",
+      "views": 38000,
+      "date": "2026-08-06",
+      "lang": "ZH",
+      "author": "rionaifantasy",
+      "topic": "Skills / Connectors / Automation 四看点：把「回答后的脏活」接成任务链",
+      "status_ids": [
+        "2085347251795398841"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/rionaifantasy/status/2085347251795398841)",
+      "is_article_entry": false,
+      "idx": "022",
+      "kind": "post",
+      "type": "status",
+      "id": "2085347251795398841"
+    },
+    {
+      "section": "top50",
+      "rank": 24,
+      "views_raw": "~36,000",
+      "views": 36000,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "豆包 vs WorkBuddy vs 千问办公 订阅性价比讨论",
+      "status_ids": [
+        "2083398834319925310"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aehyok/status/2083398834319925310)",
+      "is_article_entry": false,
+      "idx": "023",
+      "kind": "post",
+      "type": "status",
+      "id": "2083398834319925310"
+    },
+    {
+      "section": "top50",
+      "rank": 25,
+      "views_raw": "~30,000",
+      "views": 30000,
+      "date": "2026-07-13",
+      "lang": "ZH",
+      "author": "nini_incrypto_",
+      "topic": "最搞钱的 8 个 Skill（小红书/金融/法务/跨境/markitdown…）",
+      "status_ids": [
+        "2076660274770440452"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/nini_incrypto_/status/2076660274770440452)",
+      "is_article_entry": false,
+      "idx": "024",
+      "kind": "post",
+      "type": "status",
+      "id": "2076660274770440452"
+    },
+    {
+      "section": "top50",
+      "rank": 26,
+      "views_raw": "~28,000",
+      "views": 28000,
+      "date": "2026-07-13",
+      "lang": "ZH",
+      "author": "aikangarooking",
+      "topic": "WorkBuddy 蓝皮书开源（0→100 入门+进阶+多场景，MIT）",
+      "status_ids": [
+        "2076494215996215722"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aikangarooking/status/2076494215996215722)",
+      "is_article_entry": false,
+      "idx": "025",
+      "kind": "post",
+      "type": "status",
+      "id": "2076494215996215722"
+    },
+    {
+      "section": "top50",
+      "rank": 27,
+      "views_raw": "~27,000",
+      "views": 27000,
+      "date": "2026-07-29",
+      "lang": "ZH",
+      "author": "joshesye",
+      "topic": "国内火的真实感：专家模式+Skill 对小白表格/日报友好；对比 Codex",
+      "status_ids": [
+        "2082456478808490327"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/joshesye/status/2082456478808490327)",
+      "is_article_entry": false,
+      "idx": "026",
+      "kind": "post",
+      "type": "status",
+      "id": "2082456478808490327"
+    },
+    {
+      "section": "top50",
+      "rank": 28,
+      "views_raw": "~26,000",
+      "views": 26000,
+      "date": "2026-07-27",
+      "lang": "ZH",
+      "author": "alin_zone",
+      "topic": "小白向 WorkBuddy 文章（aehyok 引用：Hy3 免费积分 + Obsidian 技能库）",
+      "status_ids": [
+        "2081716933259673810"
+      ],
+      "article_ids": [
+        "2081712850385645570"
+      ],
+      "links": "[帖](https://x.com/alin_zone/status/2081716933259673810) · [Article](https://x.com/i/article/2081712850385645570)",
+      "is_article_entry": true,
+      "idx": "027",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2081716933259673810"
+    },
+    {
+      "section": "top50",
+      "rank": 28,
+      "views_raw": "~26,000",
+      "views": 26000,
+      "date": "2026-07-27",
+      "lang": "ZH",
+      "author": "alin_zone",
+      "topic": "小白向 WorkBuddy 文章（aehyok 引用：Hy3 免费积分 + Obsidian 技能库）",
+      "status_ids": [
+        "2081716933259673810"
+      ],
+      "article_ids": [
+        "2081712850385645570"
+      ],
+      "links": "[帖](https://x.com/alin_zone/status/2081716933259673810) · [Article](https://x.com/i/article/2081712850385645570)",
+      "is_article_entry": true,
+      "idx": "027",
+      "kind": "article",
+      "type": "article",
+      "id": "2081712850385645570"
+    },
+    {
+      "section": "top50",
+      "rank": 29,
+      "views_raw": "~24,000",
+      "views": 24000,
+      "date": "2026-08-03",
+      "lang": "ZH",
+      "author": "noahduck283",
+      "topic": "转发全教程 + 美团 40-20 券实用提醒",
+      "status_ids": [
+        "2084248581469614300"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/noahduck283/status/2084248581469614300)",
+      "is_article_entry": false,
+      "idx": "028",
+      "kind": "post",
+      "type": "status",
+      "id": "2084248581469614300"
+    },
+    {
+      "section": "top50",
+      "rank": 30,
+      "views_raw": "~23,000",
+      "views": 23000,
+      "date": "2026-07-30",
+      "lang": "ZH",
+      "author": "vista8",
+      "topic": "「务实低配 FDE = WorkBuddy + Skill 交付」观点",
+      "status_ids": [
+        "2082858101884272752"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/vista8/status/2082858101884272752)",
+      "is_article_entry": false,
+      "idx": "029",
+      "kind": "post",
+      "type": "status",
+      "id": "2082858101884272752"
+    },
+    {
+      "section": "top50",
+      "rank": 31,
+      "views_raw": "~23,000",
+      "views": 23000,
+      "date": "2026-07-30",
+      "lang": "ZH",
+      "author": "isnail",
+      "topic": "咸鱼接 Skill 定制：趁 WorkBuddy 火把教程学了变现",
+      "status_ids": [
+        "2082725631138115866"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/isnail/status/2082725631138115866)",
+      "is_article_entry": false,
+      "idx": "030",
+      "kind": "post",
+      "type": "status",
+      "id": "2082725631138115866"
+    },
+    {
+      "section": "top50",
+      "rank": 32,
+      "views_raw": "~22,000",
+      "views": 22000,
+      "date": "2026-08-06",
+      "lang": "ZH",
+      "author": "weiyux2021",
+      "topic": "「学 WorkBuddy 像 08 年拍拍网」暴论（认知帖）",
+      "status_ids": [
+        "2085373938452902151"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/weiyux2021/status/2085373938452902151)",
+      "is_article_entry": false,
+      "idx": "031",
+      "kind": "post",
+      "type": "status",
+      "id": "2085373938452902151"
+    },
+    {
+      "section": "top50",
+      "rank": 33,
+      "views_raw": "~19,000",
+      "views": 19000,
+      "date": "2026-07-27",
+      "lang": "ZH",
+      "author": "jinglian",
+      "topic": "邮箱场景长文；aehyok：QQ/网易邮箱+发票/订单规则优先 WorkBuddy",
+      "status_ids": [
+        "2081670924764426549"
+      ],
+      "article_ids": [
+        "2081622372503670784"
+      ],
+      "links": "[帖](https://x.com/jinglian/status/2081670924764426549) · [Article](https://x.com/i/article/2081622372503670784)",
+      "is_article_entry": true,
+      "idx": "032",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2081670924764426549"
+    },
+    {
+      "section": "top50",
+      "rank": 33,
+      "views_raw": "~19,000",
+      "views": 19000,
+      "date": "2026-07-27",
+      "lang": "ZH",
+      "author": "jinglian",
+      "topic": "邮箱场景长文；aehyok：QQ/网易邮箱+发票/订单规则优先 WorkBuddy",
+      "status_ids": [
+        "2081670924764426549"
+      ],
+      "article_ids": [
+        "2081622372503670784"
+      ],
+      "links": "[帖](https://x.com/jinglian/status/2081670924764426549) · [Article](https://x.com/i/article/2081622372503670784)",
+      "is_article_entry": true,
+      "idx": "032",
+      "kind": "article",
+      "type": "article",
+      "id": "2081622372503670784"
+    },
+    {
+      "section": "top50",
+      "rank": 35,
+      "views_raw": "~16,100",
+      "views": 16100,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "author": "touxnplayai",
+      "topic": "零基础保姆级视频教程：安装→功能→手机控电脑→个人网站实战",
+      "status_ids": [
+        "2083536225051566087"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/touxnplayai/status/2083536225051566087)",
+      "is_article_entry": false,
+      "idx": "033",
+      "kind": "post",
+      "type": "status",
+      "id": "2083536225051566087"
+    },
+    {
+      "section": "top50",
+      "rank": 36,
+      "views_raw": "~14,600",
+      "views": 14600,
+      "date": "2026-08-06",
+      "lang": "ZH",
+      "author": "ai_xiaomu",
+      "topic": "UI 吐槽兼产品观：Skill 应无感知自动调用 vs 一堆 icon",
+      "status_ids": [
+        "2085294198774022252"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ai_xiaomu/status/2085294198774022252)",
+      "is_article_entry": false,
+      "idx": "034",
+      "kind": "post",
+      "type": "status",
+      "id": "2085294198774022252"
+    },
+    {
+      "section": "top50",
+      "rank": 37,
+      "views_raw": "~13,800",
+      "views": 13800,
+      "date": "2026-08-06",
+      "lang": "TR",
+      "author": "webtekno",
+      "topic": "Hy3 + WorkBuddy 全球免费窗口新闻（土语）",
+      "status_ids": [
+        "2085259697485996532"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/webtekno/status/2085259697485996532)",
+      "is_article_entry": false,
+      "idx": "035",
+      "kind": "post",
+      "type": "status",
+      "id": "2085259697485996532"
+    },
+    {
+      "section": "top50",
+      "rank": 38,
+      "views_raw": "~11,700",
+      "views": 11700,
+      "date": "2026-07-28",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "用不了 Claude/Codex 时用 WorkBuddy：Hy3 免费 + 百级 Obsidian Skill",
+      "status_ids": [
+        "2081919965352034486"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aehyok/status/2081919965352034486)",
+      "is_article_entry": false,
+      "idx": "036",
+      "kind": "post",
+      "type": "status",
+      "id": "2081919965352034486"
+    },
+    {
+      "section": "top50",
+      "rank": 39,
+      "views_raw": "~11,000",
+      "views": 11000,
+      "date": "2026-08-01",
+      "lang": "ZH",
+      "author": "majiabin",
+      "topic": "录屏操作一遍蒸馏成 Skill（新神器演示）",
+      "status_ids": [
+        "2083524495038677403"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/majiabin/status/2083524495038677403)",
+      "is_article_entry": false,
+      "idx": "037",
+      "kind": "post",
+      "type": "status",
+      "id": "2083524495038677403"
+    },
+    {
+      "section": "top50",
+      "rank": 40,
+      "views_raw": "~10,500",
+      "views": 10500,
+      "date": "2026-07-20",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "Codex 给 WorkBuddy 换皮肤视频教程",
+      "status_ids": [
+        "2079045646141845717"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aehyok/status/2079045646141845717)",
+      "is_article_entry": false,
+      "idx": "038",
+      "kind": "post",
+      "type": "status",
+      "id": "2079045646141845717"
+    },
+    {
+      "section": "top50",
+      "rank": 41,
+      "views_raw": "~9,900",
+      "views": 9900,
+      "date": "2026-07-31",
+      "lang": "ZH",
+      "author": "Sirilee2026",
+      "topic": "丢 15 段跳舞视频让 WorkBuddy 剪辑拼接的实测 Article",
+      "status_ids": [
+        "2083033279192875298"
+      ],
+      "article_ids": [
+        "2083027801922265088"
+      ],
+      "links": "[帖](https://x.com/Sirilee2026/status/2083033279192875298) · [Article](https://x.com/i/article/2083027801922265088)",
+      "is_article_entry": true,
+      "idx": "039",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2083033279192875298"
+    },
+    {
+      "section": "top50",
+      "rank": 41,
+      "views_raw": "~9,900",
+      "views": 9900,
+      "date": "2026-07-31",
+      "lang": "ZH",
+      "author": "Sirilee2026",
+      "topic": "丢 15 段跳舞视频让 WorkBuddy 剪辑拼接的实测 Article",
+      "status_ids": [
+        "2083033279192875298"
+      ],
+      "article_ids": [
+        "2083027801922265088"
+      ],
+      "links": "[帖](https://x.com/Sirilee2026/status/2083033279192875298) · [Article](https://x.com/i/article/2083027801922265088)",
+      "is_article_entry": true,
+      "idx": "039",
+      "kind": "article",
+      "type": "article",
+      "id": "2083027801922265088"
+    },
+    {
+      "section": "top50",
+      "rank": 42,
+      "views_raw": "~9,100",
+      "views": 9100,
+      "date": "2026-08-06",
+      "lang": "ZH",
+      "author": "Yunn260414",
+      "topic": "七猫扫榜 → 拆标杆 → 自动写小说完整链路演示",
+      "status_ids": [
+        "2085374669247705324"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Yunn260414/status/2085374669247705324)",
+      "is_article_entry": false,
+      "idx": "040",
+      "kind": "post",
+      "type": "status",
+      "id": "2085374669247705324"
+    },
+    {
+      "section": "top50",
+      "rank": 43,
+      "views_raw": "~8,800",
+      "views": 8800,
+      "date": "2026-07-31",
+      "lang": "ZH",
+      "author": "Jack_FluxAI",
+      "topic": "胡楚靓教程传播学拆解：把 AI 讲浅 vs 技术博主讲深",
+      "status_ids": [
+        "2082997493672132790"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Jack_FluxAI/status/2082997493672132790)",
+      "is_article_entry": false,
+      "idx": "041",
+      "kind": "post",
+      "type": "status",
+      "id": "2082997493672132790"
+    },
+    {
+      "section": "top50",
+      "rank": 44,
+      "views_raw": "~7,700",
+      "views": 7700,
+      "date": "2026-07-21",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "自动化定时任务：每天 9 点同步 AI 资讯到微信小程序（全程演示）",
+      "status_ids": [
+        "2079387104010989625"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aehyok/status/2079387104010989625)",
+      "is_article_entry": false,
+      "idx": "042",
+      "kind": "post",
+      "type": "status",
+      "id": "2079387104010989625"
+    },
+    {
+      "section": "top50",
+      "rank": 45,
+      "views_raw": "~6,700",
+      "views": 6700,
+      "date": "2026-08-05",
+      "lang": "EN",
+      "author": "WorkBuddy_AI",
+      "topic": "官方：Hy3 8 月生产力升级（Global 免费窗）",
+      "status_ids": [
+        "2084906734385332453"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/WorkBuddy_AI/status/2084906734385332453)",
+      "is_article_entry": false,
+      "idx": "043",
+      "kind": "post",
+      "type": "status",
+      "id": "2084906734385332453"
+    },
+    {
+      "section": "top50",
+      "rank": 46,
+      "views_raw": "~5,700",
+      "views": 5700,
+      "date": "2026-07-28",
+      "lang": "EN",
+      "author": "kane_120",
+      "topic": "FreeModel 文档配置 WorkBuddy 获取额度（需自查风险）",
+      "status_ids": [
+        "2082026543040368719"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/kane_120/status/2082026543040368719)",
+      "is_article_entry": false,
+      "idx": "044",
+      "kind": "post",
+      "type": "status",
+      "id": "2082026543040368719"
+    },
+    {
+      "section": "top50",
+      "rank": 47,
+      "views_raw": "~4,500",
+      "views": 4500,
+      "date": "2026-08-06",
+      "lang": "ZH",
+      "author": "realWeZZard",
+      "topic": "数据飞轮讨论：国内飞轮落到 WorkBuddy/HY",
+      "status_ids": [
+        "2085252900360704319"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/realWeZZard/status/2085252900360704319)",
+      "is_article_entry": false,
+      "idx": "045",
+      "kind": "post",
+      "type": "status",
+      "id": "2085252900360704319"
+    },
+    {
+      "section": "top50",
+      "rank": 48,
+      "views_raw": "~4,300",
+      "views": 4300,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "author": "aehyok",
+      "topic": "飞书合入豆包语境下再谈 WorkBuddy 竞争位",
+      "status_ids": [
+        "2084794997455671557"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/aehyok/status/2084794997455671557)",
+      "is_article_entry": false,
+      "idx": "046",
+      "kind": "post",
+      "type": "status",
+      "id": "2084794997455671557"
+    },
+    {
+      "section": "top50",
+      "rank": 49,
+      "views_raw": "~3,100",
+      "views": 3100,
+      "date": "2026-07-29",
+      "lang": "EN",
+      "author": "tenctcloud_Intl",
+      "topic": "零代码给 WorkBuddy 换皮肤实验 Article",
+      "status_ids": [
+        "2082298476390719991"
+      ],
+      "article_ids": [
+        "2082076291969556481"
+      ],
+      "links": "[帖](https://x.com/tenctcloud_Intl/status/2082298476390719991) · [Article](https://x.com/i/article/2082076291969556481)",
+      "is_article_entry": true,
+      "idx": "047",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2082298476390719991"
+    },
+    {
+      "section": "top50",
+      "rank": 49,
+      "views_raw": "~3,100",
+      "views": 3100,
+      "date": "2026-07-29",
+      "lang": "EN",
+      "author": "tenctcloud_Intl",
+      "topic": "零代码给 WorkBuddy 换皮肤实验 Article",
+      "status_ids": [
+        "2082298476390719991"
+      ],
+      "article_ids": [
+        "2082076291969556481"
+      ],
+      "links": "[帖](https://x.com/tenctcloud_Intl/status/2082298476390719991) · [Article](https://x.com/i/article/2082076291969556481)",
+      "is_article_entry": true,
+      "idx": "047",
+      "kind": "article",
+      "type": "article",
+      "id": "2082076291969556481"
+    },
+    {
+      "section": "top50",
+      "rank": 50,
+      "views_raw": "~3,000",
+      "views": 3000,
+      "date": "2026-08-05",
+      "lang": "ZH",
+      "author": "libukai",
+      "topic": "「个人工作台」专家配置拆解：单 SKILL.md 出高质量 HTML 产物",
+      "status_ids": [
+        "2085017395765350775"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/libukai/status/2085017395765350775)",
+      "is_article_entry": false,
+      "idx": "048",
+      "kind": "post",
+      "type": "status",
+      "id": "2085017395765350775"
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~2.9k",
+      "views": 2900,
+      "date": "07-26",
+      "lang": "ZH",
+      "author": "ZhaoHg59511",
+      "topic": "3 个月使用后的「AI 替你干活」最速上手指南 Article",
+      "status_ids": [
+        "2081357464050761835"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ZhaoHg59511/status/2081357464050761835)",
+      "is_article_entry": false,
+      "idx": "049",
+      "kind": "post",
+      "type": "status",
+      "id": "2081357464050761835"
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~2.9k",
+      "views": 2900,
+      "date": "07-26",
+      "lang": "ZH",
+      "author": "ZhaoHg59511",
+      "topic": "3 个月后的 12 个判断 Article",
+      "status_ids": [
+        "2081388606825095679"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/ZhaoHg59511/status/2081388606825095679)",
+      "is_article_entry": false,
+      "idx": "050",
+      "kind": "post",
+      "type": "status",
+      "id": "2081388606825095679"
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~1.4k",
+      "views": 1400,
+      "date": "08-07",
+      "lang": "ZH",
+      "author": "PMbackttfuture",
+      "topic": "Goal Skill：模糊需求 → 可验收长程任务（Codex/WorkBuddy 双适配）",
+      "status_ids": [
+        "2085524457750462551"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/PMbackttfuture/status/2085524457750462551)",
+      "is_article_entry": false,
+      "idx": "051",
+      "kind": "post",
+      "type": "status",
+      "id": "2085524457750462551"
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~1.2k",
+      "views": 1200,
+      "date": "08-06",
+      "lang": "ZH",
+      "author": "Sukiea1008",
+      "topic": "把 WorkBuddy 美团能力「借」给 Codex/Hermes 自动领券（提示词+边界）",
+      "status_ids": [
+        "2085259421719097640"
+      ],
+      "article_ids": [
+        "2085220350422614017"
+      ],
+      "links": "[帖](https://x.com/Sukiea1008/status/2085259421719097640) · [Article](https://x.com/i/article/2085220350422614017)",
+      "is_article_entry": true,
+      "idx": "052",
+      "kind": "promo-post",
+      "type": "status",
+      "id": "2085259421719097640"
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~1.2k",
+      "views": 1200,
+      "date": "08-06",
+      "lang": "ZH",
+      "author": "Sukiea1008",
+      "topic": "把 WorkBuddy 美团能力「借」给 Codex/Hermes 自动领券（提示词+边界）",
+      "status_ids": [
+        "2085259421719097640"
+      ],
+      "article_ids": [
+        "2085220350422614017"
+      ],
+      "links": "[帖](https://x.com/Sukiea1008/status/2085259421719097640) · [Article](https://x.com/i/article/2085220350422614017)",
+      "is_article_entry": true,
+      "idx": "052",
+      "kind": "article",
+      "type": "article",
+      "id": "2085220350422614017"
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~1.1k",
+      "views": 1100,
+      "date": "07-25",
+      "lang": "ZH",
+      "author": "Heidifu666",
+      "topic": "ima 知识库 + WorkBuddy 文件整理",
+      "status_ids": [
+        "2081012109987463536"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/Heidifu666/status/2081012109987463536)",
+      "is_article_entry": false,
+      "idx": "053",
+      "kind": "post",
+      "type": "status",
+      "id": "2081012109987463536"
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~1.0k",
+      "views": 1000,
+      "date": "07-31",
+      "lang": "ZH",
+      "author": "tenctcloud_Intl",
+      "topic": "WorkBuddy + Hy 3D：4 天做 3D roguelike demo",
+      "status_ids": [
+        "2083047694147453414"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/tenctcloud_Intl/status/2083047694147453414)",
+      "is_article_entry": false,
+      "idx": "054",
+      "kind": "post",
+      "type": "status",
+      "id": "2083047694147453414"
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "~0.9k",
+      "views": 900,
+      "date": "08-04",
+      "lang": "ZH",
+      "author": "x_sanjin",
+      "topic": "速查：Plan/Default/Ask、六字段提示词、记忆三级、定时、额度",
+      "status_ids": [
+        "2084624392341029027"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/x_sanjin/status/2084624392341029027)",
+      "is_article_entry": false,
+      "idx": "055",
+      "kind": "post",
+      "type": "status",
+      "id": "2084624392341029027"
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "—",
+      "views": 0,
+      "date": "08-06",
+      "lang": "ZH",
+      "author": "dankzheng",
+      "topic": "小技巧：先不要装一堆 Skill，只用系统默认跑通",
+      "status_ids": [
+        "2085490658631209404"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/dankzheng/status/2085490658631209404)",
+      "is_article_entry": false,
+      "idx": "056",
+      "kind": "post",
+      "type": "status",
+      "id": "2085490658631209404"
+    },
+    {
+      "section": "ext",
+      "rank": null,
+      "views_raw": "—",
+      "views": 0,
+      "date": "08-07",
+      "lang": "ZH",
+      "author": "stellaeai099",
+      "topic": "用 WorkBuddy 爬微信公众号信息写 Skill，再让 Claude/Codex 拉起",
+      "status_ids": [
+        "2085536607160160279"
+      ],
+      "article_ids": [],
+      "links": "[帖](https://x.com/stellaeai099/status/2085536607160160279)",
+      "is_article_entry": false,
+      "idx": "057",
+      "kind": "post",
+      "type": "status",
+      "id": "2085536607160160279"
+    }
+  ]
+}

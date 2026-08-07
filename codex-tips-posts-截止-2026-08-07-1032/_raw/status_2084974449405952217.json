@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/ForwardEditor/status/2084974449405952217",
+    "id": "2084974449405952217",
+    "text": "codex tip: the search function is about as useful as Windows 11's search. NEVER search.\n\nIf you're looking for a thread, just start up a new chat and ask codex to find it for you.",
+    "raw_text": {
+      "text": "codex tip: the search function is about as useful as Windows 11's search. NEVER search.\n\nIf you're looking for a thread, just start up a new chat and ask codex to find it for you.",
+      "display_text_range": [
+        0,
+        179
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "ForwardEditor",
+      "url": "https://x.com/ForwardEditor",
+      "id": "2008264275178250240",
+      "followers": 8010,
+      "following": 1163,
+      "likes": 6919,
+      "media_count": 276,
+      "name": "Forward Future Brian",
+      "description": "Obsessed with making perfect videos.\n\nhttp://modelrumor.com\nEditor for @matthewberman EX: Red Bull",
+      "raw_description": {
+        "text": "Obsessed with making perfect videos.\n\nhttps://t.co/AGUXhcHnOw\nEditor for @matthewberman EX: Red Bull",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              38,
+              61
+            ],
+            "original": "https://t.co/AGUXhcHnOw",
+            "replacement": "http://modelrumor.com",
+            "display": "modelrumor.com"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2008264275178250240/1772777572",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2029801903832363008/q7tubSuK_200x200.jpg",
+      "joined": "Mon Jan 05 19:48:24 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "http://www.futurebrian.com",
+        "display_url": "futurebrian.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 27,
+    "retweets": 3,
+    "likes": 91,
+    "bookmarks": 3,
+    "quotes": 2,
+    "created_at": "Wed Aug 05 12:07:00 +0000 2026",
+    "created_timestamp": 1785931620,
+    "views": 6640,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

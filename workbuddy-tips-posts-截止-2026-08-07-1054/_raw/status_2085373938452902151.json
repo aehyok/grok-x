@@ -1,0 +1,62 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/weiyux2021/status/2085373938452902151",
+    "id": "2085373938452902151",
+    "text": "说一个暴论：\n\n现在学WorkBuddy，\n\n就像08年做拍拍网！",
+    "raw_text": {
+      "text": "说一个暴论：\n\n现在学WorkBuddy，\n\n就像08年做拍拍网！",
+      "display_text_range": [
+        0,
+        33
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "weiyux2021",
+      "url": "https://x.com/weiyux2021",
+      "id": "1993659774370758656",
+      "followers": 70464,
+      "following": 672,
+      "likes": 151,
+      "media_count": 2673,
+      "name": "动物园园长",
+      "description": "是自由职业者，也是超级奶爸，35岁实现人生当中第一次自驾游，分享个人成长经历及搞钱经验",
+      "raw_description": {
+        "text": "是自由职业者，也是超级奶爸，35岁实现人生当中第一次自驾游，分享个人成长经历及搞钱经验",
+        "facets": []
+      },
+      "location": "付费咨询微信：weiyux2021",
+      "banner_url": "",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1993662305121574912/H9i36Qhy_200x200.jpg",
+      "joined": "Wed Nov 26 12:35:38 +0000 2025",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 35,
+    "retweets": 1,
+    "likes": 56,
+    "bookmarks": 28,
+    "quotes": 0,
+    "created_at": "Thu Aug 06 14:34:25 +0000 2026",
+    "created_timestamp": 1786026865,
+    "views": 42354,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter for iPhone",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

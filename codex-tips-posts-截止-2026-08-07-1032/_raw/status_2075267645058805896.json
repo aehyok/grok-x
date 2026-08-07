@@ -1,0 +1,1241 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/mattshumer_/status/2075267645058805896",
+    "id": "2075267645058805896",
+    "text": "",
+    "raw_text": {
+      "text": "https://t.co/Gk93w2kzrr",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "mattshumer_",
+      "url": "https://x.com/mattshumer_",
+      "id": "1194889317388374016",
+      "followers": 380258,
+      "following": 1629,
+      "likes": 10535,
+      "media_count": 925,
+      "name": "Matt Shumer",
+      "description": "AI whisperer. Investor in @GroqInc @Etched @Rork @DaytonaIO @OpenRouter + more. Prev: CEO @HyperWriteAI | AI @AlphaSchool\n\nPress: mattshumermedia@gmail.com",
+      "raw_description": {
+        "text": "AI whisperer. Investor in @GroqInc @Etched @Rork @DaytonaIO @OpenRouter + more. Prev: CEO @HyperWriteAI | AI @AlphaSchool\n\nPress: mattshumermedia@gmail.com",
+        "facets": []
+      },
+      "location": "Learn:",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1194889317388374016/1605142094",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1490950574090571778/BtgOaqUP_200x200.jpg",
+      "joined": "Thu Nov 14 08:06:43 +0000 2019",
+      "protected": false,
+      "website": {
+        "url": "https://somethingbig.ai/gauntlet-loop",
+        "display_url": "somethingbig.ai/gauntlet-loop"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 14,
+    "retweets": 16,
+    "likes": 226,
+    "bookmarks": 253,
+    "quotes": 7,
+    "created_at": "Thu Jul 09 17:15:37 +0000 2026",
+    "created_timestamp": 1783617337,
+    "possibly_sensitive": false,
+    "views": 161219,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-07-09T17:15:37.000Z",
+      "modified_at": "2026-07-09T17:15:37.000Z",
+      "id": "2074916560041349120",
+      "title": "My GPT-5.6 Review: Second Place Has Never Been This Good",
+      "preview_text": "TL;DR\n- I have been testing GPT-5.6 since May 27. For the first two weeks, it was the most impressive model I had ever used. Goal mode plus this model is pure sorcery. It built me a voxel-based",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHMuaEH8WYAAKAAIQlRmA3NfQAAAA",
+        "media_id": "2074921448976572416",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 71.4,
+                "rgb": {
+                  "blue": 17,
+                  "green": 4,
+                  "red": 1
+                }
+              },
+              {
+                "percentage": 13.07,
+                "rgb": {
+                  "blue": 75,
+                  "green": 31,
+                  "red": 10
+                }
+              },
+              {
+                "percentage": 4.78,
+                "rgb": {
+                  "blue": 192,
+                  "green": 131,
+                  "red": 91
+                }
+              },
+              {
+                "percentage": 4.5,
+                "rgb": {
+                  "blue": 234,
+                  "green": 210,
+                  "red": 192
+                }
+              },
+              {
+                "percentage": 1.53,
+                "rgb": {
+                  "blue": 141,
+                  "green": 41,
+                  "red": 20
+                }
+              }
+            ]
+          },
+          "original_img_height": 792,
+          "original_img_url": "https://pbs.twimg.com/media/HMuaEH8WYAAczo3.jpg",
+          "original_img_width": 1981
+        },
+        "media_key": "3_2074921448976572416"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5br2q",
+            "text": "TL;DR",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3geqv",
+            "text": "- I have been testing GPT-5.6 since May 27. For the first two weeks, it was the most impressive model I had ever used. Goal mode plus this model is pure sorcery. It built me a voxel-based Manhattan simulation with a working subway, and a Teardown-style destruction game, largely on its own, over runs that lasted days.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "p1dr",
+            "text": "- Then Claude Fable came out, and I stopped using GPT-5.6 almost overnight, because Fable is that much better for my tasks.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8998o",
+            "text": "- On benchmarks, the two look close. In the real world, they are not. Fable has big model smell. GPT-5.6 feels like a smaller model that has been RL'd incredibly well, and that difference shows up the moment you push past normal coding work. It shows up in trust, too: with the right guardrails and setup, I do not need to check Fable's code. I still need to check 5.6's.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bbgfv",
+            "text": "- With GPT-5.6, to do ambitious work, you still need to steer it, whereas with Fable, you just describe the final destination once, and it usually gets there autonomously.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b32n9",
+            "text": "- GPT-5.6 still beats Fable in a few places that matter: limits, the interface, and willingness to do security work. It is now my security auditor and my second set of eyes, not my main model.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "866mn",
+            "text": "- Other than Fable, GPT-5.6 is the best model you can use. And running it in goal mode is the best agentic setup OpenAI has ever shipped.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1fr85",
+            "text": "The Good",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4qlbc",
+            "text": "- Goal mode. Type /goal and the model does not stop until the goal is actually done. This is the closest OpenAI has come to how I actually want to work.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7omf7",
+            "text": "- It's obsessive, and can run for days to complete a task. My longest goal runs went most of a week on a single objective, largely unattended.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5veop",
+            "text": "- Far less handholding than any previous GPT model. It makes reasonable calls under ambiguity and keeps moving. Going back to GPT-5.5 after trying 5.6 felt like a huge regression in this regard.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "906pb",
+            "text": "- Security work is genuinely strong, and it is far more willing to do it than Fable is.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5m81p",
+            "text": "- Design is far better than previous GPT models.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7d3rt",
+            "text": "- The limits are much more generous than Anthropic's, as always.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "873fp",
+            "text": "- The Codex app is still the best interface for running agents, especially from your phone.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2uqj3",
+            "text": "- If you use 5.6 the way you used previous models for coding, you'll like this model. Fable is more expensive and slower for the same job. But if you're prompting more ambitiously, trying to go from a -> z all at once, or working on more out-of-distribution tasks, Fable is dramatically better.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c5l76",
+            "text": "The Not-So-Good",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6vh47",
+            "text": "- It is not Fable. That is most of this review, honestly.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7frja",
+            "text": "- Design still does not hold a candle to Fable. It does not even hold a candle to Opus 4.8.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b77gj",
+            "text": "- Ambitious creative work needs far more handholding than Fable, and even with lots of handholding, can't reach what Fable can do in one shot. Less than older models, but the gap is real.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4rgq2",
+            "text": "- It can be trigger happy. I once asked it to write a spec, and it went and found some vaguely relevant files on my machine and started editing them, which was annoying.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "r456",
+            "text": "- If your work is simple engineering tasks, you may struggle to feel the upgrade at times. The last generation was already good enough for most of it. As you push the model on more difficult tasks, or ask it to do more at once, you'll feel more of the upgrade.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2lakp",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b9kqn",
+            "text": "This is the strangest review I have written, because my opinion of this model completely changed halfway through testing it, and the model had nothing to do with it.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 57,
+                "offset": 193
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4vdr7",
+            "text": "I got access to GPT-5.6 on May 27. For about two weeks, I was utterly blown away. I ran it morning, noon, and night. At one point I had so many goal-mode runs going in parallel that I had used 3x the monthly tokens of OpenAI's highest user in 17 days, on one machine. I was building things I did not think models could build, and I was barely typing.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2hb90",
+            "text": "Then Fable came out, I got access, and I stopped using GPT-5.6 almost immediately.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "88f7a",
+            "text": "You should know where I am coming from here. If you have read my previous reviews, you know I am usually a GPT person. I do not do much frontend or UX work. I mostly do backend, systems, and agentic work, and GPT models have historically just been better for me there. They tend to nail the change I asked for and nothing else. So when I tell you a Claude model made me abandon a GPT model I loved, understand that this is against type.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ffpa",
+            "text": "Let me explain both halves: why GPT-5.6 blew me away, and why I barely use it now.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3nkjm",
+            "text": "Goal Mode Is Pure Sorcery",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "270vq",
+            "text": "Goal mode is simple to describe. You type /goal in the Codex CLI or app, you give it an objective with clear completion criteria, and the model does not stop until the goal is done. When a run finishes, goal mode checks whether the goal is actually met. If it is not, it starts a new run and keeps going. On repeat. For days if it has to.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 21,
+                "offset": 15
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "knpe",
+            "text": "If you read my Fable prompting guide, everything in it applies directly here, because I developed a lot of those techniques on GPT-5.6 first. Make \"done\" a test, not an adjective. Never let it finish. Make builders and judges separate agents. Have it keep a progress page you can check from your phone. GPT-5.6 responds to all of it.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 33,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "cqanj",
+            "text": "Two tricks specific to goal mode:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cbjev",
+            "text": "1. Goals are capped at 4,000 characters. Do not fight the limit and try to cram stuff in... instead write the real goal as a markdown file and make the goal itself one line: \"Complete the objective and completion criteria in goal.md. Treat this file as the durable source of truth throughout the run.\" As a bonus, you can edit the file while the run is going.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3bkbn",
+            "text": "2. Spend a long time on that goal file. Have a model help you write it. The goal file is doing the job a manager would normally do, and every ambiguity you leave in it is a decision the model will make without you.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eh90q",
+            "text": "It Built Manhattan",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bimg2",
+            "text": "The best way to show you what this looks like is what it built.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "68vi3",
+            "text": "I gave it a goal file that said, in essence: build an explorable 3D voxel recreation of Manhattan that looks, sounds, and operates like the real city, including the real New York City subway system. The standard I wrote into the goal was simple: someone who knows New York should be able to tell where they are.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a0c1m",
+            "text": "Days later, I had this.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6t8ps",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "av6pk",
+            "text": "That is the actual island. The skyline matches. The building shapes match. The geography and topography match. It pulled real city data to do it, so the Empire State Building is at 40.7485° N, 73.9868° W, where it belongs.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6ku8a",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3qeba",
+            "text": "And the subway works. Not \"there is a subway texture.\" You walk down a real street, find a station entrance at its real location, go underground, board a train on the correct line, ride it through the tunnels, transfer where you would actually transfer, and come out of a real exit somewhere else in the city. It even found a way to match the actual subway schedules of the real Manhattan, so the digital trains were in sync with the real thing.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1m6if",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "altt3",
+            "text": "The destruction game I had it tackle was the same story. The goal: a first-person voxel destruction game that stands up next to Teardown, with real voxels and real structural physics. Blow out a building's base and everything above it collapses under its own weight. That run went five days and more than seventy iterations.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "apdbb",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 14,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "aa84u",
+            "text": "Watch gameplay",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dg0il",
+            "text": "Two things from those runs stuck with me. First, it graded itself honestly. Early in the Manhattan run, its own progress journal refused to count the draft as progress: \"visibly not Manhattan and is not accepted as a city milestone.\" It would not declare victory for days, because the goal file would not let it. Second, it took the judging seriously in ways I never asked for. It spun up hundreds of adversarial reviewer subagents, and found tons of little issues to iron out.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cac3t",
+            "text": "One run even filled my Mac's disk mid-goal, cleaned out the caches it could verify were safe to delete, then installed a cloud sandbox CLI and moved itself there to keep working. Impressive and slightly alarming in the same motion, which is a fair summary of this model.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2rd6p",
+            "text": "So yes: for two weeks I thought this was the future.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bjco4",
+            "text": "Then Fable Came Out",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e62em",
+            "text": "Then I got Fable, and the comparison was not close.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 26,
+                "offset": 163
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "d28b",
+            "text": "I went back and reran some of my GPT-5.6 projects to be fair about it. The clearest test was the programmatic 3D and video work, the same kind of thing behind the worlds I have been posting. GPT-5.6's output was better than any previous GPT model. It was also nowhere near Fable. The results just looked dramatically worse, and no amount of iteration closed the gap.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 108,
+                "style": "Bold"
+              }
+            ],
+            "key": "7j62p",
+            "text": "This has become my new benchmark for models, by the way: have it build a physics-accurate voxel engine from scratch and see how far it can take it. It is a brutal test because there is no library to lean on and no way to fake it. GPT-5.6's engines landed far, far below Fable's bar.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1a3dn",
+            "text": "The deeper difference is handholding. With Fable, you say what you want and it gets done. With GPT-5.6, a lot gets done, but the ambitious stuff needs steering. You are correcting course, re-explaining the bar, pushing it to be less conservative. That is still much less babysitting than last generation's models needed. It is much more than Fable needs, which is approximately none.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "edfv8",
+            "text": "Trust is the other half of this. With the right guardrails and setup, I do not check Fable's code anymore. I know I can trust it. I still check 5.6's, quite often.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "p45k",
+            "text": "Some of the things I built on GPT-5.6 I never even bothered to retest, because after a few weeks with Fable they felt below the waterline.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2t1ed",
+            "text": "Big Model Smell",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ci05",
+            "text": "Here is my honest read on why.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "33uq1",
+            "text": "Fable has big model smell. You can just tell you are talking to something enormous. It generalizes. You push it somewhere weird and it is still smart there.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5pboc",
+            "text": "GPT-5.6 feels like a smaller model. Still big, but smaller, with an incredible amount of reinforcement learning on top. And RL gets you exactly what you would expect: the model is extremely good at the shapes of work it was trained on, and benchmarks are the most trained-on shape of all. That is why the scores look close. Then you take one step off the paved road, into a from-scratch voxel engine or a 3D render, and the difference is immediate.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4nc2o",
+            "text": "That makes GPT-5.6 a more targeted tool than the benchmarks suggest.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8jje",
+            "text": "I genuinely hope OpenAI trains a truly big model, because their RL on top of something Fable-sized would be absolutely incredible. That model just does not exist yet (as far as we know... it likely will soon).",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vcot",
+            "text": "Where GPT-5.6 Still Wins",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dls60",
+            "text": "It is not all one-directional, and the exceptions are important to note.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dqk8p",
+            "text": "Security. GPT-5.6 is more willing to do cybersecurity work than Fable, which can refuse tasks that pattern-match to dangerous. And it is genuinely good at it. My actual workflow now: Fable writes the code, and GPT-5.6 audits it. Since codex exec runs headless, you can wire this into a hook that audits every commit, or fires after every Fable run finishes.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "a7uc2",
+            "text": "Limits. OpenAI's limits are much more generous than Anthropic's. This has always been true and it is still true. If you are rationing Fable tokens, GPT-5.6 is a great second option (or you can use it to execute while Fable plans).",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 12,
+                "offset": 302
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fu4ku",
+            "text": "The interface. The Codex app is still the best way to run and steer agents, especially from a phone. Pair it once and you can dispatch work, review diffs, and keep goal runs going from anywhere. I use it less than I used to, because I found my own way to do this with Fable: I have it work in a doc on workbench.md, and I can read its updates and steer it right from a chat component in the doc on my phone. But as a product, OpenAI's team remains ahead here, and it is not close.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cqvhl",
+            "text": "When to Use What",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "68aqg",
+            "text": "- If you can use Fable: Fable for pretty much everything. GPT-5.6 for security audits, for a second set of eyes on important changes, and as an implementer executing Fable's plans when you want to save cost.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3la4r",
+            "text": "- If you cannot: GPT-5.6, without hesitation. It is the best model anyone else makes, running it in goal mode is the best agentic setup you can have today, and everything in this review that sounds lukewarm is only lukewarm relative to Fable.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1bk7v",
+            "text": "Final Thoughts",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "41pa6",
+            "text": "If Fable did not exist, this would be the most glowing review I have ever written. A model that can run for days against a goal file, judge its own work adversarially, and ship a working voxel-based Manhattan is not a small thing. Six months ago it would have been science fiction.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9gkhs",
+            "text": "But Fable exists. And the honest summary of GPT-5.6 is that second place has never been this good, and it has never mattered this little. The frontier is not a leaderboard where silver is worth something. If one model can do what the other cannot, you use that model, and the gap right now is wide enough that I reorganized my whole workflow around it within days.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4gtbh",
+            "text": "GPT-5.6 is an amazing model. I hope OpenAI's next one makes me switch back. They have done it to me before.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 14,
+                "offset": 26
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5n7mq",
+            "text": "If you found this useful, follow me on X for more of my thoughts on AI models and how to get the most out of them.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "u2qp",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 30,
+                  "text": "https://shumer.dev/gpt56review.html",
+                  "toIndex": 65
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 35,
+                "offset": 30
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7a2g8",
+            "text": "Read my original review here: https://shumer.dev/gpt56review.html",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "entityKey": "a4cdae2e-1460-4e5e-bc85-39274661e91c",
+                "url": "https://shumer.dev/gpt56review.html"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "entityKey": "785a06d4-f353-44ad-bed3-0a45aa4345b1",
+                "url": "https://x.com/mattshumer_/status/2064449498596757643"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "caption": "Accurate Empire State Building",
+                "entityKey": "7c202e9d-e0b4-4824-8224-dc24c93a1c4b",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074918992443998208"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "entityKey": "baabeb76-266a-4ef1-a376-1cbef4049463"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "entityKey": "17e69f0f-577d-4136-b49d-dea0947bbe75",
+                "url": "https://workbench.md"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "caption": "Boarding at Grand Central-42 St",
+                "entityKey": "8617566b-9db2-4c65-92dd-6d79255fc9dd",
+                "mediaItems": [
+                  {
+                    "localMediaId": "5",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074919169934442496"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "entityKey": "2ee54875-5a6e-4c22-8ed2-a2c94383294a",
+                "url": "https://x.com/mattshumer_"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "caption": "Redline Demolition, the voxel destruction game GPT-5.6 built",
+                "entityKey": "ef27847d-6aa5-41b4-bdce-576b49beba22",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074919309311197184"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "6792944a-7e87-4f6d-9b2e-9d302146438e",
+                "url": "https://x.com/mattshumer_/status/2061900612309070040"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "31b4a0c9-61c6-4027-bd98-2fdb9bce588c"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "a7c2706f-10d4-471c-a102-a9c0ecfdf4b6",
+                "url": "https://x.com/mattshumer_/status/2073150750411088190"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "entityKey": "731aab33-b490-4c6a-8ca1-4672045f208e",
+                "url": "https://shumer.dev/images/gpt56-destruction-gameplay.mp4"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "caption": "GPT-5.6-built aerial view of Manhattan",
+                "entityKey": "920feb41-e653-4d78-b8a0-301050f7e893",
+                "mediaItems": [
+                  {
+                    "localMediaId": "1",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2074918856879898624"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMuXtPoWAAAKAAIQlRmA3NfQAAAA",
+          "media_id": "2074918856879898624",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.21,
+                  "rgb": {
+                    "blue": 33,
+                    "green": 24,
+                    "red": 4
+                  }
+                },
+                {
+                  "percentage": 1.64,
+                  "rgb": {
+                    "blue": 92,
+                    "green": 98,
+                    "red": 95
+                  }
+                },
+                {
+                  "percentage": 0.15,
+                  "rgb": {
+                    "blue": 45,
+                    "green": 63,
+                    "red": 62
+                  }
+                }
+              ]
+            },
+            "original_img_height": 633,
+            "original_img_url": "https://pbs.twimg.com/media/HMuXtPoWAAAXhcR.jpg",
+            "original_img_width": 1280
+          },
+          "media_key": "3_2074918856879898624"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMuX1IpWAAAKAAIQlRmA3NfQAAAA",
+          "media_id": "2074918992443998208",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 57.06,
+                  "rgb": {
+                    "blue": 27,
+                    "green": 21,
+                    "red": 10
+                  }
+                },
+                {
+                  "percentage": 33.42,
+                  "rgb": {
+                    "blue": 81,
+                    "green": 102,
+                    "red": 122
+                  }
+                },
+                {
+                  "percentage": 10.37,
+                  "rgb": {
+                    "blue": 113,
+                    "green": 115,
+                    "red": 100
+                  }
+                },
+                {
+                  "percentage": 0.18,
+                  "rgb": {
+                    "blue": 37,
+                    "green": 48,
+                    "red": 62
+                  }
+                },
+                {
+                  "percentage": 0.16,
+                  "rgb": {
+                    "blue": 144,
+                    "green": 154,
+                    "red": 148
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1376,
+            "original_img_url": "https://pbs.twimg.com/media/HMuX1IpWAAAWVLN.jpg",
+            "original_img_width": 3024
+          },
+          "media_key": "3_2074918992443998208"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMuX/d2XQAAKAAIQlRmA3NfQAAAA",
+          "media_id": "2074919169934442496",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 84.88,
+                  "rgb": {
+                    "blue": 9,
+                    "green": 11,
+                    "red": 9
+                  }
+                },
+                {
+                  "percentage": 9.56,
+                  "rgb": {
+                    "blue": 95,
+                    "green": 113,
+                    "red": 124
+                  }
+                },
+                {
+                  "percentage": 2.57,
+                  "rgb": {
+                    "blue": 76,
+                    "green": 170,
+                    "red": 209
+                  }
+                },
+                {
+                  "percentage": 1.7,
+                  "rgb": {
+                    "blue": 217,
+                    "green": 222,
+                    "red": 213
+                  }
+                },
+                {
+                  "percentage": 0.38,
+                  "rgb": {
+                    "blue": 52,
+                    "green": 75,
+                    "red": 80
+                  }
+                }
+              ]
+            },
+            "original_img_height": 720,
+            "original_img_url": "https://pbs.twimg.com/media/HMuX_d2XQAAWKAw.jpg",
+            "original_img_width": 1280
+          },
+          "media_key": "3_2074919169934442496"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHMuYHlEXwAAKAAIQlRmA3NfQAAAA",
+          "media_id": "2074919309311197184",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 74.54,
+                  "rgb": {
+                    "blue": 188,
+                    "green": 191,
+                    "red": 183
+                  }
+                },
+                {
+                  "percentage": 18.22,
+                  "rgb": {
+                    "blue": 94,
+                    "green": 98,
+                    "red": 92
+                  }
+                },
+                {
+                  "percentage": 4.45,
+                  "rgb": {
+                    "blue": 101,
+                    "green": 165,
+                    "red": 125
+                  }
+                },
+                {
+                  "percentage": 1.64,
+                  "rgb": {
+                    "blue": 110,
+                    "green": 118,
+                    "red": 143
+                  }
+                },
+                {
+                  "percentage": 0.39,
+                  "rgb": {
+                    "blue": 136,
+                    "green": 147,
+                    "red": 176
+                  }
+                }
+              ]
+            },
+            "original_img_height": 720,
+            "original_img_url": "https://pbs.twimg.com/media/HMuYHlEXwAA9dZG.jpg",
+            "original_img_width": 1280
+          },
+          "media_key": "3_2074919309311197184"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

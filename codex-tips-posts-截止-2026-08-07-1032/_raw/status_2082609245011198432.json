@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/reach_vb/status/2082609245011198432",
+    "id": "2082609245011198432",
+    "text": "Codex tip: use codex exec to turn any prompt into a repeatable, scriptable workflow.  \n\nI typically use it for clean, isolated model runs: ephemeral sessions, a pinned model and reasoning effort, no network or MCP access, and a separate directory for every run.  \n\nIt's super useful for evals, batch jobs, CI, scheduled workflows, and comparing prompts or models without local state affecting the results.",
+    "raw_text": {
+      "text": "Codex tip: use codex exec to turn any prompt into a repeatable, scriptable workflow.  \n\nI typically use it for clean, isolated model runs: ephemeral sessions, a pinned model and reasoning effort, no network or MCP access, and a separate directory for every run.  \n\nIt's super useful for evals, batch jobs, CI, scheduled workflows, and comparing prompts or models without local state affecting the results.",
+      "display_text_range": [
+        0,
+        405
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            276,
+            299
+          ],
+          "id": "2082609154946990080",
+          "display": "pic.x.com/lAY24kuH9J",
+          "original": "https://t.co/lAY24kuH9J",
+          "replacement": "https://x.com/reach_vb/status/2082609245011198432/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "reach_vb",
+      "url": "https://x.com/reach_vb",
+      "id": "874987512850128897",
+      "followers": 55620,
+      "following": 297,
+      "likes": 23520,
+      "media_count": 2040,
+      "name": "Vaibhav (VB) Srivastav",
+      "description": "founder mode @OpenAI | ex @huggingface | F1 fan | Here for @at_sofdog’s wisdom | *opinions my own",
+      "raw_description": {
+        "text": "founder mode @OpenAI | ex @huggingface | F1 fan | Here for @at_sofdog’s wisdom | *opinions my own",
+        "facets": []
+      },
+      "location": "codex -m gpt 5.6-sol",
+      "banner_url": "https://pbs.twimg.com/profile_banners/874987512850128897/1651638851",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1509901130670747666/JFlrSzB4_200x200.jpg",
+      "joined": "Wed Jun 14 13:50:54 +0000 2017",
+      "protected": false,
+      "website": {
+        "url": "http://vaibhavs10.github.io",
+        "display_url": "vaibhavs10.github.io"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 20,
+    "retweets": 24,
+    "likes": 316,
+    "bookmarks": 291,
+    "quotes": 1,
+    "created_at": "Wed Jul 29 23:28:31 +0000 2026",
+    "created_timestamp": 1785367711,
+    "possibly_sensitive": false,
+    "views": 17723,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2082609154946990080",
+          "url": "https://pbs.twimg.com/media/HObp_gaXgAAV4FM.jpg?name=orig",
+          "width": 3132,
+          "height": 1724
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2082609154946990080",
+          "url": "https://pbs.twimg.com/media/HObp_gaXgAAV4FM.jpg?name=orig",
+          "width": 3132,
+          "height": 1724
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

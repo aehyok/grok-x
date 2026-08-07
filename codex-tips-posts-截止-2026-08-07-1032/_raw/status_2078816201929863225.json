@@ -1,0 +1,2475 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/PardoCat0406/status/2078816201929863225",
+    "id": "2078816201929863225",
+    "text": "",
+    "raw_text": {
+      "text": "https://t.co/u0MwFckZoF",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "PardoCat0406",
+      "url": "https://x.com/PardoCat0406",
+      "id": "2067458474846654465",
+      "followers": 1161,
+      "following": 295,
+      "likes": 758,
+      "media_count": 105,
+      "name": "猫老板",
+      "description": "AI开发者 ｜99年大叔\n大厂在职开发狗｜小镇出身烂牛马\n值得到达的地方没有捷径",
+      "raw_description": {
+        "text": "AI开发者 ｜99年大叔\n大厂在职开发狗｜小镇出身烂牛马\n值得到达的地方没有捷径",
+        "facets": []
+      },
+      "location": "Somerset, PA",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2067458474846654465/1781787048",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2067590632525434881/zn3hj1ji_200x200.jpg",
+      "joined": "Thu Jun 18 04:06:23 +0000 2026",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 1,
+    "retweets": 26,
+    "likes": 88,
+    "bookmarks": 175,
+    "quotes": 1,
+    "created_at": "Sun Jul 19 12:16:19 +0000 2026",
+    "created_timestamp": 1784463379,
+    "possibly_sensitive": false,
+    "views": 18541,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-07-19T12:16:19.000Z",
+      "modified_at": "2026-07-19T12:16:19.000Z",
+      "id": "2078783881449525248",
+      "title": "Codex 插件 / 技能怎么选：热门实测汇总",
+      "preview_text": "你是不是也遇到过这种情况：Codex 装好了，能写代码了，但你一说：帮我做个登录，它咔咔咔改了八个文件，还顺手重构了你没让它动的模块，越改越乱；或者你让它用最新 Next.js 写法，它给你整出一坨两年前的",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHNlS+DSbgAAKAAIcsRaHbRsQAQAA",
+        "media_id": "2078783928996167680",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 97.17,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 2.59,
+                "rgb": {
+                  "blue": 116,
+                  "green": 116,
+                  "red": 116
+                }
+              },
+              {
+                "percentage": 0.25,
+                "rgb": {
+                  "blue": 54,
+                  "green": 54,
+                  "red": 54
+                }
+              }
+            ]
+          },
+          "original_img_height": 480,
+          "original_img_url": "https://pbs.twimg.com/media/HNlS-DSbgAADwAN.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2078783928996167680"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "sjt220",
+            "text": "你是不是也遇到过这种情况：Codex 装好了，能写代码了，但你一说：帮我做个登录，它咔咔咔改了八个文件，还顺手重构了你没让它动的模块，越改越乱；或者你让它用最新 Next.js 写法，它给你整出一坨两年前的 API，你还得自己去翻文档对，越跑越远。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "87rna1",
+            "text": "这时候你会开始搜Codex 必装插件、Codex skills 推荐、CodeX必备工具，你搜完更懵：有人喊 Plugin，有人喊 Skill，有人喊 MCP，清单动不动列二三十个，一半你听都没听过。然后陷入迷茫",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 17,
+                "style": "Bold"
+              }
+            ],
+            "key": "u58272",
+            "text": "这篇就干一件事：把中文圈和英文社区反复提到、口碑不错、即插即用的几个热门插件都拎出来，按「是啥 → 为啥装 → 怎么装」慢慢给大家讲。像那些冷门安全审计包、代码图谱等各种小众 MCP，我就不在本篇汇总帖里给大家写了，毕竟不是给大伙炫技的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ctvia3",
+            "text": "评价维度就三个，在总表里按打星得方式体现（满分 5）：上手难不难、对日常写码帮多大、要不要额外掏钱/搞 Key（星越多越省心越不费钱）。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8o3o54",
+            "text": "我先把结论丢出来，后面懒得看细节也行：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 11,
+                "offset": 34,
+                "style": "Bold"
+              },
+              {
+                "length": 23,
+                "offset": 48,
+                "style": "Bold"
+              }
+            ],
+            "key": "mus9q5",
+            "text": "第一次玩 Codex：先搞明白 /plugins 怎么打开；然后装 Superpowers 或 grill-me（Matt 那一套）二选一就行。如果你不明白自己的需求，也可以先问问它。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 8,
+                "offset": 19,
+                "style": "Bold"
+              }
+            ],
+            "key": "ggxee6",
+            "text": "写前端 / 总被过期 API 坑：装 Context7，这个比再装五个所谓效率 skills有用。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 9,
+                "offset": 15,
+                "style": "Bold"
+              }
+            ],
+            "key": "m241l7",
+            "text": "经常要上网查现状、爬文档页：装Firecrawl，但要 Key/额度，别第一天就装。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 22,
+                "offset": 25,
+                "style": "Bold"
+              }
+            ],
+            "key": "pf9pw8",
+            "text": "做网页、对着 Figma 还原：去官方插件市场装 Build Web Apps / Figma，其他用得到再装。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 19,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 8,
+                "offset": 22,
+                "style": "Bold"
+              }
+            ],
+            "key": "wrel59",
+            "text": "想做短视频 / 动效片头 / 字幕包装：上 Remotion（插件或官方 skill），用代码剪视频，YouTube/Reddit 上这套最近特别火。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "wx6p8a",
+            "text": "明确需求和用量：装完两周碰都没碰的，卸掉。清单不是成绩单，得有用才行。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "zs2q5b",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "z7bkgc",
+            "text": "0、打分总表",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "e973l",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vkhdve",
+            "text": "上手：星越少越好装。帮助：对口场景有多香。省心：越少折腾 Key、钱、配置星越多。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "vgcc7f",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "u5ok0g",
+            "text": "1. 装之前先花两分钟：Plugin、Skill、MCP 到底啥区别",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8knr0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "508ayh",
+            "text": "你在X上搜到的各种教程，大多可以分类为三种：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "pvrr0j",
+            "text": "Plugin： 你可以理解成「安装包」。打开 Codex，CLI 里敲 /plugins，或者 App 左边栏点 Plugins，里面一排能装的东西。有的包里会塞 skill，有的会连外部 App，有的顺带把 MCP 工具注册进来。装完有时候用 @名字 点一下就能喊它。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2vfgpk",
+            "text": "Skill： 更碎一点：多半是一个文件夹，里头有个 SKILL.md，写着「碰到这类任务你按这个流程走」。装的方式常见是 npx skills add 某某仓库，或者 Codex 自带的 skill-installer。它平时不占事，任务对上了才加载，这点其实挺省上下文的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "e53e5l",
+            "text": "MCP： 是「外挂工具通道」。查最新文档、爬网页、连你家公司内部 API，都靠它。配置一般写在 ~/.codex/config.toml，也有人用 codex mcp add ... 一行加进去。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 51,
+                "offset": 10,
+                "style": "Bold"
+              }
+            ],
+            "key": "m664ym",
+            "text": "概括起来说嘛，就是：想改 Codex 干活习惯，先看 Skill / Plugin；想让它连外面的真实服务，才是 MCP。\n另外有人说「我在 Claude Code 里装了 Codex 插件」——那是 Claude 那边的扩展，不是你在 Codex 里装的那一挂，别混进购物车。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fqnfpn",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "kth9fo",
+            "text": "2. Superpowers——现在社区吹得最凶的那一套",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7a269",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 28,
+                "style": "Bold"
+              }
+            ],
+            "key": "07wziq",
+            "text": "如果你只打算先装一个通用大件，英文圈里反复被点名的就是 Superpowers（obra / Jesse Vincent 那套）。GitHub 星多、X上多篇文章推荐，Claude / Codex / Cursor 都能装，热度摆在那儿。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "wj29vr",
+            "text": "它不是塞给你一个小技巧，而是保持一整条软件开发的节奏：你一说要做功能，它先不写代码，先跟你把需求聊清楚；等设计方面你完全点头确认了，再拆成小任务；执行的时候还会有测试、检查、收尾。官方 README 自己都写了，核心就是别让 agent 一上来就乱敲键盘。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3l78ms",
+            "text": "我自己的体感是：你要是经常被 Codex的自作主张搞崩心态（我自己就经常有），不管是让AI写文章、写软件、剪视频、写小说等等...那Superpowers 这种偏重流程的包，比再装十个奇怪 MCP 有用。反过来，你要是已经有很硬的团队规范、公司在项目管理这块比较牛、自己 AGENTS.md 写得跟宪法似的，那再套一层可能嫌啰嗦，那就更建议往下看，先试 grill-me 那种轻量的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 25,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "u7nozt",
+            "text": "Codex 里怎么装（官方 README 写法）：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ozoy1u",
+            "text": "App：左边栏 Plugins → Coding 分区里找 Superpowers → 点 + 按提示走。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "etoo2v",
+            "text": "CLI：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "xxycsw",
+            "text": "打开 Codex，输入 /plugins",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "uhwv4x",
+            "text": "搜索 superpowers",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "unz8jy",
+            "text": "选 Install Plugin",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c9bogz",
+            "text": "装完不用背一堆斜杠命令，很多 skill 是任务对上了自己触发。你就正常说需求，看它是不是先问你，等确定了再再写。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 7,
+                  "text": "https://github.com/obra/superpowers",
+                  "toIndex": 42
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ly58f10",
+            "text": "仓库与说明：\nhttps://github.com/obra/superpowers",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "it8h511",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "r83hc12",
+            "text": "3. grill-me（Matt Pocock 技能包）——轻量、好评炸裂的「先问再写」",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "eohlr",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 22,
+                "style": "Bold"
+              }
+            ],
+            "key": "5on3613",
+            "text": "和 Superpowers 绑死全流程不同，grill-me 就干一件事：写代码之前，先把你问到没脾气。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "jbtlx15",
+            "text": "Matt Pocock 这套 skills 在 TypeScript / AI 写码圈热度非常高，Reddit 上有人说试完 grill-me 之后，规划方式直接变了：以前是模型丢一版计划你再吐槽，现在是一问一答把坑先填完再动手。同包里还有 handoff（会话快炸时打包交接）、tdd、diagnose、caveman（逼模型少废话）之类，但小白第一天我建议只装 grill-me，别全仓扫射。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1aqo116",
+            "text": "它和 Superpowers 怎么选？可以这么想：你想要「全自动纪律框架」→ Superpowers；你只想要「开干前对齐一下」→ grill-me。两个都装容易叠戏，先选一个用两周再说。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dd7lq17",
+            "text": "怎么装：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "xph8518",
+            "text": "终端里跑（社区和盘点文最常见的写法）：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "yc9be19",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5wiq61a",
+            "text": "有的环境会让你再跑一步 setup，或重启一下 Codex / 新开会话，skill 列表里才能看见。装完你就可以直接用 grill-me开干了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e0r3d1b",
+            "text": "如果你后来觉得会话老是爆、要丢给另一个窗口接着干，那可以在命令里再加个handoff：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "taznj1c",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 4,
+                  "text": "https://github.com/mattpocock/skills",
+                  "toIndex": 40
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8mhon1d",
+            "text": "仓库：\nhttps://github.com/mattpocock/skills",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "p2eo01e",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f95cz1f",
+            "text": "4. Context7——一统江山",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5oonn",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5j71a1h",
+            "text": "不管什么模型，都有个通病： retraining 之前的世界在它脑子里特别清楚，但是如果遇到上周刚改的 API 它就敢跟你编。你让它写 Next、Prisma、某某 SDK，它有时候会一本正经给你过期写法，你还得自己去官网对。就很操蛋是不？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "uhp271i",
+            "text": "Context7 就是干这个的：把现行文档、按版本的说明塞进对话上下文。各家「Codex 插件推荐」里它出场率极高，原因很简单——谁都被过期 API 坑过。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a9ye61j",
+            "text": "形态上它多半是 MCP。装的时候你会在配置里加一个 MCP 服务（不同盘点写法略有出入，有的给 HTTP 地址，有的用 npx 包），装完在提示词里点名，比如：「按最新 Next.js 文档做中间件，用 context7。」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "tld6n1k",
+            "text": "小白容易卡在「MCP 是啥」。你就把它当成：给 Codex 插了根网线到文档站。第一次配可能要五到十分钟，照着 Context7 官网或你用的客户端说明复制粘贴就行，别自己发明字段名。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "mrn7n1l",
+            "text": "免费档 / 额度以官网为准，写库频繁的人我还是建议你安装一下，就算花点钱也值得，因为让你避免AI乱扯从而省下来的时间，要比再装三个花里胡哨 skill 值。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 4,
+                  "text": "https://context7.com/",
+                  "toIndex": 25
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "zntsy1m",
+            "text": "官网：\nhttps://context7.com/",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "muoyy1n",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ucl5z1o",
+            "text": "5. Firecrawl——适合对搜索结果实时性要求比较高的",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4ttv0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 48,
+                "style": "Bold"
+              }
+            ],
+            "key": "9yq351q",
+            "text": "Codex 自己也会联网，但社区里吐槽不少：搜索结果偏旧、或者你以为它看了全文其实只啃了个摘要。Firecrawl 在 2026 的CodeX技能/插件盘点里几乎是常驻嘉宾，卖点是真去搜、真把页面收成干净 Markdown、还能爬整站，做调研、扒文档、看竞品页的时候爽。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 98,
+                "style": "Bold"
+              }
+            ],
+            "key": "glc1i1r",
+            "text": "但你要注意：它经常是通过 API Key链接的，有免费用量限制。厂商的介绍吹的不要不要的，但这个也还是看你需求。你要是一个月就在自家仓库里改业务代码，或者你的创作内容不经常需要查询网上最新情况，那可以不装。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6w59r1s",
+            "text": "安装的话，主要有两种方式，社区都有人用：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "s4dm21t",
+            "text": "一条是 Codex 插件目录里搜 Firecrawl（有的环境已经上架），按提示授权。\n另一条是 CLI 一键（盘点文常见写法，以官网当前文档为准）：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "s1tw21u",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 66,
+                  "text": "firecrawl.dev",
+                  "toIndex": 79
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7vmnz1v",
+            "text": "--all 是往你机器上的多个 coding agent 塞 skill；--browser 会走浏览器登录拿 Key。Key 去 firecrawl.dev 控制台自己领。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 7,
+                  "text": "https://www.firecrawl.dev/",
+                  "toIndex": 33
+                },
+                {
+                  "fromIndex": 34,
+                  "text": "https://www.firecrawl.dev/blog/best-codex-skills",
+                  "toIndex": 82
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "jrxdy1w",
+            "text": "官网与说明：\nhttps://www.firecrawl.dev/\nhttps://www.firecrawl.dev/blog/best-codex-skills",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "afocj1x",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3n2u51y",
+            "text": "6. 官方插件市场：你至少要会打开 /plugins",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3lhja",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 43,
+                "style": "Bold"
+              }
+            ],
+            "key": "1dij320",
+            "text": "很多人一上来就 npx 狂装社区包，结果官方货架都没点开过。OpenAI 现在推的是 Plugin 形态，示例仓在 openai/plugins。App 侧栏 Plugins，CLI 里 /plugins，目录一般会分官方 curated / 别人分享给你的 / 你自己建的之类。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 79,
+                "style": "Bold"
+              }
+            ],
+            "key": "fob9f21",
+            "text": "如果你是小白，那建议你先打开市场，随便点开一两个官方插件看简介，有个大概了解，别和排队领鸡蛋一样。然后你得明确你的需求到底是什么。比如你要是主要做网站，再搜 Build Web Apps 这类官方向插件装上。最后就是装完要用之前，最好先 @插件名 ，确认真的挂上了，再继续干活。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "xpgf622",
+            "text": "很多时候，老的 openai/skills 仓库还在，但 README 已经写了 deprecated，所以安装前还是多看清楚为好哈。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 5,
+                  "text": "https://github.com/openai/plugins",
+                  "toIndex": 38
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qzj3923",
+            "text": "官方仓：\nhttps://github.com/openai/plugins",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 17,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5ijck24",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "pi5ot25",
+            "text": "7. Figma 插件——有设计稿的人用的多",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 18,
+                "style": "Bold"
+              }
+            ],
+            "key": "zpo9427",
+            "text": "前端圈里聊 Codex 扩展的时候，Figma 出镜率很高：设计稿还在 Figma 里，你就想让 agent 按组件、按设计系统吐代码。没设计稿、纯后端、纯脚本的人，装了也是占位。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "61xsw28",
+            "text": "装法还是老样子：/plugins 或 App 的 Plugins 里搜 Figma，按提示授权 Figma 账号。第一次会要你登录、给权限，这一步别在公共电脑瞎点。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qyk5u29",
+            "text": "你日常是「产品丢个 Figma 链接 → 你切页面」这种协作，这个插件就值得占一个坑；你平时就 VS Code 里裸写，可以跳过。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 18,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "eisvd2a",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "309cl2b",
+            "text": "8. Remotion——想剪视频、做动效的人看这里",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 19,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "r8r0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 25,
+                "style": "Bold"
+              }
+            ],
+            "key": "j1z2q2d",
+            "text": "前面几节基本都在聊「写代码更稳」，这一节换条赛道：视频剪辑 / 动态图形。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 51,
+                "style": "Bold"
+              }
+            ],
+            "key": "wjya22e",
+            "text": "2026 年中文圈和 YouTube 上，跟 Codex 绑得最紧、出镜率最高的视频方案，基本都在喊 Remotion。一般的用法是用 React 写时间轴，渲染成真正的 mp4。不是打开剪映手动拖轨道那种，而是你用嘴（和 prompt）描述片头、字幕、转场的形式，然后Codex 帮你改组件、出成片。Riley Brown 之类的教程标题都写得很狠，之前很多人也有发整支视频 100% 用 Codex + Remotion 剪辑的教程。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 30,
+                "style": "Bold"
+              }
+            ],
+            "key": "gznfl2f",
+            "text": "它和剪映 / CapCut 的关系，你分得清就行：很多人是 Codex + Remotion 出 motion 素材，再丢进剪映做最终拼接；也有人整条片都在 Remotion 里闭环。你要是纯 prores 调色、多机位故事片，那还是老剪辑软件的事；你要是 AI 口播包装、产品发布短片、字幕卡、数据可视化动画，Remotion 这条链路最近确实香。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "kw8e32g",
+            "text": "装法两条路，社区都有人走：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 24,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "qbqt32h",
+            "text": "路线 A：Codex 插件市场（小白优先试这个）",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f604b2i",
+            "text": "打开 Codex，App 侧栏 Plugins，或 CLI 输入 /plugins。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 18,
+                "style": "Bold"
+              }
+            ],
+            "key": "zyi8l2j",
+            "text": "在 Design / 相关分区里搜 Remotion（有的界面会和 Hyperframes 并列，别点错）。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "govsp2k",
+            "text": "点安装，按提示走完。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "by19g2l",
+            "text": "新建或打开一个 Remotion 项目目录，直接说：「用 Remotion 做一个 15 秒产品介绍片头，黑底白字，最后带 logo。」",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 40,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "0qunz2m",
+            "text": "路线 B：官方 Remotion skill（写 React 视频代码时很有用）",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 45,
+                  "text": "skills.sh",
+                  "toIndex": 54
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "erl5n2n",
+            "text": "社区和 remotion-dev 自己有 best-practices 一类 skill，skills.sh 上也有收录，常见装法是让 Codex 按官方 skill 安装，或：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 20,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7y88o2o",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vodc92p",
+            "text": "（包名、skill 名以仓库当前 README 为准，变了就照官网抄。）",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "cashtags": [
+                {
+                  "fromIndex": 15,
+                  "text": "remotion",
+                  "toIndex": 24
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dwo4e2q",
+            "text": "装完可以在对话里点名：Use $remotion 然后嘎嘎用就行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "a5bmh2r",
+            "text": "有几个细节还是要注意一下：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "02i232s",
+            "text": "你的电脑要能跑 Node，第一次渲染会下依赖，网络不好会卡很久。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cmjrc2t",
+            "text": "可以先弄个Hello World，能出一条 mp4，再堆花活，电影级调色也是需要熟练度的。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "l49v92u",
+            "text": "字幕、口播对齐有时还要配转写（Whisper 一类），那是下一步，先把 Remotion 本身跑通。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 7,
+                  "text": "https://www.remotion.dev/",
+                  "toIndex": 32
+                },
+                {
+                  "fromIndex": 33,
+                  "text": "https://github.com/remotion-dev/remotion",
+                  "toIndex": 73
+                },
+                {
+                  "fromIndex": 74,
+                  "text": "https://github.com/remotion-dev/skills",
+                  "toIndex": 112
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "tqf3b2v",
+            "text": "仓库和文档：\nhttps://www.remotion.dev/\nhttps://github.com/remotion-dev/remotion\nhttps://github.com/remotion-dev/skills",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 21,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "wmr9w2w",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "uoqw22x",
+            "text": "9. 我的个人建议",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "i0pre2y",
+            "text": "假设你是小白，机器刚装好 Codex，可以按这个顺序来：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "hpwi12z",
+            "text": "第一天晚上",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7vdzw30",
+            "text": "登录 Codex，CLI 输入 /plugins 点点看，或者 App 打开 Plugins 面板。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 2,
+                "style": "Bold"
+              },
+              {
+                "length": 8,
+                "offset": 16,
+                "style": "Bold"
+              }
+            ],
+            "key": "rdltb31",
+            "text": "装 Superpowers 或 grill-me，二选一。犹豫就 grill-me，更轻。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "noygf32",
+            "text": "新开一个会话，随口丢个小需求，看它是不是先问你再写。问了，就说明流程类扩展活了。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 19,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4bslf33",
+            "text": "你主要写 TS / 前端的话，可以再加",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 2,
+                "style": "Bold"
+              }
+            ],
+            "key": "qpc7l34",
+            "text": "配 Context7（MCP）。直接照官网文档抄配置。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "317t135",
+            "text": "故意问一个你知道最近改过 API 的库，看它还敢不敢瞎编。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9avwr36",
+            "text": "根据自己的真实痛点再加",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8kus137",
+            "text": "每周都要上网扒文档 / 竞品 → Firecrawl。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "97qrk38",
+            "text": "有 Figma 设计稿 → Figma 插件。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "p3j8939",
+            "text": "要做短视频 / 动效片头 / 字幕包装 → Remotion。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "pm68k3a",
+            "text": "其实总的来说，扩展这事跟我之前写的海外手机卡的使用方法有点像：难的不是有多少种类的可以选，难得是你知道自己主要需求是保号、美区，还是接码。Codex 这边就是：你缺的是纪律、文档、外网，还是视频包装。你明确了需求，那就好找。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "omn323b",
+            "text": "实在不行就左脚踩右脚，直接问Codex嘛。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 27,
+                "offset": 21,
+                "style": "Bold"
+              }
+            ],
+            "key": "vqdh23c",
+            "text": "最后，免责声明一下：命令和入口变化比较快，以你本机 Codex 帮助页和官方 README 为准。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 22,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "xfv333d",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "nwvq83e",
+            "text": "参考文献",
+            "type": "header-two"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://github.com/obra/superpowers",
+                  "toIndex": 35
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "k8jl33f",
+            "text": "https://github.com/obra/superpowers — Superpowers 官方仓库与 Codex 安装说明",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://github.com/mattpocock/skills",
+                  "toIndex": 36
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7q8ok3g",
+            "text": "https://github.com/mattpocock/skills — grill-me 等技能包",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://context7.com/",
+                  "toIndex": 21
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aehno3h",
+            "text": "https://context7.com/ — Context7",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://www.firecrawl.dev/",
+                  "toIndex": 26
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5nde23i",
+            "text": "https://www.firecrawl.dev/ — Firecrawl",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://www.firecrawl.dev/blog/best-codex-skills",
+                  "toIndex": 48
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "abbcw3j",
+            "text": "https://www.firecrawl.dev/blog/best-codex-skills — 技能向热门盘点",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://www.firecrawl.dev/blog/best-codex-plugins",
+                  "toIndex": 49
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3jfht3k",
+            "text": "https://www.firecrawl.dev/blog/best-codex-plugins — 插件向盘点",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://composio.dev/content/best-codex-plugins",
+                  "toIndex": 47
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "x4dwe3l",
+            "text": "https://composio.dev/content/best-codex-plugins — 社区向盘点",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://github.com/openai/plugins",
+                  "toIndex": 33
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2o6c43m",
+            "text": "https://github.com/openai/plugins — 官方插件示例仓",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://github.com/openai/skills",
+                  "toIndex": 32
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "h31we3n",
+            "text": "https://github.com/openai/skills — 旧 skills 仓（已 deprecated，仅对照）",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://github.com/openai/codex",
+                  "toIndex": 31
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rdver3o",
+            "text": "https://github.com/openai/codex — Codex 本体",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://www.remotion.dev/",
+                  "toIndex": 25
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ylayo3p",
+            "text": "https://www.remotion.dev/ — Remotion 官网",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://github.com/remotion-dev/remotion",
+                  "toIndex": 40
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rmn823q",
+            "text": "https://github.com/remotion-dev/remotion — Remotion 源码仓",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://github.com/remotion-dev/skills",
+                  "toIndex": 38
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rp1873r",
+            "text": "https://github.com/remotion-dev/skills — Remotion 官方 skill",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 23,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "x1lb63s",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "0npp43t",
+            "text": "（想要一个甜甜的关注可以嘛）",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "markdown": "```bash\nnpx skills add https://github.com/mattpocock/skills --skill grill-me\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "19",
+            "value": {
+              "data": {
+                "entityKey": "161b854c-2f21-41f9-a5d1-3a6012631c50",
+                "mediaItems": [
+                  {
+                    "localMediaId": "37",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2078784079605239808"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "23",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "entityKey": "eefe950d-92ed-40f8-ac9b-7ac34a748b27",
+                "mediaItems": [
+                  {
+                    "localMediaId": "21",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2078784035791482880"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "markdown": "```bash\nnpx skills add https://github.com/mattpocock/skills --skill handoff\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "22",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "entityKey": "05b0b325-fbc7-4be6-93bf-af593dec2476",
+                "mediaItems": [
+                  {
+                    "localMediaId": "26",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2078784047770411009"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "entityKey": "00171c33-98e8-44b6-a86f-ae67d9f8f305",
+                "mediaItems": [
+                  {
+                    "localMediaId": "33",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2078784072885870592"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "entityKey": "e35bfa86-16df-4eb6-afb4-3baed6b031dc",
+                "mediaItems": [
+                  {
+                    "localMediaId": "13",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2078784007446380544"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "21",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "f2de7cc9-de9b-42de-bc28-2715f0f85c3c",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2078783977335521280"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "markdown": "```bash\nnpx -y firecrawl-cli@latest init --all --browser\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "20",
+            "value": {
+              "data": {
+                "markdown": "```bash\nnpx skills add https://github.com/remotion-dev/skills --skill remotion-best-practices\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "18",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "entityKey": "8022d8d6-e83f-4d41-b6c6-745ddce1dbda",
+                "mediaItems": [
+                  {
+                    "localMediaId": "17",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2078784022193549312"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "b83ad99d-78cb-4f24-a21c-9decef7ff146",
+                "mediaItems": [
+                  {
+                    "localMediaId": "43",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2078784450524258304"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHNlTGbUaIAAKAAIcsRaHbRsQAQAA",
+          "media_id": "2078784072885870592",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 93.31,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 2.42,
+                  "rgb": {
+                    "blue": 117,
+                    "green": 113,
+                    "red": 108
+                  }
+                },
+                {
+                  "percentage": 1.76,
+                  "rgb": {
+                    "blue": 90,
+                    "green": 225,
+                    "red": 241
+                  }
+                },
+                {
+                  "percentage": 1.16,
+                  "rgb": {
+                    "blue": 166,
+                    "green": 115,
+                    "red": 53
+                  }
+                },
+                {
+                  "percentage": 0.9,
+                  "rgb": {
+                    "blue": 158,
+                    "green": 237,
+                    "red": 247
+                  }
+                }
+              ]
+            },
+            "original_img_height": 600,
+            "original_img_url": "https://pbs.twimg.com/media/HNlTGbUaIAA1jgq.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2078784072885870592"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHNlTDeeasAAKAAIcsRaHbRsQAQAA",
+          "media_id": "2078784022193549312",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.31,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 2.42,
+                  "rgb": {
+                    "blue": 81,
+                    "green": 224,
+                    "red": 137
+                  }
+                },
+                {
+                  "percentage": 2.09,
+                  "rgb": {
+                    "blue": 113,
+                    "green": 119,
+                    "red": 138
+                  }
+                },
+                {
+                  "percentage": 1.21,
+                  "rgb": {
+                    "blue": 152,
+                    "green": 237,
+                    "red": 185
+                  }
+                },
+                {
+                  "percentage": 0.71,
+                  "rgb": {
+                    "blue": 90,
+                    "green": 225,
+                    "red": 241
+                  }
+                }
+              ]
+            },
+            "original_img_height": 600,
+            "original_img_url": "https://pbs.twimg.com/media/HNlTDeeasAANL5q.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2078784022193549312"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHNlTA3XbgAAKAAIcsRaHbRsQAQAA",
+          "media_id": "2078783977335521280",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.79,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 251,
+                    "red": 250
+                  }
+                },
+                {
+                  "percentage": 1.21,
+                  "rgb": {
+                    "blue": 133,
+                    "green": 133,
+                    "red": 133
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1192,
+            "original_img_url": "https://pbs.twimg.com/media/HNlTA3XbgAAWUD_.jpg",
+            "original_img_width": 2398
+          },
+          "media_key": "3_2078783977335521280"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHNlTG0WbkAAKAAIcsRaHbRsQAQAA",
+          "media_id": "2078784079605239808",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.21,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 3.99,
+                  "rgb": {
+                    "blue": 198,
+                    "green": 120,
+                    "red": 49
+                  }
+                },
+                {
+                  "percentage": 2.06,
+                  "rgb": {
+                    "blue": 126,
+                    "green": 122,
+                    "red": 117
+                  }
+                },
+                {
+                  "percentage": 0.78,
+                  "rgb": {
+                    "blue": 243,
+                    "green": 132,
+                    "red": 10
+                  }
+                },
+                {
+                  "percentage": 0.24,
+                  "rgb": {
+                    "blue": 90,
+                    "green": 225,
+                    "red": 241
+                  }
+                }
+              ]
+            },
+            "original_img_height": 600,
+            "original_img_url": "https://pbs.twimg.com/media/HNlTG0WbkAATM65.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2078784079605239808"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHNlTERIasAAKAAIcsRaHbRsQAQAA",
+          "media_id": "2078784035791482880",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 88.31,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 4.38,
+                  "rgb": {
+                    "blue": 5,
+                    "green": 5,
+                    "red": 5
+                  }
+                },
+                {
+                  "percentage": 4.32,
+                  "rgb": {
+                    "blue": 198,
+                    "green": 120,
+                    "red": 49
+                  }
+                },
+                {
+                  "percentage": 2.31,
+                  "rgb": {
+                    "blue": 129,
+                    "green": 124,
+                    "red": 119
+                  }
+                },
+                {
+                  "percentage": 0.42,
+                  "rgb": {
+                    "blue": 138,
+                    "green": 198,
+                    "red": 1
+                  }
+                }
+              ]
+            },
+            "original_img_height": 600,
+            "original_img_url": "https://pbs.twimg.com/media/HNlTERIasAAtg_r.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2078784035791482880"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHNlTE9waoAEKAAIcsRaHbRsQAQAA",
+          "media_id": "2078784047770411009",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.16,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 3.75,
+                  "rgb": {
+                    "blue": 198,
+                    "green": 120,
+                    "red": 49
+                  }
+                },
+                {
+                  "percentage": 1.84,
+                  "rgb": {
+                    "blue": 122,
+                    "green": 117,
+                    "red": 111
+                  }
+                },
+                {
+                  "percentage": 1.05,
+                  "rgb": {
+                    "blue": 26,
+                    "green": 93,
+                    "red": 250
+                  }
+                },
+                {
+                  "percentage": 0.34,
+                  "rgb": {
+                    "blue": 133,
+                    "green": 167,
+                    "red": 249
+                  }
+                }
+              ]
+            },
+            "original_img_height": 600,
+            "original_img_url": "https://pbs.twimg.com/media/HNlTE9waoAE9hpw.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2078784047770411009"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHNlTCniawAAKAAIcsRaHbRsQAQAA",
+          "media_id": "2078784007446380544",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 89.37,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 3.67,
+                  "rgb": {
+                    "blue": 98,
+                    "green": 96,
+                    "red": 103
+                  }
+                },
+                {
+                  "percentage": 1.68,
+                  "rgb": {
+                    "blue": 81,
+                    "green": 224,
+                    "red": 137
+                  }
+                },
+                {
+                  "percentage": 1.22,
+                  "rgb": {
+                    "blue": 90,
+                    "green": 225,
+                    "red": 241
+                  }
+                },
+                {
+                  "percentage": 0.88,
+                  "rgb": {
+                    "blue": 152,
+                    "green": 237,
+                    "red": 185
+                  }
+                }
+              ]
+            },
+            "original_img_height": 600,
+            "original_img_url": "https://pbs.twimg.com/media/HNlTCniawAAsYv0.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2078784007446380544"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHNlTcaIaoAAKAAIcsRaHbRsQAQAA",
+          "media_id": "2078784450524258304",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 93.31,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 2.42,
+                  "rgb": {
+                    "blue": 117,
+                    "green": 113,
+                    "red": 108
+                  }
+                },
+                {
+                  "percentage": 1.76,
+                  "rgb": {
+                    "blue": 90,
+                    "green": 225,
+                    "red": 241
+                  }
+                },
+                {
+                  "percentage": 1.16,
+                  "rgb": {
+                    "blue": 166,
+                    "green": 115,
+                    "red": 53
+                  }
+                },
+                {
+                  "percentage": 0.9,
+                  "rgb": {
+                    "blue": 158,
+                    "green": 237,
+                    "red": 247
+                  }
+                }
+              ]
+            },
+            "original_img_height": 600,
+            "original_img_url": "https://pbs.twimg.com/media/HNlTcaIaoAAKlxw.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2078784450524258304"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

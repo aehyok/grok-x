@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/KengGuangLong/status/2079757066697380046",
+    "id": "2079757066697380046",
+    "text": "我决定了，我最近开始潜心研究 WorkBuddy 了，要想在国内做 AI 赚钱，WorkBuddy 已经到了不能不研究的地步了。",
+    "raw_text": {
+      "text": "我决定了，我最近开始潜心研究 WorkBuddy 了，要想在国内做 AI 赚钱，WorkBuddy 已经到了不能不研究的地步了。",
+      "display_text_range": [
+        0,
+        64
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "KengGuangLong",
+      "url": "https://x.com/KengGuangLong",
+      "id": "771113795850678272",
+      "followers": 3351,
+      "following": 404,
+      "likes": 0,
+      "media_count": 507,
+      "name": "非著名程序员",
+      "description": "AI 博主，自由职业者，公众号「非著名程序员」主理人，全网近百万粉丝，同时，是一名「知识挖掘师」兼「知识布道师」，关注我，带你一起探寻财富与精神自由之路。\n\nX 这个地方，我是初来乍到，大家多多关照。",
+      "raw_description": {
+        "text": "AI 博主，自由职业者，公众号「非著名程序员」主理人，全网近百万粉丝，同时，是一名「知识挖掘师」兼「知识布道师」，关注我，带你一起探寻财富与精神自由之路。\n\nX 这个地方，我是初来乍到，大家多多关照。",
+        "facets": []
+      },
+      "location": "加微：loonggg1024",
+      "banner_url": "https://pbs.twimg.com/profile_banners/771113795850678272/1769873218",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1802706038589935616/DxNYHYGE_200x200.jpg",
+      "joined": "Wed Aug 31 22:33:50 +0000 2016",
+      "protected": false,
+      "website": {
+        "url": "https://weibo.com/u/5078115336",
+        "display_url": "weibo.com/u/5078115336"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 97,
+    "retweets": 14,
+    "likes": 287,
+    "bookmarks": 235,
+    "quotes": 6,
+    "created_at": "Wed Jul 22 02:34:59 +0000 2026",
+    "created_timestamp": 1784687699,
+    "views": 116283,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

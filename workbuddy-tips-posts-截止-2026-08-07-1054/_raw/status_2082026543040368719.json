@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/kane_120/status/2082026543040368719",
+    "id": "2082026543040368719",
+    "text": "GM CT! \n\nThere is currently a free update available on the FreeModel website:\n\nhttps://freemodel.dev/invite/FRE-96125423\n\nYou can visit the site, follow the instructions in their documentation:\n\nhttps://freemodel.dev/dashboard/docs#workbuddy\n\nThen download WorkBuddy to get access to unlimited GPT-5.6 Sol credits at the moment.\n\nAs always, please do your own research before trying it.",
+    "raw_text": {
+      "text": "GM CT! \n\nThere is currently a free update available on the FreeModel website:\n\nhttps://t.co/tLYc8lTdFP\n\nYou can visit the site, follow the instructions in their documentation:\n\nhttps://t.co/TWN8J3kXIv\n\nThen download WorkBuddy to get access to unlimited GPT-5.6 Sol credits at the moment.\n\nAs always, please do your own research before trying it.",
+      "display_text_range": [
+        0,
+        345
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            79,
+            102
+          ],
+          "original": "https://t.co/tLYc8lTdFP",
+          "replacement": "https://freemodel.dev/invite/FRE-96125423",
+          "display": "freemodel.dev/invite/FRE-961…"
+        },
+        {
+          "type": "url",
+          "indices": [
+            177,
+            200
+          ],
+          "original": "https://t.co/TWN8J3kXIv",
+          "replacement": "https://freemodel.dev/dashboard/docs#workbuddy",
+          "display": "freemodel.dev/dashboard/docs…"
+        },
+        {
+          "type": "media",
+          "indices": [
+            280,
+            303
+          ],
+          "id": "2082026524723515392",
+          "display": "pic.x.com/pDRqJIocMr",
+          "original": "https://t.co/pDRqJIocMr",
+          "replacement": "https://x.com/kane_120/status/2082026543040368719/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            280,
+            303
+          ],
+          "id": "2082026535393939456",
+          "display": "pic.x.com/pDRqJIocMr",
+          "original": "https://t.co/pDRqJIocMr",
+          "replacement": "https://x.com/kane_120/status/2082026543040368719/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "kane_120",
+      "url": "https://x.com/kane_120",
+      "id": "1516086689181151236",
+      "followers": 4545,
+      "following": 2915,
+      "likes": 33170,
+      "media_count": 1491,
+      "name": "kane🐐🔺️",
+      "description": "Project Advisor/|| web3/||CyRunner @cysic_xyz💜||ComputeFi||Community builder||A.I videoCreator||\nCo-Founder @jurixai_ & @bagspulse",
+      "raw_description": {
+        "text": "Project Advisor/|| web3/||CyRunner @cysic_xyz💜||ComputeFi||Community builder||A.I videoCreator||\nCo-Founder @jurixai_ & @bagspulse",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1516086689181151236/1700504559",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1906844230317670400/VMHh9QVw_200x200.jpg",
+      "joined": "Mon Apr 18 16:10:31 +0000 2022",
+      "protected": false,
+      "website": {
+        "url": "https://portfolio-kane.vercel.app",
+        "display_url": "portfolio-kane.vercel.app"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 20,
+    "retweets": 6,
+    "likes": 71,
+    "bookmarks": 88,
+    "quotes": 0,
+    "created_at": "Tue Jul 28 08:53:04 +0000 2026",
+    "created_timestamp": 1785228784,
+    "possibly_sensitive": false,
+    "views": 5749,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2082026524723515392",
+          "url": "https://pbs.twimg.com/media/HOTYF9sWEAA-Njc.jpg?name=orig",
+          "width": 1694,
+          "height": 1782
+        },
+        {
+          "type": "photo",
+          "id": "2082026535393939456",
+          "url": "https://pbs.twimg.com/media/HOTYGlcX0AAMplh.jpg?name=orig",
+          "width": 1218,
+          "height": 972
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2082026524723515392",
+          "url": "https://pbs.twimg.com/media/HOTYF9sWEAA-Njc.jpg?name=orig",
+          "width": 1694,
+          "height": 1782
+        },
+        {
+          "type": "photo",
+          "id": "2082026535393939456",
+          "url": "https://pbs.twimg.com/media/HOTYGlcX0AAMplh.jpg?name=orig",
+          "width": 1218,
+          "height": 972
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2082026543040368719/HOTYF9sWEAA-Njc/HOTYGlcX0AAMplh",
+          "webp": "https://mosaic.fxtwitter.com/webp/2082026543040368719/HOTYF9sWEAA-Njc/HOTYGlcX0AAMplh"
+        }
+      }
+    },
+    "source": "Twitter for Android",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

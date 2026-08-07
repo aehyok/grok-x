@@ -1,0 +1,2184 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/aehyok/status/2084481751737336180",
+    "id": "2084481751737336180",
+    "text": "",
+    "raw_text": {
+      "text": "https://t.co/1lRvcXp1dG",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "aehyok",
+      "url": "https://x.com/aehyok",
+      "id": "2905016819",
+      "followers": 9203,
+      "following": 381,
+      "likes": 20157,
+      "media_count": 469,
+      "name": "AI少年",
+      "description": "全栈独立开发者，CEO， 喜欢编程和爱折腾AI　　\n我的个人网站：https://aehyok.uk　\n我的武器库: https://github.com/aehyok\n我的公众号: 那个曾经的AI少年。",
+      "raw_description": {
+        "text": "全栈独立开发者，CEO， 喜欢编程和爱折腾AI　　\n我的个人网站：https://t.co/gegr7pjEwQ　\n我的武器库: https://t.co/b8VWNwyDXf\n我的公众号: 那个曾经的AI少年。",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              33,
+              56
+            ],
+            "original": "https://t.co/gegr7pjEwQ",
+            "replacement": "https://aehyok.uk",
+            "display": "aehyok.uk"
+          },
+          {
+            "type": "url",
+            "indices": [
+              65,
+              88
+            ],
+            "original": "https://t.co/b8VWNwyDXf",
+            "replacement": "https://github.com/aehyok",
+            "display": "github.com/aehyok"
+          }
+        ]
+      },
+      "location": "shenzhen",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2905016819/1767727113",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2055690787736920065/UdCIcnhl_200x200.jpg",
+      "joined": "Thu Dec 04 12:35:37 +0000 2014",
+      "protected": false,
+      "website": {
+        "url": "https://aehyok.uk",
+        "display_url": "aehyok.uk"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 38,
+    "retweets": 37,
+    "likes": 249,
+    "bookmarks": 466,
+    "quotes": 12,
+    "created_at": "Tue Aug 04 03:29:12 +0000 2026",
+    "created_timestamp": 1785814152,
+    "possibly_sensitive": false,
+    "views": 138746,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-04T03:29:12.000Z",
+      "modified_at": "2026-08-04T03:48:12.000Z",
+      "id": "2083910623600250880",
+      "title": "从零手把手教你搭建抖音爆款监控，给予你创作最强灵感和输出方向",
+      "preview_text": "做自媒体最头疼的问题之一，就是很多时候没有创作的灵感，完全不知道该更新什么了。明明内心非常想坚持更新，但脑袋里却是空空的，盯着屏幕半天也憋不出什么内容。",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHO2VcZQbcAAKAAIAAAAArScJ8wAA",
+        "media_id": "2084486517591076864",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 68.28,
+                "rgb": {
+                  "blue": 250,
+                  "green": 231,
+                  "red": 240
+                }
+              },
+              {
+                "percentage": 6.86,
+                "rgb": {
+                  "blue": 89,
+                  "green": 88,
+                  "red": 89
+                }
+              },
+              {
+                "percentage": 6.77,
+                "rgb": {
+                  "blue": 251,
+                  "green": 214,
+                  "red": 241
+                }
+              },
+              {
+                "percentage": 5.21,
+                "rgb": {
+                  "blue": 234,
+                  "green": 250,
+                  "red": 215
+                }
+              },
+              {
+                "percentage": 2.79,
+                "rgb": {
+                  "blue": 253,
+                  "green": 156,
+                  "red": 101
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HO2VcZQbcAAMBY6.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2084486517591076864"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5mtrf",
+            "text": "做自媒体最头疼的问题之一，就是很多时候没有创作的灵感，完全不知道该更新什么了。明明内心非常想坚持更新，但脑袋里却是空空的，盯着屏幕半天也憋不出什么内容。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d7q2n",
+            "text": "比如做抖音视频，可以去刷刷同行们做了哪些爆款视频，一直刷刷刷，收藏一下，再收藏......等到自己选题的时候，又开始头疼了，从收藏夹里一个个的选择，又出现了选择恐惧症。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ic57",
+            "text": "那么本文的设计愿景：抖音+豆包+飞书。抖音就是我们要监控的视频平台，而豆包作为媒介能抓取抖音的各种公开数据，再加上豆包的AI分析，同时将数据留存到飞书的多维表格当中。也就是变相让收藏夹中的视频数据开始说话，也让你创作的时候就可以根据你抓取的“符合你创作内容的爆款数据”进行二创或者灵感创作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "52jom",
+            "text": "下面开始进入正题，从零手把手搭建这套：抖音+豆包+飞书的体系玩法，目录如下可进行选看",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3tdmd",
+            "text": "1、飞书中如何使用豆包",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2dlhj",
+            "text": "2、看看豆包客户端",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c0c8s",
+            "text": "3、为什么使用豆包能玩转抖音",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6hhpi",
+            "text": "4、使用豆包怎么搭建抖音爆款选题列表",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5sftb",
+            "text": "5、豆包实操：看它自己刷抖音、截图、比对、记录",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ad0gh",
+            "text": "6、成果验收：多维表格数据表和仪表盘",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aptk2",
+            "text": "7、让它每天自己跑：定时任务与数据累积",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8f2p9",
+            "text": "8、举一反三：小红书、某个账号全部作品、自己的收藏夹",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7ac76",
+            "text": "9、总结",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "95s2n",
+            "text": "一、飞书中如何使用豆包",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "17r5m",
+            "text": "首先最好有个飞书账号，因为后面也要用到。打开飞书客户端，搜索框中输入「豆包」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3ueh3",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1h3am",
+            "text": "然后点击「获取」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "22mqk",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1tt5n",
+            "text": "点击「授权并安装」之后，如果你的飞书是企业版，并且使用了豆包专业版，那么就会自动绑定，直接可以在飞书中使用豆包了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1kr4o",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4n8g4",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "55r2j",
+            "text": "如果你用豆包只是来操作飞书多维表格、飞书知识库、飞书任务等，不需要操作本地的文件的话，那么你直接使用飞书中的豆包就可以胜任了。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "52t43",
+            "text": "如果你想让豆包操作你的本地电脑的话，可以点击「下载豆包电脑版」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "apbc3",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6g8cn",
+            "text": "下载完客户端后，我使用的是飞书扫码登录的豆包，这样应该在豆包里操作飞书相关内容的时候，就不需要二次授权了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7pn2g",
+            "text": "二、看看豆包客户端",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1jgvh",
+            "text": "接下来的讲解都将在本地电脑上的豆包客户端进行",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4fbal",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fkk1h",
+            "text": "客户端界面布局相当简洁优雅，我估计新版本已经在路上了，过不了多久就会有一些新的变化，最起码会有技能+连接器的管理以及Agent智能体。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9ea78",
+            "text": "不过豆包目前左侧直接单独把「AI浏览器」和「云盘」单独列出来，而云盘中相当于把飞书部分管理功能进行接管，还是非常实在的功能。比如让AI操作完多维表格，直接在这里看，而不用再单独去飞书客户端或者网页进行跳转查看。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "992uh",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8mt7o",
+            "text": "这里豆包就简单说一下。下面开始说重点了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "akn22",
+            "text": "三、为什么使用豆包能玩转抖音",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9r24v",
+            "text": "通过豆包+豆包里自带的AI浏览器可以轻松获取抖音以下四类信息",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1jrtc",
+            "text": "视频内容 解析视频链接，提取完整文案脚本、标题、字幕、话题标签、画面描述。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "av63u",
+            "text": "互动数据 抓取评论区内容（提问、评价、互动问答），以及点赞、评论、收藏等热度信号。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "f4d4u",
+            "text": "账号信息 获取昵称、抖音号、认证状态、粉丝数等公开资料，以及内容风格与垂直领域",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2k558",
+            "text": "等等其它公开的信息",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "drvri",
+            "text": "具体可以查看下面的视频，来看看豆包到底能抓到什么信息",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4atkj",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4d0a4",
+            "text": "四、使用豆包怎么搭建抖音爆款选题列表",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "atb74",
+            "text": "其实问题的关键就是怎么找爆款，一个一个去找，当然没问题。在抖音中不断的搜索，下拉查询、点击、滚动、啊找到了一个，看了半天好像也不是我想要的。继续下一个...时间就这么一分一秒的过去了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b3jg4",
+            "text": "那到底怎么找抖音的爆款数据，我最近摸索出了两种方法，当然可能还有其它很多方法。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "31gqg",
+            "text": "第一种：给它关键字去搜索，比如我下面给的关键字就是“AI”，为了演示这样好找一些（实际你可以根据所需去调整）。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7mlo7",
+            "text": "第二种：你可以找一批你觉得视频质量非常过硬的抖音账号，每天或者定时去找他们有没有发送最新的视频。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "erf7h",
+            "text": "先找出一批，然后再让AI分析，分析完了，你直接看结果，然后根据分析找到你想要的分类或者视频就完事了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f964h",
+            "text": "下面我演示的就是“第一种”方式，因为我觉得直接列出一些我认可或者随机筛选的大V有一点不太好。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a5rue",
+            "text": "五、豆包实操：看它自己刷抖音、截图、比对、记录",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "53ik6",
+            "text": "其实你认真看的话，也是非常简单的，这里就请看一下我准备的提示词，可以直接发给豆包就可以执行了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3dv4s",
+            "text": "但是里面有几个注意事项：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4fgup",
+            "text": "1、关键词根据你的需要去修改2、时间范围自己去控制好3、点赞门槛，或者你需要其它的互动数据4、再比如你想找低粉爆款，那么你就需要再加一个筛选条件，就是界定低粉的粉丝数量定好就可以了",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "amsiv",
+            "text": "这些筛选条件都决定了每次执行的时间，也就间接决定了消耗token的数量，自己可以先测试再实地执行，怎么测试，可以看上面“第三节”中我录的视频。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "31e1k",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ada6",
+            "text": "这里根据提示词，豆包会先进行对“AI”相关爆款数据的检索。它的这个检索就是通过模拟网页的浏览，首先是进行筛选条件的智能匹配，然后逐个点击，截图查看数据，是否满足我上面的要求，满足了就进行记录，不满足就继续浏览滚动下一个视频。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "mf9v",
+            "text": "看下图就是它自己去操作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dpuo4",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "enqj8",
+            "text": "就这样筛选出符合要求条数的视频列表数据，然后根据上面提示词进行创建多维表格列表，会话下已经有了两个多维表格的数据表，同时如果没有这个会话了，你想看就点击左侧「云盘」也是可以查看的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4jsrc",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8k8k",
+            "text": "六、成果验收：多维表格数据表和仪表盘",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2d351",
+            "text": "上面说过两种方式能看到多维表，一种是会话中直接点击，另外一种方式就是点击左侧「云盘」，然后再点击「xxxxxxx」之后，豆包会自动弹出它自带的豆包浏览器，自家产品对接相当nice。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "bp995",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8ldv3",
+            "text": "这就是爆款视频数据列表，这里的字段如果你有其它的需要，可以直接告诉AI，叫它来调整就好了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2fe",
+            "text": "再来看看生成的工作台仪表盘。这里仪表盘的数据，后期你可以加上采集时间段，这里我暂时是没加的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "52j6h",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2f3v0",
+            "text": "也就是说工作台仪表盘，也是完全可以通过AI去调整的，你想怎么展示，展示什么数据，都是可以的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dgkr0",
+            "text": "然后下面的数据，你点开占比，可以看到所属分类的视频列表详情，这样有可能就是你要参考、或者你要模仿的标的，甚至直接二创进入你的AI自动化工作流中。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fl01q",
+            "text": "七、定时任务来自动采集爆款数据",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9j7os",
+            "text": "直接可以调用豆包定时任务",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1n1md",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6qvpa",
+            "text": "定时任务设置好之后你可以进行测试一下",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5sjv0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2av7k",
+            "text": "上面那份提示词是单次执行版。要长期跑定时任务的话，需要跟上面的多维表格进行关联一下，让定时任务的数据也跑进多维表格里。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ptf1",
+            "text": "八、举一反三：小红书、某个账号全部作品、自己的收藏夹",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "78nd9",
+            "text": "如果你想采集小红书的爆款，也是一模一样的思路，就是这么简单。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "456r1",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fmg00",
+            "text": "来看看最终的采集结果",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "79dl6",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1m06l",
+            "text": "你可以继续发散采集思维了。它不需要像Codex、或者WorkBuddy还要装一堆的什么插件也好、什么技能也好。豆包是直接重度集成了这个「AI浏览器」，要不然它也不会单独在左侧给它设置一个入口了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "airf7",
+            "text": "也就是通过「AI浏览器」可以干很多事情，有什么想法自己赶快去试试看。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6e9lt",
+            "text": "还有另一种分析，比如查找某个人所有抖音作品",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "di580",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2b91h",
+            "text": "或者采集自己收藏夹下的所有视频",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 17,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "47vrt",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a92qp",
+            "text": "等等，拉取到数据之后，再通过AI进行分析，比你自己手动去查看要更快，更全面。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9634a",
+            "text": "九、最后",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6t0np",
+            "text": "抖音提供数据源头，豆包负责采集数据，还能进行分析，飞书用来落地数据，留存采集过程和分析。抖音可以换成小红书，也可以换成其它的平台，来提供采集数据。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4a0dl",
+            "text": "同时你可以搭建属于自己电商爆款追踪、搭建客户管理系统、你的商单小金库、你的项目管理库、你的任务管理库等等等等，真的可玩性太强了，不仅仅只是关联飞书多维表、什么知识库、云文档、等等太多的模块功能都可以进行关联，真的用精了可以让你自己的效率起飞到爆。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a1q2m",
+            "text": "那么其实整条链路还是非常简单的：豆包→ 飞书生态，这里的豆包你也可以使用 Hermes Agent、Claude Code、Codex 等日常常用的Agent 产品，但是具体的体感可能没有豆包+飞书两家产品融合度更高。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "m56n",
+            "text": "如果你也想玩转豆包+飞书，可以扫描下方的二维码，飞书官方有免费的AI直播课程！！！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 18,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "eufb9",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "elnll",
+            "text": "",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "entityKey": "67f19e32-1acd-4fbe-9df9-709127052da4",
+                "mediaItems": [
+                  {
+                    "localMediaId": "28",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083936337292582913"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "entityKey": "54fcf8d6-7a54-4c49-8a9e-c6635d2e9a72",
+                "mediaItems": [
+                  {
+                    "localMediaId": "15",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083925220034064384"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "5d392af3-0aa2-450f-8726-25e3936c2d22",
+                "mediaItems": [
+                  {
+                    "localMediaId": "9",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083911497470898176"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "entityKey": "5e604bf4-855c-44ef-acde-63d66f438acb",
+                "mediaItems": [
+                  {
+                    "localMediaId": "22",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083936152030183424"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "entityKey": "03ed16dd-30cb-4304-968e-0abecf6f5785",
+                "mediaItems": [
+                  {
+                    "localMediaId": "34",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083936562174423040"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "entityKey": "203dc078-137e-4310-bf8b-54d272de8496",
+                "mediaItems": [
+                  {
+                    "localMediaId": "17",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083927301834903552"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "entityKey": "760cc874-4ba2-4c87-99dd-8c5d14ef41bb",
+                "mediaItems": [
+                  {
+                    "localMediaId": "30",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083936396792971264"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "entityKey": "572e6f07-9f40-46ca-a70a-071e0b335266",
+                "mediaItems": [
+                  {
+                    "localMediaId": "24",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083936224142823425"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "entityKey": "3317e9bd-1260-4501-8a99-335b32c0a1d8",
+                "mediaItems": [
+                  {
+                    "localMediaId": "11",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083911563560587264"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "entityKey": "052fcfff-05be-45b9-ae24-050996f78dca",
+                "mediaItems": [
+                  {
+                    "localMediaId": "32",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083936482247745536"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "entityKey": "1bcf7354-3396-4c56-a5f6-911159032a39",
+                "mediaItems": [
+                  {
+                    "localMediaId": "13",
+                    "mediaCategory": "AmplifyVideo",
+                    "mediaId": "2083911863562313728"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "c3ca96a1-1294-43d3-ba73-c14e23a85993",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083911007873966080"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {
+                "entityKey": "6aadd4ec-0131-437e-8aa0-b0e02cec7dd0",
+                "mediaItems": [
+                  {
+                    "localMediaId": "26",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083936274889740288"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "entityKey": "d7d5f637-89cc-429d-ae5f-950227e1af5e",
+                "mediaItems": [
+                  {
+                    "localMediaId": "20",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083936099764985856"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "89b88083-627b-425c-819b-754c33469218",
+                "mediaItems": [
+                  {
+                    "localMediaId": "1",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083910920934432768"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "28f53051-2bf3-4838-87ac-0e0395d3ff65",
+                "mediaItems": [
+                  {
+                    "localMediaId": "18",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2084475941208956928"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "18",
+            "value": {
+              "data": {
+                "entityKey": "f31d483c-12da-4b5d-8f62-0d79c47218a1",
+                "mediaItems": [
+                  {
+                    "localMediaId": "20",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2084480991863992320"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "entityKey": "1205aef7-697d-470d-b96c-d3dd4e49fb90",
+                "markdown": "```\n## 抖音爆款视频分析任务提示词\n\n### 一、任务目标\n找出抖音上指定关键词的爆款视频，采集详细数据，保存到飞书多维表格，并创建爆款分析工作台（仪表盘）进行可视化分析。\n\n### 二、筛选条件\n- **平台**：抖音\n- **关键词**：AI（可替换为任意关键词）\n- **时间范围**：24小时之内\n- **点赞门槛**：1万+\n- **排序方式**：按最多点赞排序\n\n### 三、数据采集项（13项）\n| 序号 | 字段名 | 字段类型 | 说明 |\n|:---:|--------|---------|------|\n| 1 | 排名 | 数字 | 按点赞数从高到低排序 |\n| 2 | 视频标题 | 文本 | 视频完整标题 |\n| 3 | 点赞量 | 数字 | 总点赞数 |\n| 4 | 评论数 | 数字 | 总评论数 |\n| 5 | 收藏数 | 数字 | 总收藏数 |\n| 6 | 转发数 | 数字 | 总转发数 |\n| 7 | 收藏率 | 百分比 | 收藏数/点赞数 |\n| 8 | 转发率 | 百分比 | 转发数/点赞数 |\n| 9 | 评论率 | 百分比 | 评论数/点赞数 |\n| 10 | 创作者 | 文本 | 作者昵称 |\n| 11 | 发布日期 | 日期 | 视频发布时间 |\n| 12 | 内容类型 | 单选 | 内容分类标签 |\n| 13 | 视频链接 | 超链接 | 抖音视频URL |\n\n### 四、分析维度（5个）\n1. **高收藏率内容类型分析** — 哪些内容用户最想存下来\n2. **高转发率内容类型分析** — 哪些内容用户最愿意分享\n3. **高评论率内容类型分析** — 哪些内容最能引发讨论\n4. **爆款内容公式总结** — 提炼可复制的爆款规律\n5. **热门方向TOP5** — 总结当前最火的内容赛道\n\n### 五、输出要求\n1. **飞书多维表格（Base）**\n   - 表名：爆款视频数据\n   - 包含上述所有字段\n   - 内容类型字段用单选标签，不同类型配不同颜色\n\n### 六、执行步骤\n1. 打开抖音网页版，搜索关键词\n2. 按最多点赞排序，筛选时间范围内1万+赞的视频\n3. 逐个点击视频，采集完整数据（点赞/评论/收藏/转发）\n4. 创建飞书多维表格，配置字段\n5. 批量写入视频数据\n6. 创建仪表盘，依次添加所有图表组件\n7. 智能重排布局，交付最终产物\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "e4741b96-00a4-4459-aaad-249033a9d348",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2083911183967678464"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOug45xagAAKAAIAAAAArScJ8wAA",
+          "media_id": "2083936152030183424",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.81,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 2.97,
+                  "rgb": {
+                    "blue": 134,
+                    "green": 149,
+                    "red": 229
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2026,
+            "original_img_url": "https://pbs.twimg.com/media/HOug45xagAAjBCh.jpg",
+            "original_img_width": 2936
+          },
+          "media_key": "3_2083936152030183424"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuhHJlaQAAKAAIAAAAArScJ8wAA",
+          "media_id": "2083936396792971264",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.04,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 0.62,
+                  "rgb": {
+                    "blue": 46,
+                    "green": 46,
+                    "red": 46
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2024,
+            "original_img_url": "https://pbs.twimg.com/media/HOuhHJlaQAAnHL_.jpg",
+            "original_img_width": 2496
+          },
+          "media_key": "3_2083936396792971264"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOug9GaaEAEKAAIAAAAArScJ8wAA",
+          "media_id": "2083936224142823425",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.54,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 1.63,
+                  "rgb": {
+                    "blue": 56,
+                    "green": 56,
+                    "red": 56
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2026,
+            "original_img_url": "https://pbs.twimg.com/media/HOug9GaaEAEnJYI.jpg",
+            "original_img_width": 2930
+          },
+          "media_key": "3_2083936224142823425"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuKBUfaoAAKAAIAAAAArScJ8wAA",
+          "media_id": "2083911007873966080",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 57.3,
+                  "rgb": {
+                    "blue": 115,
+                    "green": 115,
+                    "red": 115
+                  }
+                },
+                {
+                  "percentage": 39.41,
+                  "rgb": {
+                    "blue": 234,
+                    "green": 220,
+                    "red": 214
+                  }
+                },
+                {
+                  "percentage": 0.83,
+                  "rgb": {
+                    "blue": 64,
+                    "green": 88,
+                    "red": 217
+                  }
+                },
+                {
+                  "percentage": 0.77,
+                  "rgb": {
+                    "blue": 83,
+                    "green": 94,
+                    "red": 165
+                  }
+                },
+                {
+                  "percentage": 0.33,
+                  "rgb": {
+                    "blue": 238,
+                    "green": 196,
+                    "red": 178
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1000,
+            "original_img_url": "https://pbs.twimg.com/media/HOuKBUfaoAAGQ36.jpg",
+            "original_img_width": 1280
+          },
+          "media_key": "3_2083911007873966080"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuKLkfbcAAKAAIAAAAArScJ8wAA",
+          "media_id": "2083911183967678464",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.52,
+                  "rgb": {
+                    "blue": 228,
+                    "green": 217,
+                    "red": 210
+                  }
+                },
+                {
+                  "percentage": 3.67,
+                  "rgb": {
+                    "blue": 134,
+                    "green": 134,
+                    "red": 134
+                  }
+                },
+                {
+                  "percentage": 0.97,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 111,
+                    "red": 19
+                  }
+                },
+                {
+                  "percentage": 0.83,
+                  "rgb": {
+                    "blue": 76,
+                    "green": 95,
+                    "red": 218
+                  }
+                },
+                {
+                  "percentage": 0.57,
+                  "rgb": {
+                    "blue": 238,
+                    "green": 203,
+                    "red": 144
+                  }
+                }
+              ]
+            },
+            "original_img_height": 931,
+            "original_img_url": "https://pbs.twimg.com/media/HOuKLkfbcAAqcIU.jpg",
+            "original_img_width": 1280
+          },
+          "media_key": "3_2083911183967678464"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuhADdakAAKAAIAAAAArScJ8wAA",
+          "media_id": "2083936274889740288",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.66,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 1.22,
+                  "rgb": {
+                    "blue": 87,
+                    "green": 87,
+                    "red": 87
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1816,
+            "original_img_url": "https://pbs.twimg.com/media/HOuhADdakAA9O66.jpg",
+            "original_img_width": 2496
+          },
+          "media_key": "3_2083936274889740288"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuKhqlbkAAKAAIAAAAArScJ8wAA",
+          "media_id": "2083911563560587264",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.8,
+                  "rgb": {
+                    "blue": 251,
+                    "green": 251,
+                    "red": 251
+                  }
+                },
+                {
+                  "percentage": 0.95,
+                  "rgb": {
+                    "blue": 68,
+                    "green": 92,
+                    "red": 220
+                  }
+                },
+                {
+                  "percentage": 0.46,
+                  "rgb": {
+                    "blue": 179,
+                    "green": 217,
+                    "red": 251
+                  }
+                },
+                {
+                  "percentage": 0.3,
+                  "rgb": {
+                    "blue": 66,
+                    "green": 163,
+                    "red": 249
+                  }
+                },
+                {
+                  "percentage": 0.22,
+                  "rgb": {
+                    "blue": 248,
+                    "green": 194,
+                    "red": 181
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1077,
+            "original_img_url": "https://pbs.twimg.com/media/HOuKhqlbkAA_J2E.jpg",
+            "original_img_width": 1280
+          },
+          "media_key": "3_2083911563560587264"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuW8k6bsAAKAAIAAAAArScJ8wAA",
+          "media_id": "2083925220034064384",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 90.27,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 249,
+                    "red": 249
+                  }
+                },
+                {
+                  "percentage": 7.31,
+                  "rgb": {
+                    "blue": 38,
+                    "green": 38,
+                    "red": 38
+                  }
+                },
+                {
+                  "percentage": 0.84,
+                  "rgb": {
+                    "blue": 70,
+                    "green": 94,
+                    "red": 219
+                  }
+                },
+                {
+                  "percentage": 0.48,
+                  "rgb": {
+                    "blue": 135,
+                    "green": 151,
+                    "red": 232
+                  }
+                },
+                {
+                  "percentage": 0.1,
+                  "rgb": {
+                    "blue": 58,
+                    "green": 45,
+                    "red": 39
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1890,
+            "original_img_url": "https://pbs.twimg.com/media/HOuW8k6bsAARh_G.jpg",
+            "original_img_width": 2480
+          },
+          "media_key": "3_2083925220034064384"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAECgABHOuKzILaoAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2083911863562313728",
+          "media_info": {
+            "__typename": "ApiVideo",
+            "aspect_ratio": {
+              "denominator": 540,
+              "numerator": 701
+            },
+            "duration_millis": 106556,
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 74.3,
+                    "rgb": {
+                      "blue": 33,
+                      "green": 21,
+                      "red": 21
+                    }
+                  },
+                  {
+                    "percentage": 5.55,
+                    "rgb": {
+                      "blue": 182,
+                      "green": 125,
+                      "red": 61
+                    }
+                  },
+                  {
+                    "percentage": 5.2,
+                    "rgb": {
+                      "blue": 77,
+                      "green": 43,
+                      "red": 23
+                    }
+                  },
+                  {
+                    "percentage": 4.13,
+                    "rgb": {
+                      "blue": 218,
+                      "green": 192,
+                      "red": 169
+                    }
+                  },
+                  {
+                    "percentage": 1.85,
+                    "rgb": {
+                      "blue": 159,
+                      "green": 176,
+                      "red": 185
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 2160,
+              "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2083911863562313728/img/YQWqpqWkedTN0TI-.jpg",
+              "original_img_width": 2804
+            },
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2083911863562313728/pl/Ml0XmxDCrdulkqMy.m3u8?tag=29&v=d10"
+              },
+              {
+                "bit_rate": 25128000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083911863562313728/vid/avc1/2804x2160/61qfiz667U7CMIR7.mp4?tag=29"
+              },
+              {
+                "bit_rate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083911863562313728/vid/avc1/934x720/HqOBRjj1D5LVr2PZ.mp4?tag=29"
+              },
+              {
+                "bit_rate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083911863562313728/vid/avc1/466x360/DE5J1F246hkURP9S.mp4?tag=29"
+              },
+              {
+                "bit_rate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083911863562313728/vid/avc1/1402x1080/84ae8rkKWHgXnz4T.mp4?tag=29"
+              },
+              {
+                "bit_rate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2083911863562313728/vid/avc1/350x270/pYzhdrl1xPCXu-QF.mp4?tag=29"
+              }
+            ]
+          },
+          "media_key": "13_2083911863562313728"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuhDr7aYAEKAAIAAAAArScJ8wAA",
+          "media_id": "2083936337292582913",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.56,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 4.17,
+                  "rgb": {
+                    "blue": 42,
+                    "green": 45,
+                    "red": 59
+                  }
+                },
+                {
+                  "percentage": 2.78,
+                  "rgb": {
+                    "blue": 93,
+                    "green": 113,
+                    "red": 221
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2026,
+            "original_img_url": "https://pbs.twimg.com/media/HOuhDr7aYAExAoy.jpg",
+            "original_img_width": 2928
+          },
+          "media_key": "3_2083936337292582913"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHO2QawUbcAAKAAIAAAAArScJ8wAA",
+          "media_id": "2084480991863992320",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 83.75,
+                  "rgb": {
+                    "blue": 211,
+                    "green": 211,
+                    "red": 211
+                  }
+                },
+                {
+                  "percentage": 11.47,
+                  "rgb": {
+                    "blue": 48,
+                    "green": 48,
+                    "red": 48
+                  }
+                }
+              ]
+            },
+            "original_img_height": 214,
+            "original_img_url": "https://pbs.twimg.com/media/HO2QawUbcAA_Y7R.png",
+            "original_img_width": 214
+          },
+          "media_key": "3_2084480991863992320"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuhQxra8AAKAAIAAAAArScJ8wAA",
+          "media_id": "2083936562174423040",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 80.72,
+                  "rgb": {
+                    "blue": 26,
+                    "green": 26,
+                    "red": 26
+                  }
+                },
+                {
+                  "percentage": 9.38,
+                  "rgb": {
+                    "blue": 225,
+                    "green": 225,
+                    "red": 225
+                  }
+                },
+                {
+                  "percentage": 3.04,
+                  "rgb": {
+                    "blue": 224,
+                    "green": 108,
+                    "red": 50
+                  }
+                },
+                {
+                  "percentage": 1.9,
+                  "rgb": {
+                    "blue": 30,
+                    "green": 38,
+                    "red": 77
+                  }
+                },
+                {
+                  "percentage": 1.81,
+                  "rgb": {
+                    "blue": 39,
+                    "green": 56,
+                    "red": 144
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2070,
+            "original_img_url": "https://pbs.twimg.com/media/HOuhQxra8AAUSPI.jpg",
+            "original_img_width": 3594
+          },
+          "media_key": "3_2083936562174423040"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHO2L0xKboAAKAAIAAAAArScJ8wAA",
+          "media_id": "2084475941208956928",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.66,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 251,
+                    "red": 251
+                  }
+                },
+                {
+                  "percentage": 0.1,
+                  "rgb": {
+                    "blue": 239,
+                    "green": 189,
+                    "red": 164
+                  }
+                }
+              ]
+            },
+            "original_img_height": 927,
+            "original_img_url": "https://pbs.twimg.com/media/HO2L0xKboAAx4LD.jpg",
+            "original_img_width": 1280
+          },
+          "media_key": "3_2084475941208956928"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuhMH7aoAAKAAIAAAAArScJ8wAA",
+          "media_id": "2083936482247745536",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 87.02,
+                  "rgb": {
+                    "blue": 27,
+                    "green": 27,
+                    "red": 27
+                  }
+                },
+                {
+                  "percentage": 10.36,
+                  "rgb": {
+                    "blue": 230,
+                    "green": 230,
+                    "red": 230
+                  }
+                },
+                {
+                  "percentage": 0.74,
+                  "rgb": {
+                    "blue": 36,
+                    "green": 47,
+                    "red": 109
+                  }
+                },
+                {
+                  "percentage": 0.39,
+                  "rgb": {
+                    "blue": 112,
+                    "green": 61,
+                    "red": 36
+                  }
+                },
+                {
+                  "percentage": 0.29,
+                  "rgb": {
+                    "blue": 27,
+                    "green": 28,
+                    "red": 35
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1846,
+            "original_img_url": "https://pbs.twimg.com/media/HOuhMH7aoAAhFWf.jpg",
+            "original_img_width": 2498
+          },
+          "media_key": "3_2083936482247745536"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOug13Ea4AAKAAIAAAAArScJ8wAA",
+          "media_id": "2083936099764985856",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.82,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 2.76,
+                  "rgb": {
+                    "blue": 66,
+                    "green": 66,
+                    "red": 66
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1890,
+            "original_img_url": "https://pbs.twimg.com/media/HOug13Ea4AAg4BI.jpg",
+            "original_img_width": 2744
+          },
+          "media_key": "3_2083936099764985856"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuJ8QnaoAAKAAIAAAAArScJ8wAA",
+          "media_id": "2083910920934432768",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 70.21,
+                  "rgb": {
+                    "blue": 251,
+                    "green": 249,
+                    "red": 248
+                  }
+                },
+                {
+                  "percentage": 26.33,
+                  "rgb": {
+                    "blue": 111,
+                    "green": 111,
+                    "red": 110
+                  }
+                },
+                {
+                  "percentage": 2.31,
+                  "rgb": {
+                    "blue": 72,
+                    "green": 94,
+                    "red": 220
+                  }
+                },
+                {
+                  "percentage": 0.27,
+                  "rgb": {
+                    "blue": 217,
+                    "green": 245,
+                    "red": 227
+                  }
+                },
+                {
+                  "percentage": 0.2,
+                  "rgb": {
+                    "blue": 251,
+                    "green": 209,
+                    "red": 195
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1000,
+            "original_img_url": "https://pbs.twimg.com/media/HOuJ8QnaoAAJfWt.jpg",
+            "original_img_width": 1280
+          },
+          "media_key": "3_2083910920934432768"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuY1wObkAAKAAIAAAAArScJ8wAA",
+          "media_id": "2083927301834903552",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.23,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 3.6,
+                  "rgb": {
+                    "blue": 114,
+                    "green": 131,
+                    "red": 227
+                  }
+                },
+                {
+                  "percentage": 0.4,
+                  "rgb": {
+                    "blue": 73,
+                    "green": 97,
+                    "red": 220
+                  }
+                },
+                {
+                  "percentage": 0.12,
+                  "rgb": {
+                    "blue": 166,
+                    "green": 215,
+                    "red": 249
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 80,
+                    "green": 103,
+                    "red": 220
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1890,
+            "original_img_url": "https://pbs.twimg.com/media/HOuY1wObkAARQq_.jpg",
+            "original_img_width": 2738
+          },
+          "media_key": "3_2083927301834903552"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHOuKd0Ya8AAKAAIAAAAArScJ8wAA",
+          "media_id": "2083911497470898176",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 3.23,
+                  "rgb": {
+                    "blue": 67,
+                    "green": 91,
+                    "red": 218
+                  }
+                },
+                {
+                  "percentage": 0.86,
+                  "rgb": {
+                    "blue": 144,
+                    "green": 158,
+                    "red": 230
+                  }
+                },
+                {
+                  "percentage": 0.65,
+                  "rgb": {
+                    "blue": 125,
+                    "green": 125,
+                    "red": 125
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 40,
+                    "green": 152,
+                    "red": 250
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1462,
+            "original_img_url": "https://pbs.twimg.com/media/HOuKd0Ya8AAo1Fo.jpg",
+            "original_img_width": 1622
+          },
+          "media_key": "3_2083911497470898176"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

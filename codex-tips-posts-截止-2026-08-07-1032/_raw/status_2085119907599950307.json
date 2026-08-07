@@ -1,0 +1,280 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/RoundtableSpace/status/2085119907599950307",
+    "id": "2085119907599950307",
+    "text": "Someone figured out how to never hit Codex usage limits using GPT-5.6 Luna and a repo called sol-advisor. Three minutes to set up.\n\n",
+    "raw_text": {
+      "text": "Someone figured out how to never hit Codex usage limits using GPT-5.6 Luna and a repo called sol-advisor. Three minutes to set up.\n\nhttps://t.co/NrQ7UWBK5r",
+      "display_text_range": [
+        0,
+        155
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            132,
+            155
+          ],
+          "id": "2083871494900510720",
+          "display": "pic.x.com/NrQ7UWBK5r",
+          "original": "https://t.co/NrQ7UWBK5r",
+          "replacement": "https://x.com/Av1dlive/status/2083872062071095566/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "RoundtableSpace",
+      "url": "https://x.com/RoundtableSpace",
+      "id": "1536693901230321666",
+      "followers": 258618,
+      "following": 6259,
+      "likes": 211821,
+      "media_count": 32625,
+      "name": "0xMarioNawfal",
+      "description": "@MarioNawfal’s Crypto & AI Account",
+      "raw_description": {
+        "text": "@MarioNawfal’s Crypto & AI Account",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1536693901230321666/1706150593",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2012162102283407360/U-fPj6wg_200x200.jpg",
+      "joined": "Tue Jun 14 12:56:16 +0000 2022",
+      "protected": false,
+      "website": {
+        "url": "http://roundtable.live",
+        "display_url": "roundtable.live"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "organization"
+      },
+      "avatar_color": null
+    },
+    "replies": 10,
+    "retweets": 8,
+    "likes": 151,
+    "bookmarks": 125,
+    "quotes": 0,
+    "created_at": "Wed Aug 05 21:45:00 +0000 2026",
+    "created_timestamp": 1785966300,
+    "possibly_sensitive": false,
+    "views": 53887,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2083871494900510720",
+          "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/1608x1080/vqmvb5FdVvmQnb_b.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2083871494900510720/img/Tz1UTuJ5qb2O49CV.jpg",
+          "duration": 37.25,
+          "width": 1608,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/pl/VNY_Nyhmfrp1MPgJ.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/402x270/LmdbWcQjNLVYOqhp.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/536x360/IhFpWYqOgdFXRoda.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/1072x720/EyuVD4BuX7zFmv-x.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/1608x1080/vqmvb5FdVvmQnb_b.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": {
+            "screen_name": "Av1dlive",
+            "url": "https://x.com/Av1dlive",
+            "id": "1713062826175299584",
+            "followers": 22699,
+            "following": 400,
+            "likes": 34456,
+            "media_count": 974,
+            "statuses": 15904,
+            "name": "Avid",
+            "description": "I write, read and build | I normie-maxx | building harness-agnostic memory for ai agents",
+            "raw_description": {
+              "text": "I write, read and build | I normie-maxx | building harness-agnostic memory for ai agents",
+              "facets": []
+            },
+            "location": "bruh ",
+            "banner_url": "https://pbs.twimg.com/profile_banners/1713062826175299584/1782045055",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2010392290590912512/x7vtAe5W_normal.jpg",
+            "joined": "Sat Oct 14 05:23:09 +0000 2023",
+            "protected": false,
+            "website": {
+              "url": "https://github.com/codejunkie99/agentic-stack",
+              "display_url": "github.com/codejunkie99/a…"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/pl/VNY_Nyhmfrp1MPgJ.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/402x270/LmdbWcQjNLVYOqhp.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/536x360/IhFpWYqOgdFXRoda.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/1072x720/EyuVD4BuX7zFmv-x.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/1608x1080/vqmvb5FdVvmQnb_b.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2083871494900510720",
+          "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/1608x1080/vqmvb5FdVvmQnb_b.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2083871494900510720/img/Tz1UTuJ5qb2O49CV.jpg",
+          "duration": 37.25,
+          "width": 1608,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/pl/VNY_Nyhmfrp1MPgJ.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/402x270/LmdbWcQjNLVYOqhp.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/536x360/IhFpWYqOgdFXRoda.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/1072x720/EyuVD4BuX7zFmv-x.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/1608x1080/vqmvb5FdVvmQnb_b.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": {
+            "screen_name": "Av1dlive",
+            "url": "https://x.com/Av1dlive",
+            "id": "1713062826175299584",
+            "followers": 22699,
+            "following": 400,
+            "likes": 34456,
+            "media_count": 974,
+            "statuses": 15904,
+            "name": "Avid",
+            "description": "I write, read and build | I normie-maxx | building harness-agnostic memory for ai agents",
+            "raw_description": {
+              "text": "I write, read and build | I normie-maxx | building harness-agnostic memory for ai agents",
+              "facets": []
+            },
+            "location": "bruh ",
+            "banner_url": "https://pbs.twimg.com/profile_banners/1713062826175299584/1782045055",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2010392290590912512/x7vtAe5W_normal.jpg",
+            "joined": "Sat Oct 14 05:23:09 +0000 2023",
+            "protected": false,
+            "website": {
+              "url": "https://github.com/codejunkie99/agentic-stack",
+              "display_url": "github.com/codejunkie99/a…"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/pl/VNY_Nyhmfrp1MPgJ.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/402x270/LmdbWcQjNLVYOqhp.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/536x360/IhFpWYqOgdFXRoda.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/1072x720/EyuVD4BuX7zFmv-x.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2083871494900510720/vid/avc1/1608x1080/vqmvb5FdVvmQnb_b.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}
