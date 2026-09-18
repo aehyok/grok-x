@@ -1,0 +1,94 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Fred834567/status/2097968067552665780",
+    "id": "2097968067552665780",
+    "text": "Nex-N2.5 是 Nex-AGI 开源的 Agent 模型家族，Apache-2.0 协议，三档可选，全部开源可商用。\n\n说人话就是：它能“看懂”屏幕，然后像人一样操作电脑。\n\n举个例子。你让它“打开这个网页，找到最新发布的产品，整理成表格”，它自己会拆步骤、开浏览器、抓信息、写总结，不需要你告诉它点哪里。\n\n官方演示里 Pro 能打 Pokemon 白金版（468 步操作）、编辑 Blender 场景、根据一句话生成可交互 HTML 游戏。\n\n三档模型，按需选择：\n\nNex-N2.5 Mini（35B）：总参数约 35B / 激活约 3B，接受图像和文本输入，支持视觉电脑操作、浏览和需要界面反馈的任务。参考部署为双 H100 节点。\n\nNex-N2.5 Pro（397B）：总参数约 397B / 激活约 17B，面向更重的电脑使用负载。权重目前仍标记为“coming soon”。\n\nNex-N2.5 Max（1.6T）：纯文本 MoE，总参数约 1.6T / 激活约 49B，专为复杂推理、代码生成和 Agent 工作流设计。\n\n实测在 OSWorld-2 上，Pro 标了 56.4，Claude Opus 5 是 68.3。Mini 的多模态 Computer Use 能力与 Gemma 4 12B 的“能看懂但不动手”形成了鲜明对比，Mini 是真正的“看→操作→再看→修正”闭环。\n\n实操干货：三步跑起来\n\n第一步，选版本。Mac 用户直接上 MLX 4-bit 版本，约 19.5GB，安装 mlx-lm 后直接运行。NVIDIA 用户用 GGUF 格式，Q4_K_M 版本约 21GB，配合 llama.cpp 或 LM Studio 加载。不想折腾环境的，OpenRouter 上 Mini 和 Pro 目前都限时免费。\n\n第二步，让它干活。支持原生长上下文 256K，给它一个目标，比如“整理这个文件夹里的所有 PDF 并生成摘要”，它自己规划步骤、调用工具、执行任务。\n\n部署门槛方面，Mini 的 BF16 权重约 70GB，官方参考部署是双 H100 节点。量化版本已由社区发布，24GB 单卡可跑。Pro 目前只有托管端点可用，权重“即将推出”。Max 的参考部署是 16 张 H200。\n\n一句话总结：Mini 是现在本地能跑 Computer Use 的开源选项。先跑起来，等 Pro 权重开放直接换引擎就行。\n\n🔗 https://huggingface.co/nex-agi\n🔗 OpenRouter: https://openrouter.ai/nex-agi",
+    "raw_text": {
+      "text": "Nex-N2.5 是 Nex-AGI 开源的 Agent 模型家族，Apache-2.0 协议，三档可选，全部开源可商用。\n\n说人话就是：它能“看懂”屏幕，然后像人一样操作电脑。\n\n举个例子。你让它“打开这个网页，找到最新发布的产品，整理成表格”，它自己会拆步骤、开浏览器、抓信息、写总结，不需要你告诉它点哪里。\n\n官方演示里 Pro 能打 Pokemon 白金版（468 步操作）、编辑 Blender 场景、根据一句话生成可交互 HTML 游戏。\n\n三档模型，按需选择：\n\nNex-N2.5 Mini（35B）：总参数约 35B / 激活约 3B，接受图像和文本输入，支持视觉电脑操作、浏览和需要界面反馈的任务。参考部署为双 H100 节点。\n\nNex-N2.5 Pro（397B）：总参数约 397B / 激活约 17B，面向更重的电脑使用负载。权重目前仍标记为“coming soon”。\n\nNex-N2.5 Max（1.6T）：纯文本 MoE，总参数约 1.6T / 激活约 49B，专为复杂推理、代码生成和 Agent 工作流设计。\n\n实测在 OSWorld-2 上，Pro 标了 56.4，Claude Opus 5 是 68.3。Mini 的多模态 Computer Use 能力与 Gemma 4 12B 的“能看懂但不动手”形成了鲜明对比，Mini 是真正的“看→操作→再看→修正”闭环。\n\n实操干货：三步跑起来\n\n第一步，选版本。Mac 用户直接上 MLX 4-bit 版本，约 19.5GB，安装 mlx-lm 后直接运行。NVIDIA 用户用 GGUF 格式，Q4_K_M 版本约 21GB，配合 llama.cpp 或 LM Studio 加载。不想折腾环境的，OpenRouter 上 Mini 和 Pro 目前都限时免费。\n\n第二步，让它干活。支持原生长上下文 256K，给它一个目标，比如“整理这个文件夹里的所有 PDF 并生成摘要”，它自己规划步骤、调用工具、执行任务。\n\n部署门槛方面，Mini 的 BF16 权重约 70GB，官方参考部署是双 H100 节点。量化版本已由社区发布，24GB 单卡可跑。Pro 目前只有托管端点可用，权重“即将推出”。Max 的参考部署是 16 张 H200。\n\n一句话总结：Mini 是现在本地能跑 Computer Use 的开源选项。先跑起来，等 Pro 权重开放直接换引擎就行。\n\n🔗 https://t.co/1nA56ZX8xV\n🔗 OpenRouter: https://t.co/iNNaScJz7m",
+      "display_text_range": [
+        0,
+        1096
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            1033,
+            1056
+          ],
+          "original": "https://t.co/1nA56ZX8xV",
+          "replacement": "https://huggingface.co/nex-agi",
+          "display": "huggingface.co/nex-agi"
+        },
+        {
+          "type": "url",
+          "indices": [
+            1071,
+            1094
+          ],
+          "original": "https://t.co/iNNaScJz7m",
+          "replacement": "https://openrouter.ai/nex-agi",
+          "display": "openrouter.ai/nex-agi"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Fred834567",
+      "url": "https://x.com/Fred834567",
+      "id": "2068531090739081216",
+      "followers": 8068,
+      "following": 705,
+      "likes": 2270,
+      "media_count": 78,
+      "name": "Fred-New",
+      "description": "PhD in 🇭🇰 | AI × Web3 Insights\nTech & Trends Deep Dives\nOpen-source AI tools & agents | Practical workflows \nBilingual Insights 🇺🇸 & 🇨🇳 | DM open",
+      "raw_description": {
+        "text": "PhD in 🇭🇰 | AI × Web3 Insights\nTech & Trends Deep Dives\nOpen-source AI tools & agents | Practical workflows \nBilingual Insights 🇺🇸 & 🇨🇳 | DM open",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2068531090739081216/1782020299",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2068532065889570816/m_4UBZhP_200x200.jpg",
+      "joined": "Sun Jun 21 03:08:09 +0000 2026",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 52,
+    "retweets": 29,
+    "likes": 34,
+    "bookmarks": 2,
+    "quotes": 12,
+    "created_at": "Thu Sep 10 08:39:00 +0000 2026",
+    "created_timestamp": 1789029540,
+    "views": 5661,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web Client",
+    "card": {
+      "url": "https://huggingface.co/nex-agi",
+      "title": "nex-agi (Nex AGI)",
+      "description": "AGI, Nex",
+      "domain": "huggingface.co",
+      "image": {
+        "width": 800,
+        "height": 419,
+        "url": "https://pbs.twimg.com/card_img/2097887423158247424/-em-k8kX?format=jpg&name=800x419"
+      }
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

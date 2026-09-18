@@ -1,0 +1,62 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/sudoingX/status/2088551892901327198",
+    "id": "2088551892901327198",
+    "text": "BREAKING: Anthropic CEO Dario Amodei has reportedly requested an emergency session with lawmakers after qwen 3.8 a 27b open model outscored opus 4.6 max on livecodebench while running offline on a used $900 graphics card. \n\nhe is asking for restrictions. for safety.",
+    "raw_text": {
+      "text": "BREAKING: Anthropic CEO Dario Amodei has reportedly requested an emergency session with lawmakers after qwen 3.8 a 27b open model outscored opus 4.6 max on livecodebench while running offline on a used $900 graphics card. \n\nhe is asking for restrictions. for safety.",
+      "display_text_range": [
+        0,
+        266
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "sudoingX",
+      "url": "https://x.com/sudoingX",
+      "id": "1555661341914198016",
+      "followers": 34821,
+      "following": 1099,
+      "likes": 9377,
+      "media_count": 1060,
+      "name": "Sudo su",
+      "description": "GPU/local LLM. more RAM and OSS... everywhere",
+      "raw_description": {
+        "text": "GPU/local LLM. more RAM and OSS... everywhere",
+        "facets": []
+      },
+      "location": "Bangkok, Thailand",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1555661341914198016/1780050322",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2059155391200833536/szNfExnk_200x200.jpg",
+      "joined": "Fri Aug 05 21:05:57 +0000 2022",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 367,
+    "retweets": 595,
+    "likes": 11566,
+    "bookmarks": 2597,
+    "quotes": 166,
+    "created_at": "Sat Aug 15 09:02:29 +0000 2026",
+    "created_timestamp": 1786784549,
+    "views": 1194946,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

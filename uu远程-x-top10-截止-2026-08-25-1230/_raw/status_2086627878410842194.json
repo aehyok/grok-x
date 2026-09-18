@@ -1,0 +1,177 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/imwritingbugs/status/2086627878410842194",
+    "id": "2086627878410842194",
+    "text": "我试了一圈还是回归到了古法 rustdesk\n搞来搞去还是电脑最好用，tui 和 gui 都能玩……\n另外 uu 远程做的真不错，我有几台机器用的uu 😂",
+    "raw_text": {
+      "text": "我试了一圈还是回归到了古法 rustdesk\n搞来搞去还是电脑最好用，tui 和 gui 都能玩……\n另外 uu 远程做的真不错，我有几台机器用的uu 😂",
+      "display_text_range": [
+        0,
+        77
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "imwritingbugs",
+      "url": "https://x.com/imwritingbugs",
+      "id": "15490641",
+      "followers": 2714,
+      "following": 1408,
+      "likes": 4740,
+      "media_count": 575,
+      "name": "Duskzhen | 夕阳针",
+      "description": "DeepChat https://github.com/ThinkInAIXYZ/deepchat\nDimAgent http://dimagent.com/\nVokie https://vokie.com/",
+      "raw_description": {
+        "text": "DeepChat https://t.co/8whJ55KF9h\nDimAgent https://t.co/obSHCqBgSh\nVokie https://t.co/7vuseFPnWE",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              9,
+              32
+            ],
+            "original": "https://t.co/8whJ55KF9h",
+            "replacement": "https://github.com/ThinkInAIXYZ/deepchat",
+            "display": "github.com/ThinkInAIXYZ/d…"
+          },
+          {
+            "type": "url",
+            "indices": [
+              42,
+              65
+            ],
+            "original": "https://t.co/obSHCqBgSh",
+            "replacement": "http://dimagent.com/",
+            "display": "dimagent.com"
+          },
+          {
+            "type": "url",
+            "indices": [
+              72,
+              95
+            ],
+            "original": "https://t.co/7vuseFPnWE",
+            "replacement": "https://vokie.com/",
+            "display": "vokie.com"
+          }
+        ]
+      },
+      "location": "Shanghai",
+      "banner_url": "https://pbs.twimg.com/profile_banners/15490641/1782893824",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2078371448146866176/As446v9m_200x200.jpg",
+      "joined": "Sat Jul 19 06:47:49 +0000 2008",
+      "protected": false,
+      "website": {
+        "url": "https://github.com/sponsors/zerob13",
+        "display_url": "github.com/sponsors/zerob…"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 58,
+    "retweets": 0,
+    "likes": 16,
+    "bookmarks": 10,
+    "quotes": 1,
+    "created_at": "Mon Aug 10 01:37:08 +0000 2026",
+    "created_timestamp": 1786325828,
+    "views": 63757,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/LiuVaayne/status/2086476497678979305",
+      "id": "2086476497678979305",
+      "text": "之前我也是各种折腾手机终端，但是最近变了，因为玩发现怎么样都不好用。\n换 amp orbs 加本地 bb ，直接浏览器完成所有的事情，还能管理多个机器，TUI 方便太多了",
+      "raw_text": {
+        "text": "之前我也是各种折腾手机终端，但是最近变了，因为玩发现怎么样都不好用。\n换 amp orbs 加本地 bb ，直接浏览器完成所有的事情，还能管理多个机器，TUI 方便太多了",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "facets": []
+      },
+      "author": {
+        "screen_name": "LiuVaayne",
+        "url": "https://x.com/LiuVaayne",
+        "id": "488300066",
+        "followers": 1513,
+        "following": 1190,
+        "likes": 929,
+        "media_count": 182,
+        "name": "Vaayne",
+        "description": "https://recally.io https://tokenflux.ai",
+        "raw_description": {
+          "text": "https://t.co/7j64WyRCdq https://t.co/30oEZlEixd",
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                0,
+                23
+              ],
+              "original": "https://t.co/7j64WyRCdq",
+              "replacement": "https://recally.io",
+              "display": "recally.io"
+            },
+            {
+              "type": "url",
+              "indices": [
+                24,
+                47
+              ],
+              "original": "https://t.co/30oEZlEixd",
+              "replacement": "https://tokenflux.ai",
+              "display": "tokenflux.ai"
+            }
+          ]
+        },
+        "location": "",
+        "banner_url": "",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1630592684619608064/QpGd6yxb_200x200.jpg",
+        "joined": "Fri Feb 10 09:26:45 +0000 2012",
+        "protected": false,
+        "website": {
+          "url": "https://vaayne.com",
+          "display_url": "vaayne.com"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 0,
+      "retweets": 0,
+      "likes": 3,
+      "bookmarks": 1,
+      "quotes": 1,
+      "created_at": "Sun Aug 09 15:35:36 +0000 2026",
+      "created_timestamp": 1786289736,
+      "views": 3587,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "zh",
+      "replying_to": null,
+      "replying_to_status": null,
+      "source": "Twitter for iPhone",
+      "twitter_card": "tweet",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,2467 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/vista8/status/2092188810893496515",
+    "id": "2092188810893496515",
+    "text": "https://x.com/i/article/2092177899277406208",
+    "raw_text": {
+      "text": "https://t.co/13aMjk7O6v",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            0,
+            23
+          ],
+          "original": "https://t.co/13aMjk7O6v",
+          "replacement": "https://x.com/i/article/2092177899277406208",
+          "display": "x.com/i/article/2092…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "vista8",
+      "url": "https://x.com/vista8",
+      "id": "6690032",
+      "followers": 123433,
+      "following": 1624,
+      "likes": 11130,
+      "media_count": 3141,
+      "name": "向阳乔木",
+      "description": "喜欢摇滚乐、爱钓鱼的PM",
+      "raw_description": {
+        "text": "喜欢摇滚乐、爱钓鱼的PM",
+        "facets": []
+      },
+      "location": "Beijing",
+      "banner_url": "https://pbs.twimg.com/profile_banners/6690032/1681134125",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_200x200.jpg",
+      "joined": "Sat Jun 09 05:48:52 +0000 2007",
+      "protected": false,
+      "website": {
+        "url": "https://blog.qiaomu.ai",
+        "display_url": "blog.qiaomu.ai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 21,
+    "retweets": 22,
+    "likes": 103,
+    "bookmarks": 150,
+    "quotes": 3,
+    "created_at": "Tue Aug 25 09:54:18 +0000 2026",
+    "created_timestamp": 1787651658,
+    "possibly_sensitive": false,
+    "views": 28980,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-25T09:54:18.000Z",
+      "modified_at": "2026-08-25T09:54:18.000Z",
+      "id": "2092177899277406208",
+      "title": "「豆包工作」现教现学：从一份日文 PDF 到官网、视频、PPT 全搞定，打通飞书后太爽了！",
+      "preview_text": "上月底，豆包与飞书合并。\n上周，豆包推出了工作模式。\n昨天，字节跳动正式发布了「豆包工作」。\n字节这一系列动作快得不行，目标清晰：做一个面向生产力场景的独立 Agent 产品。",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHQjyklHaQAAKAAIAAAAAAGYU8AAA",
+        "media_id": "2092188737166000128",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 48.7,
+                "rgb": {
+                  "blue": 85,
+                  "green": 35,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 37.55,
+                "rgb": {
+                  "blue": 198,
+                  "green": 96,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 7.48,
+                "rgb": {
+                  "blue": 45,
+                  "green": 17,
+                  "red": 1
+                }
+              },
+              {
+                "percentage": 4.9,
+                "rgb": {
+                  "blue": 212,
+                  "green": 176,
+                  "red": 147
+                }
+              },
+              {
+                "percentage": 2.01,
+                "rgb": {
+                  "blue": 174,
+                  "green": 118,
+                  "red": 74
+                }
+              }
+            ]
+          },
+          "original_img_height": 726,
+          "original_img_url": "https://pbs.twimg.com/media/HQjyklHaQAAveEl.jpg",
+          "original_img_width": 1815
+        },
+        "media_key": "3_2092188737166000128"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "apnsm",
+            "text": "上月底，豆包与飞书合并。\n上周，豆包推出了工作模式。\n昨天，字节跳动正式发布了「豆包工作」。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 23,
+                "offset": 18,
+                "style": "Bold"
+              }
+            ],
+            "key": "21uaf",
+            "text": "字节这一系列动作快得不行，目标清晰：做一个面向生产力场景的独立 Agent 产品。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "s1nn",
+            "text": "豆包给人的印象是适合聊天，但新出的「豆包工作」在办公场景到底能不能打？直接上案例。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8edkm",
+            "text": "「豆包工作」现教现学",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a1dfi",
+            "text": "先说说背景，昨天一个大学同学找我，想学习如何把 AI 用在他的实际业务中。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "77l1h",
+            "text": "这个朋友叫吴凡，特别能折腾，做过电脑报编辑，做过团购网站，这几年一直做农产品种植外贸，他把日本山椒引到中国南方种植，然后再出口到日本，用于餐饮、化妆、医药等领域。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "71dn8",
+            "text": "首先他跟我抱怨说，自己官网半年多了都没搞好，我问他有没有什么企业资料。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3olau",
+            "text": "他微信发我一个他们日本山椒产品的PDF手册如下：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4lp7e",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "33abh",
+            "text": "全是日文，而且全是图片... 我去！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dnknn",
+            "text": "但想到豆包的多模态很强，应该不是障碍，直接上传PDF，然后对豆包工作说：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dfitj",
+            "text": "“读取 PDF 内容，制作一个精美的企业官网，支持用户浏览查看、询盘咨询。”",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "70pas",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ri3",
+            "text": "等了10分钟不到，网站做好了，还支持询盘。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "88kht",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aikbr",
+            "text": "不过他说，哥，能不能再来一个纯日文版？我说没问题，安排！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "43buh",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "klvs",
+            "text": "只是翻译和移动适配，这次只花了3分钟左右搞定。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5oclr",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d8pc9",
+            "text": "朋友说他坚持每天学日文，但现在水平也仅限于简单沟通。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6f8kh",
+            "text": "但他又想扩大下产品社交媒体传播，如Tiktok、X、Instagram等平台。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e31sd",
+            "text": "既写不好文案，也不知道怎么做视频。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "akkoo",
+            "text": "于是我继续秀，在同一条对话下，跟豆包工作说：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d9nrv",
+            "text": "基于网站内容，寻找合适角度，制作社交媒体传播素材，文字、图片等，适合在 X 和 Instagram 发布，素材写入飞书文档，至少 10 条。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4n4ub",
+            "text": "直接生成好 12 条素材，从品牌认知、产品展示、品牌故事等角度写好文案，相当全面。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1e7ci",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e9j7d",
+            "text": "继续补充生成纯日文版，配图要求从PDF手册中截取。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3l59v",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bc3i8",
+            "text": "因为豆包工作和飞书完全打通，生成的文档直接分享给他。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b61v5",
+            "text": "让他发给他的同事，后续设置编辑权限，他们就能一起协作修改，手机上也能操作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 15,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3ahpi",
+            "text": "日本山椒品牌社交媒体传播素材库",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "99pjo",
+            "text": "送佛送到西，豆包工作内置了 Seedance 2.5 视频生成模型，生成企业产品宣传片也是小 Case。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1vgqv",
+            "text": "在对话中继续要求：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "54l1l",
+            "text": "“基于上面内容，制作一段 15 秒企业宣传片，用于发给日本客户展示”",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "c80kq",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "euij4",
+            "text": "这时豆包工作生成 10 个分镜，让我确认旁白、语气和视频比例。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dbkg9",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "50sfv",
+            "text": "注意：默认生成视频有豆包 AI 水印（没找到哪里关），让豆包工作裁剪掉水印，成品如下：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dg6lh",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "efu9d",
+            "text": "我问他需不需要展示用的 PPT？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8dgos",
+            "text": "不等他回答，我直接输入：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9lt3a",
+            "text": "把手册制作成精美的 PPT，中文、日文双语",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9k413",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cp79v",
+            "text": "我告诉他，PPT中的图片、文字，全部都可以修改，还能发给同事一起编辑。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dcu3o",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7rga4",
+            "text": "他说：哥，我还有个痛点，现在跟日本客户邮件交流，他们的表达特别夸张，自己学不会。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4p2np",
+            "text": "（到底多夸张，可以看下面截图）",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6k3j",
+            "text": "我说你发转发一个邮件内容，我给你做一个Skill。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1kmen",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9sj8t",
+            "text": "在豆包工作中输入提示词：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "11m6a",
+            "text": "生成一个 Skill，用于写作或润色日语邮件，下面是日本客户的表达方式，作为参考：【邮件原文】",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7p8uv",
+            "text": "等一会Skill就做好，打包下载发给他，告诉他如何优化，以后生成地道的日语邮件就简单多了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9j6qh",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "93qlf",
+            "text": "另外，他经常到处跑，用手机更多，所以我告诉他一个技巧：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 36,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6m1ms",
+            "text": "只需电脑安装了豆包工作，豆包手机端就能遥控操作电脑完成上面的一系列工作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ct26l",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dttoc",
+            "text": "除了本地电脑，豆包工作也支持云电脑，让云电脑一直运行不关机。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bjb10",
+            "text": "很适合数据采集、批量文件处理、定时任务，不占本机资源，手机和电脑间切换也不断线。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2djjb",
+            "text": "朋友看完这些操作演示，觉得现在 AI 发展确实有点牛逼。（让我装到了）",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e7kjn",
+            "text": "其实，这只是豆包工作能力的冰山一角，如果是一家已经在用飞书的组织，未来一定会更有感触。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dh4v7",
+            "text": "豆包工作其他能力",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5oqsb",
+            "text": "给朋友演示用的是豆包工作独立客户端。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 5,
+                  "text": "https://www.doubao.com/work",
+                  "toIndex": 32
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1k26f",
+            "text": "下载地址：https://www.doubao.com/work",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "bhn9b",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 19,
+                "style": "Bold"
+              }
+            ],
+            "key": "7cvm4",
+            "text": "其实，还有两个入口能用上豆包工作：① 豆包 PC 端切换到豆包工作模式",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 17,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "c3i98",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 20,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "18eqp",
+            "text": "② 飞书中打开豆包，创建“新工作任务”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 18,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dojnt",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1ldj9",
+            "text": "豆包工作既支持个人账号使用，也支持企业账号（飞书账号）登录。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a0nsd",
+            "text": "飞书企业账号登录后，豆包工作就能完全与企业上下文、身份权限和协作环境结合。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e15d7",
+            "text": "Agent 能权限范围内理解、调用团队信息，产出工作成果，把经验留在团队中分享、复用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 39,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2s7gu",
+            "text": "这个反而是我觉得更牛逼的功能，这也是飞书并入豆包后，“书包”组合带来的新体验。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 25,
+                "style": "Bold"
+              }
+            ],
+            "key": "9d18p",
+            "text": "因为工作 Agent 不在于哪家功能更多，而在于 Agent 对组织了解多少。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 36,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4psu8",
+            "text": "像好友杨攀（前硅基流动副总裁）所说，一切 AI 的问题都是上下文的问题。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "btjj4",
+            "text": "飞书企业账号登录豆包工作后，企业组织上下文将变的极为丰富：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bm8g6",
+            "text": "组织关系：知道谁能拍板、谁在推进、该去哪个群、以哪份文档为准",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3lgh7",
+            "text": "群聊：还原事情来龙去脉，识别已有共识和未解决的问题，直接发消息推进任务",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7c3rd",
+            "text": "云文档：调用经过确认、能长期复用的制度和方案，且严格遵循企业原有权限，只能访问当前用户有权查看的内容",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "aelj5",
+            "text": "多维表格：团队的业务数据库，准确查询、比较、统计和更新结构化数据",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "anb99",
+            "text": "会议纪要：完整的逐字记录（妙记）和 AI 智能纪要，Agent 可以通过会议内容创建任务、获取信息和跟进进度",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7d2u0",
+            "text": "审批与项目：记录工作何时发生、由谁负责、需要谁批准、目前推进到哪一步",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5g3r6",
+            "text": "企业内部系统：CRM、库存、直播运营等飞书内搭建的轻量化系统，Agent 可以在权限范围内查询真实业务状态，并继续完成分析、更新和操作",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ahgmf",
+            "text": "有了这些上下文，就能跟真人一样交流，比如“这个项目卡哪儿了”，如果没有上下文信息，很难想象 Agent 会给出什么答案。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bbi51",
+            "text": "写在后面",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bp1fu",
+            "text": "教朋友用豆包工作解决真实场景需求同时，自己也有点感慨。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e6krv",
+            "text": "朋友是那种典型的“有想法、缺工具”的人，做了十几年生意，懂产品、懂市场、懂客户，但是不懂很多执行层面的事儿，卡在 “不会做网站、不会写产品文案、不会做视频”等。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8t8sd",
+            "text": "搁以前，要么花钱找外包，要么拖了着拖着，事情拖没了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 42,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6bb7n",
+            "text": "现在只需要跟豆包工作这类 Agent 工具对话，不需要复杂的提示词，半天就全搞定了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1a7kh",
+            "text": "所有产出，都可以流转到企业内部协作，让同事帮着一起改。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 32,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2p38s",
+            "text": "飞书刚并入豆包，我还有点诧异，但用上豆包工作后，觉得是一步妙棋。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "frp1i",
+            "text": "如果你也是传统企业老板，不知道怎么 AI 落地，可以从下载豆包工作开始。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "https://www.doubao.com/work",
+                  "toIndex": 27
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6i9pa",
+            "text": "https://www.doubao.com/work",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 37,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6v0gj",
+            "text": "评测不易，如文章对你或身边人有用，请一键三连。 ღ( ´･ᴗ･` )比心。",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "entityKey": "1eb4c1d4-130d-4933-925d-526fffac3143",
+                "mediaItems": [
+                  {
+                    "localMediaId": "25",
+                    "mediaCategory": "DraftTweetGif",
+                    "mediaId": "2092188126659899392"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "entityKey": "bce265ab-5412-4f17-8ae9-1fdb524221ac",
+                "mediaItems": [
+                  {
+                    "localMediaId": "17",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092187793145606144"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "dd93470a-e529-4f3b-a0dc-07103a667925",
+                "mediaItems": [
+                  {
+                    "localMediaId": "11",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092187475229999104"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "entityKey": "a35b5554-7f31-49db-aae9-17e9da6b96b4",
+                "mediaItems": [
+                  {
+                    "localMediaId": "31",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092188392486580224"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "entityKey": "65442681-9a72-4b01-864b-194ed2018760",
+                "mediaItems": [
+                  {
+                    "localMediaId": "23",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092188016534257664"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "entityKey": "150252bb-b630-4fde-aaee-e4c8056864e5",
+                "mediaItems": [
+                  {
+                    "localMediaId": "19",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092187833884958720"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "entityKey": "c1da805a-a923-425c-8fe4-000d61f4cb8f",
+                "mediaItems": [
+                  {
+                    "localMediaId": "27",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092188227050561536"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "entityKey": "551a250b-afcc-49bf-83d7-07f34eddf3f9",
+                "mediaItems": [
+                  {
+                    "localMediaId": "33",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092188467094773760"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "entityKey": "96b84bad-7a90-4e6b-9266-4551bd5033d6",
+                "mediaItems": [
+                  {
+                    "localMediaId": "13",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092187546860355585"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "entityKey": "f2a6e56d-b09b-421f-adfa-9f1bf2ce5bb7",
+                "mediaItems": [
+                  {
+                    "localMediaId": "21",
+                    "mediaCategory": "AmplifyVideo",
+                    "mediaId": "2092187918446268416"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "entityKey": "4a483873-1bf9-4957-abde-ae55c15e8b49",
+                "mediaItems": [
+                  {
+                    "localMediaId": "15",
+                    "mediaCategory": "DraftTweetGif",
+                    "mediaId": "2092187677181583360"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "6905b785-a0e5-4c59-b975-ec5c005f7ef1",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092187101559484416"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {
+                "entityKey": "844ff569-25d4-40c2-945e-b4a6599e7a6b",
+                "mediaItems": [
+                  {
+                    "localMediaId": "35",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092188505460072448"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "entityKey": "8a7b97dc-cb65-4f13-877f-265b1d6556af",
+                "mediaItems": [
+                  {
+                    "localMediaId": "29",
+                    "mediaCategory": "DraftTweetGif",
+                    "mediaId": "2092188321133076480"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "8ff3de59-4756-43c5-9d83-6d4d477e4c15",
+                "mediaItems": [
+                  {
+                    "localMediaId": "1",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092187048501534720"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "fea782ab-3b75-42cd-a501-92905264bcf6",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetGif",
+                    "mediaId": "2092187325321375744"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "18",
+            "value": {
+              "data": {
+                "entityKey": "0f7a8644-e69d-49db-a246-64bab3689a81",
+                "mediaItems": [
+                  {
+                    "localMediaId": "37",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092188542147670016"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "url": "https://feishu.doubao.com/docx/EMzed0x2QovCg5x2bfAcE20Sn7f"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "35510975-fa00-4af9-a6b4-7069e8fb8a54",
+                "mediaItems": [
+                  {
+                    "localMediaId": "9",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092187410788749312"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjyXF8aYAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092188505460072448",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 87.8,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 10,
+                  "rgb": {
+                    "blue": 165,
+                    "green": 176,
+                    "red": 103
+                  }
+                },
+                {
+                  "percentage": 1.82,
+                  "rgb": {
+                    "blue": 180,
+                    "green": 222,
+                    "red": 181
+                  }
+                },
+                {
+                  "percentage": 0.13,
+                  "rgb": {
+                    "blue": 137,
+                    "green": 137,
+                    "red": 137
+                  }
+                },
+                {
+                  "percentage": 0.12,
+                  "rgb": {
+                    "blue": 174,
+                    "green": 182,
+                    "red": 237
+                  }
+                }
+              ]
+            },
+            "original_img_height": 786,
+            "original_img_url": "https://pbs.twimg.com/media/HQjyXF8aYAApTua.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092188505460072448"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjxbICbAAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092187475229999104",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 68.24,
+                  "rgb": {
+                    "blue": 47,
+                    "green": 93,
+                    "red": 72
+                  }
+                },
+                {
+                  "percentage": 13.92,
+                  "rgb": {
+                    "blue": 183,
+                    "green": 180,
+                    "red": 177
+                  }
+                },
+                {
+                  "percentage": 8.04,
+                  "rgb": {
+                    "blue": 34,
+                    "green": 35,
+                    "red": 35
+                  }
+                },
+                {
+                  "percentage": 3.69,
+                  "rgb": {
+                    "blue": 48,
+                    "green": 123,
+                    "red": 103
+                  }
+                },
+                {
+                  "percentage": 1.87,
+                  "rgb": {
+                    "blue": 20,
+                    "green": 54,
+                    "red": 34
+                  }
+                }
+              ]
+            },
+            "original_img_height": 609,
+            "original_img_url": "https://pbs.twimg.com/media/HQjxbICbAAA_T9N.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092187475229999104"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAGCgABHQjyMXRboAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092188321133076480",
+          "media_info": {
+            "__typename": "ApiGif",
+            "aspect_ratio": {
+              "denominator": 15,
+              "numerator": 16
+            },
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 55.1,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 42.73,
+                    "rgb": {
+                      "blue": 38,
+                      "green": 38,
+                      "red": 38
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 900,
+              "original_img_url": "https://pbs.twimg.com/tweet_video_thumb/HQjyMXRboAAsKmt.jpg",
+              "original_img_width": 960
+            },
+            "variants": [
+              {
+                "bit_rate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/HQjyMXRboAAsKmt.mp4"
+              }
+            ]
+          },
+          "media_key": "16_2092188321133076480"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjxtoXaMAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092187793145606144",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 47.84,
+                  "rgb": {
+                    "blue": 239,
+                    "green": 241,
+                    "red": 242
+                  }
+                },
+                {
+                  "percentage": 44.28,
+                  "rgb": {
+                    "blue": 22,
+                    "green": 28,
+                    "red": 16
+                  }
+                },
+                {
+                  "percentage": 3.06,
+                  "rgb": {
+                    "blue": 36,
+                    "green": 56,
+                    "red": 27
+                  }
+                },
+                {
+                  "percentage": 2.37,
+                  "rgb": {
+                    "blue": 97,
+                    "green": 108,
+                    "red": 95
+                  }
+                },
+                {
+                  "percentage": 1.14,
+                  "rgb": {
+                    "blue": 176,
+                    "green": 176,
+                    "red": 237
+                  }
+                }
+              ]
+            },
+            "original_img_height": 529,
+            "original_img_url": "https://pbs.twimg.com/media/HQjxtoXaMAA8bw6.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092187793145606144"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAECgABHQjx07JakAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2092187918446268416",
+          "media_info": {
+            "__typename": "ApiVideo",
+            "aspect_ratio": {
+              "denominator": 144,
+              "numerator": 335
+            },
+            "duration_millis": 15072,
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 61.31,
+                    "rgb": {
+                      "blue": 41,
+                      "green": 65,
+                      "red": 49
+                    }
+                  },
+                  {
+                    "percentage": 19.69,
+                    "rgb": {
+                      "blue": 179,
+                      "green": 202,
+                      "red": 212
+                    }
+                  },
+                  {
+                    "percentage": 3.61,
+                    "rgb": {
+                      "blue": 32,
+                      "green": 86,
+                      "red": 73
+                    }
+                  },
+                  {
+                    "percentage": 2.4,
+                    "rgb": {
+                      "blue": 90,
+                      "green": 112,
+                      "red": 95
+                    }
+                  },
+                  {
+                    "percentage": 1.05,
+                    "rgb": {
+                      "blue": 40,
+                      "green": 53,
+                      "red": 63
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 720,
+              "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2092187918446268416/img/XJlnNqxIP_zg7enU.jpg",
+              "original_img_width": 1675
+            },
+            "variants": [
+              {
+                "bit_rate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2092187918446268416/vid/avc1/628x270/iehfqIgl05Gy9sQ-.mp4?tag=29"
+              },
+              {
+                "bit_rate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2092187918446268416/vid/avc1/836x360/czwlMorPsLQDHiKT.mp4?tag=29"
+              },
+              {
+                "bit_rate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2092187918446268416/vid/avc1/1674x720/1Rv4lpAmT--vrv3G.mp4?tag=29"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2092187918446268416/pl/DHfnh7J8CTEa6JU3.m3u8?tag=29"
+              }
+            ]
+          },
+          "media_key": "13_2092187918446268416"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjyU3BaYAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092188467094773760",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 91.67,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 6.35,
+                  "rgb": {
+                    "blue": 162,
+                    "green": 170,
+                    "red": 101
+                  }
+                },
+                {
+                  "percentage": 1.35,
+                  "rgb": {
+                    "blue": 180,
+                    "green": 221,
+                    "red": 179
+                  }
+                },
+                {
+                  "percentage": 0.33,
+                  "rgb": {
+                    "blue": 134,
+                    "green": 134,
+                    "red": 134
+                  }
+                },
+                {
+                  "percentage": 0.13,
+                  "rgb": {
+                    "blue": 247,
+                    "green": 205,
+                    "red": 182
+                  }
+                }
+              ]
+            },
+            "original_img_height": 736,
+            "original_img_url": "https://pbs.twimg.com/media/HQjyU3BaYAAHeGY.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092188467094773760"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAGCgABHQjyBCzacAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092188126659899392",
+          "media_info": {
+            "__typename": "ApiGif",
+            "aspect_ratio": {
+              "denominator": 15,
+              "numerator": 16
+            },
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 95.45,
+                    "rgb": {
+                      "blue": 244,
+                      "green": 245,
+                      "red": 245
+                    }
+                  },
+                  {
+                    "percentage": 1.92,
+                    "rgb": {
+                      "blue": 109,
+                      "green": 151,
+                      "red": 140
+                    }
+                  },
+                  {
+                    "percentage": 1.02,
+                    "rgb": {
+                      "blue": 129,
+                      "green": 118,
+                      "red": 94
+                    }
+                  },
+                  {
+                    "percentage": 0.86,
+                    "rgb": {
+                      "blue": 51,
+                      "green": 99,
+                      "red": 92
+                    }
+                  },
+                  {
+                    "percentage": 0.2,
+                    "rgb": {
+                      "blue": 251,
+                      "green": 123,
+                      "red": 37
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 900,
+              "original_img_url": "https://pbs.twimg.com/tweet_video_thumb/HQjyBCzacAA_rsp.jpg",
+              "original_img_width": 960
+            },
+            "variants": [
+              {
+                "bit_rate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/HQjyBCzacAA_rsp.mp4"
+              }
+            ]
+          },
+          "media_key": "16_2092188126659899392"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjxCSWbYAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092187048501534720",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 85,
+                  "rgb": {
+                    "blue": 234,
+                    "green": 237,
+                    "red": 236
+                  }
+                },
+                {
+                  "percentage": 8.89,
+                  "rgb": {
+                    "blue": 96,
+                    "green": 164,
+                    "red": 132
+                  }
+                },
+                {
+                  "percentage": 1.64,
+                  "rgb": {
+                    "blue": 159,
+                    "green": 177,
+                    "red": 211
+                  }
+                },
+                {
+                  "percentage": 1.41,
+                  "rgb": {
+                    "blue": 55,
+                    "green": 102,
+                    "red": 74
+                  }
+                },
+                {
+                  "percentage": 0.84,
+                  "rgb": {
+                    "blue": 52,
+                    "green": 54,
+                    "red": 55
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1253,
+            "original_img_url": "https://pbs.twimg.com/media/HQjxCSWbYAAxjZw.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092187048501534720"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjxwAIbYAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092187833884958720",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.87,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 0.9,
+                  "rgb": {
+                    "blue": 146,
+                    "green": 143,
+                    "red": 140
+                  }
+                },
+                {
+                  "percentage": 0.68,
+                  "rgb": {
+                    "blue": 199,
+                    "green": 194,
+                    "red": 161
+                  }
+                },
+                {
+                  "percentage": 0.44,
+                  "rgb": {
+                    "blue": 174,
+                    "green": 164,
+                    "red": 144
+                  }
+                },
+                {
+                  "percentage": 0.12,
+                  "rgb": {
+                    "blue": 153,
+                    "green": 180,
+                    "red": 223
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1387,
+            "original_img_url": "https://pbs.twimg.com/media/HQjxwAIbYAANxEv.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092187833884958720"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjyG4yaYAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092188227050561536",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.34,
+                  "rgb": {
+                    "blue": 241,
+                    "green": 239,
+                    "red": 239
+                  }
+                },
+                {
+                  "percentage": 2.03,
+                  "rgb": {
+                    "blue": 141,
+                    "green": 139,
+                    "red": 139
+                  }
+                },
+                {
+                  "percentage": 1.09,
+                  "rgb": {
+                    "blue": 194,
+                    "green": 190,
+                    "red": 157
+                  }
+                },
+                {
+                  "percentage": 0.45,
+                  "rgb": {
+                    "blue": 174,
+                    "green": 164,
+                    "red": 142
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1098,
+            "original_img_url": "https://pbs.twimg.com/media/HQjyG4yaYAAIUQ-.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092188227050561536"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjxfS4bgAEKAAIAAAAAAGYU8AAA",
+          "media_id": "2092187546860355585",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.63,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 2.78,
+                  "rgb": {
+                    "blue": 62,
+                    "green": 62,
+                    "red": 62
+                  }
+                },
+                {
+                  "percentage": 0.62,
+                  "rgb": {
+                    "blue": 243,
+                    "green": 204,
+                    "red": 184
+                  }
+                },
+                {
+                  "percentage": 0.19,
+                  "rgb": {
+                    "blue": 185,
+                    "green": 180,
+                    "red": 149
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 246,
+                    "green": 146,
+                    "red": 109
+                  }
+                }
+              ]
+            },
+            "original_img_height": 678,
+            "original_img_url": "https://pbs.twimg.com/media/HQjxfS4bgAEuKNr.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092187546860355585"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjxFYAbcAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092187101559484416",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 93.86,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 253,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 2.48,
+                  "rgb": {
+                    "blue": 177,
+                    "green": 176,
+                    "red": 236
+                  }
+                },
+                {
+                  "percentage": 2.44,
+                  "rgb": {
+                    "blue": 51,
+                    "green": 51,
+                    "red": 51
+                  }
+                },
+                {
+                  "percentage": 0.51,
+                  "rgb": {
+                    "blue": 189,
+                    "green": 187,
+                    "red": 156
+                  }
+                },
+                {
+                  "percentage": 0.29,
+                  "rgb": {
+                    "blue": 172,
+                    "green": 163,
+                    "red": 143
+                  }
+                }
+              ]
+            },
+            "original_img_height": 660,
+            "original_img_url": "https://pbs.twimg.com/media/HQjxFYAbcAAUVoY.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092187101559484416"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjxXX+bkAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092187410788749312",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.45,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 4.69,
+                  "rgb": {
+                    "blue": 45,
+                    "green": 45,
+                    "red": 45
+                  }
+                },
+                {
+                  "percentage": 0.58,
+                  "rgb": {
+                    "blue": 193,
+                    "green": 188,
+                    "red": 155
+                  }
+                },
+                {
+                  "percentage": 0.46,
+                  "rgb": {
+                    "blue": 173,
+                    "green": 163,
+                    "red": 142
+                  }
+                },
+                {
+                  "percentage": 0.29,
+                  "rgb": {
+                    "blue": 154,
+                    "green": 148,
+                    "red": 136
+                  }
+                }
+              ]
+            },
+            "original_img_height": 790,
+            "original_img_url": "https://pbs.twimg.com/media/HQjxXX-bkAAZkU-.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092187410788749312"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjyZOnasAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092188542147670016",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 91.28,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 253,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 7.03,
+                  "rgb": {
+                    "blue": 163,
+                    "green": 168,
+                    "red": 99
+                  }
+                },
+                {
+                  "percentage": 1.06,
+                  "rgb": {
+                    "blue": 183,
+                    "green": 220,
+                    "red": 179
+                  }
+                },
+                {
+                  "percentage": 0.31,
+                  "rgb": {
+                    "blue": 241,
+                    "green": 193,
+                    "red": 179
+                  }
+                }
+              ]
+            },
+            "original_img_height": 664,
+            "original_img_url": "https://pbs.twimg.com/media/HQjyZOnasAAAS4N.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092188542147670016"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAGCgABHQjxm4XboAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092187677181583360",
+          "media_info": {
+            "__typename": "ApiGif",
+            "aspect_ratio": {
+              "denominator": 59,
+              "numerator": 96
+            },
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 90.88,
+                    "rgb": {
+                      "blue": 254,
+                      "green": 254,
+                      "red": 254
+                    }
+                  },
+                  {
+                    "percentage": 3.62,
+                    "rgb": {
+                      "blue": 89,
+                      "green": 155,
+                      "red": 114
+                    }
+                  },
+                  {
+                    "percentage": 2.4,
+                    "rgb": {
+                      "blue": 44,
+                      "green": 44,
+                      "red": 44
+                    }
+                  },
+                  {
+                    "percentage": 0.59,
+                    "rgb": {
+                      "blue": 78,
+                      "green": 182,
+                      "red": 144
+                    }
+                  },
+                  {
+                    "percentage": 0.42,
+                    "rgb": {
+                      "blue": 249,
+                      "green": 218,
+                      "red": 201
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 590,
+              "original_img_url": "https://pbs.twimg.com/tweet_video_thumb/HQjxm4XboAAiEHs.jpg",
+              "original_img_width": 960
+            },
+            "variants": [
+              {
+                "bit_rate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/HQjxm4XboAAiEHs.mp4"
+              }
+            ]
+          },
+          "media_key": "16_2092187677181583360"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjyQhFbsAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092188392486580224",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 87.02,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 253,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 6.82,
+                  "rgb": {
+                    "blue": 240,
+                    "green": 188,
+                    "red": 139
+                  }
+                },
+                {
+                  "percentage": 3.43,
+                  "rgb": {
+                    "blue": 172,
+                    "green": 185,
+                    "red": 206
+                  }
+                },
+                {
+                  "percentage": 2.5,
+                  "rgb": {
+                    "blue": 129,
+                    "green": 123,
+                    "red": 118
+                  }
+                }
+              ]
+            },
+            "original_img_height": 583,
+            "original_img_url": "https://pbs.twimg.com/media/HQjyQhFbsAAas9c.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092188392486580224"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAGCgABHQjxSZla8AAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092187325321375744",
+          "media_info": {
+            "__typename": "ApiGif",
+            "aspect_ratio": {
+              "denominator": 271,
+              "numerator": 480
+            },
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 81.74,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 84,
+                      "red": 55
+                    }
+                  },
+                  {
+                    "percentage": 9.41,
+                    "rgb": {
+                      "blue": 99,
+                      "green": 132,
+                      "red": 114
+                    }
+                  },
+                  {
+                    "percentage": 2.68,
+                    "rgb": {
+                      "blue": 92,
+                      "green": 143,
+                      "red": 124
+                    }
+                  },
+                  {
+                    "percentage": 2.43,
+                    "rgb": {
+                      "blue": 36,
+                      "green": 130,
+                      "red": 108
+                    }
+                  },
+                  {
+                    "percentage": 1.56,
+                    "rgb": {
+                      "blue": 189,
+                      "green": 205,
+                      "red": 198
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 542,
+              "original_img_url": "https://pbs.twimg.com/tweet_video_thumb/HQjxSZla8AAmMo1.jpg",
+              "original_img_width": 960
+            },
+            "variants": [
+              {
+                "bit_rate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/HQjxSZla8AAmMo1.mp4"
+              }
+            ]
+          },
+          "media_key": "16_2092187325321375744"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQjx6ojagAAKAAIAAAAAAGYU8AAA",
+          "media_id": "2092188016534257664",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.88,
+                  "rgb": {
+                    "blue": 248,
+                    "green": 248,
+                    "red": 248
+                  }
+                },
+                {
+                  "percentage": 1.03,
+                  "rgb": {
+                    "blue": 68,
+                    "green": 113,
+                    "red": 112
+                  }
+                },
+                {
+                  "percentage": 0.79,
+                  "rgb": {
+                    "blue": 141,
+                    "green": 132,
+                    "red": 119
+                  }
+                },
+                {
+                  "percentage": 0.66,
+                  "rgb": {
+                    "blue": 192,
+                    "green": 182,
+                    "red": 163
+                  }
+                },
+                {
+                  "percentage": 0.4,
+                  "rgb": {
+                    "blue": 176,
+                    "green": 178,
+                    "red": 149
+                  }
+                }
+              ]
+            },
+            "original_img_height": 694,
+            "original_img_url": "https://pbs.twimg.com/media/HQjx6ojagAAdWRP.jpg",
+            "original_img_width": 1080
+          },
+          "media_key": "3_2092188016534257664"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/miishyagames/status/2092520371161559543",
+    "id": "2092520371161559543",
+    "text": "『#NTE』残虹に生成AI使用疑惑が浮上⁉️\n\n残虹のスキンの解析データから『豆包AI生成』の透かしが見つかったとして、中国のコミュニティで話題となっています‼️\n\nNTEはリリース当初にもAIの使用で炎上しており、開発は「コアアセットとキャラ立ち絵には絶対にAIを使わず、AIは雰囲気参考用のみに使用する」と説明していました。\nしかし、今回はキャラに使用しており、約束が反故されたとして批判されています😫\n\n#NevernessToEverness #異環",
+    "raw_text": {
+      "text": "『#NTE』残虹に生成AI使用疑惑が浮上⁉️\n\n残虹のスキンの解析データから『豆包AI生成』の透かしが見つかったとして、中国のコミュニティで話題となっています‼️\n\nNTEはリリース当初にもAIの使用で炎上しており、開発は「コアアセットとキャラ立ち絵には絶対にAIを使わず、AIは雰囲気参考用のみに使用する」と説明していました。\nしかし、今回はキャラに使用しており、約束が反故されたとして批判されています😫\n\n#NevernessToEverness #異環",
+      "display_text_range": [
+        0,
+        230
+      ],
+      "facets": [
+        {
+          "type": "hashtag",
+          "indices": [
+            1,
+            5
+          ],
+          "original": "NTE"
+        },
+        {
+          "type": "media",
+          "indices": [
+            82,
+            105
+          ],
+          "id": "2092519286803955712",
+          "display": "pic.x.com/hLyElns0sD",
+          "original": "https://t.co/hLyElns0sD",
+          "replacement": "https://x.com/miishyagames/status/2092520371161559543/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            82,
+            105
+          ],
+          "id": "2092519299571441664",
+          "display": "pic.x.com/hLyElns0sD",
+          "original": "https://t.co/hLyElns0sD",
+          "replacement": "https://x.com/miishyagames/status/2092520371161559543/photo/1"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            205,
+            225
+          ],
+          "original": "NevernessToEverness"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            226,
+            229
+          ],
+          "original": "異環"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "miishyagames",
+      "url": "https://x.com/miishyagames",
+      "id": "2015708003694178304",
+      "followers": 612,
+      "following": 83,
+      "likes": 616,
+      "media_count": 238,
+      "name": "みーしゃ@中国ゲーム最新情報",
+      "description": "好奇心いっぱいのみーしゃ🐟\n中国のゲーム・カルチャー情報を発信中🎮\nサーモンとゲームが大好き！",
+      "raw_description": {
+        "text": "好奇心いっぱいのみーしゃ🐟\n中国のゲーム・カルチャー情報を発信中🎮\nサーモンとゲームが大好き！",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2015708003694178304/1782799419",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2018128901105733632/ZydT97Il_200x200.png",
+      "joined": "Mon Jan 26 08:47:06 +0000 2026",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 15,
+    "retweets": 19,
+    "likes": 168,
+    "bookmarks": 67,
+    "quotes": 22,
+    "created_at": "Wed Aug 26 07:51:48 +0000 2026",
+    "created_timestamp": 1787730708,
+    "possibly_sensitive": false,
+    "views": 72506,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "ja",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2092519286803955712",
+          "url": "https://pbs.twimg.com/media/HQofNGeagAAtuTQ.jpg?name=orig",
+          "width": 1461,
+          "height": 676
+        },
+        {
+          "type": "photo",
+          "id": "2092519299571441664",
+          "url": "https://pbs.twimg.com/media/HQofN2Ca4AALpT8.jpg?name=orig",
+          "width": 928,
+          "height": 1695
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2092519286803955712",
+          "url": "https://pbs.twimg.com/media/HQofNGeagAAtuTQ.jpg?name=orig",
+          "width": 1461,
+          "height": 676
+        },
+        {
+          "type": "photo",
+          "id": "2092519299571441664",
+          "url": "https://pbs.twimg.com/media/HQofN2Ca4AALpT8.jpg?name=orig",
+          "width": 928,
+          "height": 1695
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2092520371161559543/HQofNGeagAAtuTQ/HQofN2Ca4AALpT8",
+          "webp": "https://mosaic.fxtwitter.com/webp/2092520371161559543/HQofNGeagAAtuTQ/HQofN2Ca4AALpT8"
+        }
+      }
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

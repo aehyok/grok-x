@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/kingluffywang/status/2092967357043933449",
+    "id": "2092967357043933449",
+    "text": "总感觉景甜想让孙割回北京是想诱捕他，毕竟这么一块大肥肉而且也🈹了那么多币圈韭菜，找个罪名难度不大\n\n可见Claude AI还是厉害，帮助孙割及时止损，这五千万美金要是付了，孙割还真可能回北京了",
+    "raw_text": {
+      "text": "总感觉景甜想让孙割回北京是想诱捕他，毕竟这么一块大肥肉而且也🈹了那么多币圈韭菜，找个罪名难度不大\n\n可见Claude AI还是厉害，帮助孙割及时止损，这五千万美金要是付了，孙割还真可能回北京了",
+      "display_text_range": [
+        0,
+        96
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "kingluffywang",
+      "url": "https://x.com/kingluffywang",
+      "id": "1377660360862351514",
+      "followers": 40211,
+      "following": 1520,
+      "likes": 52807,
+      "media_count": 3491,
+      "name": "北美王路飞",
+      "description": "油管Up主，分享人工智障知识，视频揭露股票圈的割韭菜惯犯雷公 LEI（aka 老雷，雷公资本，LEI & Lonecapital）抖音：Kingluffywang Make Americas Great Again",
+      "raw_description": {
+        "text": "油管Up主，分享人工智障知识，视频揭露股票圈的割韭菜惯犯雷公 LEI（aka 老雷，雷公资本，LEI & Lonecapital）抖音：Kingluffywang Make Americas Great Again",
+        "facets": []
+      },
+      "location": "United States",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1377660360862351514/1745430450",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1566823398885441537/AymfNGhx_200x200.jpg",
+      "joined": "Thu Apr 01 16:33:48 +0000 2021",
+      "protected": false,
+      "website": {
+        "url": "https://www.youtube.com/@%E7%8E%8B%E8%B7%AF%E9%A3%9E",
+        "display_url": "youtube.com/@%E7%8E%8B%E8%…"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 202,
+    "retweets": 41,
+    "likes": 959,
+    "bookmarks": 87,
+    "quotes": 6,
+    "created_at": "Thu Aug 27 13:27:58 +0000 2026",
+    "created_timestamp": 1787837278,
+    "views": 298822,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter for Android",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

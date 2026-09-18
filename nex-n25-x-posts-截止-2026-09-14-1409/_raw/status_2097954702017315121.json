@@ -1,0 +1,105 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/qiyue_76/status/2097954702017315121",
+    "id": "2097954702017315121",
+    "text": "Nex‑N2.5 是面向 Agent 场景的新一代模型家族。Nex‑N2.5 Pro 是其中的多模态版本，参数量 397B，支持文本、图片和视频输入，核心能力是视觉理解、Computer Use 与长程操作，产品定位对标 GPT‑6 Astra。\n\nPro 处理的不只是对话，而是真实软件里的连续操作。它能够理解复杂界面和多种媒体，并在浏览器、游戏、Blender、CAD、Three.js 等环境中执行任务：搭建 3D 场景、处理文档、生成可交互网页，再根据屏幕变化调整下一步。对需要结果可验证的工作——高阶 Agent、3D 与交互创作、自动化流程——这一能力比单轮文本生成更直接。\n\n与常见同类型模型相比，差异主要在执行过程。许多模型可以生成代码或说明步骤，但在界面反馈出现后难以持续修正。Nex‑N2.5 Pro 将视觉理解与操作连在一起：查看页面或软件当前状态，定位问题，修改后再验证。用同一提示生成小游戏或 HTML/CSS/SVG 内容时，其他模型往往在首轮完整度上更稳定；Pro 更突出的是生成之后仍能对着界面完成修改，使结果从「写出来」变成「用得了」。\n\n家族包含三档模型。35B 轻量版部署和调用成本更低；1.6T 纯文本旗舰面向复杂推理与代码；397B Pro 面向多模态理解与计算机使用。三档均开放权重，也可通过 API 调用。开发者和创作者可直接调用，用真实任务检验：让它编写并运行页面，或直接操作软件与网页，查看完整过程与最终结果。\n\n最重要的是Nex-N2.5 Mini 和 Pro 目前均可通过 OpenRouter 限时免费获取：https://openrouter.ai/nex-agi。",
+    "raw_text": {
+      "text": "Nex‑N2.5 是面向 Agent 场景的新一代模型家族。Nex‑N2.5 Pro 是其中的多模态版本，参数量 397B，支持文本、图片和视频输入，核心能力是视觉理解、Computer Use 与长程操作，产品定位对标 GPT‑6 Astra。\n\nPro 处理的不只是对话，而是真实软件里的连续操作。它能够理解复杂界面和多种媒体，并在浏览器、游戏、Blender、CAD、Three.js 等环境中执行任务：搭建 3D 场景、处理文档、生成可交互网页，再根据屏幕变化调整下一步。对需要结果可验证的工作——高阶 Agent、3D 与交互创作、自动化流程——这一能力比单轮文本生成更直接。\n\n与常见同类型模型相比，差异主要在执行过程。许多模型可以生成代码或说明步骤，但在界面反馈出现后难以持续修正。Nex‑N2.5 Pro 将视觉理解与操作连在一起：查看页面或软件当前状态，定位问题，修改后再验证。用同一提示生成小游戏或 HTML/CSS/SVG 内容时，其他模型往往在首轮完整度上更稳定；Pro 更突出的是生成之后仍能对着界面完成修改，使结果从「写出来」变成「用得了」。\n\n家族包含三档模型。35B 轻量版部署和调用成本更低；1.6T 纯文本旗舰面向复杂推理与代码；397B Pro 面向多模态理解与计算机使用。三档均开放权重，也可通过 API 调用。开发者和创作者可直接调用，用真实任务检验：让它编写并运行页面，或直接操作软件与网页，查看完整过程与最终结果。\n\n最重要的是Nex-N2.5 Mini 和 Pro 目前均可通过 OpenRouter 限时免费获取：https://t.co/spV5VDA17P。",
+      "display_text_range": [
+        0,
+        706
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            129,
+            152
+          ],
+          "id": "2097954654697201664",
+          "display": "pic.x.com/oANZX20f6x",
+          "original": "https://t.co/oANZX20f6x",
+          "replacement": "https://x.com/qiyue_76/status/2097954702017315121/photo/1"
+        },
+        {
+          "type": "url",
+          "indices": [
+            682,
+            705
+          ],
+          "original": "https://t.co/spV5VDA17P",
+          "replacement": "https://openrouter.ai/nex-agi",
+          "display": "openrouter.ai/nex-agi"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "qiyue_76",
+      "url": "https://x.com/qiyue_76",
+      "id": "1629749005037993984",
+      "followers": 9004,
+      "following": 4253,
+      "likes": 600,
+      "media_count": 658,
+      "name": "七月流火",
+      "description": "Grok重度玩家｜0基础教你5分钟做出AI Agent + 提示词实战\n每天分享能直接抄的API中转、资源合集、工作流\n评论区秒回｜利他=利己｜一起卷到收益开通🚀\n#Grok #AI工具 #超级个体",
+      "raw_description": {
+        "text": "Grok重度玩家｜0基础教你5分钟做出AI Agent + 提示词实战\n每天分享能直接抄的API中转、资源合集、工作流\n评论区秒回｜利他=利己｜一起卷到收益开通🚀\n#Grok #AI工具 #超级个体",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1629749005037993984/1752027657",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2051289216915746816/sbsVX6PI_200x200.jpg",
+      "joined": "Sun Feb 26 07:43:47 +0000 2023",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 51,
+    "retweets": 29,
+    "likes": 27,
+    "bookmarks": 0,
+    "quotes": 13,
+    "created_at": "Thu Sep 10 07:45:53 +0000 2026",
+    "created_timestamp": 1789026353,
+    "possibly_sensitive": false,
+    "views": 14964,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2097954654697201664",
+          "url": "https://pbs.twimg.com/media/HR1upJwaoAAyqxs.jpg?name=orig",
+          "width": 1168,
+          "height": 784
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2097954654697201664",
+          "url": "https://pbs.twimg.com/media/HR1upJwaoAAyqxs.jpg?name=orig",
+          "width": 1168,
+          "height": 784
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,2470 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/isanameonly/status/2092525028692959549",
+    "id": "2092525028692959549",
+    "text": "https://x.com/i/article/2092521593625006080",
+    "raw_text": {
+      "text": "https://t.co/bmigUva3Ao",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            0,
+            23
+          ],
+          "original": "https://t.co/bmigUva3Ao",
+          "replacement": "https://x.com/i/article/2092521593625006080",
+          "display": "x.com/i/article/2092…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "isanameonly",
+      "url": "https://x.com/isanameonly",
+      "id": "976091752162578432",
+      "followers": 113,
+      "following": 440,
+      "likes": 26,
+      "media_count": 19,
+      "name": "挺身而出的蜗牛",
+      "description": "95后 AI 创业者\n研究 AI 如何重构内容、产品与真实业务\n亲测工具｜工作流｜AI 商业化实践\n公众号：挺身而出的蜗牛",
+      "raw_description": {
+        "text": "95后 AI 创业者\n研究 AI 如何重构内容、产品与真实业务\n亲测工具｜工作流｜AI 商业化实践\n公众号：挺身而出的蜗牛",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/976091752162578432/1784572457",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2008520828028416000/E7LUjd5l_200x200.jpg",
+      "joined": "Tue Mar 20 13:43:03 +0000 2018",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 0,
+    "likes": 1,
+    "bookmarks": 1,
+    "quotes": 1,
+    "created_at": "Wed Aug 26 08:10:18 +0000 2026",
+    "created_timestamp": 1787731818,
+    "possibly_sensitive": false,
+    "views": 1234,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-26T08:10:18.000Z",
+      "modified_at": "2026-08-26T08:10:18.000Z",
+      "id": "2092521593625006080",
+      "title": "豆包工作正式发布：从下载安装到核心功能，一篇文章讲清",
+      "preview_text": "今年我发现，各大互联网厂商都在涌入Work Agent 这条赛道。\n最先发力的是腾讯的 WorkBuddy ，一下子火遍全网，成为6月份月访问量最高的桌面端 AI 原生办公智能体平台\n📷",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHQokalvb0AAKAAINi8ZG69bQAAAA",
+        "media_id": "2092525016093282304",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 95.7,
+                "rgb": {
+                  "blue": 249,
+                  "green": 244,
+                  "red": 241
+                }
+              },
+              {
+                "percentage": 1.81,
+                "rgb": {
+                  "blue": 248,
+                  "green": 186,
+                  "red": 135
+                }
+              },
+              {
+                "percentage": 1.35,
+                "rgb": {
+                  "blue": 249,
+                  "green": 152,
+                  "red": 73
+                }
+              },
+              {
+                "percentage": 0.25,
+                "rgb": {
+                  "blue": 255,
+                  "green": 121,
+                  "red": 35
+                }
+              },
+              {
+                "percentage": 0.23,
+                "rgb": {
+                  "blue": 225,
+                  "green": 223,
+                  "red": 32
+                }
+              }
+            ]
+          },
+          "original_img_height": 769,
+          "original_img_url": "https://pbs.twimg.com/media/HQokalvb0AAkrGR.jpg",
+          "original_img_width": 1923
+        },
+        "media_key": "3_2092525016093282304"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c7iu8",
+            "text": "今年我发现，各大互联网厂商都在涌入Work Agent 这条赛道。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "77k8k",
+            "text": "最先发力的是腾讯的 WorkBuddy ，一下子火遍全网，成为6月份月访问量最高的桌面端 AI 原生办公智能体平台",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cjut3",
+            "text": "📷",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3mr74",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3nag7",
+            "text": "再来7月份，阿里按捺不住了，将QoderWork、悟空、MuleRun三款智能体产品整合升级为“千问办公”，8月初推出公测。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5eevs",
+            "text": "字节当然也不能落后，毕竟豆包作为目前国内月活最大的 AI APP，不太可能放弃 Work Agent 这条黄金赛道。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qkof",
+            "text": "7 月 30 日，飞书团队与豆包团队完成整合，成立新的豆包产品团队。飞书原有产品继续保留，产品研发资源则开始与豆包处在同一个团队里。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "afkgf",
+            "text": "不到一个月，字节又完成了一轮办公 AI 产品调整。TRAE、扣子团队整体进入豆包体系。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8uvb2",
+            "text": "TRAE Work 和扣子与豆包整合工作场景下的产品能力；TRAE IDE 和 CLI 则继续作为编程产品线发展。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fim8n",
+            "text": "于是8月25号，豆包工作上线了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cdebe",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9oauo",
+            "text": "从行业格局看，办公 Agent 赛道现在正好凑齐了\"御三家\"：腾讯的 WorkBuddy、阿里的千问办公、字节的豆包工作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4s3dv",
+            "text": "它们拥有相同的思路——\"大模型当大脑、协作平台当手脚和记忆、电脑操作当执行终端\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2go6n",
+            "text": "区别在于各自绑定了不同的生态：WorkBuddy 绑定微信和企业微信，千问办公绑定钉钉，豆包工作绑的是飞书。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "95psr",
+            "text": "这也是豆包工作最值得说的一点：它和飞书是原生打通的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dktoc",
+            "text": "飞书沉淀着一个企业的群聊、文档、会议纪要、多维表格和审批，这些是模型在空白环境里学不到的\"上下文\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8dklc",
+            "text": "豆包工作第一天就站在真实的企业上下文之上工作，这是它最大的护城河，也是其他玩家短期内用钱和流量堆不出来的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6sa5g",
+            "text": "接下来，我想从最基础的入门开始，带你把豆包工作用起来。从下载安装，到设置，到认识每一个界面功能，一步步讲清楚。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6nfet",
+            "text": "如果可以，打开你的电脑，我们开始。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5nva1",
+            "text": "一、下载、安装和登录",
+            "type": "header-two"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 5,
+                  "text": "https://www.doubao.com/work",
+                  "toIndex": 32
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 27,
+                "offset": 5
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 32,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5f2kl",
+            "text": "进入官网：https://www.doubao.com/work",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "620kh",
+            "text": "点击下载，登录。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8dk2k",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "56i8j",
+            "text": "可以发现，豆包工作和飞书打通后，你可以直接用飞书账号登录了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fh6vc",
+            "text": "如果你有用其他的 Agent，你会发现各家的客户端界面基本上都是同一套设计语言。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ine5",
+            "text": "AI 发展到现在，各家的产品的用户界面和功能已经开始出现同质化，现在卷的更多是产品的功能和内核，未来可能就要卷价格了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fu0g8",
+            "text": "限时福利：下载登录，或者把老版豆包升级到最新版，可以免费领取 30 天订阅权益。如果你已经开通豆包订阅，权益会自动顺延 30 天。建议顺手领了，这 30 天足够你把全流程跑通，再决定要不要继续付费。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "26pnk",
+            "text": "二、先设置，再开始",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6glp4",
+            "text": "工具上手前，我还是会建议你先从设置入手。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "d1bt6",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5uc60",
+            "text": "一些比较常规的设置一看就能理解，这里重点看下面几个",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8aj6p",
+            "text": "1、工作任务模式设置",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "u2d2",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8t0bi",
+            "text": "“可被相同账号的设备控制”：这个功能与跨设备使用有关。如果你只准备在当前电脑上学习，可以先不开；等需要从其他设备控制任务，再根据自己的使用环境决定。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fskpt",
+            "text": "“让这台设备保持唤醒状态”：适合耗时较长的任务。它可以避免电脑中途休眠，但也会增加耗电，笔记本离开电源时要注意。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6pi21",
+            "text": "“工作任务偏好指令”：相当于你给豆包的一份长期做事规则和偏好。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fi6s7",
+            "text": "你可以约定它默认应该怎样处理文件、什么时候先问你、结果保存到哪里。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8ij26",
+            "text": "如果暂时不知道怎么写，可以先用下面这份基础模板：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "af5tb",
+            "text": "基础行为",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6vc83",
+            "text": "默认使用中文回答，除非用户明确要求其他语言。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e564n",
+            "text": "回答要简洁直接，避免不必要的铺垫和重复。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cshb1",
+            "text": "如果任务描述不清晰，先提问确认，再开始执行。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d8vqk",
+            "text": "不要主动推测用户意图之外的需求，只做被要求的事。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f1fjp",
+            "text": "安全边界",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d96ar",
+            "text": "默认只读，不主动修改、删除任何文件，除非用户明确指示。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "drtrq",
+            "text": "涉及不可逆操作（如删除、覆盖）前，必须先确认。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9hqab",
+            "text": "不在输出中打印任何密钥、Token 或敏感凭证。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9tk6b",
+            "text": "工作规范",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "anrne",
+            "text": "避免过度设计，只做任务明确要求或明显必要的改动，保持方案简洁。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "tr1b",
+            "text": "不在未被要求的情况下添加功能或进行额外优化。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3opha",
+            "text": "确认无用的内容，直接删除，不留注释说明。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "503r",
+            "text": "刚开始不需要写得很复杂，先把文件范围、危险操作和人工确认写清楚，已经能解决很多新手常见的问题。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6khfg",
+            "text": "2、记忆",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c96i1",
+            "text": "现在的 Agent 工具基本都有记忆功能，设置了你的专属记忆后，它们会成为你的专属智能助理。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8eek5",
+            "text": "和 WorkBuddy 一样，记忆功能会把你在聊天中提到或主动要求记住的有用信息，作为以后回答时的背景。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4een2",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "24gur",
+            "text": "唯一不同的时， WorkBuddy 从外部 AI Agent 导入记忆，豆包暂时没有这个功能。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f6ro",
+            "text": "但是你可以直接进入 WorkBuddy 的外部 AI Agent 导入记忆功能，直接复制提示词。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f0mi8",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vu9g",
+            "text": "让 WorkBuddy 生成你的用户级长期记忆。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5bhsj",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5n6o3",
+            "text": "复制下来，回到豆包工作，发送这句话：这是我的个人画像内容，请你写入记忆中。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "eenae",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "38via",
+            "text": "三、界面功能认识",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dfj7r",
+            "text": "1、模型选择",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "82bt0",
+            "text": "豆包工作支持两种大模型，分别是豆包2.1 Turbo和豆包2.1 Pro",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "uuhf",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "a3ld0",
+            "text": "Auto（自动模式）：交给系统自动判断。它根据你的提问内容，自动在 Turbo 和 Pro 之间切换——简单问题调用推理速度快的 Turbo，复杂难题自动切 Pro。适合不想研究模型、只想直接用的用户。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5p6rf",
+            "text": "豆包 2.1 Turbo：定位是\"低成本、低延迟\"。它侧重速度快、消耗低，token 消耗更少，响应快，适合绝大多数日常对话、写文案、简单分析。可以把它理解成日常主力，够用、耐用。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fqnk9",
+            "text": "豆包 2.1 Pro：旗舰深度思考模型。它擅长复杂逻辑、长文档精读、深度法律或技术分析、复杂方案撰写。代价是消耗算力更高、回复速度会慢一点。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bv6l7",
+            "text": "推理强度（低/中/高）：这个不是模型本身，而是控制思考深度的参数开关。低档思考少、回复快、简单直白，适合闲聊；中档平衡速度与深度，是绝大多数场景的默认档位；高档深度思考、反复推演，适合难题、逻辑题、法律分析，但回复变慢、消耗更多 token。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9mamk",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6f1mh",
+            "text": "2、运行环境",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "40tvu",
+            "text": "新建一个对话框后，在下面的\"工作任务\"里，你要选一个执行环境，这决定了 AI 在哪里执行工作：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8dvgn",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2b5q2",
+            "text": "本地电脑模式：AI 直接操作你这台电脑上的文件和软件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "drm9v",
+            "text": "适合批量重命名、整理桌面、处理本地文档这类工作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4lrou",
+            "text": "第一次使用会弹出授权框，需要你同意它访问屏幕、模拟鼠标键盘、访问本地文件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "11t4g",
+            "text": "如果你的电脑存放了重要文件，我建议先用不重要的文件试一遍，熟悉了再让它触碰关键的数据。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aaooa",
+            "text": "云电脑模式：AI 在云端隔离环境里跑任务，不碰你本机文件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b1cum",
+            "text": "适合长时间运行、需要联网爬取、或者不想占用本机性能的任务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3kuj5",
+            "text": "任务可以挂着跑，关电脑也不断线，跑完把结果下载回本地就行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eab9o",
+            "text": "云电脑还支持 7×24 小时运行，一些大型计算任务关机后依然能在云端继续。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dje65",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "99l73",
+            "text": "3、定时任务",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "47u5g",
+            "text": "定时任务是你让 AI 按预设时间自动执行分析、报告、汇总这类重复工作。适合数据采集、竞品监测、定时日报这些\"到点准时执行\"的任务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4e3uk",
+            "text": "豆包工作里内置了例如“工作周报”、“新闻推送”、“竞品调研”等定时任务的模板，你也可以点击右上角的“新建”根据你自己的需求创建定时任务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "769oh",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ufvb",
+            "text": "4、技能·连接器·伙伴",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ce2rd",
+            "text": "这个功能基本上和 WorkBuddy 一样，它们都是各自的\"弹药库\"，也是和普通聊天机器人拉开差距的地方。三大能力既独立运行，又能组合联动。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "esoko",
+            "text": "技能是把重复操作整理成可复用的能力，就像一个\"让智能体学会做某件事\"的封装包。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a7pg5",
+            "text": "豆包工作同样内置了各个领域的技能，有金融、法律、新媒体和电商等等。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2t7u3",
+            "text": "连接器是豆包工作与外部工具之间的连接机制，由它来打通各类软件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1tv6m",
+            "text": "连接器的价值在于\"跨平台自动流转\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5pcrp",
+            "text": "举个例子，你接入了\"企业微信\"连接器，就能让豆包直接通过企业微信收发消息；接入\"网易邮箱\"，它就能帮你收发邮件、管理附件、写诊断；接入\"巨量引擎\"，它能帮你查账户投放数据。这些都是在你的授权范围内干活，不用你来回切换 App。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "74t5s",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "adgo6",
+            "text": "5、工作伙伴 · 小队类似 WorkBuddy 里\"专家\"和“专家团”的角色，换汤不换药。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ldbh",
+            "text": "它们是一个个把“领域经验”封装成可对话的行业角色。同样的，每个伙伴都针对一类场景做过专门配置。进入对应伙伴的对话后，该伙伴已内置该领域的背景知识与专业约定，可减少重复交代提示词，就能直接以该领域的角色推进任务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1dd1h",
+            "text": "工作小队是豆包工作里最接近\"团队\"想象的功能。它采用\"任务拆解 + 角色分配 + 成果汇总\"的协作模式：你输入一个项目目标，系统自动拆成多个子任务，分给对应专业角色的 AI，各自并行完成后，由主 AI 汇总成最终成果。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f2u57",
+            "text": "比如你提出\"完成 2026 年 Q3 电商平台竞品分析报告\"，它会拆成\"竞品数据采集、用户画像分析、营销策略对比、报告撰写\"四个子任务，分别派给调研员、数据分析师、策略顾问、撰稿人。相当于组建了一个四人小团队来执行你的任务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9ilg9",
+            "text": "6、伙伴对话",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6ad33",
+            "text": "多角色对话式协作，支持跨任务上下文传递，适合多步骤的复杂流程。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4fb9j",
+            "text": "你可以让不同伙伴接力完成一件事——比如先让调研员出素材，再把素材交给主笔写稿。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ars3d",
+            "text": "它和工作小队的区别在于：伙伴对话更偏\"对话流\"，你在一个对话里逐角色地推进；工作小队更偏\"自动化流水线\"，一次输入，全队并行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 17,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9orcr",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5titk",
+            "text": "7、云盘",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "278gt",
+            "text": "这个功能可以说是豆包打通飞书后带来的独特优势。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "27re8",
+            "text": "如果你用飞书账号登录豆包工作，云盘里面会同步你在飞书云空间创建的所有内容。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3nbm0",
+            "text": "你可以直接一键点击查看和分享，而且更重要的是，你可以在豆包工作里通过对话框来读取、创建、编辑、移动、复制和下载里面的文件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "74hgu",
+            "text": "从此以后，飞书的办公 Agent ，可以是豆包工作了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1223f",
+            "text": "8、手机遥控电脑",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "88usa",
+            "text": "这是 8 月 17 日刚上线的新功能，也是\"工作任务\"模式这次更新里最实用的一个。它的逻辑很简单：授权之后，你的手机就是遥控器，AI 在电脑端帮你继续工作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4rsea",
+            "text": "它解决的是一个真实痛点——电脑上的文件和任务必须由人在电脑前工作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8qnh6",
+            "text": "用相同账户登录手机豆包 App 后，就可以远程操控你的本地电脑。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 18,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1a1qe",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fq155",
+            "text": "官方展示的四个典型场景：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bopp6",
+            "text": "在外调用电脑文件：出门后突然需要电脑里的一份文档，直接在手机豆包里下指令，AI 会在你的电脑上找到文件、确认版本，需要的话还能转格式，然后发到手机。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "e583p",
+            "text": "把反馈整理成总结和图表：同事在群里发了一堆零散反馈，让 AI 在电脑上读取这些内容，整理成结构化的总结和图表，发回手机查看。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2ef3i",
+            "text": "多台电脑文件统一调取：家里一台、公司一台，可以让豆包关联不同设备，把分散在各处的文件统一调取，一次性发到手机。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dg6a6",
+            "text": "继续电脑上没干完的活：电脑上任务做到一半出门了，手机端接管，让 AI 继续完成，进度还能推送到手机提醒你。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "396ic",
+            "text": "四、写在最后",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4mf7i",
+            "text": "如果你能耐心跟着走一遍，现在应该已经可以试着让豆包工作帮你完成第一项任务了——哪怕只是让它把桌面上的文件整理一下，或者远程把电脑里那份合同发到手机上。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "avp9k",
+            "text": "真正上手后你会发现，豆包工作这类产品，正在把 AI 从\"回答问题\"推向\"完成工作\"。它不再只给你一段文字答案，而是自己拆步骤、调工具、操作电脑，最后把成果放到你的桌面上。这种\"指令进、成果出\"的闭环，是这代办公 Agent 想实现的核心体验。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6qhtv",
+            "text": "不过当前的办公 Agent 赛道，功能层面的同质化已经在加速。无论你用 WorkBuddy、千问办公还是豆包工作，只要你描述的场景足够清晰，几乎任何主流工具都能胜任。真正决定体验上限的，早已不是模型能力本身，而是生态——你的数据沉淀在哪里，哪个工具就会更好用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bvkjj",
+            "text": "如果你经常用飞书办公，豆包工作几乎是天然的默认选项：登录即是飞书身份，数据就在飞书，权限沿用飞书的配置，开箱即用，零迁移成本。用微信和企业微信的团队，WorkBuddy 无疑更加顺手；扎根钉钉的公司，千问办公则是这条路上最顺畅的选择。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "agtgv",
+            "text": "模型决定下限，生态决定上限。你的数据在哪，最好用的工具就在哪。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e3hbq",
+            "text": "所以我的建议是：先别急着追问“哪家最强”，先看看你的工作流里沉淀了谁的数据。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5qdlg",
+            "text": "选对了工具只是第一步，真正拉开差距的，是你怎么用它。要把一款工具用透，需要你有意识地设计自己的使用方式。具体来说，可以从三个方向着手。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3j1ea",
+            "text": "从一个高频痛点开始，而不是全面铺开。 很多人拿到新工具后，恨不得把所有工作都交给 AI，结果往往因期望过高而快速弃用。不如只找一个你每周都会遇到、耗时 15 分钟以上的重复性任务——比如整理周报、格式化会议纪要、批量重命名文件。用豆包工作把这个任务彻底自动化，直到你觉得“这件事再也不用手动做了”。当你成功攻克第一个痛点后，那种掌控感和信心，会比任何教程都更能驱动你深入使用。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 21,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "cph75",
+            "text": "建立你的个人技能库，而不是每次都从头开始。 豆包工作的“技能”功能很强大，但大多数人只用现成的模板。我建议你养成一个习惯：每成功完成一次复杂的多步骤任务，就把它保存为一个自定义技能。比如，你让豆包完成了一次“从飞书多维表格导出数据 → 生成可视化图表 → 粘贴到周报文档”的操作。下次再做类似周报时，你只需调用这个技能，一秒完成。久而久之，你会积累一套完全适配你工作流的自动化工具箱，这才是别人拿不走的竞争力。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9t456",
+            "text": "用偏好指令进行迭代式调教。 前面给出的偏好指令模板只是一个起点。随着你对豆包工作的了解加深，你应该像训练一个新员工一样，不断给它反馈。比如，当它输出的报告格式不是你想要的，你可以在偏好指令里加一句：“所有报告类输出，优先使用列表和表格，避免大段纯文本。”每一次微调，都是在让豆包更懂你。坚持一段时间，你会发现自己和工具的默契度远超预期。",
+            "type": "unordered-list-item"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "entityKey": "dc8e7bde-62a1-4872-a1da-271d9ae518a4",
+                "mediaItems": [
+                  {
+                    "localMediaId": "23",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092523935229423616"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "entityKey": "39d94848-1046-481c-b24f-5c605a8401fb",
+                "mediaItems": [
+                  {
+                    "localMediaId": "15",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092522215103488000"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "2559b1a4-48a2-4286-b6e0-8bbe22688cdb",
+                "mediaItems": [
+                  {
+                    "localMediaId": "5",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092521895707181056"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "entityKey": "f178e97b-b144-4114-aa85-8f53fccae167",
+                "mediaItems": [
+                  {
+                    "localMediaId": "29",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092524215249649664"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "entityKey": "3febd4d8-6cb9-467d-a2bc-6f7ae8a0386c",
+                "mediaItems": [
+                  {
+                    "localMediaId": "21",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092523851674750976"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "entityKey": "07ed137b-fbf6-4e37-91ad-576498e0473f",
+                "mediaItems": [
+                  {
+                    "localMediaId": "17",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092522275023298560"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "entityKey": "41bcbca9-9a4e-4ce1-97fa-ed13ac062ca3",
+                "mediaItems": [
+                  {
+                    "localMediaId": "25",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092524027797745664"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "entityKey": "5f50d6b0-18ff-4a21-950e-04cd2357e994",
+                "mediaItems": [
+                  {
+                    "localMediaId": "31",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092524286552813568"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "entityKey": "4d66d233-e9d5-4341-8217-615985a94bd7",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092521985272418304"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "entityKey": "22b94402-3395-4003-89d0-ad1014ffa670",
+                "mediaItems": [
+                  {
+                    "localMediaId": "19",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092523764433256448"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "entityKey": "5d84e935-b27f-409a-9a86-49277c2be2a2",
+                "mediaItems": [
+                  {
+                    "localMediaId": "9",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092522034324701185"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "d3392b7b-5950-49b2-b1b4-92f5e1f4d598",
+                "mediaItems": [
+                  {
+                    "localMediaId": "1",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092521694816833536"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {
+                "entityKey": "b226f726-270c-4def-9463-a49f74d0ab9e",
+                "mediaItems": [
+                  {
+                    "localMediaId": "33",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092524593089269760"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "entityKey": "0819d95d-9007-4c30-ac60-ec892de7bc38",
+                "mediaItems": [
+                  {
+                    "localMediaId": "27",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092524086060785664"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f4f7.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "447e9624-9ba8-4c49-b8c1-ca15fe7e17af",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092521789880754176"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "18",
+            "value": {
+              "data": {
+                "entityKey": "53087315-fd4c-4618-b657-fa7a0a1c8a3c",
+                "mediaItems": [
+                  {
+                    "localMediaId": "35",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092524752397279232"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "entityKey": "79e84385-5328-407e-915a-48168b7a9203",
+                "mediaItems": [
+                  {
+                    "localMediaId": "11",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092522129585774592"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "url": "https://www.doubao.com/work"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQojhEDasAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092524027797745664",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.95,
+                  "rgb": {
+                    "blue": 26,
+                    "green": 26,
+                    "red": 26
+                  }
+                },
+                {
+                  "percentage": 0.98,
+                  "rgb": {
+                    "blue": 48,
+                    "green": 46,
+                    "red": 90
+                  }
+                },
+                {
+                  "percentage": 0.6,
+                  "rgb": {
+                    "blue": 114,
+                    "green": 114,
+                    "red": 114
+                  }
+                },
+                {
+                  "percentage": 0.17,
+                  "rgb": {
+                    "blue": 125,
+                    "green": 84,
+                    "red": 47
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 38,
+                    "green": 119,
+                    "red": 147
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HQojhEDasAAY8yC.jpg",
+            "original_img_width": 1396
+          },
+          "media_key": "3_2092524027797745664"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQokB97a0AAKAAINi8ZG69bQAAAA",
+          "media_id": "2092524593089269760",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.05,
+                  "rgb": {
+                    "blue": 26,
+                    "green": 26,
+                    "red": 26
+                  }
+                },
+                {
+                  "percentage": 0.59,
+                  "rgb": {
+                    "blue": 111,
+                    "green": 111,
+                    "red": 111
+                  }
+                },
+                {
+                  "percentage": 0.16,
+                  "rgb": {
+                    "blue": 39,
+                    "green": 114,
+                    "red": 152
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HQokB97a0AAzT5R.jpg",
+            "original_img_width": 1396
+          },
+          "media_key": "3_2092524593089269760"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQohZRBbEAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092521694816833536",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 94.18,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 1.89,
+                  "rgb": {
+                    "blue": 212,
+                    "green": 139,
+                    "red": 60
+                  }
+                },
+                {
+                  "percentage": 1.73,
+                  "rgb": {
+                    "blue": 136,
+                    "green": 136,
+                    "red": 136
+                  }
+                },
+                {
+                  "percentage": 0.9,
+                  "rgb": {
+                    "blue": 228,
+                    "green": 195,
+                    "red": 149
+                  }
+                },
+                {
+                  "percentage": 0.23,
+                  "rgb": {
+                    "blue": 179,
+                    "green": 186,
+                    "red": 240
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1614,
+            "original_img_url": "https://pbs.twimg.com/media/HQohZRBbEAAJN4V.jpg",
+            "original_img_width": 1116
+          },
+          "media_key": "3_2092521694816833536"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQohtByaAAEKAAINi8ZG69bQAAAA",
+          "media_id": "2092522034324701185",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.15,
+                  "rgb": {
+                    "blue": 13,
+                    "green": 13,
+                    "red": 13
+                  }
+                },
+                {
+                  "percentage": 0.31,
+                  "rgb": {
+                    "blue": 102,
+                    "green": 102,
+                    "red": 102
+                  }
+                },
+                {
+                  "percentage": 0.15,
+                  "rgb": {
+                    "blue": 98,
+                    "green": 75,
+                    "red": 59
+                  }
+                },
+                {
+                  "percentage": 0.15,
+                  "rgb": {
+                    "blue": 11,
+                    "green": 50,
+                    "red": 67
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HQohtByaAAEfzzV.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2092522034324701185"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQoh3jPbYAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092522215103488000",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 65.1,
+                  "rgb": {
+                    "blue": 47,
+                    "green": 47,
+                    "red": 47
+                  }
+                },
+                {
+                  "percentage": 23.26,
+                  "rgb": {
+                    "blue": 250,
+                    "green": 250,
+                    "red": 250
+                  }
+                },
+                {
+                  "percentage": 13.27,
+                  "rgb": {
+                    "blue": 113,
+                    "green": 113,
+                    "red": 113
+                  }
+                }
+              ]
+            },
+            "original_img_height": 957,
+            "original_img_url": "https://pbs.twimg.com/media/HQoh3jPbYAABYaa.jpg",
+            "original_img_width": 1704
+          },
+          "media_key": "3_2092522215103488000"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQojkdGaIAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092524086060785664",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.8,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 252,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 87,
+                    "green": 125,
+                    "red": 231
+                  }
+                }
+              ]
+            },
+            "original_img_height": 632,
+            "original_img_url": "https://pbs.twimg.com/media/HQojkdGaIAArVYo.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2092524086060785664"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQohezKbYAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092521789880754176",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 31.48,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 247,
+                    "red": 243
+                  }
+                },
+                {
+                  "percentage": 23.01,
+                  "rgb": {
+                    "blue": 96,
+                    "green": 43,
+                    "red": 1
+                  }
+                },
+                {
+                  "percentage": 22.14,
+                  "rgb": {
+                    "blue": 227,
+                    "green": 127,
+                    "red": 53
+                  }
+                },
+                {
+                  "percentage": 9.89,
+                  "rgb": {
+                    "blue": 54,
+                    "green": 49,
+                    "red": 37
+                  }
+                },
+                {
+                  "percentage": 8.38,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 190,
+                    "red": 146
+                  }
+                }
+              ]
+            },
+            "original_img_height": 940,
+            "original_img_url": "https://pbs.twimg.com/media/HQohezKbYAAK1bb.jpg",
+            "original_img_width": 1758
+          },
+          "media_key": "3_2092521789880754176"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQojRu8bgAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092523764433256448",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.06,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 31,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 1.76,
+                  "rgb": {
+                    "blue": 106,
+                    "green": 106,
+                    "red": 106
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HQojRu8bgAAO46t.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2092523764433256448"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQokLPZaIAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092524752397279232",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 89.15,
+                  "rgb": {
+                    "blue": 26,
+                    "green": 26,
+                    "red": 26
+                  }
+                },
+                {
+                  "percentage": 5.43,
+                  "rgb": {
+                    "blue": 245,
+                    "green": 201,
+                    "red": 147
+                  }
+                },
+                {
+                  "percentage": 1.76,
+                  "rgb": {
+                    "blue": 187,
+                    "green": 183,
+                    "red": 181
+                  }
+                },
+                {
+                  "percentage": 1.03,
+                  "rgb": {
+                    "blue": 234,
+                    "green": 162,
+                    "red": 70
+                  }
+                },
+                {
+                  "percentage": 0.17,
+                  "rgb": {
+                    "blue": 47,
+                    "green": 55,
+                    "red": 50
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HQokLPZaIAAshNJ.jpg",
+            "original_img_width": 1396
+          },
+          "media_key": "3_2092524752397279232"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQoh7CdbIAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092522275023298560",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.87,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 0.13,
+                  "rgb": {
+                    "blue": 134,
+                    "green": 134,
+                    "red": 134
+                  }
+                }
+              ]
+            },
+            "original_img_height": 957,
+            "original_img_url": "https://pbs.twimg.com/media/HQoh7CdbIAASOZ0.jpg",
+            "original_img_width": 1440
+          },
+          "media_key": "3_2092522275023298560"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQojwH/bsAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092524286552813568",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 94.06,
+                  "rgb": {
+                    "blue": 29,
+                    "green": 29,
+                    "red": 29
+                  }
+                },
+                {
+                  "percentage": 1.33,
+                  "rgb": {
+                    "blue": 194,
+                    "green": 186,
+                    "red": 174
+                  }
+                },
+                {
+                  "percentage": 0.58,
+                  "rgb": {
+                    "blue": 235,
+                    "green": 164,
+                    "red": 114
+                  }
+                },
+                {
+                  "percentage": 0.45,
+                  "rgb": {
+                    "blue": 94,
+                    "green": 60,
+                    "red": 19
+                  }
+                },
+                {
+                  "percentage": 0.33,
+                  "rgb": {
+                    "blue": 189,
+                    "green": 184,
+                    "red": 235
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HQojwH_bsAAA4Wv.jpg",
+            "original_img_width": 1396
+          },
+          "media_key": "3_2092524286552813568"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQohk9ZagAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092521895707181056",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 91.83,
+                  "rgb": {
+                    "blue": 10,
+                    "green": 10,
+                    "red": 10
+                  }
+                },
+                {
+                  "percentage": 5.81,
+                  "rgb": {
+                    "blue": 205,
+                    "green": 205,
+                    "red": 205
+                  }
+                },
+                {
+                  "percentage": 2.9,
+                  "rgb": {
+                    "blue": 107,
+                    "green": 107,
+                    "red": 107
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HQohk9ZagAAvgP0.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2092521895707181056"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQojWz8bEAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092523851674750976",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.02,
+                  "rgb": {
+                    "blue": 26,
+                    "green": 26,
+                    "red": 26
+                  }
+                },
+                {
+                  "percentage": 0.68,
+                  "rgb": {
+                    "blue": 112,
+                    "green": 112,
+                    "red": 112
+                  }
+                },
+                {
+                  "percentage": 0.68,
+                  "rgb": {
+                    "blue": 51,
+                    "green": 52,
+                    "red": 115
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 34,
+                    "green": 35,
+                    "red": 31
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 37,
+                    "green": 118,
+                    "red": 146
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HQojWz8bEAA_-mE.jpg",
+            "original_img_width": 1396
+          },
+          "media_key": "3_2092523851674750976"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQohykqaoAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092522129585774592",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.23,
+                  "rgb": {
+                    "blue": 21,
+                    "green": 21,
+                    "red": 21
+                  }
+                },
+                {
+                  "percentage": 0.2,
+                  "rgb": {
+                    "blue": 202,
+                    "green": 163,
+                    "red": 141
+                  }
+                },
+                {
+                  "percentage": 0.18,
+                  "rgb": {
+                    "blue": 15,
+                    "green": 52,
+                    "red": 66
+                  }
+                },
+                {
+                  "percentage": 0.14,
+                  "rgb": {
+                    "blue": 127,
+                    "green": 87,
+                    "red": 60
+                  }
+                }
+              ]
+            },
+            "original_img_height": 749,
+            "original_img_url": "https://pbs.twimg.com/media/HQohykqaoAAbNYB.jpg",
+            "original_img_width": 1074
+          },
+          "media_key": "3_2092522129585774592"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQojbrNaMAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092523935229423616",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.83,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 252,
+                    "red": 255
+                  }
+                }
+              ]
+            },
+            "original_img_height": 957,
+            "original_img_url": "https://pbs.twimg.com/media/HQojbrNaMAAYIWn.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2092523935229423616"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQohqLDbkAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092521985272418304",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.46,
+                  "rgb": {
+                    "blue": 13,
+                    "green": 12,
+                    "red": 12
+                  }
+                },
+                {
+                  "percentage": 0.45,
+                  "rgb": {
+                    "blue": 87,
+                    "green": 64,
+                    "red": 47
+                  }
+                },
+                {
+                  "percentage": 0.39,
+                  "rgb": {
+                    "blue": 96,
+                    "green": 96,
+                    "red": 96
+                  }
+                },
+                {
+                  "percentage": 0.19,
+                  "rgb": {
+                    "blue": 13,
+                    "green": 47,
+                    "red": 63
+                  }
+                },
+                {
+                  "percentage": 0.16,
+                  "rgb": {
+                    "blue": 220,
+                    "green": 147,
+                    "red": 68
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HQohqLDbkAAeQEF.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2092521985272418304"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQojr+XbwAAKAAINi8ZG69bQAAAA",
+          "media_id": "2092524215249649664",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.52,
+                  "rgb": {
+                    "blue": 27,
+                    "green": 27,
+                    "red": 27
+                  }
+                },
+                {
+                  "percentage": 0.31,
+                  "rgb": {
+                    "blue": 106,
+                    "green": 106,
+                    "red": 106
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 37,
+                    "green": 119,
+                    "red": 146
+                  }
+                }
+              ]
+            },
+            "original_img_height": 800,
+            "original_img_url": "https://pbs.twimg.com/media/HQojr-XbwAAk9ee.jpg",
+            "original_img_width": 1396
+          },
+          "media_key": "3_2092524215249649664"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

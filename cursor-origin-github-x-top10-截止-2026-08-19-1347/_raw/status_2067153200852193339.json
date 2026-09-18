@@ -1,0 +1,280 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/hey_madni/status/2067153200852193339",
+    "id": "2067153200852193339",
+    "text": "Cursor just held their first ever conference.\n\nAnd they dropped:\n\n- 1.5T model trained from scratch\n- Github direct replacement Origin\n- iOS app\n\nnobody saw this coming...\n\nfull breakdown (thread):\n\n",
+    "raw_text": {
+      "text": "Cursor just held their first ever conference.\n\nAnd they dropped:\n\n- 1.5T model trained from scratch\n- Github direct replacement Origin\n- iOS app\n\nnobody saw this coming...\n\nfull breakdown (thread):\n\nhttps://t.co/j5f2tNTkxX",
+      "display_text_range": [
+        0,
+        222
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            199,
+            222
+          ],
+          "id": "2066943425153581056",
+          "display": "pic.x.com/j5f2tNTkxX",
+          "original": "https://t.co/j5f2tNTkxX",
+          "replacement": "https://x.com/morganlinton/status/2066946225837109735/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "hey_madni",
+      "url": "https://x.com/hey_madni",
+      "id": "1581163661057748992",
+      "followers": 103598,
+      "following": 521,
+      "likes": 36292,
+      "media_count": 4070,
+      "name": "Madni Aghadi",
+      "description": "dev turned vibe coder • sharing cool AI stuff i find\n\nshipping faster with @theclaudekit",
+      "raw_description": {
+        "text": "dev turned vibe coder • sharing cool AI stuff i find\n\nshipping faster with @theclaudekit",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1581163661057748992/1785240325",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1919380355246968832/Z3lgcXy1_200x200.jpg",
+      "joined": "Sat Oct 15 06:03:02 +0000 2022",
+      "protected": false,
+      "website": {
+        "url": "https://gridd.agency",
+        "display_url": "gridd.agency"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 38,
+    "retweets": 123,
+    "likes": 1620,
+    "bookmarks": 696,
+    "quotes": 14,
+    "created_at": "Wed Jun 17 07:51:43 +0000 2026",
+    "created_timestamp": 1781682703,
+    "possibly_sensitive": false,
+    "views": 580559,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2066943425153581056",
+          "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/1920x1080/0EcT6XXYbLNJxrao.mp4?tag=28",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2066943425153581056/img/DplelUs4Y7eGFClZ.jpg",
+          "duration": 301.666,
+          "width": 1920,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/pl/hV3n35C1H-IRRsL7.m3u8?tag=28&v=562",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/480x270/cHpLBFAajHEvt1jN.mp4?tag=28",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/640x360/tKGW72HdCkDXRSIw.mp4?tag=28",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/1280x720/Q3JYIjuYTrvJSW_A.mp4?tag=28",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/1920x1080/0EcT6XXYbLNJxrao.mp4?tag=28",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": {
+            "screen_name": "morganlinton",
+            "url": "https://x.com/morganlinton",
+            "id": "19016936",
+            "followers": 43380,
+            "following": 787,
+            "likes": 85502,
+            "media_count": 8500,
+            "statuses": 78939,
+            "name": "Morgan",
+            "description": "Cofounder @BoldMetrics: the AI body data engine. Building evals @VulcanBench: benchmarking models across effort levels on real coding tasks // Not an expert.",
+            "raw_description": {
+              "text": "Cofounder @BoldMetrics: the AI body data engine. Building evals @VulcanBench: benchmarking models across effort levels on real coding tasks // Not an expert.",
+              "facets": []
+            },
+            "location": "Incline Village, NV",
+            "banner_url": "https://pbs.twimg.com/profile_banners/19016936/1787097440",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2058612692580184064/h0dOdYSc_normal.jpg",
+            "joined": "Thu Jan 15 09:54:24 +0000 2009",
+            "protected": false,
+            "website": {
+              "url": "https://modelrouting.substack.com",
+              "display_url": "modelrouting.substack.com"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/pl/hV3n35C1H-IRRsL7.m3u8?tag=28&v=562",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/480x270/cHpLBFAajHEvt1jN.mp4?tag=28",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/640x360/tKGW72HdCkDXRSIw.mp4?tag=28",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/1280x720/Q3JYIjuYTrvJSW_A.mp4?tag=28",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/1920x1080/0EcT6XXYbLNJxrao.mp4?tag=28",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2066943425153581056",
+          "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/1920x1080/0EcT6XXYbLNJxrao.mp4?tag=28",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2066943425153581056/img/DplelUs4Y7eGFClZ.jpg",
+          "duration": 301.666,
+          "width": 1920,
+          "height": 1080,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/pl/hV3n35C1H-IRRsL7.m3u8?tag=28&v=562",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/480x270/cHpLBFAajHEvt1jN.mp4?tag=28",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/640x360/tKGW72HdCkDXRSIw.mp4?tag=28",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/1280x720/Q3JYIjuYTrvJSW_A.mp4?tag=28",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/1920x1080/0EcT6XXYbLNJxrao.mp4?tag=28",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": {
+            "screen_name": "morganlinton",
+            "url": "https://x.com/morganlinton",
+            "id": "19016936",
+            "followers": 43380,
+            "following": 787,
+            "likes": 85502,
+            "media_count": 8500,
+            "statuses": 78939,
+            "name": "Morgan",
+            "description": "Cofounder @BoldMetrics: the AI body data engine. Building evals @VulcanBench: benchmarking models across effort levels on real coding tasks // Not an expert.",
+            "raw_description": {
+              "text": "Cofounder @BoldMetrics: the AI body data engine. Building evals @VulcanBench: benchmarking models across effort levels on real coding tasks // Not an expert.",
+              "facets": []
+            },
+            "location": "Incline Village, NV",
+            "banner_url": "https://pbs.twimg.com/profile_banners/19016936/1787097440",
+            "avatar_url": "https://pbs.twimg.com/profile_images/2058612692580184064/h0dOdYSc_normal.jpg",
+            "joined": "Thu Jan 15 09:54:24 +0000 2009",
+            "protected": false,
+            "website": {
+              "url": "https://modelrouting.substack.com",
+              "display_url": "modelrouting.substack.com"
+            },
+            "verification": {
+              "verified": true,
+              "verified_at": null,
+              "type": "individual"
+            },
+            "type": "profile"
+          },
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/pl/hV3n35C1H-IRRsL7.m3u8?tag=28&v=562",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/480x270/cHpLBFAajHEvt1jN.mp4?tag=28",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/640x360/tKGW72HdCkDXRSIw.mp4?tag=28",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/1280x720/Q3JYIjuYTrvJSW_A.mp4?tag=28",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2066943425153581056/vid/avc1/1920x1080/0EcT6XXYbLNJxrao.mp4?tag=28",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

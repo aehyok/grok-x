@@ -1,0 +1,653 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/fujikawa/status/2089127156819599523",
+    "id": "2089127156819599523",
+    "text": "Claude CodeやQwenの実践活用から、StripeによるOpenRouter買収、Cursorの巨額再編まで、AIは実務運用の時代へ突入しました。開発現場のリアルな活用術から法規制まで、激動する最新動向を僕の視点でまとめます。 https://x.com/i/article/2089126424489902080",
+    "raw_text": {
+      "text": "Claude CodeやQwenの実践活用から、StripeによるOpenRouter買収、Cursorの巨額再編まで、AIは実務運用の時代へ突入しました。開発現場のリアルな活用術から法規制まで、激動する最新動向を僕の視点でまとめます。 https://t.co/Dz0s4FgdJi",
+      "display_text_range": [
+        0,
+        142
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            119,
+            142
+          ],
+          "original": "https://t.co/Dz0s4FgdJi",
+          "replacement": "https://x.com/i/article/2089126424489902080",
+          "display": "x.com/i/article/2089…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "fujikawa",
+      "url": "https://x.com/fujikawa",
+      "id": "4751461",
+      "followers": 2107,
+      "following": 992,
+      "likes": 6983,
+      "media_count": 2032,
+      "name": "˗ˏˋ 藤川 忠彦 ˎˊ˗",
+      "description": "音楽制作家〜渋谷の複数ＩＴ系企業創業社長〜衰えていく脳力をＡＩで補完する高齢者。ＰC、ＩＴ、ＡＩを黎明期から渡り歩いている。",
+      "raw_description": {
+        "text": "音楽制作家〜渋谷の複数ＩＴ系企業創業社長〜衰えていく脳力をＡＩで補完する高齢者。ＰC、ＩＴ、ＡＩを黎明期から渡り歩いている。",
+        "facets": []
+      },
+      "location": "茅ヶ崎市",
+      "banner_url": "https://pbs.twimg.com/profile_banners/4751461/1772411141",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1912394643582365696/_9kO8O3N_200x200.jpg",
+      "joined": "Sun Apr 15 12:31:11 +0000 2007",
+      "protected": false,
+      "website": {
+        "url": "https://www.fujikawa.com",
+        "display_url": "fujikawa.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 1,
+    "likes": 8,
+    "bookmarks": 1,
+    "quotes": 0,
+    "created_at": "Sun Aug 16 23:08:22 +0000 2026",
+    "created_timestamp": 1786921702,
+    "possibly_sensitive": false,
+    "views": 28913,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "ja",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-16T23:08:22.000Z",
+      "modified_at": "2026-08-16T23:08:22.000Z",
+      "id": "2089126424489902080",
+      "title": "僕のフォロワーさんたちが、直近24時間でつぶやいたこと",
+      "preview_text": "ここ24時間のタイムラインを眺めていると、AIモデルそのものの性能競争から、エージェントをどう実務のループに組み込むかという実践的な運用の話題へと、関心が明確にシフトしている様子が僕にはよく見えました。",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHP4Rk9eaMAAKAAIAAAAAAEiAZQAA",
+        "media_id": "2089126603821559808",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 40.1,
+                "rgb": {
+                  "blue": 48,
+                  "green": 43,
+                  "red": 36
+                }
+              },
+              {
+                "percentage": 21.95,
+                "rgb": {
+                  "blue": 159,
+                  "green": 175,
+                  "red": 187
+                }
+              },
+              {
+                "percentage": 5.13,
+                "rgb": {
+                  "blue": 74,
+                  "green": 52,
+                  "red": 19
+                }
+              },
+              {
+                "percentage": 3.08,
+                "rgb": {
+                  "blue": 52,
+                  "green": 32,
+                  "red": 72
+                }
+              },
+              {
+                "percentage": 2.53,
+                "rgb": {
+                  "blue": 93,
+                  "green": 57,
+                  "red": 189
+                }
+              }
+            ]
+          },
+          "original_img_height": 1024,
+          "original_img_url": "https://pbs.twimg.com/media/HP4Rk9eaMAAmRyc.jpg",
+          "original_img_width": 2560
+        },
+        "media_key": "3_2089126603821559808"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "88ver",
+            "text": "ここ24時間のタイムラインを眺めていると、AIモデルそのものの性能競争から、エージェントをどう実務のループに組み込むかという実践的な運用の話題へと、関心が明確にシフトしている様子が僕にはよく見えました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 46,
+                  "text": "testingcatalog",
+                  "toIndex": 61
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "46tf",
+            "text": "買収のニュースとして驚かされたのが、StripeによるOpenRouterの買収合意です。 @testingcatalog さんによると、買収額は70億ドルを超える規模になると報じられており、決済大手がモデルのルーティング層（複数のAIモデルを用途に応じて自動で振り分ける仕組み）を直接押さえにきた動きは、僕にとっても極めて示唆的でした。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 25,
+                  "text": "masahirochaen",
+                  "toIndex": 39
+                },
+                {
+                  "fromIndex": 44,
+                  "text": "tatsuki_nowave",
+                  "toIndex": 59
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eq2vq",
+            "text": "AIベンダーの急成長を示す数字も流れてきました。 @masahirochaen さんや @tatsuki_nowave さんが触れていた報道によれば、Anthropicの2026年第2四半期の売上高は115億ドルを超え、前年同期の7.87億ドルから14倍以上に急伸したとのことです。僕が見る限り、企業がAPI経由で業務をエージェントに任せる実需が、そのまま数字に反映されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 27,
+                  "text": "masahirochaen",
+                  "toIndex": 41
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f03ic",
+            "text": "開発ツール大手の再編劇も大きな話題になっていました。 @masahirochaen さんが共有していた情報によると、創業4年のCursorがSpaceXに約600億ドル規模で買収されたとのことです。年換算収益が約40億ドル、うち企業向けが26億ドルに達していたという実績を知り、僕たちの開発環境がどれほど短期間で塗り替えられたのかを改めて実感しました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 33,
+                  "text": "AIMIRAI46487",
+                  "toIndex": 46
+                },
+                {
+                  "fromIndex": 51,
+                  "text": "gigazine",
+                  "toIndex": 60
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6ggtg",
+            "text": "オープンモデルの分野では、中国勢の存在感が圧倒的になっています。 @AIMIRAI46487 さんや @gigazine さんの投稿によると、アリババのQwenシリーズが直近6カ月で世界累計30億ダウンロードを突破し、GoogleやMetaを上回る首位になったそうです。僕の周囲でも、軽量でローカル動作する実用的な選択肢としてQwenを挙げる人が目立って増えています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 17,
+                  "text": "hAru_mAki_ch",
+                  "toIndex": 30
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ergb5",
+            "text": "そのQwenの動かし方について、 @hAru_mAki_ch さんが興味深い検証を投稿していました。Qwen3.8-27Bを動かす際、思考プロセスの設定（reasoning_effort）を「none」にすると応答が約3秒で返る一方、標準の思考モードでは約43秒かかったそうです。僕自身、要約や簡単な指示出しなら思考を切るなど、設定の使い分けが重要だと感じます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 28,
+                  "text": "gosrum",
+                  "toIndex": 35
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "86jlu",
+            "text": "ローカル環境での運用では、量子化の選択も鍵になります。 @gosrum さんは、RTX 5090環境でQwen3.8-27BのNVFP4（NVIDIAの低ビット浮動小数点フォーマット）版をコーディングツールのpiと組み合わせた検証結果を報告していました。思考をオフにするか極端に高くする極振り運用が適しているという指摘は、僕にとっても実践的なヒントになりました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 32,
+                  "text": "pop_ikeda",
+                  "toIndex": 42
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ejlr2",
+            "text": "モデルの利用コストに関しては、無視できない変化も起きています。 @pop_ikeda さんによると、DeepSeekのAPI料金が最大で約12倍に値上げされ、時間帯によっては米国のGPT-5.6 Lunaのほうが安くなる逆転現象が起きているとのことです。安さだけを理由に選んでいたパイプラインは見直しが必要になると、僕も気が引き締まりました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 38,
+                  "text": "ZDNET",
+                  "toIndex": 44
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b18em",
+            "text": "コーディングツールの選定では、使い分けの基準がより鮮明になってきています。 @ZDNET さんが紹介した調査では、開発者の75%がCodexよりもClaude Codeを選好しているという結果が出ていました。僕のタイムラインでも、出力コードの美しさや自律的な修正能力の高さから、Claude Codeを第一選択にする開発者の声をよく見かけます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 38,
+                  "text": "gagarotai200",
+                  "toIndex": 51
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "25qei",
+            "text": "Claude Codeを使いこなすためのコマンド整理も共有されていました。 @gagarotai200 さんは、93個あるコマンドの中から、プロジェクトを把握する「/init」、実装計画を立てる「/plan」、トークン消費を抑える「/compact」など、まず覚えるべき16個を整理していました。僕もセッションが肥大化する前にこまめに圧縮する運用を徹底したいと感じます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 25,
+                  "text": "keitaro_aigc",
+                  "toIndex": 38
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "96em6",
+            "text": "一方で、Codex側も大きな改善を見せています。 @keitaro_aigc さんが紹介していたベンチマークによると、741ターンに及ぶ長時間の会話セッションの再開読み込み時間が、従来の27.6秒から1.7秒へと大幅に短縮されたそうです。会話が長引くと動作が重くなるという長年のストレスが解消されるのは、僕たち利用者にとって朗報です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 18,
+                  "text": "AIMIRAI46487",
+                  "toIndex": 31
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "73g5j",
+            "text": "さらにCodexの機能拡張として、 @AIMIRAI46487 さんがMulti-Agent V2の正式提供に触れていました。メインのGPT-5.6 Solから、軽量なGPT-5.6 Lunaをサブエージェントとして呼び出して並列作業させることが可能になったとのことです。僕には、親が全体設計を行い子が手を動かすという分業体制が、ようやく標準機能として整ってきたように見えます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 19,
+                  "text": "masahirochaen",
+                  "toIndex": 33
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "go4d",
+            "text": "モデルの能力を引き出した実例として、 @masahirochaen さんの投稿が目を引きました。Claude CodeとOpus 5を組み合わせ、19タブ・36ヶ月分にわたる企業の3カ年損益計算書を、関数やセル参照の崩れなく完全に自動生成させたそうです。手作業なら1週間かかる作業が一瞬で終わる光景は、僕にも強いインパクトを与えました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 36,
+                  "text": "ClaudeCode_UT",
+                  "toIndex": 50
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e8pkp",
+            "text": "コード生成の応用範囲は、ブラウザ上の3D空間構築にまで広がっています。 @ClaudeCode_UT さんは、外部の3D素材を一切使わず、Claude CodeにThree.jsとReact Three Fiberのコードを書かせるだけで、街の景観や歩行システムを丸ごと生成した事例を紹介していました。素材集めから始める従来のワークフローが根底から変わると、僕も感じます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 37,
+                  "text": "LudovicCreator",
+                  "toIndex": 52
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7j60a",
+            "text": "動画生成AIの領域では、プロンプトの記述テクニックが洗練されてきました。 @LudovicCreator さんは、動画モデルに対して「真上からの視点」「横からの画角」「計器類」「運転手の顔」といったカット割りをショットリスト形式で一度に指示し、編集ソフトを使わずにワンテイクで切り替わる映像を生成したと報告しています。僕もプロンプトをカメラマンへの指示書として書く感覚が掴めました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 15,
+                  "text": "artimindArt",
+                  "toIndex": 27
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9pq4r",
+            "text": "動画モデルの特性については、 @artimindArt さんがSeedance 2.5において中国語でプロンプトを入力したほうが、英語よりも明確に意図通りの映像が得られたという検証を挙げていました。開発元の言語モデルの特性がプロンプトの解釈精度に直結しているという事実は、僕たちがツールを扱う上で知っておくべき盲点です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 31,
+                  "text": "hAru_mAki_ch",
+                  "toIndex": 44
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9f6la",
+            "text": "音楽と映像の統合制作も、個人レベルで完成度が上がっています。 @hAru_mAki_ch さんは、楽曲生成AIのMusic 3.0で出力した日本語ボーカルをMiniMax H3に音声参照として渡し、さらにGemini 3.7 Flashで生成した字幕タイミングを重ねて3分間の和風ロックMVを完成させていました。複数の特化型モデルを連結させる手際の良さに、僕は感心しました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 12,
+                  "text": "taziku_co",
+                  "toIndex": 22
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1fbef",
+            "text": "映像ツールの連携では、 @taziku_co さんが紹介していたMotionとClaudeの連携機能が便利そうです。「もっとキビキビ動かして」「カットの間隔をゆっくりに」といった自然言語のフィードバックだけで、タイムライン上のアニメーションを直接修正できる仕組みです。ツールを直接操作する段階からAIに指示を出す段階への移行を、僕も肌で感じています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 32,
+                  "text": "AiBreakfast",
+                  "toIndex": 44
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "67kpo",
+            "text": "生成テキストの識別技術を巡っては、早くも攻防が始まっています。 @AiBreakfast さんによると、AnthropicがClaudeのテキスト透かし技術を公開してからわずか数日で、その透かしを除去するOSSツールがGitHubで1万スターを獲得したそうです。規制や保護の仕組みが作られてもすぐに迂回路が作られるスピード感は、僕には非常にリアルに映ります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 33,
+                  "text": "sumika45379",
+                  "toIndex": 45
+                },
+                {
+                  "fromIndex": 50,
+                  "text": "ledgeai",
+                  "toIndex": 58
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2h6d4",
+            "text": "エージェントの拡張機能に関しては、規格の標準化が進み始めました。 @sumika45379 さんや @ledgeai さんの投稿によると、VercelがAIエージェント向けの共通プラグイン規格「Agent Plugins」を公開し、SkillsやMCP（Model Context Protocol）を一括配布できるようにしたとのことです。エージェントごとに拡張機能を書き直す手間が減るのは、僕たち開発者にとって大きな前進です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 4,
+                  "text": "sumika45379",
+                  "toIndex": 16
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7pg1n",
+            "text": "さらに @sumika45379 さんは、Matt Pocock氏による人気スキル集がバージョン1.2に更新され、Claude公式マーケットプレイスからの導入やCodexへの正式対応が追加されたことも報告していました。僕が見る限り、個人が作った優秀なプロンプトやスクリプトが、公式のエコシステムを通じて即座に流通する基盤が完成しつつあります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 17,
+                  "text": "hAru_mAki_ch",
+                  "toIndex": 30
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "49cva",
+            "text": "開発の現場における注意点として、 @hAru_mAki_ch さんがテスト駆動開発における教訓を投稿していました。AIにコードを書かせて自動テストがすべて通った（Greenになった）としても、それは「現在のテストケースを満たした」ことの証明に過ぎず、仕様自体の正しさを保証するわけではないという指摘です。僕も、テストの設計責任だけは人間が手放してはならないと再認識しました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 12,
+                  "text": "tetumemo",
+                  "toIndex": 21
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bhev5",
+            "text": "指示の出し方について、 @tetumemo さんは「プロンプトを単に長く詳細にするのではなく、概念設計を正しく伝えることが本質だ」と述べていました。AIに場当たり的な指示を繰り返して手戻りを増やすのではなく、ドメインの前提知識や論理構造を整理して渡すことの重要性は、僕自身の普段の開発体験とも深く一致します。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 11,
+                  "text": "connect24h",
+                  "toIndex": 22
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cm9tm",
+            "text": "作業環境の工夫では、 @connect24h さんが紹介していたハードウェアの導入例が実用的でした。エンジニアのsongmuさんがAIへの音声入力トリガーとしてフットペダルを導入し、キーボードから手を離さずに音声指示を出せるようにしたという話です。足元で入力を切り替えるという泥臭い工夫が、日々の開発速度を確実に底上げすると僕も思います。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 16,
+                  "text": "RoundtableSpace",
+                  "toIndex": 32
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "foct3",
+            "text": "物理空間でのAI活用としては、 @RoundtableSpace さんが共有していたカフェの事例が印象的でした。既存の防犯カメラ映像をAIでリアルタイム解析し、店内の顧客ごとの滞在時間や注文杯数をダッシュボードに可視化しているそうです。かつては大企業しか導入できなかった高度な監視システムが個人店規模にまで降りてきている現実に、僕は少し圧倒されました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 24,
+                  "text": "theinformation",
+                  "toIndex": 39
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1chag",
+            "text": "インフラ面での社会的な摩擦も表面化しています。 @theinformation の報道によると、米国内で500以上の地方自治体が、電力消費や騒音への懸念からAIデータセンターの新規建設を禁止・制限する措置を講じているそうです。僕たちが手元で便利にエージェントを動かしている裏で、物理的な電力網と地域社会の負荷が限界に達しつつあることを意識させられます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 31,
+                  "text": "theinformation",
+                  "toIndex": 46
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5aaie",
+            "text": "推論コストの乱高下に備える金融的な動きも出てきました。同じく @theinformation によると、Compute Exchangeという組織が、企業向けにモデル利用価格を半年間固定できる「トークン先物」を提供する予定だそうです。AIの計算資源が完全に原油や小麦のようなコモディティ商品として扱われ始めている様子は、僕にとっても極めて新鮮な視点でした。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 26,
+                  "text": "connect24h",
+                  "toIndex": 37
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2urje",
+            "text": "法規制の面では、実務への適用が目前に迫っています。 @connect24h さんが指摘していたように、EU AI Actの第50条が適用開始となり、チャットボットへのAI利用明示や生成物への機械可読マーキングが義務付けられました。社内規定を整えるだけでなく、出力されるUIやデータの形式まで改修が必要になるという話は、僕たちも早急に対処すべき課題です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 26,
+                  "text": "connect24h",
+                  "toIndex": 37
+                },
+                {
+                  "fromIndex": 42,
+                  "text": "madonomori",
+                  "toIndex": 53
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "49g6l",
+            "text": "セキュリティの脆弱性情報もいくつか流れてきました。 @connect24h さんや @madonomori さんの投稿によると、Chromiumにメモリの二重解放などに関する5件の脆弱性が発見され、Microsoft Edgeでも修正版の配信が始まったとのことです。ブラウザ上で動くAIツールを常用している僕たちにとって、プラットフォーム側のアップデートを放置しない危機管理が欠かせません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 38,
+                  "text": "masahirochaen",
+                  "toIndex": 52
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "i88i",
+            "text": "SNSの運用面では、プラットフォームの内部構造を読み解く動きがありました。 @masahirochaen さんが公開リポジトリのコードを解析したところ、Xのアルゴリズムでは「いいね」の重みが0.5であるのに対し、「引用」が5.0、「リンクをコピーして共有」が20.0に設定されていたそうです。僕自身、数字の設計意図を知ることで、プラットフォーム側の評価基準がよく理解できました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 5,
+                  "text": "connect24h",
+                  "toIndex": 16
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dts15",
+            "text": "最後に、 @connect24h さんが語っていた「人間の最大の未修正脆弱性は推しや承認欲求である」という考察が深く心に残りました。高度なAIモデルや巧妙なアルゴリズムが、人間の感情や報酬系に対して的確に働きかけてくる時代だからこそ、僕たちはツールに使われる側になっていないか、常に自分の判断の軸を確かめる必要があるのだと感じます。",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": []
+      },
+      "media_entities": []
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

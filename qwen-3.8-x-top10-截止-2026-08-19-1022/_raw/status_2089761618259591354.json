@@ -1,0 +1,561 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/ttunguz/status/2089761618259591354",
+    "id": "2089761618259591354",
+    "text": "Your laptop can now run a model as capable as nearly anything in the cloud. I swapped Qwen3.8-27B into my agent & it works brilliantly. This bird flies differently than a plane. https://x.com/i/article/1976764453166465024",
+    "raw_text": {
+      "text": "Your laptop can now run a model as capable as nearly anything in the cloud. I swapped Qwen3.8-27B into my agent &amp; it works brilliantly. This bird flies differently than a plane. https://t.co/CbMLRhB655",
+      "display_text_range": [
+        0,
+        205
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            182,
+            205
+          ],
+          "original": "https://t.co/CbMLRhB655",
+          "replacement": "https://x.com/i/article/1976764453166465024",
+          "display": "x.com/i/article/1976…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "ttunguz",
+      "url": "https://x.com/ttunguz",
+      "id": "10069172",
+      "followers": 127388,
+      "following": 351,
+      "likes": 3600,
+      "media_count": 977,
+      "name": "Tomasz Tunguz",
+      "description": "Venture capitalist at @theoryvc  \nStudent of Startups\nBacker of 9 unicorns\nAuthor of http://tomtunguz.com \nSubscribe https://ttunguz.kit.com/ef0a779b9c",
+      "raw_description": {
+        "text": "Venture capitalist at @theoryvc  \nStudent of Startups\nBacker of 9 unicorns\nAuthor of https://t.co/IWw3R3RVLm \nSubscribe https://t.co/iDgoLXaF98",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              85,
+              108
+            ],
+            "original": "https://t.co/IWw3R3RVLm",
+            "replacement": "http://tomtunguz.com",
+            "display": "tomtunguz.com"
+          },
+          {
+            "type": "url",
+            "indices": [
+              120,
+              143
+            ],
+            "original": "https://t.co/iDgoLXaF98",
+            "replacement": "https://ttunguz.kit.com/ef0a779b9c",
+            "display": "ttunguz.kit.com/ef0a779b9c"
+          }
+        ]
+      },
+      "location": "San Francisco, CA",
+      "banner_url": "https://pbs.twimg.com/profile_banners/10069172/1695836596",
+      "avatar_url": "https://pbs.twimg.com/profile_images/901542400559992832/yDp0b2Al_200x200.jpg",
+      "joined": "Thu Nov 08 15:43:16 +0000 2007",
+      "protected": false,
+      "website": {
+        "url": "http://www.tomtunguz.com",
+        "display_url": "tomtunguz.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 3,
+    "retweets": 3,
+    "likes": 39,
+    "bookmarks": 50,
+    "quotes": 0,
+    "created_at": "Tue Aug 18 17:09:30 +0000 2026",
+    "created_timestamp": 1787072970,
+    "possibly_sensitive": false,
+    "views": 4155,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-18T17:09:30.000Z",
+      "modified_at": "2026-08-18T17:09:30.000Z",
+      "id": "1976764453166465024",
+      "title": "Birds Don't Fly Like Planes. Neither Does AI.",
+      "preview_text": "Your laptop can now run a model as capable as nearly anything in the cloud. I swapped Qwen3.8-27B into my agent & it works brilliantly. This bird flies differently than a plane.\nThis little Qwen model",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHQBSy3QaEAAKAAIAAAAAAJmktAAA",
+        "media_id": "2089761260879613952",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 96.77,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 1.88,
+                "rgb": {
+                  "blue": 126,
+                  "green": 127,
+                  "red": 127
+                }
+              },
+              {
+                "percentage": 0.95,
+                "rgb": {
+                  "blue": 36,
+                  "green": 37,
+                  "red": 36
+                }
+              },
+              {
+                "percentage": 0.49,
+                "rgb": {
+                  "blue": 142,
+                  "green": 177,
+                  "red": 224
+                }
+              },
+              {
+                "percentage": 0.14,
+                "rgb": {
+                  "blue": 162,
+                  "green": 152,
+                  "red": 129
+                }
+              }
+            ]
+          },
+          "original_img_height": 640,
+          "original_img_url": "https://pbs.twimg.com/media/HQBSy3QaEAACjXv.jpg",
+          "original_img_width": 1600
+        },
+        "media_key": "3_2089761260879613952"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7fsgs",
+            "text": "Your laptop can now run a model as capable as nearly anything in the cloud. I swapped Qwen3.8-27B into my agent & it works brilliantly. This bird flies differently than a plane.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 170,
+                  "text": "Z.ai",
+                  "toIndex": 174
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 195
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "da3me",
+            "text": "This little Qwen model ranks #1 of 135 models, scoring 52 on Artificial Analysis’s Intelligence Index, a point above GLM-5.2, the state-of-the-art open-source model from Z.ai, at 753b parameters.1 A laptop model beats a recognizable, frontier-class cloud peer roughly 28 times its size.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 301
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "a2ks",
+            "text": "How does a bumblebee achieve the same flight as an airliner? Bigger models can store more knowledge, so they can skip straight to an answer, like an expert in many different fields. Smaller models don’t have as much memorized, so they must reason more, almost from first principles, to close that gap.2",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 245
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "e90kf",
+            "text": "I saw this firsthand when benchmarking the DeepSeek V4 cloud model against two local models. I compared them on the same work, 25 venture-capital tasks (researching startups, summarizing articles, transcribing podcasts), scored by a judge model.3",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 210
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dvbci",
+            "text": "Qwen3.8-27B is dense : it uses every chapter in the book on every question. Book skimmers DeepSeek & Qwen 3.6 35b (another local model I threw into the test), flips only to the relevant chapters for a question.4",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ff4s7",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8lpr6",
+            "text": "These models provide identically good answers. But the speed varies. The local Qwen 35b shreds at top speed, but needs to think about 7.2x more than the cloud model, crossing the line 9 seconds after DeepSeek. The newest Qwen model is three seconds faster, & the cloud is 6 seconds faster yet.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2fhe6",
+            "text": "The cloud model jumps to the right answer ; the local models contemplate & debate internally at different rates of speed & accuracy.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9le12",
+            "text": "For example : on one triage task, the 35B spent 993 tokens to produce six words, “Classification: Scheduling / Action: Respond.” 1000 tokens of deliberation before the response is a hummingbird’s sprint to a honeysuckle. The bumblebee needed 369 thinking tokens, buzzing along at half the speed.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5moeo",
+            "text": "Local models can achieve the same result as cloud models, but they’ll take a different flight path to get there.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 175,
+                  "text": "Z.ai",
+                  "toIndex": 179
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 19,
+                "offset": 0
+              },
+              {
+                "key": 6,
+                "length": 2,
+                "offset": 421
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "rb2p",
+            "text": "Artificial Analysis ranks the incumbent here, Qwen3.8-27B, #1 of 135 models on the Intelligence Index, scoring 52, a point above GLM-5.2’s 51, a 753b-parameter frontier model Z.ai shipped two months earlier. The same page ranks it #23 of 135 on output tokens per task, 160M weighted tokens against a class median of 43M. Intelligence rank & verbosity rank move independently, & that’s the trade this whole post is about. ↩︎",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 87,
+                "offset": 250
+              },
+              {
+                "key": 8,
+                "length": 17,
+                "offset": 434
+              },
+              {
+                "key": 9,
+                "length": 2,
+                "offset": 453
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "djnik",
+            "text": "The imitation-gap explanation. Smaller models produce fluent chain-of-thought that’s more likely to drift logically inconsistent, because they have a sparser map of nearby correct examples to draw on once forced off the direct path to an answer. See Chain of Thought in Large Language Models: Elicited Reasoning or Constrained Imitation? I covered the general shape of this tradeoff, trading inference-time compute for capability, in When Models Learn. ↩︎",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 2,
+                "offset": 548
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7stcv",
+            "text": "Method. 25 venture-capital tasks (researching startups, summarizing articles, transcribing podcasts) drawn from my own agent queue. A separate judge model, deepseek-v4-pro, scored outputs blind on completeness, accuracy & conciseness, 3 points each for 9 total. max_tokens was 4096 for every run. Both local models were served through Ollama on the same MLX runtime, so the comparison isn’t confounded by runtime differences. I established the judge’s noise floor by re-scoring identical outputs, which returned a mean absolute difference of 0.16. ↩︎",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 33,
+                "offset": 185
+              },
+              {
+                "key": 12,
+                "length": 19,
+                "offset": 221
+              },
+              {
+                "key": 13,
+                "length": 2,
+                "offset": 242
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8itar",
+            "text": "Qwen3.6-35B-A3B is a 35b parameter model with 3b active parameters per token, a sparse mixture-of-experts architecture, 256 total experts with 8 routed & 1 shared active per token. Per Qwen’s model card on Hugging Face & vLLM’s model recipe. ↩︎",
+            "type": "ordered-list-item"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "url": "https://recipes.vllm.ai/Qwen/Qwen3.6-35B-A3B"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "url": "https://tomtunguz.com/when-models-learn/"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "7798df74-d011-44f2-ba91-7fccae9fbdb7",
+                "mediaItems": [
+                  {
+                    "localMediaId": "2",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2089761558608162816"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "url": "https://tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai/#fnref:2"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "url": "https://tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai/#fnref:4"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "url": "https://artificialanalysis.ai/models/qwen3-8-27b"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "url": "https://tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai/#fnref:3"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "url": "https://tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai/#fnref:1"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "url": "https://tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai/#fn:2"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "url": "https://tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai/#fn:1"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "url": "https://tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai/#fn:3"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "url": "https://gregrobison.medium.com/chain-of-thought-in-large-language-models-elicited-reasoning-or-constrained-imitation-5e4ee0c811ad"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "url": "https://tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai/#fn:4"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQBTEMYbMAAKAAIAAAAAAJmktAAA",
+          "media_id": "2089761558608162816",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 77.4,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 253,
+                    "red": 253
+                  }
+                },
+                {
+                  "percentage": 19.48,
+                  "rgb": {
+                    "blue": 26,
+                    "green": 26,
+                    "red": 26
+                  }
+                },
+                {
+                  "percentage": 3.72,
+                  "rgb": {
+                    "blue": 144,
+                    "green": 144,
+                    "red": 144
+                  }
+                }
+              ]
+            },
+            "original_img_height": 508,
+            "original_img_url": "https://pbs.twimg.com/media/HQBTEMYbMAAMZr9.png",
+            "original_img_width": 1544
+          },
+          "media_key": "3_2089761558608162816"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/UFOCaptainTing/status/2098593615585140923",
+    "id": "2098593615585140923",
+    "text": "19世纪的德国浪漫主义画家卡斯帕·大卫·弗里德里希，有一幅非常有名的油画——《雾海上的旅人》。\n\n一个男人背对着观众，站在山巅，望着脚下翻涌的云雾。\n\n看着这幅画，我突然冒出一个有点离谱的想法：\n\n如果这幅油画不是静止的，而是真的能“玩”呢？\n\n于是，我一个连代码都不会写的人，转头就问 AI：\n\n“我不会写代码，你能不能自己把这幅油画，变成一个能玩的小游戏？”\n\n说完我自己都觉得，这要求是不是有点过分了😂\n\n因为我对大模型，是真的纯纯小白。\n\n什么参数、代码、Agent、MCP…… 简直听得头大。\n\n所以这次第一次真正上手 Nex-N2.5 Pro，我干脆直接傻瓜机式操作，\n\n不会写代码，那就直接告诉它我想要什么。\n\n我希望这张油画不要只是静止地摆在那里。\n\n鼠标移动时，画面能有一点变化；\n点击雾海，可以把雾气拨开；\n画里的不同位置，还能设置成可以探索的互动区域。\n\n换成以前，我脑子里冒出这种想法，大概也就到此为止了。\n\n因为下一步怎么实现？\n\n不知道。不会。也懒得学😂\n\n但这次，我就把这些想法直接告诉 Nex-N2.5 Pro。\n\n然后看着它自己去：\n\n看图 → 理解我的需求 → 分析怎么实现 → 写HTML/CSS/JS → 调整代码……\n\n最后，居然真的跑起来了。\n\n虽然最后的效果，距离我脑子里那个完整的“小游戏”还有一点差距。\n\n但对我这种纯纯的小白来说，最震撼的其实不是：“哇，它代码写得真厉害。”\n\n而是以前面对一个想法，我的第一反应通常是：“这个我不会。”\n\n现在好像可以换成：\n\n“我告诉 AI 我想要什么，你能不能先帮我把它做出来？”\n\n以前我们用 AI，更多时候还是：AI，告诉我怎么做。\n\n但这次给我的感觉有点不一样。\n\n开始变成：我告诉你我要什么，你自己想办法去把它做出来。\n\n如果以后 AI 真能慢慢把「会不会写代码」「会不会操作各种软件」这些门槛打下来……\n\n最先被改变的，可能不一定是程序员。\n\n而是我们这些以前看到代码就头疼、脑子里有想法却不知道怎么实现的普通人😂\n\n作为一个第一次真正上手大模型的小白，这次体验让我第一次觉得：\n\n原来那些以前听起来离我很遥远的东西，也可以直接拿来实现自己脑子里的想法。\n\nNex-N2.5 Pro 现在可以通过 OpenRouter 限时免费体验啦：https://openrouter.ai/nex-agi",
+    "raw_text": {
+      "text": "19世纪的德国浪漫主义画家卡斯帕·大卫·弗里德里希，有一幅非常有名的油画——《雾海上的旅人》。\n\n一个男人背对着观众，站在山巅，望着脚下翻涌的云雾。\n\n看着这幅画，我突然冒出一个有点离谱的想法：\n\n如果这幅油画不是静止的，而是真的能“玩”呢？\n\n于是，我一个连代码都不会写的人，转头就问 AI：\n\n“我不会写代码，你能不能自己把这幅油画，变成一个能玩的小游戏？”\n\n说完我自己都觉得，这要求是不是有点过分了😂\n\n因为我对大模型，是真的纯纯小白。\n\n什么参数、代码、Agent、MCP…… 简直听得头大。\n\n所以这次第一次真正上手 Nex-N2.5 Pro，我干脆直接傻瓜机式操作，\n\n不会写代码，那就直接告诉它我想要什么。\n\n我希望这张油画不要只是静止地摆在那里。\n\n鼠标移动时，画面能有一点变化；\n点击雾海，可以把雾气拨开；\n画里的不同位置，还能设置成可以探索的互动区域。\n\n换成以前，我脑子里冒出这种想法，大概也就到此为止了。\n\n因为下一步怎么实现？\n\n不知道。不会。也懒得学😂\n\n但这次，我就把这些想法直接告诉 Nex-N2.5 Pro。\n\n然后看着它自己去：\n\n看图 → 理解我的需求 → 分析怎么实现 → 写HTML/CSS/JS → 调整代码……\n\n最后，居然真的跑起来了。\n\n虽然最后的效果，距离我脑子里那个完整的“小游戏”还有一点差距。\n\n但对我这种纯纯的小白来说，最震撼的其实不是：“哇，它代码写得真厉害。”\n\n而是以前面对一个想法，我的第一反应通常是：“这个我不会。”\n\n现在好像可以换成：\n\n“我告诉 AI 我想要什么，你能不能先帮我把它做出来？”\n\n以前我们用 AI，更多时候还是：AI，告诉我怎么做。\n\n但这次给我的感觉有点不一样。\n\n开始变成：我告诉你我要什么，你自己想办法去把它做出来。\n\n如果以后 AI 真能慢慢把「会不会写代码」「会不会操作各种软件」这些门槛打下来……\n\n最先被改变的，可能不一定是程序员。\n\n而是我们这些以前看到代码就头疼、脑子里有想法却不知道怎么实现的普通人😂\n\n作为一个第一次真正上手大模型的小白，这次体验让我第一次觉得：\n\n原来那些以前听起来离我很遥远的东西，也可以直接拿来实现自己脑子里的想法。\n\nNex-N2.5 Pro 现在可以通过 OpenRouter 限时免费体验啦：https://t.co/aSAhxEamGD",
+      "display_text_range": [
+        0,
+        994
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            148,
+            171
+          ],
+          "id": "2098592207003627520",
+          "display": "pic.x.com/7allVhhdx7",
+          "original": "https://t.co/7allVhhdx7",
+          "replacement": "https://x.com/UFOCaptainTing/status/2098593615585140923/video/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            148,
+            171
+          ],
+          "id": "2098592462914879488",
+          "display": "pic.x.com/7allVhhdx7",
+          "original": "https://t.co/7allVhhdx7",
+          "replacement": "https://x.com/UFOCaptainTing/status/2098593615585140923/video/1"
+        },
+        {
+          "type": "url",
+          "indices": [
+            968,
+            991
+          ],
+          "original": "https://t.co/aSAhxEamGD",
+          "replacement": "https://openrouter.ai/nex-agi",
+          "display": "openrouter.ai/nex-agi"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "UFOCaptainTing",
+      "url": "https://x.com/UFOCaptainTing",
+      "id": "381366643",
+      "followers": 5179,
+      "following": 3224,
+      "likes": 12937,
+      "media_count": 1111,
+      "name": "UFO Captain 婷",
+      "description": "🧏🏻‍♀️ 无固定赛道｜想发什么就发什么｜随缘刷就好",
+      "raw_description": {
+        "text": "🧏🏻‍♀️ 无固定赛道｜想发什么就发什么｜随缘刷就好",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/381366643/1776582134",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2045761725803507712/f-8dAt4F_200x200.jpg",
+      "joined": "Wed Sep 28 06:16:01 +0000 2011",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 55,
+    "retweets": 24,
+    "likes": 33,
+    "bookmarks": 5,
+    "quotes": 12,
+    "created_at": "Sat Sep 12 02:04:42 +0000 2026",
+    "created_timestamp": 1789178682,
+    "possibly_sensitive": false,
+    "views": 7469,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2098592207003627520",
+          "url": "https://pbs.twimg.com/media/HR-yflLasAAR_ri.jpg?name=orig",
+          "width": 960,
+          "height": 1223
+        },
+        {
+          "id": "2098592462914879488",
+          "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/1920x1020/tbETjZEEmrv2TORz.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2098592462914879488/img/qLrGIyRmTBZPr-qL.jpg",
+          "duration": 21.4,
+          "width": 1920,
+          "height": 1020,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/pl/Rf5p61IHIOZR9ijJ.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/508x270/Cw_HdG9juRlnBriE.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/676x360/ZbC0ZC4c3LdgM5dg.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/1354x720/mf0CRu3g4h0s_SdU.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/1920x1020/tbETjZEEmrv2TORz.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/pl/Rf5p61IHIOZR9ijJ.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/508x270/Cw_HdG9juRlnBriE.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/676x360/ZbC0ZC4c3LdgM5dg.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/1354x720/mf0CRu3g4h0s_SdU.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/1920x1020/tbETjZEEmrv2TORz.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2098592207003627520",
+          "url": "https://pbs.twimg.com/media/HR-yflLasAAR_ri.jpg?name=orig",
+          "width": 960,
+          "height": 1223
+        }
+      ],
+      "videos": [
+        {
+          "id": "2098592462914879488",
+          "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/1920x1020/tbETjZEEmrv2TORz.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2098592462914879488/img/qLrGIyRmTBZPr-qL.jpg",
+          "duration": 21.4,
+          "width": 1920,
+          "height": 1020,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/pl/Rf5p61IHIOZR9ijJ.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/508x270/Cw_HdG9juRlnBriE.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/676x360/ZbC0ZC4c3LdgM5dg.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/1354x720/mf0CRu3g4h0s_SdU.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/1920x1020/tbETjZEEmrv2TORz.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/pl/Rf5p61IHIOZR9ijJ.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/508x270/Cw_HdG9juRlnBriE.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/676x360/ZbC0ZC4c3LdgM5dg.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/1354x720/mf0CRu3g4h0s_SdU.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098592462914879488/vid/avc1/1920x1020/tbETjZEEmrv2TORz.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

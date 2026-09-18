@@ -1,0 +1,635 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/QwenDevs/status/2088289608031510811",
+    "id": "2088289608031510811",
+    "text": "This covers two things you might wanna try first: tuning reasoning depth and extending the native 262K context to 1M tokens with YaRN. And deployment references for vLLM, SGLang, TokenSpeed, and Unsloth.\n\nHave fun building with 27B. Let us know how it goes https://x.com/i/article/2088276657245446144",
+    "raw_text": {
+      "text": "This covers two things you might wanna try first: tuning reasoning depth and extending the native 262K context to 1M tokens with YaRN. And deployment references for vLLM, SGLang, TokenSpeed, and Unsloth.\n\nHave fun building with 27B. Let us know how it goes https://t.co/HALsoBb4tn",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            257,
+            280
+          ],
+          "original": "https://t.co/HALsoBb4tn",
+          "replacement": "https://x.com/i/article/2088276657245446144",
+          "display": "x.com/i/article/2088…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "QwenDevs",
+      "url": "https://x.com/QwenDevs",
+      "id": "2077014085598941184",
+      "followers": 8719,
+      "following": 4,
+      "likes": 58,
+      "media_count": 3,
+      "name": "Qwen Developers",
+      "description": "This is the official account for @Alibaba_Qwen Developers. Let's build!",
+      "raw_description": {
+        "text": "This is the official account for @Alibaba_Qwen Developers. Let's build!",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2077014085598941184/1784116767",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2079037454556987392/zGNYEiMo_200x200.jpg",
+      "joined": "Tue Jul 14 12:57:27 +0000 2026",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 21,
+    "retweets": 102,
+    "likes": 1173,
+    "bookmarks": 927,
+    "quotes": 14,
+    "created_at": "Fri Aug 14 15:40:15 +0000 2026",
+    "created_timestamp": 1786722015,
+    "possibly_sensitive": false,
+    "views": 73544,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-14T15:40:15.000Z",
+      "modified_at": "2026-08-14T15:40:15.000Z",
+      "id": "2088276657245446144",
+      "title": "Qwen3.8-27B Practical Guide: Control Reasoning Depth and Extend Context to 1M Tokens",
+      "preview_text": "Qwen3.8-27B is here — a compact, deployment-friendly dense model built on the Qwen3.5 architecture, with native vision-language understanding and flexible thinking control.\nTwo developer-facing",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHPsV5KXacAAKAAIc0wlObZuQAAAA",
+        "media_id": "2088286923995639808",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 78.95,
+                "rgb": {
+                  "blue": 1,
+                  "green": 1,
+                  "red": 1
+                }
+              },
+              {
+                "percentage": 8.52,
+                "rgb": {
+                  "blue": 176,
+                  "green": 173,
+                  "red": 189
+                }
+              },
+              {
+                "percentage": 4.76,
+                "rgb": {
+                  "blue": 139,
+                  "green": 110,
+                  "red": 107
+                }
+              },
+              {
+                "percentage": 2.02,
+                "rgb": {
+                  "blue": 87,
+                  "green": 43,
+                  "red": 18
+                }
+              },
+              {
+                "percentage": 0.74,
+                "rgb": {
+                  "blue": 30,
+                  "green": 39,
+                  "red": 48
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HPsV5KXacAAxDzk.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2088286923995639808"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7t2cq",
+            "text": "Qwen3.8-27B is here — a compact, deployment-friendly dense model built on the Qwen3.5 architecture, with native vision-language understanding and flexible thinking control.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6bn90",
+            "text": "Two developer-facing features are worth your attention right away:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "833kq",
+            "text": "reasoning_effort — dial reasoning depth up or down, per request.",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "eec13",
+            "text": "Ultra-long context — 262K tokens natively, extensible to 1M with YaRN.",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8g2n0",
+            "text": "Here's how to use both.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "h54s",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bjmc0",
+            "text": "1. reasoning_effort: Control Reasoning Depth Per Request",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cul3u",
+            "text": "Qwen3.8 thinks by default before answering. With official support for reasoning_effort, you can now tune how hard it thinks — balancing accuracy, speed, and cost:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dqj15",
+            "text": "xhigh (default): for complex tasks that require thorough analysis",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a53l0",
+            "text": "medium: for balancing accuracy and speed",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1tasq",
+            "text": "low: for efficient reasoning that prioritizes speed and cost",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1ap27",
+            "text": "A minimal example via the OpenAI-compatible Chat Completions API:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1rese",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7u5rq",
+            "text": "One practical tip: in multi-turn agentic tasks, lower effort doesn't always mean faster end-to-end. Faster per-turn responses may come with more failures and retries, which can increase total latency and token consumption. Pick the effort level that fits the task.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "4tsd0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7f52r",
+            "text": "2. Processing Ultra-Long Contexts: 262K Native, Up to 1M with YaRN",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dshlq",
+            "text": "Qwen3.8-27B natively supports context lengths of up to 262,144 tokens. When your total length (input + output) exceeds that, enable RoPE scaling — YaRN is supported by vLLM, SGLang, and TokenSpeed.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "djbj6",
+            "text": "The quickest approach is to pass the configuration as engine startup flags.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "732vo",
+            "text": "For vLLM, use",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5a35q",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6o7lf",
+            "text": "For SGLang, use",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "bepom",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3011l",
+            "text": "For TokenSpeed, use",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5vjkb",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f17gk",
+            "text": "Or modify rope_parameters inside text_config in the model's config.json:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "aha83",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d539o",
+            "text": "Two important notes:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 33,
+                "style": "Bold"
+              }
+            ],
+            "key": "e05i4",
+            "text": "Open-source frameworks implement static YaRN — the scaling factor stays constant regardless of input length, which can hurt performance on shorter texts. Only enable YaRN when you actually need long contexts.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4kkvg",
+            "text": "Tune factor to your typical context length. If your workloads usually sit around 524,288 tokens, set factor to 2.0 instead of 4.0.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "bsfj6",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "85rk2",
+            "text": "Deploy It Your Way",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8fi7o",
+            "text": "Qwen3.8-27B is compatible with vLLM, SGLang, TokenSpeed, Unsloth, and more. For production workloads or high-throughput scenarios, see the deployment guides maintained by each framework:",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 6,
+                  "text": "https://recipes.vllm.ai/Qwen/Qwen3.8-27B",
+                  "toIndex": 46
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "di50e",
+            "text": "vLLM: https://recipes.vllm.ai/Qwen/Qwen3.8-27B",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 8,
+                  "text": "https://docs.sglang.io/cookbook/autoregressive/Qwen/Qwen3.8-27B",
+                  "toIndex": 71
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "30jj2",
+            "text": "SGLang: https://docs.sglang.io/cookbook/autoregressive/Qwen/Qwen3.8-27B",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 12,
+                  "text": "https://lightseek.org/tokenspeed/recipes/models#qwen3-8",
+                  "toIndex": 67
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6e4cj",
+            "text": "TokenSpeed: https://lightseek.org/tokenspeed/recipes/models#qwen3-8",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 9,
+                  "text": "https://unsloth.ai/docs/models/qwen3.8",
+                  "toIndex": 47
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6acu7",
+            "text": "Unsloth: https://unsloth.ai/docs/models/qwen3.8",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9t6sk",
+            "text": "Happy building.",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "markdown": "```\nSGLANG_ALLOW_OVERWRITE_LONGER_CONTEXT_LEN=1 python -m sglang.launch_server ... --json-model-override-args '{\"text_config\": {\"rope_parameters\": {\"mrope_interleaved\": true, \"mrope_section\": [11, 11, 10], \"rope_type\": \"yarn\", \"rope_theta\": 10000000, \"partial_rotary_factor\": 0.25, \"factor\": 4.0, \"original_max_position_embeddings\": 262144}}}' --context-length 1000000\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "markdown": "```\nTOKENSPEED_ALLOW_OVERWRITE_LONGER_CONTEXT_LEN=1 tokenspeed serve ... --hf-overrides '{\"text_config\": {\"rope_parameters\": {\"mrope_interleaved\": true, \"mrope_section\": [11, 11, 10], \"rope_type\": \"yarn\", \"rope_theta\": 10000000, \"partial_rotary_factor\": 0.25, \"factor\": 4.0, \"original_max_position_embeddings\": 262144}}}' --max-model-len 1000000  \n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "markdown": "```\n{\n    \"mrope_interleaved\": true,\n    \"mrope_section\": [11, 11, 10],\n    \"rope_type\": \"yarn\",\n    \"rope_theta\": 10000000,\n    \"partial_rotary_factor\": 0.25,\n    \"factor\": 4.0,\n    \"original_max_position_embeddings\": 262144\n}\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "markdown": "```\nfrom openai import OpenAI\n\n# Configured by environment variables\nclient = OpenAI()\n\nmessages = [{\"role\": \"user\", \"content\": \"Write a Python function to merge two sorted linked lists.\"}]\n\ncompletion = client.chat.completions.create(\n    model=\"Qwen/Qwen3.8-27B\",\n    messages=messages,\n    extra_body={\n        \"chat_template_kwargs\": {\n            \"enable_thinking\": True,    # on by default\n            \"preserve_thinking\": True,  # on by default\n        },\n    },\n    reasoning_effort=\"xhigh\",  # supported levels: xhigh, medium, low\n)\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "markdown": "```\nVLLM_ALLOW_LONG_MAX_MODEL_LEN=1 vllm serve ... --hf-overrides '{\"text_config\": {\"rope_parameters\": {\"mrope_interleaved\": true, \"mrope_section\": [11, 11, 10], \"rope_type\": \"yarn\", \"rope_theta\": 10000000, \"partial_rotary_factor\": 0.25, \"factor\": 4.0, \"original_max_position_embeddings\": 262144}}}' --max-model-len 1000000  \n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          }
+        ]
+      },
+      "media_entities": []
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

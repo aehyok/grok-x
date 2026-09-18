@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/shimarin/status/2089663036475031802",
+    "id": "2089663036475031802",
+    "text": "わい「アリエクで買ったこのIPカメラ、挙動が変なんだよね〜。なんか情報ある？」\nQwen3.8-27B「ファームウェアのバイナリが落ちてたので解析しますね」\nわい「お、おう（口コミとか調べてほしかっただけなんだけど・・・なんか逆アセンブルしだしたよ・・・）」",
+    "raw_text": {
+      "text": "わい「アリエクで買ったこのIPカメラ、挙動が変なんだよね〜。なんか情報ある？」\nQwen3.8-27B「ファームウェアのバイナリが落ちてたので解析しますね」\nわい「お、おう（口コミとか調べてほしかっただけなんだけど・・・なんか逆アセンブルしだしたよ・・・）」",
+      "display_text_range": [
+        0,
+        129
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "shimarin",
+      "url": "https://x.com/shimarin",
+      "id": "19144881",
+      "followers": 4541,
+      "following": 109,
+      "likes": 3024,
+      "media_count": 5736,
+      "name": "嶋田大貴",
+      "description": "手取り10万円、家賃1万1千円の中卒独身中年男性です。生きる権利をください。\nデスクトップを常時配信中: \nhttps://www.youtube.com/@shimariso/live",
+      "raw_description": {
+        "text": "手取り10万円、家賃1万1千円の中卒独身中年男性です。生きる権利をください。\nデスクトップを常時配信中: \nhttps://t.co/kLXZD4cVT2",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              54,
+              77
+            ],
+            "original": "https://t.co/kLXZD4cVT2",
+            "replacement": "https://www.youtube.com/@shimariso/live",
+            "display": "youtube.com/@shimariso/live"
+          }
+        ]
+      },
+      "location": "日本",
+      "banner_url": "https://pbs.twimg.com/profile_banners/19144881/1773661289",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1904706239554347009/LaOE9tBK_200x200.jpg",
+      "joined": "Sun Jan 18 14:04:41 +0000 2009",
+      "protected": false,
+      "website": {
+        "url": "http://shimarin.com",
+        "display_url": "shimarin.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 2,
+    "retweets": 191,
+    "likes": 1316,
+    "bookmarks": 363,
+    "quotes": 7,
+    "created_at": "Tue Aug 18 10:37:46 +0000 2026",
+    "created_timestamp": 1787049466,
+    "views": 1024345,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "ja",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "2099343167644725647": [
+    {
+      "id": "2099343349505523803",
+      "author": "MainCaseZ",
+      "url": "https://x.com/MainCaseZ/status/2099343349505523803",
+      "text": "AI 做出东西，不等于它真的做对了。\n\n这次，我从自己的素材库里挑了一张深胡桃木客餐厅概念图，交给 Nex-N2.5 Pro。我不是只想让它“描述这张图”，而是想继续往前走：把静态的室内图，变成能够旋转、缩放、点选构件的 3D 交互模型。\n\n第一次，我把看图、拆解、建模和交互一次性塞进去。等了三分钟多，页面依然只有推理过程，没有可用结果。\n\n我把任务停掉，重新拆成两步。\n\n第一步，只让 Nex-N2.5 Pro 读图，提取空间关系、家具、材质和光线。它识别出了开放式客餐厨、长餐桌、电视墙、沙发、厨房高柜和落地窗，也把看不清的位置标成了不确定。"
+    },
+    {
+      "id": "2099343431441236311",
+      "author": "MainCaseZ",
+      "url": "https://x.com/MainCaseZ/status/2099343431441236311",
+      "text": "第二步，再根据这份结构化清单生成 Three.js 交互页面。这一次代码成功返回，本地也能旋转、缩放和点选电视墙。"
+    },
+    {
+      "id": "2099343502152962456",
+      "author": "MainCaseZ",
+      "url": "https://x.com/MainCaseZ/status/2099343502152962456",
+      "text": "但我看到结果后，还是觉得不对。\n\n它是一个用几何块搭出来的低模原型，能证明技术路线跑通，却不是我真正想要的交互模型。我给出了一张 Blender 里的火车模型参考图，重新说清标准：我要的不只是“能转”，还要有完整的物件结构、材质、灯光、细节层级，并且可以导出成网页交互资产。\n\n这是第一版图片"
+    },
+    {
+      "id": "2099343583048609799",
+      "author": "MainCaseZ",
+      "url": "https://x.com/MainCaseZ/status/2099343583048609799",
+      "text": "后续，我继续在 Codex 里安装 Blender 5.2.1，通过脚本重新搭建客餐厨场景，添加深胡桃木、灰色石材、玻璃、布艺和灯带材质，再导出 .blend 源文件和 .glb 模型，接入新的网页交互界面。\n\n这一步同样不是一次成功。\n\nBlender 5.2 的动画接口和渲染引擎名称发生了变化，脚本前两次导出都报错；第一张渲染图又因为镜头太高，被吊顶挡住。进入网页验收后，自动取景把相机放到了左墙外面，导入的灯光又让画面过曝。这些问题都需要一次次打开、观察、修改，然后再验证。\n\n最后的录屏里，已经可以看到整个客餐厨场景，也可以旋转、平移、缩放，点选石材电视背景墙和阳台绿植的独立构件，还能在整体空间、餐厅、客厅和电视墙之间切换视角。\n\n这次经历让我对 AI Agent 多了一个很具体的判断：\n\nAI 的价值不是替人类取消判断，而是把一个模糊想法，不断推进成可观察、可修改、可验收的对象。\n\n在这条工作流里，Nex-N2.5 Pro 真正帮我做的，是单图理解、空间信息拆解和 Three.js 初稿生成。最终的 Blender 和 GLB 版本，是在后续 Codex 工作流中完成的。这次并没有实测 Nex 直接操作 Blender，所以我不会把整个结果包装成“一个模型全自动完成”。\n\n同样，原始图是 AI 生成的客餐厅概念图，不是真实客户的已完工项目。单张透视图看不到的背面、尺寸和节点，都只能合理推演。它现在是一个可交互的概念复原 Alpha，可以用来讨论空间和展示想法，但不能当作施工图、报价或下单依据。\n\n我不是科技博主，我是一个做装修实体业务的人。对我来说，这类模型最有意义的地方，不是用一张漂亮截图证明 AI 很强，而是有一天，能把客户的模糊想法、设计师的方案和现场的真实约束，更快地放进同一个可交互的空间里讨论。"
+    },
+    {
+      "id": "2099343638123938075",
+      "author": "MainCaseZ",
+      "url": "https://x.com/MainCaseZ/status/2099343638123938075",
+      "text": "Nex-N2.5 Pro 目前在 OpenRouter 页面显示为免费模型，感兴趣可以去实际试试：\n\nhttps://openrouter.ai/nex-agi"
+    }
+  ],
+  "2099337229982421253": [
+    {
+      "id": "2099337508735811642",
+      "author": "li9292",
+      "url": "https://x.com/li9292/status/2099337508735811642",
+      "text": "6 台网页街机都能直接玩,先盲评再点页面上的「显示答案」:https://toby-bridges.github.io/space-invaders-six-llms/"
+    },
+    {
+      "id": "2099338126670082446",
+      "author": "li9292",
+      "url": "https://x.com/li9292/status/2099338126670082446",
+      "text": "答案:B 位是目前在openrouter上限时免费的新模型：\nNex-N2.5 Pro。\n顺带一说,写游戏只是它的副业,它更厉害的是是 Vision + Computer Use 长程操作。 韭二哥会持续关注这个模型，测试它的其他能力域 目前Nex- N2.5 Pro正在免费限时开放中：https://openrouter.ai/nex-agi"
+    },
+    {
+      "id": "2099338869863026909",
+      "author": "li9292",
+      "url": "https://x.com/li9292/status/2099338869863026909",
+      "text": "一图看懂这六份答卷:\n第一、40/69 秒交卷的两家走极简;\n第二、234 秒以上的四家全做了音效和街机开场\n第三、Nex-N2.5 Pro 目前免费，多模态能力让人惊叹速度打平Kimi K3，完胜GLM-5.3\n\n至于游戏质量请大家来试玩之后来评论区打分"
+    },
+    {
+      "id": "2099340736118550734",
+      "author": "li9292",
+      "url": "https://x.com/li9292/status/2099340736118550734",
+      "text": "题目出自 Simon Willison 的民间基准(https://space-invaders.simonwillison.net\n\n方法:无 system prompt、参数全默认;每个模型只写一次,第一版直接定稿：不重试、不改代码、不挑结果。"
+    }
+  ],
+  "2099026372484341910": [
+    {
+      "id": "2099026375105728628",
+      "author": "chasen_liao",
+      "url": "https://x.com/chasen_liao/status/2099026375105728628",
+      "text": "想要白嫖这么强大的模型就上 OpenRouter 👉 https://openrouter.ai/nex-agi/nex-n2.5-pro:free\n\n每天都有很大量的免费额度可以用，我实测下来，一天可以请求 100 次左右，输出速度大概在 80 ~ 100 T/s ，兄弟们快快白嫖起来吧"
+    },
+    {
+      "id": "2099031565137485882",
+      "author": "chasen_liao",
+      "url": "https://x.com/chasen_liao/status/2099031565137485882",
+      "text": "鹈鹕的建模虽然不算精美，但是脚的位置是对的，看得出来模型对于物理规律的理解是挺好的"
+    }
+  ],
+  "2098567332406915522": [
+    {
+      "id": "2098567334495687134",
+      "author": "shitunote",
+      "url": "https://x.com/shitunote/status/2098567334495687134",
+      "text": "上手体验，感受真正能 “使用电脑” 的 AI 智能体：\n\n👉 https://openrouter.ai/nex-agi"
+    }
+  ],
+  "2098570136588570674": [
+    {
+      "id": "2098572514918301915",
+      "author": "ponyodong",
+      "url": "https://x.com/ponyodong/status/2098572514918301915",
+      "text": "https://openrouter.ai/nex-agi"
+    }
+  ],
+  "2098220638909722815": [
+    {
+      "id": "2098220641736651168",
+      "author": "jinglian",
+      "url": "https://x.com/jinglian/status/2098220641736651168",
+      "text": "目前 Nex-N2.5 Pro 的 API 正在免费开放中，想体验“草图一键变 3D”的朋友建议抓紧测试。\n\n👇 立刻在这里领取免费 API： https://openrouter.ai/nex-agi"
+    }
+  ],
+  "2098267288114000134": [
+    {
+      "id": "2098268972542296574",
+      "author": "skavenps1",
+      "url": "https://x.com/skavenps1/status/2098268972542296574",
+      "text": "入门指南：  1. 前往 https://openrouter.ai/nex-agi 2. 创建你的账户 3. 生成你的 API 密钥 4. 将其连接到你的 AI 代理 5. 选择一个 Nex 模型并开始测试"
+    }
+  ],
+  "2098152649380278501": [
+    {
+      "id": "2098159793588584849",
+      "author": "OA20200911",
+      "url": "https://x.com/OA20200911/status/2098159793588584849",
+      "text": "这里注册\nhttps://openrouter.ai/nex-agi"
+    }
+  ],
+  "2097998014875074781": [
+    {
+      "id": "2097998015219003618",
+      "author": "you1873118",
+      "url": "https://x.com/you1873118/status/2097998015219003618",
+      "text": "huggingface链接：\n\nMini版：https://huggingface.co/nex-agi/Nex-N2.5-mini\n\nPro版：https://huggingface.co/nex-agi/Nex-N2.5-Pro\n\nMax版： https://huggingface.co/nex-agi/Nex-N2.5-Max\n\nModelScope链接：\n\nMini版： https://modelscope.cn/models/nex-agi/Nex-N2.5-mini/summary\n\nPro版：https://modelscope.cn/models/nex-agi/Nex-N2.5-Pro/summary\n\nMax版：https://modelscope.cn/models/nex-agi/Nex-N2.5-Max/summary\n\nGitHub: https://github.com/nex-agi/Nex-N2.5"
+    },
+    {
+      "id": "2097998015558807742",
+      "author": "you1873118",
+      "url": "https://x.com/you1873118/status/2097998015558807742",
+      "text": "入门指南：\n\n1. 前往 https://openrouter.ai/nex-agi\n2. 创建你的账户\n3. 生成你的 API 密钥\n4. 将其连接到你的 AI 代理\n5. 选择一个 Nex 模型并开始测试"
+    }
+  ],
+  "2097958358036980031": [
+    {
+      "id": "2097958651868987804",
+      "author": "ModengSir",
+      "url": "https://x.com/ModengSir/status/2097958651868987804",
+      "text": "【1】\n不是生成一段拖拉机视频，而是做一个能亲手玩的 3D 小游戏。\n\n走到摇把旁边，捡起来，对准车头卡入。接着按住鼠标，顺时针画完整的大圈。小幅晃动不计数，转慢了转速会掉；达到点火条件后，还要及时松手。\n\n这道题有意思的地方，不是“画一台车”。人物的双手、唯一一根摇把、发动机转速、点火状态和结果提示，必须配合起来。画面能显示只是开始，操作真的能推进任务，才算有了游戏。\n\n这次我把制作过程拆得很清楚：\nNex-N2.5 Pro 通过 OpenRouter API，\n多轮生成和修正这版游戏的应用源码，\n并充分展示Vision / Computer Use / 长程操作的能力\n\nCodex 负责组织协调把发现的问题交回 Nex。\n3D 渲染使用现成的 Three.js 引擎，\n不是模型从零编写引擎。"
+    },
+    {
+      "id": "2097958857867968719",
+      "author": "ModengSir",
+      "url": "https://x.com/ModengSir/status/2097958857867968719",
+      "text": "【2】\n它不是一次生成就成功。过程中遇到过接口限流，也出现过人物姿态接口不匹配、摇把位置错误和结果弹窗不显示。修复继续由 Nex 输出，最终 8 个应用文件都保留了对应 API 响应与校验记录。\n\n最后，核心机制的 10 项测试通过。浏览器实操也跑通了拾取、对接、完整画圈、点火成功和重试，成功后转速显示 480。\n\n把真实运行截图发回 Nex，让它检查画面。它识别了人物、摇把和中文界面，也指出场景空旷、底部提示偏密，并明确说截图无法证明声音和交互是否生效。这比只问一句“代码写完了吗”更接近真实开发。\n\nNex-N2.5 Pro 的方向是 Vision、Computer Use 和长程任务执行。这次实际充分展示了这些能力\n\n当前成品是简化 3D 风格的可玩 Demo，不是写实大作。但从一个具体玩法，到多个文件协作，再到执行、报错、修正和验证，这条过程值得看。\n\n最后我还优化了画面，重新搞了一版出来。交互会好一些。"
+    },
+    {
+      "id": "2097959192531460604",
+      "author": "ModengSir",
+      "url": "https://x.com/ModengSir/status/2097959192531460604",
+      "text": "【3】\n去 OpenRouter 限时免费使用 Nex-N2.5-Pro API：\nhttps://openrouter.ai/nex-agi/nex-n2.5-pro:free\n模型 ID：nex-agi/nex-n2.5-pro:free\n限时免费，以 OpenRouter 页面及实际接口为准。\n\n#NexN25Pro #OpenRouter #AIGaming #ComputerUse"
+    }
+  ],
+  "2098812240069787948": [
+    {
+      "id": "2099109464741953670",
+      "author": "songniao007",
+      "url": "https://x.com/songniao007/status/2099109464741953670",
+      "text": "可以在这里https://openrouter.ai/chat Pro就可以直接免费试用咯"
+    }
+  ]
+}

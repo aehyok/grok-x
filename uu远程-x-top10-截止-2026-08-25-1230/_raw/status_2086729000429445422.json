@@ -1,0 +1,230 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/yetone/status/2086729000429445422",
+    "id": "2086729000429445422",
+    "text": "我都想好了 slogan —— 用 UU 远程才是真正的远程工作。",
+    "raw_text": {
+      "text": "我都想好了 slogan —— 用 UU 远程才是真正的远程工作。",
+      "display_text_range": [
+        0,
+        33
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "yetone",
+      "url": "https://x.com/yetone",
+      "id": "147786784",
+      "followers": 88262,
+      "following": 4543,
+      "likes": 19431,
+      "media_count": 2300,
+      "name": "yetone",
+      "description": "Built: avante.nvim\n\nBuilding:\n\nhttps://alma.now\n\nhttps://confirmo.love\n\nhttps://swordgame.ai\n\nhttps://yansu.app\n\nhttps://cumora.ai\n\nhttps://killaislop.com",
+      "raw_description": {
+        "text": "Built: avante.nvim\n\nBuilding:\n\nhttps://t.co/pfq9srNgsd\n\nhttps://t.co/fpGnPR5t9C\n\nhttps://t.co/cBN1yzJPIG\n\nhttps://t.co/6ERz2HMx0f\n\nhttps://t.co/QhQRLD4zQo\n\nhttps://t.co/ln9CVeagWC",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              31,
+              54
+            ],
+            "original": "https://t.co/pfq9srNgsd",
+            "replacement": "https://alma.now",
+            "display": "alma.now"
+          },
+          {
+            "type": "url",
+            "indices": [
+              56,
+              79
+            ],
+            "original": "https://t.co/fpGnPR5t9C",
+            "replacement": "https://confirmo.love",
+            "display": "confirmo.love"
+          },
+          {
+            "type": "url",
+            "indices": [
+              81,
+              104
+            ],
+            "original": "https://t.co/cBN1yzJPIG",
+            "replacement": "https://swordgame.ai",
+            "display": "swordgame.ai"
+          },
+          {
+            "type": "url",
+            "indices": [
+              106,
+              129
+            ],
+            "original": "https://t.co/6ERz2HMx0f",
+            "replacement": "https://yansu.app",
+            "display": "yansu.app"
+          },
+          {
+            "type": "url",
+            "indices": [
+              131,
+              154
+            ],
+            "original": "https://t.co/QhQRLD4zQo",
+            "replacement": "https://cumora.ai",
+            "display": "cumora.ai"
+          },
+          {
+            "type": "url",
+            "indices": [
+              156,
+              179
+            ],
+            "original": "https://t.co/ln9CVeagWC",
+            "replacement": "https://killaislop.com",
+            "display": "killaislop.com"
+          }
+        ]
+      },
+      "location": "无",
+      "banner_url": "https://pbs.twimg.com/profile_banners/147786784/1635109454",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_200x200.jpg",
+      "joined": "Tue May 25 01:52:30 +0000 2010",
+      "protected": false,
+      "website": {
+        "url": "https://github.com/yetone",
+        "display_url": "github.com/yetone"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 47,
+    "retweets": 4,
+    "likes": 43,
+    "bookmarks": 14,
+    "quotes": 2,
+    "created_at": "Mon Aug 10 08:18:57 +0000 2026",
+    "created_timestamp": 1786349937,
+    "views": 30979,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/wey_gu/status/2086728748947448249",
+      "id": "2086728748947448249",
+      "text": "折叠屏备用机 + uu 远程\n你的终极 building tool",
+      "raw_text": {
+        "text": "折叠屏备用机 + uu 远程\n你的终极 building tool https://t.co/3yJaIeGPRL",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              34,
+              57
+            ],
+            "id": "2086728739501801472",
+            "display": "pic.x.com/3yJaIeGPRL",
+            "original": "https://t.co/3yJaIeGPRL",
+            "replacement": "https://x.com/wey_gu/status/2086728748947448249/photo/1"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "wey_gu",
+        "url": "https://x.com/wey_gu",
+        "id": "24313912",
+        "followers": 19479,
+        "following": 4130,
+        "likes": 40709,
+        "media_count": 1078,
+        "name": "Wey Gu 古思为",
+        "description": "Build things, troubleshoot& sing.\nCo-Founder @NowledgeLabs, build @NowledgeMem& https://nowled.ge/kl\nMicrosoft MVP. Feminist. Prev @NebulaGraph, @Ericsson Cloud",
+        "raw_description": {
+          "text": "Build things, troubleshoot& sing.\nCo-Founder @NowledgeLabs, build @NowledgeMem& https://t.co/RVZI2oX9pr\nMicrosoft MVP. Feminist. Prev @NebulaGraph, @Ericsson Cloud",
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                80,
+                103
+              ],
+              "original": "https://t.co/RVZI2oX9pr",
+              "replacement": "https://nowled.ge/kl",
+              "display": "nowled.ge/kl"
+            }
+          ]
+        },
+        "location": "@siwei@mas.to",
+        "banner_url": "https://pbs.twimg.com/profile_banners/24313912/1626180083",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1275624368618397697/kZ6PZRqh_200x200.jpg",
+        "joined": "Sat Mar 14 02:46:34 +0000 2009",
+        "protected": false,
+        "website": {
+          "url": "https://siwei.io/en/",
+          "display_url": "siwei.io/en/"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 86,
+      "retweets": 0,
+      "likes": 26,
+      "bookmarks": 14,
+      "quotes": 3,
+      "created_at": "Mon Aug 10 08:17:57 +0000 2026",
+      "created_timestamp": 1786349877,
+      "possibly_sensitive": false,
+      "views": 25285,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "zh",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2086728739501801472",
+            "url": "https://pbs.twimg.com/media/HPWMu4yagAANl4I.jpg?name=orig",
+            "width": 2048,
+            "height": 1924
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2086728739501801472",
+            "url": "https://pbs.twimg.com/media/HPWMu4yagAANl4I.jpg?name=orig",
+            "width": 2048,
+            "height": 1924
+          }
+        ]
+      },
+      "source": "Twitter for iPhone",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

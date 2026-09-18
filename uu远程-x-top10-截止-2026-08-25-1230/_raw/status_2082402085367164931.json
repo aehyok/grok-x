@@ -1,0 +1,127 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/juanca_mnz/status/2082402085367164931",
+    "id": "2082402085367164931",
+    "text": "La mejor compra que he hecho recientemente es este NUC, un miniPC que lo tengo como servidor en casa.\n\nPuedo usar Claude Code desde el móvil con Termius + Tailscale como VPN, tiene 32gb de RAM y 1TB de almacenamiento. Va sobrado para todo lo que tengo instalado:\n\n- Mis sideprojects para poder vibecodear desde cualquier lado en el móvil \n- Loops con agentes (ej: mejoras de SEO automático cada 2 semanas para mis proyectos)\n- Hermes agent\n- Jellyfin como servidor multimedia (va increíblemente bien)\n- Home Assistant para varias automatizaciones que quiero hacer en casa\n\nLo único que me falta es un teclado plegable bluetooth para completar el setup 🤣\n\nEn wallapop los hay a millones. Nuevos salen bastante más caros, los Beelink tienen bastante buena pinta.\n\nTodo configurado en menos de 30-40 mins con claude, sin hacer prácticamente nada a mano.",
+    "raw_text": {
+      "text": "La mejor compra que he hecho recientemente es este NUC, un miniPC que lo tengo como servidor en casa.\n\nPuedo usar Claude Code desde el móvil con Termius + Tailscale como VPN, tiene 32gb de RAM y 1TB de almacenamiento. Va sobrado para todo lo que tengo instalado:\n\n- Mis sideprojects para poder vibecodear desde cualquier lado en el móvil \n- Loops con agentes (ej: mejoras de SEO automático cada 2 semanas para mis proyectos)\n- Hermes agent\n- Jellyfin como servidor multimedia (va increíblemente bien)\n- Home Assistant para varias automatizaciones que quiero hacer en casa\n\nLo único que me falta es un teclado plegable bluetooth para completar el setup 🤣\n\nEn wallapop los hay a millones. Nuevos salen bastante más caros, los Beelink tienen bastante buena pinta.\n\nTodo configurado en menos de 30-40 mins con claude, sin hacer prácticamente nada a mano.",
+      "display_text_range": [
+        0,
+        851
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            270,
+            293
+          ],
+          "id": "2082402056577462272",
+          "display": "pic.x.com/NfR9yGSgfu",
+          "original": "https://t.co/NfR9yGSgfu",
+          "replacement": "https://x.com/juanca_mnz/status/2082402085367164931/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            270,
+            293
+          ],
+          "id": "2082402069487529984",
+          "display": "pic.x.com/NfR9yGSgfu",
+          "original": "https://t.co/NfR9yGSgfu",
+          "replacement": "https://x.com/juanca_mnz/status/2082402085367164931/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "juanca_mnz",
+      "url": "https://x.com/juanca_mnz",
+      "id": "867079445068361729",
+      "followers": 988,
+      "following": 423,
+      "likes": 4760,
+      "media_count": 107,
+      "name": "Juanca",
+      "description": "AI Labs & dev at @magnific  - always learning new things",
+      "raw_description": {
+        "text": "AI Labs & dev at @magnific  - always learning new things",
+        "facets": []
+      },
+      "location": "Cordoba, Spain",
+      "banner_url": "https://pbs.twimg.com/profile_banners/867079445068361729/1727640176",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1882339085181726720/zrMfwqr-_200x200.jpg",
+      "joined": "Tue May 23 18:07:04 +0000 2017",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 119,
+    "retweets": 124,
+    "likes": 2464,
+    "bookmarks": 2656,
+    "quotes": 21,
+    "created_at": "Wed Jul 29 09:45:20 +0000 2026",
+    "created_timestamp": 1785318320,
+    "possibly_sensitive": false,
+    "views": 265029,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "es",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2082402056577462272",
+          "url": "https://pbs.twimg.com/media/HOYtoy3XsAAdjVh.jpg?name=orig",
+          "width": 2151,
+          "height": 3482
+        },
+        {
+          "type": "photo",
+          "id": "2082402069487529984",
+          "url": "https://pbs.twimg.com/media/HOYtpi9XsAAehUW.jpg?name=orig",
+          "width": 3075,
+          "height": 4096
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2082402056577462272",
+          "url": "https://pbs.twimg.com/media/HOYtoy3XsAAdjVh.jpg?name=orig",
+          "width": 2151,
+          "height": 3482
+        },
+        {
+          "type": "photo",
+          "id": "2082402069487529984",
+          "url": "https://pbs.twimg.com/media/HOYtpi9XsAAehUW.jpg?name=orig",
+          "width": 3075,
+          "height": 4096
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2082402085367164931/HOYtoy3XsAAdjVh/HOYtpi9XsAAehUW",
+          "webp": "https://mosaic.fxtwitter.com/webp/2082402085367164931/HOYtoy3XsAAdjVh/HOYtpi9XsAAehUW"
+        }
+      }
+    },
+    "source": "Twitter for Android",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

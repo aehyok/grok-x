@@ -1,0 +1,221 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/luoyike2003/status/2098192976761729279",
+    "id": "2098192976761729279",
+    "text": "本废物想让 AI 画只猫，结果先被自己坑了两回>_<\n\n新出的 Nex-N2.5 在 OpenRouter 上限时免费，我就顺手扔了一句话过去：\n「画一张 SVG，一只橘猫趴在桌上，桌上有一叠纸，简笔画风格」\n\n第一次给了 4000 的 max_tokens，截断\n第二次加到 16000，还是截断，Pro 那次白烧了 405 秒，一张图都没拿到\n\n我以为这模型不行，差点就去发牢骚了……\n\n后来才发现，是我自己小气了\n它光「想」就要花九千多个 token——动笔之前先在心里把构图排完，我给的额度还不够它想完的\n\n把预算提到 45000，两个都一次成型，收尾干干净净\n\nMini 跑了 99 秒，Pro 跑了 326 秒\n\n同一句话，Pro 画出来的猫是趴着睡的，闭着眼，爪子搭在桌沿\n桌上那叠纸还画了个红点\n它自己还多加了一个做梦的泡泡，里面一条鱼\n\nMini 那只是端坐的，纸变成了一摞书，桌子只剩两条线\n\n（所以不是它不会画，是我一开始没给够它想的时间\n\n两个都还在限时免费：\nnex-agi/nex-n2.5-pro:free\nnex-agi/nex-n2.5-mini:free\n\nhttp://openrouter.ai/nex-agi\n\n#NexN2_5 #OpenRouter @nex_agi",
+    "raw_text": {
+      "text": "本废物想让 AI 画只猫，结果先被自己坑了两回>_<\n\n新出的 Nex-N2.5 在 OpenRouter 上限时免费，我就顺手扔了一句话过去：\n「画一张 SVG，一只橘猫趴在桌上，桌上有一叠纸，简笔画风格」\n\n第一次给了 4000 的 max_tokens，截断\n第二次加到 16000，还是截断，Pro 那次白烧了 405 秒，一张图都没拿到\n\n我以为这模型不行，差点就去发牢骚了……\n\n后来才发现，是我自己小气了\n它光「想」就要花九千多个 token——动笔之前先在心里把构图排完，我给的额度还不够它想完的\n\n把预算提到 45000，两个都一次成型，收尾干干净净\n\nMini 跑了 99 秒，Pro 跑了 326 秒\n\n同一句话，Pro 画出来的猫是趴着睡的，闭着眼，爪子搭在桌沿\n桌上那叠纸还画了个红点\n它自己还多加了一个做梦的泡泡，里面一条鱼\n\nMini 那只是端坐的，纸变成了一摞书，桌子只剩两条线\n\n（所以不是它不会画，是我一开始没给够它想的时间\n\n两个都还在限时免费：\nnex-agi/nex-n2.5-pro:free\nnex-agi/nex-n2.5-mini:free\n\nhttps://t.co/PJcwHntyJy\n\n#NexN2_5 #OpenRouter @nex_agi",
+      "display_text_range": [
+        0,
+        551
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            180,
+            203
+          ],
+          "id": "2098192923297017856",
+          "display": "pic.x.com/LFVt19YMpv",
+          "original": "https://t.co/LFVt19YMpv",
+          "replacement": "https://x.com/luoyike2003/status/2098192976761729279/video/1"
+        },
+        {
+          "type": "url",
+          "indices": [
+            497,
+            520
+          ],
+          "original": "https://t.co/PJcwHntyJy",
+          "replacement": "http://openrouter.ai/nex-agi",
+          "display": "openrouter.ai/nex-agi"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            522,
+            530
+          ],
+          "original": "NexN2_5"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            531,
+            542
+          ],
+          "original": "OpenRouter"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "luoyike2003",
+      "url": "https://x.com/luoyike2003",
+      "id": "1947116786643857408",
+      "followers": 3339,
+      "following": 394,
+      "likes": 2836,
+      "media_count": 264,
+      "name": "洛一可🍥",
+      "description": "🐱 掌管可爱暴躁法则的小火龙！\n⚖️ 近战小法务 → 偷偷爱上游戏圈的法律人\n🤖 涉外合同 × AI，偶尔被 AI 反杀\n165cm / 猫猫奴 / 游戏脑\n聊天前先关注，今天也在努力变得更可爱！₍˄·͈༝·͈˄*₎◞ ̑̑",
+      "raw_description": {
+        "text": "🐱 掌管可爱暴躁法则的小火龙！\n⚖️ 近战小法务 → 偷偷爱上游戏圈的法律人\n🤖 涉外合同 × AI，偶尔被 AI 反杀\n165cm / 猫猫奴 / 游戏脑\n聊天前先关注，今天也在努力变得更可爱！₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "facets": []
+      },
+      "location": "那维克",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1947116786643857408/1780359367",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1947591148782166016/RagPmesg_200x200.jpg",
+      "joined": "Mon Jul 21 02:10:18 +0000 2025",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 41,
+    "retweets": 23,
+    "likes": 25,
+    "bookmarks": 2,
+    "quotes": 9,
+    "created_at": "Thu Sep 10 23:32:42 +0000 2026",
+    "created_timestamp": 1789083162,
+    "possibly_sensitive": false,
+    "views": 1220,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2098192923297017856",
+          "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/1280x720/omHZLfEEirA7c-Xj.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2098192923297017856/img/OFI8dW-JNV8qlTmc.jpg",
+          "duration": 28.2,
+          "width": 1280,
+          "height": 720,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/pl/D81ZNdfVT6siaIi3.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/480x270/cXj87McAVSS3yS1D.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/640x360/n0cfFpViJGZhT7mj.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/1280x720/omHZLfEEirA7c-Xj.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/pl/D81ZNdfVT6siaIi3.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/480x270/cXj87McAVSS3yS1D.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/640x360/n0cfFpViJGZhT7mj.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/1280x720/omHZLfEEirA7c-Xj.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2098192923297017856",
+          "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/1280x720/omHZLfEEirA7c-Xj.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2098192923297017856/img/OFI8dW-JNV8qlTmc.jpg",
+          "duration": 28.2,
+          "width": 1280,
+          "height": 720,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/pl/D81ZNdfVT6siaIi3.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/480x270/cXj87McAVSS3yS1D.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/640x360/n0cfFpViJGZhT7mj.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/1280x720/omHZLfEEirA7c-Xj.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/pl/D81ZNdfVT6siaIi3.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/480x270/cXj87McAVSS3yS1D.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/640x360/n0cfFpViJGZhT7mj.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098192923297017856/vid/avc1/1280x720/omHZLfEEirA7c-Xj.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

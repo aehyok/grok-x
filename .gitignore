@@ -9,6 +9,9 @@ __pycache__/
 *.pyc
 .Python
 
+# 远程机密码等，禁止入库
+.grok/secrets/
+
 # OS / 编辑器
 .DS_Store
 Thumbs.db

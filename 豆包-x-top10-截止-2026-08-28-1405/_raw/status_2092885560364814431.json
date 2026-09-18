@@ -1,0 +1,1184 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/weexglobal_ch/status/2092885560364814431",
+    "id": "2092885560364814431",
+    "text": "免費 30 天用 Seedance 2.5，真的只是來做短影片嗎？\n\n豆包工作把 Agent、飛書、PPT、表格、圖片和影片放進同一個入口，\n\n從找資料到完成交付，AI 開始不只是陪你聊天，而是試著替你上班。\n\n它到底能不能接管整條工作流？文章一次看懂👇\n\n#WEEX市場快讀 #豆包 #Seedance2.5 https://x.com/i/article/2092882805759881216",
+    "raw_text": {
+      "text": "免費 30 天用 Seedance 2.5，真的只是來做短影片嗎？\n\n豆包工作把 Agent、飛書、PPT、表格、圖片和影片放進同一個入口，\n\n從找資料到完成交付，AI 開始不只是陪你聊天，而是試著替你上班。\n\n它到底能不能接管整條工作流？文章一次看懂👇\n\n#WEEX市場快讀 #豆包 #Seedance2.5 https://t.co/k44meb4HYd",
+      "display_text_range": [
+        0,
+        179
+      ],
+      "facets": [
+        {
+          "type": "hashtag",
+          "indices": [
+            129,
+            138
+          ],
+          "original": "WEEX市場快讀"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            139,
+            142
+          ],
+          "original": "豆包"
+        },
+        {
+          "type": "hashtag",
+          "indices": [
+            143,
+            153
+          ],
+          "original": "Seedance2"
+        },
+        {
+          "type": "url",
+          "indices": [
+            156,
+            179
+          ],
+          "original": "https://t.co/k44meb4HYd",
+          "replacement": "https://x.com/i/article/2092882805759881216",
+          "display": "x.com/i/article/2092…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "weexglobal_ch",
+      "url": "https://x.com/weexglobal_ch",
+      "id": "1542439224548261888",
+      "followers": 21626,
+      "following": 602,
+      "likes": 6149,
+      "media_count": 5206,
+      "name": "WEEX唯客中文",
+      "description": "交易不止加密，机会尽在 WEEX \n大使合作（X）：@MacCook_Weex @Hally_WEEX\n立即註冊：https://app.sensor.weex.tech:8106/t/Gva\nAPI連結：https://app.sensor.weex.tech:8106/t/o6A",
+      "raw_description": {
+        "text": "交易不止加密，机会尽在 WEEX \n大使合作（X）：@MacCook_Weex @Hally_WEEX\n立即註冊：https://t.co/X09mtOVHtB\nAPI連結：https://t.co/YRHzYxg0dR",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              57,
+              80
+            ],
+            "original": "https://t.co/X09mtOVHtB",
+            "replacement": "https://app.sensor.weex.tech:8106/t/Gva",
+            "display": "app.sensor.weex.tech:8106/t/Gva"
+          },
+          {
+            "type": "url",
+            "indices": [
+              87,
+              110
+            ],
+            "original": "https://t.co/YRHzYxg0dR",
+            "replacement": "https://app.sensor.weex.tech:8106/t/o6A",
+            "display": "app.sensor.weex.tech:8106/t/o6A"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1542439224548261888/1785403281",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2064958937460514816/xgX1CgwY_200x200.jpg",
+      "joined": "Thu Jun 30 09:26:01 +0000 2022",
+      "protected": false,
+      "website": {
+        "url": "https://t.me/Weex_TWCN",
+        "display_url": "t.me/Weex_TWCN"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "organization"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "quotes": 1,
+    "created_at": "Thu Aug 27 08:02:56 +0000 2026",
+    "created_timestamp": 1787817776,
+    "possibly_sensitive": false,
+    "views": 1025,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-27T08:02:56.000Z",
+      "modified_at": "2026-08-27T08:02:56.000Z",
+      "id": "2092882805759881216",
+      "title": "30 天免費用 Seedance 2.5，豆包工作想替你上班",
+      "preview_text": "一個 AI 工具，先送你 30 天訂閱，再把 Seedance 2.5、會操作電腦的 Agent、飛書團隊知識、PPT 和表格放到同一個入口。\n你以為自己只是來薅一條免費的 AI",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHQtsFD7bQAAKAAIVZ9hNctQAAAAA",
+        "media_id": "2092885286053429248",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 62.75,
+                "rgb": {
+                  "blue": 2,
+                  "green": 199,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 15.81,
+                "rgb": {
+                  "blue": 181,
+                  "green": 192,
+                  "red": 203
+                }
+              },
+              {
+                "percentage": 7.4,
+                "rgb": {
+                  "blue": 1,
+                  "green": 98,
+                  "red": 124
+                }
+              },
+              {
+                "percentage": 5.97,
+                "rgb": {
+                  "blue": 2,
+                  "green": 30,
+                  "red": 36
+                }
+              },
+              {
+                "percentage": 4.26,
+                "rgb": {
+                  "blue": 36,
+                  "green": 59,
+                  "red": 72
+                }
+              }
+            ]
+          },
+          "original_img_height": 618,
+          "original_img_url": "https://pbs.twimg.com/media/HQtsFD7bQAAhRoO.jpg",
+          "original_img_width": 1546
+        },
+        "media_key": "3_2092885286053429248"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "utck",
+            "text": "一個 AI 工具，先送你 30 天訂閱，再把 Seedance 2.5、會操作電腦的 Agent、飛書團隊知識、PPT 和表格放到同一個入口。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9ooiv",
+            "text": "你以為自己只是來薅一條免費的 AI 短影片，打開之後卻發現：它想替你找資料、讀飛書、改檔案、做彙報，最後連圖片和影片都一起交付。這已經不是「AI 會不會聊天」的問題，而是它能不能開始替你上班。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9vepf",
+            "text": "官網給出的入口很簡單：下載豆包工作，免費領取 30 天訂閱權益。但這份福利真正值得看的地方，是它把「免費試用」變成了一次完整的工作流測試：Agent 能不能把事情做完？飛書裡的團隊知識能不能被真正調用？Seedance 2.5 的額度又夠不夠把想法做成一條能用的短影片？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dnlo7",
+            "text": "這不是又一個只會聊天的 AI。豆包工作正在把 Agent、飛書、Office 和 Seedance 放進同一條任務鏈：從找資料、做分析、寫文件和 PPT，到生成圖片、影片，再把成果交回團隊。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "da3vo",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d4ln6",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eai19",
+            "text": "先搞懂 Agent：它和聊天機器人差在哪裡？",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bm5k6",
+            "text": "聊天機器人是你問一句、它答一句。下一步打開哪個檔案、調用什麼工具、結果儲存在哪裡，仍然要由你自己處理。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "42bif",
+            "text": "Agent 更像一個會自己推進任務的數位同事：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c3rcv",
+            "text": "理解最終目標；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fcd21",
+            "text": "把任務拆成多個步驟；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2h5bm",
+            "text": "調用電腦、網頁、Office 和生成工具；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fps0t",
+            "text": "根據執行結果繼續修改；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7vqd6",
+            "text": "最後交付檔案、報告或多媒體素材。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8jgn0",
+            "text": "豆包工作官網明確展示了這條路線：從製作 PPT、處理文件表格，到定時任務、自動整理檔案，都交給工作任務來完成。它還支援讀取、建立和修改電腦本機檔案，自動打開網頁、填寫資訊和完成跨頁面操作；即使不在電腦旁，也能透過手機遠端派發任務。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b7gi6",
+            "text": "通俗地說，它不只是告訴你「應該怎麼做」，而是嘗試替你點擊、整理、生成和交付。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9h791",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "60cae",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8hl9q",
+            "text": "最大亮點：飛書不是外掛，而是工作現場",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9qo66",
+            "text": "豆包工作團隊版頁面把「和飛書深度融合」放在核心位置：連接飛書資料來源，原生接入飛書，基於企業權限存取內容，讓產物回到飛書繼續評論、修改和推進。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7a93r",
+            "text": "這意味著 Agent 不再只處理使用者上傳的一份檔案，而是有機會在授權範圍內理解團隊已有的訊息、文件、表格、會議紀要和知識庫。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c6l6h",
+            "text": "例如你說：「整理這個專案最近的進展，找出延期事項，生成一頁彙報。」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9td46",
+            "text": "普通 AI 需要你先把聊天記錄和檔案整理出來。與飛書深度結合後，豆包工作可以嘗試從團隊已有資訊中尋找上下文，再把結果沉澱回飛書文件或協作空間。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aanmt",
+            "text": "它的產品想像力就在這裡：飛書提供工作現場，豆包 Agent 負責理解、執行和交付。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3n3nt",
+            "text": "同時，官網強調企業級權限管理：豆包工作只存取使用者有權限看到的內容。這個邊界很重要，但仍要透過實際授權、日誌和高風險操作確認來驗證，不能把「接入飛書」理解成「讀取企業全部資料」。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "akcq8",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "elql9",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8hgif",
+            "text": "團隊使用：不是每個人各用一個 AI",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a9ndc",
+            "text": "豆包工作的團隊版，重點不只是給公司增加幾個帳號，而是把 Agent 放進原有的協作流程裡。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8svm",
+            "text": "官網團隊頁展示了四個關鍵變化：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5p5v6",
+            "text": "原生接入飛書：登入飛書帳號即可接入團隊工作流，人與 Agent 在同一個協作環境中配合；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "filuf",
+            "text": "打通團隊知識：Agent 可以在權限範圍內使用團隊的資料來源，不必每次都重新交代專案背景；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d1bne",
+            "text": "產物回到飛書：文件、表格、PPT 和網頁結果可以回到飛書繼續評論、修改和推進，減少匯出、下載、再上傳；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9aim1",
+            "text": "團隊共享 Skill：把一個成員已經驗證過的流程儲存成技能，讓經驗從「某個人會做」變成「團隊都能複用」。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2puej",
+            "text": "對新手來說，可以把它理解成：以前是每個人單獨問 AI，現在是 AI 進入團隊的共同工作台。新人可以調用已經沉澱好的流程，負責人可以繼續審核結果，團隊也能圍繞同一份產物協作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vpto",
+            "text": "這也是豆包工作與普通個人 AI 工具的差異點：個人版解決「我怎麼更快完成任務」，團隊版還要解決「團隊怎麼共享經驗、控制權限和持續推進」。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5mcqq",
+            "text": "但團隊使用的關鍵指標不能只看生成速度，還要看三件事：Agent 能否正確讀取權限內的資訊、產物是否回到團隊協作空間，以及管理員能否發現風險、查看用量和稽核行為。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "babbp",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f235d",
+            "text": "",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bbtrc",
+            "text": "從報告到短影片，交付物不只有文字",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4m9di",
+            "text": "豆包工作官網展示了三類高頻任務：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "frjod",
+            "text": "Office 工具：生成 PPT、文件和表格；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9i465",
+            "text": "深入調研分析：檢索多方資訊，生成專業研究報告；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3frgt",
+            "text": "定時任務：按照預設時間自動執行分析、報告和彙總。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3vemm",
+            "text": "它還把 Seedream 5.0 Pro 和 Seedance 2.5 放進創意內容流程：前者生成圖片、海報和漫畫，後者用於影片分鏡與成片，並根據回饋持續修改。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5vhvn",
+            "text": "這對內容創作者、行銷人員和小團隊很有吸引力。一份產品資料，理論上可以繼續變成文案、PPT、配圖和宣傳短影片，不必每一步都切換一個工具。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "en9f1",
+            "text": "此內容僅支援在 Lark 文件中顯示。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eer97",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fa81t",
+            "text": "什麼人最適合使用？",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "69ufl",
+            "text": "適合重複工作多、結果可以人工複核的人。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fdac1",
+            "text": "白領和營運人員：週報、會議紀要、產業簡報、表格整理；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bajhu",
+            "text": "自媒體作者：選題調研、長文初稿、配圖和短影片；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6jcjn",
+            "text": "行銷與電商團隊：活動方案、商品素材、PPT 和宣傳物料；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bos67",
+            "text": "小團隊：把個人經驗儲存成 Skill，讓流程可以複用。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ckk9u",
+            "text": "官網展示的技能已經覆蓋電商客服、內容創作、投資分析、醫學文獻、產業研究和使用者調研等場景。對新手來說，最好的上手方式不是一開始就交代一個巨大目標，而是先拿一個輸入清楚、步驟固定、結果可檢查的任務試用。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cg7a",
+            "text": "不建議直接交給它處理交易指令、錢包、財務結算、法律文件或含有敏感資訊的主要帳號。複雜表格、精細 PPT、頁面變化和長鏈路任務仍然需要人工複核。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dv1kf",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "19v41",
+            "text": "免費權益和 Seedance 2.5 怎麼看？",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e4ejb",
+            "text": "豆包工作個人版目前有免費版、標準版、加強版和高級版。這裡直接把價格和主要權益寫清楚，不放表格，在手機上看也不會擠在一起。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "clf87",
+            "text": "👉 免費版：¥0，長期免費。可以用來聊天、聯網搜尋、建立工作任務、製作 AI PPT 和 AI 表格，也能體驗圖片和影片生成等基礎功能。剛開始接觸豆包工作，先用這一檔熟悉流程就可以。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fasle",
+            "text": "標準版：¥68 連續包月。每 7 天有 2,100 點工作額度，包含 50% 加贈，並支援 Seedance 2.5 影片能力。平時做資料整理、PPT 和輕量內容，基本可以從這一檔開始嘗試。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8a8np",
+            "text": "加強版：¥200 連續包月。每 7 天有 5,600 點工作額度，生成次數更多，高峰期優先。如果你每天都要執行幾項任務，或者經常製作 PPT、圖片和影片，這一檔會更合適。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "388v4",
+            "text": "高級版：¥500 連續包月。每 7 天有 14,000 點工作額度，用量更高，也享有高峰期優先。更適合使用頻繁的個人使用者和團隊。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1c8h3",
+            "text": "這裡有兩個容易誤解的地方。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2pc7j",
+            "text": "第一，免費版不是「什麼都不能用」，但官網沒有提供與付費版相同的工作額度，適合先體驗基礎任務。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "81gn2",
+            "text": "第二，Seedance 2.5 不是單獨發放的一包影片積分，而是放在整體工作任務／生產力權益裡。標準版、加強版和高級版都顯示影片能力升級到 Seedance 2.5，但可用額度和生成次數不同。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "afv9f",
+            "text": "所以，「免費領取 30 天訂閱權益」不等於「免費無限生成 Seedance 2.5」。真正要看的是會員頁是否解鎖模型、一次影片任務扣除多少點，以及額度什麼時候恢復。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "84nng",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cavc",
+            "text": "和 WorkBuddy、Codex 相比，誰更適合你的工作？",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fr0tv",
+            "text": "這三個工具不是同一種用法，沒必要硬排高低。看看你平時做什麼，選擇反而更簡單。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f31h4",
+            "text": "👉 豆包工作：如果你每天都在飛書、文件、表格和 PPT 之間來回切換，還想讓 AI 幫你打開網頁、整理檔案、執行定時任務，豆包工作會更順手。海報、配圖和短影片，也可以接著在裡面製作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8sm6j",
+            "text": "WorkBuddy：如果你想把幾步辦公流程連接起來，讓不同的 Agent 分頭找資料、處理檔案，再把結果交回來，可以重點關注 WorkBuddy。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b3nmm",
+            "text": "Codex：如果你面對的是程式碼倉庫、終端和測試環境，Codex 的方向更清楚。修改程式碼、執行測試、排查問題，這些才是它主要解決的事情。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d4qi5",
+            "text": "所以不要先問「誰更強」。先看看你是想把辦公工作交給 AI，還是想讓 AI 幫你編寫和維護程式碼。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3rm9g",
+            "text": "這不是簡單的模型排名。使用者真正關心的，是同一項任務誰花的額度少、誰的交付品質高、誰需要更少的人工接管。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "62c4",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7mh9p",
+            "text": "即將實測對比",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "40nc3",
+            "text": "我們會使用同一批資料和盡量一致的任務，對比豆包工作、WorkBuddy 和 Codex：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2pj79",
+            "text": "消費額度：免費權益能執行幾次，一次任務消耗多少；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6vit5",
+            "text": "生成品質：報告、表格、PPT、圖片和短影片能否直接使用；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9ij86",
+            "text": "執行效率：耗時、人工接管和失敗重試次數；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2dkh4",
+            "text": "穩定性：同一任務重複執行，結果是否一致。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aean9",
+            "text": "豆包工作值得先體驗，但建議從低風險的資料整理開始。真正的分水嶺不是它能不能生成一條漂亮的影片，而是它能不能把「資料到交付」的整條工作流穩定做完。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ddmmb",
+            "text": "如果你拿到 30 天權益，最想先測試「資料到報告」，還是「資料到 Seedance 2.5 短影片」？",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f449.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f449.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "ce1918fe-4044-43a3-b308-e7ef88262d0f",
+                "mediaItems": [
+                  {
+                    "localMediaId": "6",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092884501928325120"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "24e89005-48fb-4da9-bf67-438c7f2892da",
+                "mediaItems": [
+                  {
+                    "localMediaId": "4",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092884378422800384"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "511f67c2-db04-4bb3-8bfd-a77e1645d324",
+                "mediaItems": [
+                  {
+                    "localMediaId": "8",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092884605573709824"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "2bb13029-d0db-484b-8f0a-e672892d51c3",
+                "mediaItems": [
+                  {
+                    "localMediaId": "10",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092884711886729216"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQtrQOva8AAKAAIVZ9hNctQAAAAA",
+          "media_id": "2092884378422800384",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.25,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 251,
+                    "red": 250
+                  }
+                },
+                {
+                  "percentage": 0.32,
+                  "rgb": {
+                    "blue": 139,
+                    "green": 137,
+                    "red": 136
+                  }
+                },
+                {
+                  "percentage": 0.22,
+                  "rgb": {
+                    "blue": 245,
+                    "green": 209,
+                    "red": 172
+                  }
+                }
+              ]
+            },
+            "original_img_height": 612,
+            "original_img_url": "https://pbs.twimg.com/media/HQtrQOva8AAmJGy.png",
+            "original_img_width": 900
+          },
+          "media_key": "3_2092884378422800384"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQtrXa1bsAAKAAIVZ9hNctQAAAAA",
+          "media_id": "2092884501928325120",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 74.97,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 235,
+                    "red": 219
+                  }
+                },
+                {
+                  "percentage": 9.93,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 174,
+                    "red": 122
+                  }
+                },
+                {
+                  "percentage": 5.05,
+                  "rgb": {
+                    "blue": 40,
+                    "green": 38,
+                    "red": 38
+                  }
+                },
+                {
+                  "percentage": 3.55,
+                  "rgb": {
+                    "blue": 230,
+                    "green": 138,
+                    "red": 97
+                  }
+                },
+                {
+                  "percentage": 1.96,
+                  "rgb": {
+                    "blue": 183,
+                    "green": 186,
+                    "red": 225
+                  }
+                }
+              ]
+            },
+            "original_img_height": 804,
+            "original_img_url": "https://pbs.twimg.com/media/HQtrXa1bsAA9xGf.jpg",
+            "original_img_width": 1288
+          },
+          "media_key": "3_2092884501928325120"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQtrdc8awAAKAAIVZ9hNctQAAAAA",
+          "media_id": "2092884605573709824",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 93.71,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 5.27,
+                  "rgb": {
+                    "blue": 139,
+                    "green": 179,
+                    "red": 243
+                  }
+                },
+                {
+                  "percentage": 0.84,
+                  "rgb": {
+                    "blue": 136,
+                    "green": 133,
+                    "red": 132
+                  }
+                },
+                {
+                  "percentage": 0.17,
+                  "rgb": {
+                    "blue": 197,
+                    "green": 235,
+                    "red": 247
+                  }
+                }
+              ]
+            },
+            "original_img_height": 560,
+            "original_img_url": "https://pbs.twimg.com/media/HQtrdc8awAAskqQ.jpg",
+            "original_img_width": 1300
+          },
+          "media_key": "3_2092884605573709824"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQtrjo/asAAKAAIVZ9hNctQAAAAA",
+          "media_id": "2092884711886729216",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 92.64,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 252,
+                    "red": 250
+                  }
+                },
+                {
+                  "percentage": 4.98,
+                  "rgb": {
+                    "blue": 248,
+                    "green": 188,
+                    "red": 153
+                  }
+                },
+                {
+                  "percentage": 1.05,
+                  "rgb": {
+                    "blue": 134,
+                    "green": 129,
+                    "red": 126
+                  }
+                },
+                {
+                  "percentage": 1.02,
+                  "rgb": {
+                    "blue": 51,
+                    "green": 44,
+                    "red": 41
+                  }
+                },
+                {
+                  "percentage": 0.41,
+                  "rgb": {
+                    "blue": 238,
+                    "green": 248,
+                    "red": 247
+                  }
+                }
+              ]
+            },
+            "original_img_height": 729,
+            "original_img_url": "https://pbs.twimg.com/media/HQtrjo_asAAQgwq.jpg",
+            "original_img_width": 1280
+          },
+          "media_key": "3_2092884711886729216"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,866 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/LiuweijiaVip/status/2088667649089982898",
+    "id": "2088667649089982898",
+    "text": "本地运行Qwen3.8 27B的话，我的M2 Max还是有点吃力的 https://x.com/i/article/2088656899449479168",
+    "raw_text": {
+      "text": "本地运行Qwen3.8 27B的话，我的M2 Max还是有点吃力的 https://t.co/U6ks9f4Jcx",
+      "display_text_range": [
+        0,
+        57
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            34,
+            57
+          ],
+          "original": "https://t.co/U6ks9f4Jcx",
+          "replacement": "https://x.com/i/article/2088656899449479168",
+          "display": "x.com/i/article/2088…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "LiuweijiaVip",
+      "url": "https://x.com/LiuweijiaVip",
+      "id": "2031285494081007620",
+      "followers": 3257,
+      "following": 3032,
+      "likes": 1943,
+      "media_count": 287,
+      "name": "Wei佳",
+      "description": "Full Stack Engineer · AI Builder\n\nBuilding with AI, code & automation.\n记录技术实践，探索未来创造方式。\n公众号：普通人的AI副业",
+      "raw_description": {
+        "text": "Full Stack Engineer · AI Builder\n\nBuilding with AI, code & automation.\n记录技术实践，探索未来创造方式。\n公众号：普通人的AI副业",
+        "facets": []
+      },
+      "location": "Asia",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2031285494081007620/1778403920",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2031285572191518720/tB5KoScZ_200x200.jpg",
+      "joined": "Tue Mar 10 08:26:34 +0000 2026",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 3,
+    "retweets": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "quotes": 1,
+    "created_at": "Sat Aug 15 16:42:27 +0000 2026",
+    "created_timestamp": 1786812147,
+    "possibly_sensitive": false,
+    "views": 1344,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-15T16:42:27.000Z",
+      "modified_at": "2026-08-15T16:42:27.000Z",
+      "id": "2088656899449479168",
+      "title": "我把 Qwen3.8-27B 接进 Pi 和 Claude Code，能干活，但没那么顺",
+      "preview_text": "我最开始只想确认一件事，64GB 的 M2 Max 能不能跑 Qwen3.8-27B。答案是能。\n我在 Ollama 里装的是 qwen3.8:27b-mlx，模型文件大约 18GB。第一次短对话总共用了约 14 秒，其中加载模型约 11",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHPxwBXBaoAIKAAIcMJNlCBowBAAA",
+        "media_id": "2088667495855202306",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 91.74,
+                "rgb": {
+                  "blue": 247,
+                  "green": 247,
+                  "red": 247
+                }
+              },
+              {
+                "percentage": 6.56,
+                "rgb": {
+                  "blue": 176,
+                  "green": 232,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 1.3,
+                "rgb": {
+                  "blue": 178,
+                  "green": 239,
+                  "red": 173
+                }
+              },
+              {
+                "percentage": 0.4,
+                "rgb": {
+                  "blue": 139,
+                  "green": 139,
+                  "red": 139
+                }
+              }
+            ]
+          },
+          "original_img_height": 754,
+          "original_img_url": "https://pbs.twimg.com/media/HPxwBXBaoAIiCUI.jpg",
+          "original_img_width": 1885
+        },
+        "media_key": "3_2088667495855202306"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1bkqr",
+            "text": "我最开始只想确认一件事，64GB 的 M2 Max 能不能跑 Qwen3.8-27B。答案是能。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "386ja",
+            "text": "我在 Ollama 里装的是 qwen3.8:27b-mlx，模型文件大约 18GB。第一次短对话总共用了约 14 秒，其中加载模型约 11 秒。后来我又丢了一张界面截图给它，它能读出页面结构，也认出了底部正在使用的模型。聊天和看图这两项都跑通了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f6ms1",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "40jcv",
+            "text": "但这台机器当时并不轻松。活动监视器里，Ollama 进程占了约 20.43GB，整机已用内存约 61.67GB，交换空间用了 19GB。那时微信、浏览器、开发工具和其他程序也都开着，所以不能把整机负载全算到模型头上。在我的实际工作环境里，它不是一个随便挂在后台都没感觉的模型。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "18hjn",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9ps2e",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8jet8",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "btt8v",
+            "text": "接下来我用 ollama launch pi 把模型接进 Pi。第一次启动会检查 Pi、安装 @ollama/pi-web-search，然后读取本地的规则和 Skill。启动日志里还出现了一条 Skill 名称冲突提示。它能启动，但环境并不干净。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "adrnv",
+            "text": "我先让它照着本地调研规则查 Qwen 新模型。它确实会按要求找 Agent Memory、AnySearch 和 Agent Reach。Agent Memory 当时不可用，它跳过了；几条搜索命令又因为参数写法不对，直接返回 code 2。后面它换了更简单的命令继续查，没有彻底卡死。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "378du",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1bq00",
+            "text": "模型知道要读规则、调工具，发现失败后也会换办法。可它连续查了六分多钟，命令稳定性一般，还一度把 2026 年的搜索结果当成可能来自未来。录屏结束时，它仍没有交出一份干净的最终结果。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "21lev",
+            "text": "我更难接受的是速度。之前一个只让它读取当前目录的简单任务，上下文有 7,742 个 token，它等了约 66 秒才开始调用工具。工具返回后，第二轮两秒左右就结束了。时间主要花在第一次处理规则、Skill 和工具说明上。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ln97",
+            "text": "我又让 Pi 做了一个前端页面。最开始只说“帮我生成一个前端 Web 页面”，它没有马上堆代码，而是先问用途、页面类型、技术栈和风格。这一步我觉得是对的。我把需求缩成单文件个人博客后，它写入 blog/index.html，再打开浏览器预览。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cajqg",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "96keh",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5rple",
+            "text": "从 Pi 启动、来回确认需求，到浏览器出现成品，这段录屏约 8 分半。页面有搜索、分类和明暗主题，作为练习 Demo 可以交差。视觉还是很常见的 AI 博客模板，里面的内容也是临时编的。这次只写了一个 HTML 文件，没有改现有项目，也没有跑测试，不能拿它证明模型已经能负责真实开发。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "70f65",
+            "text": "最后我试了 Claude Code。Ollama 的 Launch 页面直接给了 ollama launch claude，接入本身很方便。第一条消息一直没有返回，我手动中断后，界面出现 502 status code (no body) 并自动重试。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fq9st",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ab6pq",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ci299",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "erh5l",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b1j9m",
+            "text": "这次用下来，我会继续把 Pi 留作本地模型的练习入口。它慢，工具命令也会犯错，但至少完成过读图、搜索、调用 Shell 和写文件。Claude Code 这条路连第一条消息都没有稳定跑完，我暂时不会用它做主力。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a4nrd",
+            "text": "所以，对这台 64GB M2 Max，我的回答不再只是“27B 能跑”。它能跑，也能做一点 Agent 工作；机器繁忙时负担不小，长上下文首轮很慢，工具和兼容性也还需要继续调。拿来研究和做小 Demo 可以，替代我平时用的云端 Agent，还差一截。",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "2c021a7e-e8f2-412a-bd78-dd01c2ab3c4c",
+                "mediaItems": [
+                  {
+                    "localMediaId": "10",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2088657954149220354"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "entityKey": "5673bc40-a84f-4238-a262-52d205dba46e",
+                "mediaItems": [
+                  {
+                    "localMediaId": "12",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2088657987800014850"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "entityKey": "a27f015c-2a04-460e-84d4-3610efc4fb53",
+                "mediaItems": [
+                  {
+                    "localMediaId": "14",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2088658020918292480"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "d28f897f-f6f9-4434-8f18-697cb34cb8a1",
+                "mediaItems": [
+                  {
+                    "localMediaId": "4",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2088657854265970688"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "399c7af2-4519-4e68-84eb-b03fbfb579be",
+                "mediaItems": [
+                  {
+                    "localMediaId": "2",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2088657553911848960"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "a42e35a6-ce58-4a16-9d59-de0cb2fce185",
+                "mediaItems": [
+                  {
+                    "localMediaId": "6",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2088657887744897024"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "da8180f2-00d7-4ee7-86b4-d83bfcc8688d",
+                "mediaItems": [
+                  {
+                    "localMediaId": "8",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2088657920670195712"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHPxnQJTaUAAKAAIcMJNlCBowBAAA",
+          "media_id": "2088657854265970688",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 48.33,
+                  "rgb": {
+                    "blue": 244,
+                    "green": 244,
+                    "red": 244
+                  }
+                },
+                {
+                  "percentage": 25.46,
+                  "rgb": {
+                    "blue": 122,
+                    "green": 109,
+                    "red": 71
+                  }
+                },
+                {
+                  "percentage": 8.4,
+                  "rgb": {
+                    "blue": 204,
+                    "green": 163,
+                    "red": 94
+                  }
+                },
+                {
+                  "percentage": 2.66,
+                  "rgb": {
+                    "blue": 184,
+                    "green": 193,
+                    "red": 215
+                  }
+                },
+                {
+                  "percentage": 1.93,
+                  "rgb": {
+                    "blue": 38,
+                    "green": 45,
+                    "red": 30
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1080,
+            "original_img_url": "https://pbs.twimg.com/media/HPxnQJTaUAAcPVI.jpg",
+            "original_img_width": 1920
+          },
+          "media_key": "3_2088657854265970688"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHPxnV9ZbwAIKAAIcMJNlCBowBAAA",
+          "media_id": "2088657954149220354",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 85.22,
+                  "rgb": {
+                    "blue": 23,
+                    "green": 21,
+                    "red": 21
+                  }
+                },
+                {
+                  "percentage": 6.24,
+                  "rgb": {
+                    "blue": 123,
+                    "green": 107,
+                    "red": 66
+                  }
+                },
+                {
+                  "percentage": 4.47,
+                  "rgb": {
+                    "blue": 219,
+                    "green": 210,
+                    "red": 206
+                  }
+                },
+                {
+                  "percentage": 2.09,
+                  "rgb": {
+                    "blue": 126,
+                    "green": 133,
+                    "red": 91
+                  }
+                },
+                {
+                  "percentage": 0.34,
+                  "rgb": {
+                    "blue": 41,
+                    "green": 29,
+                    "red": 33
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1080,
+            "original_img_url": "https://pbs.twimg.com/media/HPxnV9ZbwAI43SW.jpg",
+            "original_img_width": 1920
+          },
+          "media_key": "3_2088657954149220354"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHPxnX6waIAIKAAIcMJNlCBowBAAA",
+          "media_id": "2088657987800014850",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 86.45,
+                  "rgb": {
+                    "blue": 19,
+                    "green": 15,
+                    "red": 14
+                  }
+                },
+                {
+                  "percentage": 9.92,
+                  "rgb": {
+                    "blue": 248,
+                    "green": 230,
+                    "red": 223
+                  }
+                },
+                {
+                  "percentage": 2.13,
+                  "rgb": {
+                    "blue": 114,
+                    "green": 112,
+                    "red": 111
+                  }
+                },
+                {
+                  "percentage": 0.66,
+                  "rgb": {
+                    "blue": 242,
+                    "green": 150,
+                    "red": 132
+                  }
+                },
+                {
+                  "percentage": 0.34,
+                  "rgb": {
+                    "blue": 222,
+                    "green": 226,
+                    "red": 226
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1080,
+            "original_img_url": "https://pbs.twimg.com/media/HPxnX6waIAIq6g_.jpg",
+            "original_img_width": 1920
+          },
+          "media_key": "3_2088657987800014850"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHPxnZ2Ia8AAKAAIcMJNlCBowBAAA",
+          "media_id": "2088658020918292480",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 82.28,
+                  "rgb": {
+                    "blue": 16,
+                    "green": 14,
+                    "red": 14
+                  }
+                },
+                {
+                  "percentage": 8.56,
+                  "rgb": {
+                    "blue": 127,
+                    "green": 105,
+                    "red": 66
+                  }
+                },
+                {
+                  "percentage": 4.69,
+                  "rgb": {
+                    "blue": 219,
+                    "green": 210,
+                    "red": 204
+                  }
+                },
+                {
+                  "percentage": 2.18,
+                  "rgb": {
+                    "blue": 127,
+                    "green": 134,
+                    "red": 91
+                  }
+                },
+                {
+                  "percentage": 0.36,
+                  "rgb": {
+                    "blue": 32,
+                    "green": 48,
+                    "red": 34
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1080,
+            "original_img_url": "https://pbs.twimg.com/media/HPxnZ2Ia8AApMN4.jpg",
+            "original_img_width": 1920
+          },
+          "media_key": "3_2088658020918292480"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHPxnUAraYAAKAAIcMJNlCBowBAAA",
+          "media_id": "2088657920670195712",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 82.32,
+                  "rgb": {
+                    "blue": 34,
+                    "green": 31,
+                    "red": 33
+                  }
+                },
+                {
+                  "percentage": 8.06,
+                  "rgb": {
+                    "blue": 127,
+                    "green": 104,
+                    "red": 64
+                  }
+                },
+                {
+                  "percentage": 4.7,
+                  "rgb": {
+                    "blue": 216,
+                    "green": 211,
+                    "red": 205
+                  }
+                },
+                {
+                  "percentage": 2.27,
+                  "rgb": {
+                    "blue": 127,
+                    "green": 134,
+                    "red": 91
+                  }
+                },
+                {
+                  "percentage": 0.39,
+                  "rgb": {
+                    "blue": 32,
+                    "green": 49,
+                    "red": 33
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1080,
+            "original_img_url": "https://pbs.twimg.com/media/HPxnUAraYAAoYCt.jpg",
+            "original_img_width": 1920
+          },
+          "media_key": "3_2088657920670195712"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHPxnSGBaMAAKAAIcMJNlCBowBAAA",
+          "media_id": "2088657887744897024",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 87.73,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 6.36,
+                  "rgb": {
+                    "blue": 116,
+                    "green": 107,
+                    "red": 81
+                  }
+                },
+                {
+                  "percentage": 1.28,
+                  "rgb": {
+                    "blue": 40,
+                    "green": 55,
+                    "red": 41
+                  }
+                },
+                {
+                  "percentage": 1.19,
+                  "rgb": {
+                    "blue": 179,
+                    "green": 132,
+                    "red": 76
+                  }
+                },
+                {
+                  "percentage": 0.35,
+                  "rgb": {
+                    "blue": 56,
+                    "green": 46,
+                    "red": 36
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1080,
+            "original_img_url": "https://pbs.twimg.com/media/HPxnSGBaMAAN98a.jpg",
+            "original_img_width": 1920
+          },
+          "media_key": "3_2088657887744897024"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHPxm+qZaIAAKAAIcMJNlCBowBAAA",
+          "media_id": "2088657553911848960",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 88.99,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 3.95,
+                  "rgb": {
+                    "blue": 130,
+                    "green": 114,
+                    "red": 71
+                  }
+                },
+                {
+                  "percentage": 2.78,
+                  "rgb": {
+                    "blue": 74,
+                    "green": 66,
+                    "red": 50
+                  }
+                },
+                {
+                  "percentage": 2.44,
+                  "rgb": {
+                    "blue": 142,
+                    "green": 144,
+                    "red": 119
+                  }
+                },
+                {
+                  "percentage": 0.42,
+                  "rgb": {
+                    "blue": 114,
+                    "green": 153,
+                    "red": 168
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1080,
+            "original_img_url": "https://pbs.twimg.com/media/HPxm-qZaIAALXEF.jpg",
+            "original_img_width": 1920
+          },
+          "media_key": "3_2088657553911848960"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

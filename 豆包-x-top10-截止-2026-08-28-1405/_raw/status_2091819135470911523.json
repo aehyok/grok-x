@@ -1,0 +1,95 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/passluo/status/2091819135470911523",
+    "id": "2091819135470911523",
+    "text": "豆包是字节亲得不能再亲的亲女儿\n\n多少有点爹妈眼里出天才的滤镜\n\n然而豆包这个名字在用户眼里就跟「弱智」没啥区别\n\n「豆包工作」听起来就有种工作完不成的感觉 💊\n\n字节想 toB 还是换个品牌吧…\n\n真的…",
+    "raw_text": {
+      "text": "豆包是字节亲得不能再亲的亲女儿\n\n多少有点爹妈眼里出天才的滤镜\n\n然而豆包这个名字在用户眼里就跟「弱智」没啥区别\n\n「豆包工作」听起来就有种工作完不成的感觉 💊\n\n字节想 toB 还是换个品牌吧…\n\n真的… https://t.co/tEFjYpky4c",
+      "display_text_range": [
+        0,
+        103
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            104,
+            127
+          ],
+          "id": "2091819118106497024",
+          "display": "pic.x.com/tEFjYpky4c",
+          "original": "https://t.co/tEFjYpky4c",
+          "replacement": "https://x.com/passluo/status/2091819135470911523/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "passluo",
+      "url": "https://x.com/passluo",
+      "id": "282522910",
+      "followers": 57955,
+      "following": 1542,
+      "likes": 52251,
+      "media_count": 2855,
+      "name": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤 𝘼𝙄",
+      "description": "在所有文化中，对地狱的描述都是重复",
+      "raw_description": {
+        "text": "在所有文化中，对地狱的描述都是重复",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/282522910/1631544376",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2048333252612775936/831h3JzT_200x200.jpg",
+      "joined": "Fri Apr 15 11:10:43 +0000 2011",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 150,
+    "retweets": 11,
+    "likes": 285,
+    "bookmarks": 11,
+    "quotes": 14,
+    "created_at": "Mon Aug 24 09:25:20 +0000 2026",
+    "created_timestamp": 1787563520,
+    "possibly_sensitive": false,
+    "views": 60312,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2091819118106497024",
+          "url": "https://pbs.twimg.com/media/HQeiZ60b0AA1Ebf.jpg?name=orig",
+          "width": 1179,
+          "height": 498
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2091819118106497024",
+          "url": "https://pbs.twimg.com/media/HQeiZ60b0AA1Ebf.jpg?name=orig",
+          "width": 1179,
+          "height": 498
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

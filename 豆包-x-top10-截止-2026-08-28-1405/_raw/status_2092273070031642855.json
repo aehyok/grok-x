@@ -1,0 +1,1801 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Shenmeili1213/status/2092273070031642855",
+    "id": "2092273070031642855",
+    "text": "https://x.com/i/article/2092271228312784897",
+    "raw_text": {
+      "text": "https://t.co/RXR1n3QDmA",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            0,
+            23
+          ],
+          "original": "https://t.co/RXR1n3QDmA",
+          "replacement": "https://x.com/i/article/2092271228312784897",
+          "display": "x.com/i/article/2092…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Shenmeili1213",
+      "url": "https://x.com/Shenmeili1213",
+      "id": "1780618375166926848",
+      "followers": 4972,
+      "following": 644,
+      "likes": 7028,
+      "media_count": 618,
+      "name": "沈美丽子",
+      "description": "AI赋能实战深耕者 ⚡️专注跨境或本土店\n生活｜搞钱｜吐槽｜段子｜感悟｜爱好拉花\n武汉人｜现居泰国Pattaya 🌴",
+      "raw_description": {
+        "text": "AI赋能实战深耕者 ⚡️专注跨境或本土店\n生活｜搞钱｜吐槽｜段子｜感悟｜爱好拉花\n武汉人｜现居泰国Pattaya 🌴",
+        "facets": []
+      },
+      "location": "vx : 51323115",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1780618375166926848/1777952908",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2051328998584860672/ySVnChHY_200x200.jpg",
+      "joined": "Wed Apr 17 15:24:53 +0000 2024",
+      "protected": false,
+      "website": {
+        "url": "https://shenmeili.netlify.app/",
+        "display_url": "shenmeili.netlify.app"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 13,
+    "retweets": 7,
+    "likes": 36,
+    "bookmarks": 65,
+    "quotes": 3,
+    "created_at": "Tue Aug 25 15:29:07 +0000 2026",
+    "created_timestamp": 1787671747,
+    "possibly_sensitive": false,
+    "views": 11513,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-25T15:29:07.000Z",
+      "modified_at": "2026-08-25T15:29:07.000Z",
+      "id": "2092271228312784897",
+      "title": "豆包工作第一夜，我只让你做5步——装、登、授权、派活、验收",
+      "preview_text": "今天，8月25日，字节的豆包工作正式上线。 官网下载、登录或升级，公开口径可领30天订阅权益。",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHQk9xIIbMAAKAAIYtgb6ZFugAAAA",
+        "media_id": "2092271416096010240",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 66.68,
+                "rgb": {
+                  "blue": 190,
+                  "green": 216,
+                  "red": 235
+                }
+              },
+              {
+                "percentage": 12.36,
+                "rgb": {
+                  "blue": 73,
+                  "green": 104,
+                  "red": 127
+                }
+              },
+              {
+                "percentage": 8.67,
+                "rgb": {
+                  "blue": 84,
+                  "green": 67,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 4.67,
+                "rgb": {
+                  "blue": 140,
+                  "green": 129,
+                  "red": 124
+                }
+              },
+              {
+                "percentage": 1.32,
+                "rgb": {
+                  "blue": 28,
+                  "green": 42,
+                  "red": 60
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HQk9xIIbMAAUvaU.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2092271416096010240"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 12,
+                "style": "Bold"
+              },
+              {
+                "length": 3,
+                "offset": 39,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 100,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 118,
+                "style": "Bold"
+              }
+            ],
+            "key": "ci0g2",
+            "text": "今天，8月25日，字节的豆包工作正式上线。 官网下载、登录或升级，公开口径可领30天订阅权益。\n易观《2026年Q2中国AI办公智能体市场报告》：今年6月，17款主流桌面端AI办公智能体合计月访问量破6000万；腾讯WorkBuddy以2097万排第一，超过第二、第三名之和。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6otac",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "630g4",
+            "text": "大盘已经六千万次访问了。 新品又把「免费试用一个月」摆到桌面上。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f88fe",
+            "text": "可评论区还在吵谁第一。 真干活的人，少。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "819a1",
+            "text": "刷到这里，先别收藏评测。 问自己一句：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 24,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8e6ea",
+            "text": "你装上了吗？装上以后，干过一件看得见的真事了吗？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fq6jm",
+            "text": "很多人停在「打开看了看」。 界面很新，按钮很多，手又缩回去了。 等于白拿了那30天。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 7,
+                "style": "Bold"
+              }
+            ],
+            "key": "4gtjk",
+            "text": "今晚路修短。 5步。装、登、授权、派活、验收。 跑完再睡觉。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1323j",
+            "text": "不做搬家。 不做流水线。 不做三国杀。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 23,
+                "offset": 11,
+                "style": "Bold"
+              }
+            ],
+            "key": "eocvn",
+            "text": "只交一个看得见的活： 一个练习文件夹，按类型整理好，再给你一张清单。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5q87g",
+            "text": "【插图1｜小剧场】场景：栗子（v7）指着手机「又一个AI上线」通知，对面是干净的「练习文件夹」纸箱；便签「今晚只干这一件」。旧纸底。成品：p28-images/01-only-one-job.png",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3qatp",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "55pl3",
+            "text": "0. 半分钟分清：会聊 ≠ 会交活",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "alg4l",
+            "text": "数字再大，也救不了「打开看了看」。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3shqo",
+            "text": "你用过豆包、用过 ChatGPT，多半是这种感觉——",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "49mju",
+            "text": "你问，它答。 周报文字出来了，你还得自己复制进 Word。 表格思路有了，你还得自己新建 Excel。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 3,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "2tg4v",
+            "text": "会聊：给你字。 会交活：拆步骤、动文件、把结果放到你能打开的地方。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3ni1h",
+            "text": "豆包工作卖的是后一种。 公开口径也围着「工作任务」转：你说目标，它拆计划、调工具，尽量把活干完。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dj532",
+            "text": "今晚验收标准就一句：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "652ea",
+            "text": "我没有用手把文件一个个拖进子文件夹。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9mv1d",
+            "text": "文件夹已经分类完，清单能给人看。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ec69",
+            "text": "过了这关，你才算「用过办公 Agent」。 没过，只算「看过一个新 App」。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dcsim",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bbgnh",
+            "text": "步骤1｜装（大约 3 分钟）",
+            "type": "header-one"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 5,
+                  "text": "https://www.doubao.com/work",
+                  "toIndex": 32
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ab9tu",
+            "text": "打开官网：https://www.doubao.com/work",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 2,
+                "style": "Bold"
+              }
+            ],
+            "key": "2n5fg",
+            "text": "下载电脑版（Windows / Mac 选你的）",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cvnhf",
+            "text": "装完，打开",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "60kbv",
+            "text": "公开信息里还提到：也可以在豆包电脑版里切到工作模式；飞书较新版本左侧也有入口。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "asl02",
+            "text": "第一夜建议：先走独立电脑客户端。 少一个「我到底进没进对地方」的变量。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9n7f",
+            "text": "打卡：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "38sup",
+            "text": "[ ] 能看到「新工作任务」一类主界面",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f236o",
+            "text": "[ ] 输入框能打字",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "10tba",
+            "text": "卡住了？多半是下载包没装完，或打开了普通聊天版豆包。 退出重进，确认窗口标题/模式是「工作」相关，再往下。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ab75p",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2hj2",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "96fel",
+            "text": "",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9un7a",
+            "text": "",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dpn6p",
+            "text": "",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "mg23",
+            "text": "步骤2｜登（大约 2 分钟）",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bocbh",
+            "text": "按提示登录。常见是：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8lseb",
+            "text": "手机号",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fi09v",
+            "text": "飞书账号",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ab5jd",
+            "text": "抖音 / 豆包扫码",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 31,
+                "style": "Bold"
+              }
+            ],
+            "key": "2u2jd",
+            "text": "公开宣传里写过：下载电脑版可领一段时间的订阅体验（常见说法是 30 天，以你弹窗为准）。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 29,
+                "style": "Bold"
+              }
+            ],
+            "key": "57suc",
+            "text": "登录后如果跳出「立即体验 / 额度」——点开看一眼就行。 今晚别在套餐页纠结。先证明它能干活，再谈续不续。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eco97",
+            "text": "打卡：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c4jvl",
+            "text": "[ ] 登录成功",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "h913",
+            "text": "[ ] 能新建或进入一个工作任务",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fd62o",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "c81iq",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7dmib",
+            "text": "步骤3｜授权，只给一个「沙坑」（大约 5 分钟 · 最重要）",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a8pvv",
+            "text": "这一步，很多人要么不敢授权，要么一把把整个磁盘甩进去。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "acanr",
+            "text": "两个都容易出事。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "99uhr",
+            "text": "今晚只建一个练习夹：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "945k4",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 5,
+                "style": "Bold"
+              }
+            ],
+            "key": "61fdv",
+            "text": "往里面扔 10～30 个杂文件就够：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "56av1",
+            "text": "几张截图",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a3a45",
+            "text": "一两个 PDF",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3ssqf",
+            "text": "一两个表格 / Word",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a7f5e",
+            "text": "别塞身份证、合同原件、客户手机号",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9e9pl",
+            "text": "人话： 这是沙坑。 摔了不心疼。 练的是「它动手」的手感，不是整理你人生。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ch2gk",
+            "text": "授权原则记一句：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "18n46",
+            "text": "只给必要的，不给多余的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eoqkh",
+            "text": "打卡：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3qfk",
+            "text": "[ ] 豆包练习-第一夜 已建好",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9eeq3",
+            "text": "[ ] 杂文件已放进去",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bft94",
+            "text": "[ ] 任务里能选到 / 指向这个文件夹",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "akqvi",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "flt0g",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dvhmd",
+            "text": "步骤4｜派活（大约 5 分钟）",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 13,
+                "style": "Bold"
+              }
+            ],
+            "key": "1ei25",
+            "text": "新建工作任务。 把下面这段复制改路径后发出去（文件夹名以你实际为准）：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6s94u",
+            "text": "整理文件夹「豆包练习-第一夜」里的文件：",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d5e2l",
+            "text": "1）按类型分成子文件夹：Word / Excel / 图片 / PDF / 其他；",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "639k0",
+            "text": "2）把文件移进对应子文件夹；",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a625n",
+            "text": "3）完成后给我一份清单，包含：文件名、分到哪一类；",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5vjm5",
+            "text": "4）先列出你要做的步骤，我确认后再执行；",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3i5u5",
+            "text": "5）不要删除任何文件，不要改文件内容。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6u1r4",
+            "text": "为什么要写这么啰嗦？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ab40q",
+            "text": "因为小白翻车，多半不是软件坏了，是这句话太飘：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8374p",
+            "text": "「帮我整理一下。」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dt2ou",
+            "text": "整理什么？删不删？分哪几类？你确不确认？ 它只能猜。 猜错了，你就觉得「AI 不行」。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5fs2",
+            "text": "先计划，你点头，再执行。确认权跟着你。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9p9vc",
+            "text": "打卡：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2o1v4",
+            "text": "[ ] 它先给出了步骤计划",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "n1nn",
+            "text": "[ ] 你看过，点了确认 / 同意执行",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a2ftu",
+            "text": "[ ] 开始出现执行过程（日志 / 进度 / 桌面动作，以界面为准）",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bkccg",
+            "text": "中途要停：找暂停、取消、接管一类按钮。 第一夜宁可停，也不要连环甩「顺便把整个下载文件夹也清了」。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fu2o8",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7d080",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "135pn",
+            "text": "步骤5｜验收（大约 5 分钟）",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e515r",
+            "text": "打开 豆包练习-第一夜，对照：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "45u94",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "107c7",
+            "text": "过关标准再念一遍：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 20,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "260si",
+            "text": "你没用手拖文件；分类完成；清单能给人看。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8uesh",
+            "text": "过了？ 今晚的课结束。 可以关电脑。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 24,
+                "style": "Bold"
+              }
+            ],
+            "key": "f5448",
+            "text": "没过？ 也别今晚加戏。 把失败截图留着，明天只改一句指令再跑——通常比换软件更快。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5n759",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f5gjc",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4960j",
+            "text": "第一夜到此为止（加餐选做）",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2p3kh",
+            "text": "主线绿勾齐了，才看下面。 没齐，跳过。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8oc1t",
+            "text": "同夹加一刀：",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c7v0b",
+            "text": "「只读取其中一份 PDF，出 100 字摘要 + 3 个要点。不要移动文件。」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fqjtk",
+            "text": "飞书入口：你公司飞书够新，侧栏也许能看到豆包工作——知道即可，第一夜仍以电脑客户端为准。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 2,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "a9vfq",
+            "text": "安全：练习夹勿塞隐私；对外价格、合同、责任，别只信 AI 生成字（中消协也提醒过类似消费注意）。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "42c93",
+            "text": "同类「会交活」的桌面 Agent 还有别家（比如你可能听过的 WorkBuddy）。 第一夜不测评、不搬家。 你先在一个产品上，亲手摸到「确认 → 文件真的动了」。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fhrev",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "drhio",
+            "text": "今晚打卡清单（复制到备忘录）",
+            "type": "header-one"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 7,
+                  "text": "doubao.com/work",
+                  "toIndex": 22
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8hgbh",
+            "text": "[ ] 打开 doubao.com/work，装好电脑版",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "688ij",
+            "text": "[ ] 登录成功，能进工作任务",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4cbdg",
+            "text": "[ ] 建好 豆包练习-第一夜，只放不心疼的杂文件",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "844pc",
+            "text": "[ ] 发出「先计划后执行、禁止删除」的整理指令",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dp6bb",
+            "text": "[ ] 确认计划后执行完成",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "422h6",
+            "text": "[ ] 子文件夹 + 清单验收通过",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2npgl",
+            "text": "样板房明天再逛。 技能商店、定时任务、连飞书——绿勾齐了再加。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aa4j0",
+            "text": "知道什么时候停手，本身就是判断力。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ehmlt",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "evpvp",
+            "text": "芭提雅，「豆包练习-第一夜」里数了五个小格子，把新品评测页关掉了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bqsr0",
+            "text": "",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "entityKey": "fb7980fd-e1cb-4706-b14d-1d6f5e56b03d",
+                "mediaItems": [
+                  {
+                    "localMediaId": "2",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092271340527243264"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "entityKey": "d64a4759-c4eb-496d-b9ff-dd47bdec7e52",
+                "mediaItems": [
+                  {
+                    "localMediaId": "10",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092271832653279232"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "entityKey": "f6f12982-d3a4-4ee5-9798-bd358dd7ae10",
+                "mediaItems": [
+                  {
+                    "localMediaId": "14",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092272398196445184"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "entityKey": "3b1cdaa5-9af0-4a6c-a357-e4632b5f375b",
+                "mediaItems": [
+                  {
+                    "localMediaId": "8",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092271716026482689"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "entityKey": "c8382360-a4cc-41f5-b348-2ab461ff1197",
+                "mediaItems": [
+                  {
+                    "localMediaId": "12",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092271894221471745"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "markdown": "```text\n豆包练习-第一夜/\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "72c47b51-447e-44c8-ab65-0f4350d22500",
+                "mediaItems": [
+                  {
+                    "localMediaId": "6",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092271636213067776"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQk998Ia8AAKAAIYtgb6ZFugAAAA",
+          "media_id": "2092271636213067776",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 74.92,
+                  "rgb": {
+                    "blue": 200,
+                    "green": 219,
+                    "red": 200
+                  }
+                },
+                {
+                  "percentage": 15.56,
+                  "rgb": {
+                    "blue": 24,
+                    "green": 26,
+                    "red": 24
+                  }
+                },
+                {
+                  "percentage": 11.5,
+                  "rgb": {
+                    "blue": 115,
+                    "green": 119,
+                    "red": 117
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1600,
+            "original_img_url": "https://pbs.twimg.com/media/HQk998Ia8AAXFWs.jpg",
+            "original_img_width": 2848
+          },
+          "media_key": "3_2092271636213067776"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQk+CldbAAEKAAIYtgb6ZFugAAAA",
+          "media_id": "2092271716026482689",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 58.2,
+                  "rgb": {
+                    "blue": 206,
+                    "green": 216,
+                    "red": 205
+                  }
+                },
+                {
+                  "percentage": 35.24,
+                  "rgb": {
+                    "blue": 120,
+                    "green": 135,
+                    "red": 119
+                  }
+                },
+                {
+                  "percentage": 6.55,
+                  "rgb": {
+                    "blue": 21,
+                    "green": 29,
+                    "red": 20
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1600,
+            "original_img_url": "https://pbs.twimg.com/media/HQk-CldbAAEXm6E.jpg",
+            "original_img_width": 2848
+          },
+          "media_key": "3_2092271716026482689"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQk+M9SawAEKAAIYtgb6ZFugAAAA",
+          "media_id": "2092271894221471745",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 83.24,
+                  "rgb": {
+                    "blue": 209,
+                    "green": 226,
+                    "red": 218
+                  }
+                },
+                {
+                  "percentage": 10.87,
+                  "rgb": {
+                    "blue": 87,
+                    "green": 106,
+                    "red": 108
+                  }
+                },
+                {
+                  "percentage": 7.4,
+                  "rgb": {
+                    "blue": 43,
+                    "green": 54,
+                    "red": 48
+                  }
+                },
+                {
+                  "percentage": 0.97,
+                  "rgb": {
+                    "blue": 102,
+                    "green": 142,
+                    "red": 164
+                  }
+                },
+                {
+                  "percentage": 0.11,
+                  "rgb": {
+                    "blue": 43,
+                    "green": 87,
+                    "red": 127
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1600,
+            "original_img_url": "https://pbs.twimg.com/media/HQk-M9SawAEh0GE.jpg",
+            "original_img_width": 2848
+          },
+          "media_key": "3_2092271894221471745"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQk+qSvakAAKAAIYtgb6ZFugAAAA",
+          "media_id": "2092272398196445184",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 82.04,
+                  "rgb": {
+                    "blue": 197,
+                    "green": 215,
+                    "red": 198
+                  }
+                },
+                {
+                  "percentage": 8.69,
+                  "rgb": {
+                    "blue": 57,
+                    "green": 73,
+                    "red": 59
+                  }
+                },
+                {
+                  "percentage": 1.71,
+                  "rgb": {
+                    "blue": 123,
+                    "green": 149,
+                    "red": 126
+                  }
+                },
+                {
+                  "percentage": 0.5,
+                  "rgb": {
+                    "blue": 110,
+                    "green": 112,
+                    "red": 110
+                  }
+                },
+                {
+                  "percentage": 0.29,
+                  "rgb": {
+                    "blue": 116,
+                    "green": 121,
+                    "red": 124
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1600,
+            "original_img_url": "https://pbs.twimg.com/media/HQk-qSvakAA8q5j.jpg",
+            "original_img_width": 2848
+          },
+          "media_key": "3_2092272398196445184"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQk+JX7asAAKAAIYtgb6ZFugAAAA",
+          "media_id": "2092271832653279232",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 88.09,
+                  "rgb": {
+                    "blue": 181,
+                    "green": 196,
+                    "red": 182
+                  }
+                },
+                {
+                  "percentage": 4.97,
+                  "rgb": {
+                    "blue": 103,
+                    "green": 127,
+                    "red": 101
+                  }
+                },
+                {
+                  "percentage": 4.13,
+                  "rgb": {
+                    "blue": 33,
+                    "green": 45,
+                    "red": 34
+                  }
+                },
+                {
+                  "percentage": 0.17,
+                  "rgb": {
+                    "blue": 97,
+                    "green": 113,
+                    "red": 123
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1600,
+            "original_img_url": "https://pbs.twimg.com/media/HQk-JX7asAASTo3.jpg",
+            "original_img_width": 2848
+          },
+          "media_key": "3_2092271832653279232"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQk9sunbUAAKAAIYtgb6ZFugAAAA",
+          "media_id": "2092271340527243264",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.43,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 254,
+                    "red": 254
+                  }
+                },
+                {
+                  "percentage": 0.57,
+                  "rgb": {
+                    "blue": 143,
+                    "green": 140,
+                    "red": 137
+                  }
+                }
+              ]
+            },
+            "original_img_height": 794,
+            "original_img_url": "https://pbs.twimg.com/media/HQk9sunbUAAii04.jpg",
+            "original_img_width": 2288
+          },
+          "media_key": "3_2092271340527243264"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

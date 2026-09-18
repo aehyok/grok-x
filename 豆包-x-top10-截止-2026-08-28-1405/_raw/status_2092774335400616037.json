@@ -1,0 +1,106 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/BTCdayu/status/2092774335400616037",
+    "id": "2092774335400616037",
+    "text": "微信输入法果然牛\n豆包又被我抛弃了\n\nTyteless完了。",
+    "raw_text": {
+      "text": "微信输入法果然牛\n豆包又被我抛弃了\n\nTyteless完了。",
+      "display_text_range": [
+        0,
+        30
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "BTCdayu",
+      "url": "https://x.com/BTCdayu",
+      "id": "1403881130802225152",
+      "followers": 320468,
+      "following": 4612,
+      "likes": 5957,
+      "media_count": 2979,
+      "name": "大宇",
+      "description": "财富自由，专注AI与币圈投资。\n投资是智力游戏，要享受过程，也要获得结果！\n\n币安、OK顶级大所永省最高等级手续费\nhttp://accounts.binance.com/register?ref=dy789\nhttp://okx.com/zh-hans/join/dy789\n\n宝典 \nhttp://dayu.xyz\n\n每日财富密码\nhttp://t.me/BTCdayu2",
+      "raw_description": {
+        "text": "财富自由，专注AI与币圈投资。\n投资是智力游戏，要享受过程，也要获得结果！\n\n币安、OK顶级大所永省最高等级手续费\nhttps://t.co/xqXcO17CoJ\nhttps://t.co/G6HwKCeodI\n\n宝典 \nhttps://t.co/EIMVhaC9IM\n\n每日财富密码\nhttps://t.co/f4KWsBAbzT",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              58,
+              81
+            ],
+            "original": "https://t.co/xqXcO17CoJ",
+            "replacement": "http://accounts.binance.com/register?ref=dy789",
+            "display": "accounts.binance.com/register?ref=d…"
+          },
+          {
+            "type": "url",
+            "indices": [
+              82,
+              105
+            ],
+            "original": "https://t.co/G6HwKCeodI",
+            "replacement": "http://okx.com/zh-hans/join/dy789",
+            "display": "okx.com/zh-hans/join/d…"
+          },
+          {
+            "type": "url",
+            "indices": [
+              111,
+              134
+            ],
+            "original": "https://t.co/EIMVhaC9IM",
+            "replacement": "http://dayu.xyz",
+            "display": "dayu.xyz"
+          },
+          {
+            "type": "url",
+            "indices": [
+              143,
+              166
+            ],
+            "original": "https://t.co/f4KWsBAbzT",
+            "replacement": "http://t.me/BTCdayu2",
+            "display": "t.me/BTCdayu2"
+          }
+        ]
+      },
+      "location": "香港",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1403881130802225152/1779501498",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2072678586436444160/x9Gsoyhe_200x200.jpg",
+      "joined": "Sun Jun 13 01:05:28 +0000 2021",
+      "protected": false,
+      "website": {
+        "url": "https://dayu.xyz",
+        "display_url": "dayu.xyz"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 36,
+    "retweets": 1,
+    "likes": 39,
+    "bookmarks": 6,
+    "quotes": 0,
+    "created_at": "Thu Aug 27 00:40:58 +0000 2026",
+    "created_timestamp": 1787791258,
+    "views": 42368,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

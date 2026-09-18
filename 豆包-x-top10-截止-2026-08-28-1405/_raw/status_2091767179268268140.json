@@ -1,0 +1,95 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/SnozakiSakura/status/2091767179268268140",
+    "id": "2091767179268268140",
+    "text": "豆包是对的🤭",
+    "raw_text": {
+      "text": "豆包是对的🤭 https://t.co/4heDPxbkxP",
+      "display_text_range": [
+        0,
+        6
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            7,
+            30
+          ],
+          "id": "2091767172389584896",
+          "display": "pic.x.com/4heDPxbkxP",
+          "original": "https://t.co/4heDPxbkxP",
+          "replacement": "https://x.com/SnozakiSakura/status/2091767179268268140/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "SnozakiSakura",
+      "url": "https://x.com/SnozakiSakura",
+      "id": "1573704119516176384",
+      "followers": 99411,
+      "following": 2773,
+      "likes": 8632,
+      "media_count": 1283,
+      "name": "草莓泡芙🍀",
+      "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+      "raw_description": {
+        "text": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "facets": []
+      },
+      "location": "魔女岛",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_200x200.jpg",
+      "joined": "Sat Sep 24 16:01:21 +0000 2022",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 109,
+    "retweets": 22,
+    "likes": 912,
+    "bookmarks": 65,
+    "quotes": 0,
+    "created_at": "Mon Aug 24 05:58:53 +0000 2026",
+    "created_timestamp": 1787551133,
+    "possibly_sensitive": false,
+    "views": 141630,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2091767172389584896",
+          "url": "https://pbs.twimg.com/media/HQdzKR8awAAn-or.jpg?name=orig",
+          "width": 1009,
+          "height": 1280
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2091767172389584896",
+          "url": "https://pbs.twimg.com/media/HQdzKR8awAAn-or.jpg?name=orig",
+          "width": 1009,
+          "height": 1280
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

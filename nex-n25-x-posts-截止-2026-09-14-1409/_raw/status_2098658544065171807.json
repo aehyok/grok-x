@@ -1,0 +1,777 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/wuhao1031/status/2098658544065171807",
+    "id": "2098658544065171807",
+    "text": "https://x.com/i/article/2098657009713233920",
+    "raw_text": {
+      "text": "https://t.co/S8AP7SPxET",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            0,
+            23
+          ],
+          "original": "https://t.co/S8AP7SPxET",
+          "replacement": "https://x.com/i/article/2098657009713233920",
+          "display": "x.com/i/article/2098…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "wuhao1031",
+      "url": "https://x.com/wuhao1031",
+      "id": "221384639",
+      "followers": 6831,
+      "following": 1516,
+      "likes": 21397,
+      "media_count": 921,
+      "name": "无好即好",
+      "description": "Wuhao / 无好\n\nNo “Good,” All Good.\n\nNothing to chase. Nothing missing.",
+      "raw_description": {
+        "text": "Wuhao / 无好\n\nNo “Good,” All Good.\n\nNothing to chase. Nothing missing.",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/221384639/1781971346",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2068363841080115200/dy6Q_WWv_200x200.jpg",
+      "joined": "Tue Nov 30 14:37:12 +0000 2010",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 34,
+    "retweets": 21,
+    "likes": 26,
+    "bookmarks": 3,
+    "quotes": 12,
+    "created_at": "Sat Sep 12 06:22:42 +0000 2026",
+    "created_timestamp": 1789194162,
+    "possibly_sensitive": false,
+    "views": 2680,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-09-12T06:22:42.000Z",
+      "modified_at": "2026-09-12T06:22:42.000Z",
+      "id": "2098657009713233920",
+      "title": "我不会编程，但我让 AI 把“锁鲜”变成了一次关于时间的互动实验。",
+      "preview_text": "我平时做品牌和包装设计。\n前几年做过一款“锁鲜枸杞”，包装上的核心词就是两个字：锁鲜。\n这次试 Nex-N2.5 Pro，我不太想拿它跑一道题，也不想再做一个普通的产品官网。\n我只给了它原来的产品图和包装平面。",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHR/tiLPXAAMKAAIAAAAADTIPvwAA",
+        "media_id": "2098657122766487555",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 51.7,
+                "rgb": {
+                  "blue": 5,
+                  "green": 6,
+                  "red": 66
+                }
+              },
+              {
+                "percentage": 16.76,
+                "rgb": {
+                  "blue": 16,
+                  "green": 16,
+                  "red": 116
+                }
+              },
+              {
+                "percentage": 9.94,
+                "rgb": {
+                  "blue": 108,
+                  "green": 161,
+                  "red": 203
+                }
+              },
+              {
+                "percentage": 6.48,
+                "rgb": {
+                  "blue": 37,
+                  "green": 69,
+                  "red": 126
+                }
+              },
+              {
+                "percentage": 4.15,
+                "rgb": {
+                  "blue": 205,
+                  "green": 210,
+                  "red": 233
+                }
+              }
+            ]
+          },
+          "original_img_height": 669,
+          "original_img_url": "https://pbs.twimg.com/media/HR_tiLPXAAMDxhj.jpg",
+          "original_img_width": 1672
+        },
+        "media_key": "3_2098657122766487555"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4btnd",
+            "text": "我平时做品牌和包装设计。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 27,
+                "style": "Bold"
+              }
+            ],
+            "key": "3ilsg",
+            "text": "前几年做过一款“锁鲜枸杞”，包装上的核心词就是两个字：锁鲜。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6buju",
+            "text": "这次试 Nex-N2.5 Pro，我不太想拿它跑一道题，也不想再做一个普通的产品官网。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6r4eb",
+            "text": "我只给了它原来的产品图和包装平面。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8e9hb",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5fi4v",
+            "text": "然后提了一个很简单的想法：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "efq7g",
+            "text": "如果“锁鲜”，真的可以锁住时间？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b6hna",
+            "text": "最后我把页面压得很简单：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dj2sq",
+            "text": "一罐产品，一句话，一个按钮。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3sn25",
+            "text": "正常状态下，枸杞、微尘和光线在产品周围缓慢流动；",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 3,
+                "style": "Bold"
+              }
+            ],
+            "key": "ecnv8",
+            "text": "点击 「锁住时间」，运动逐渐减速、静止，周围的光线慢慢向产品收束；",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 4,
+                "style": "Bold"
+              }
+            ],
+            "key": "3ioo0",
+            "text": "再点击 「释放时间」，枸杞和粒子重新散开，时间继续流动。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "gnrh",
+            "text": "我不会前端，也不会为了这个效果专门去学一遍交互开发。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 51,
+                "offset": 5,
+                "style": "Bold"
+              }
+            ],
+            "key": "cg3oj",
+            "text": "这次是在 Kilo Code 的 Agent 环境里，通过 OpenRouter 调用 Nex-N2.5 Pro。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "52bs7",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4jrnq",
+            "text": "从创建项目文件、写 HTML / CSS / JS，到实际运行页面和继续修改，它确实把一个原本只停留在脑子里的设计想法，变成了可以真正操作的东西。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3oqnc",
+            "text": "当然，过程并不是“一句话就完美”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "hatd",
+            "text": "第一版能运行，但视觉很像普通网页。有一次它甚至判断交互已经正常，我自己实际点过以后，才发现按钮仍然有问题。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8a4nv",
+            "text": "后来我继续从设计角度给反馈：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 54,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "f01qc",
+            "text": "减掉网页感、强化产品主体、重新处理“锁住”和“释放”的节奏，再把“时间”这个抽象概念变成光、轨迹和运动状态。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6v04p",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "u5ut",
+            "text": "最后才到了现在这一版。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6ju55",
+            "text": "做下来最大的感受其实很简单：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 30,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dbthv",
+            "text": "它能把“不会编程”这道门槛跨过去，但它不天然等于“好设计”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bl4qi",
+            "text": "代码可以自己写，交互可以自己跑，最后那一下创意、构图、节奏和审美判断，还是得设计师自己来。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3cli4",
+            "text": "但反过来看，这件事也很有意思。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aof4g",
+            "text": "以前很多想法不是想不到，而是实现成本太高，所以最后就算了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e0h2o",
+            "text": "现在至少可以先让 Agent 把它跑起来。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 44,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "550f8",
+            "text": "AI 最有意思的地方，也许不是替你想，而是让以前做不出来的想法，第一次有机会真的动起来。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "97t1r",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 7,
+                "style": "Bold"
+              }
+            ],
+            "key": "per9",
+            "text": "这次使用的是 Nex-N2.5 Pro，通过 OpenRouter 接入。\n目前有免费体验入口，有兴趣可以自己试试：",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "openrouter.ai/nex-agi",
+                  "toIndex": 21
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3iuta",
+            "text": "openrouter.ai/nex-agi",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 0,
+                  "text": "NexN2_5",
+                  "toIndex": 8
+                },
+                {
+                  "fromIndex": 9,
+                  "text": "OpenRouter",
+                  "toIndex": 20
+                }
+              ],
+              "mentions": [
+                {
+                  "fromIndex": 21,
+                  "text": "nex_agi",
+                  "toIndex": 29
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ebpm5",
+            "text": "#NexN2_5 #OpenRouter @nex_agi",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "9e764e9a-6792-4ded-8d57-9ebbcd2e3505",
+                "mediaItems": [
+                  {
+                    "localMediaId": "2",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2098657281353433088"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "d39b35ee-8336-48ed-98c2-5ab724f9e1b9",
+                "mediaItems": [
+                  {
+                    "localMediaId": "4",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2098657376316620800"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "caa92bcb-840e-4dc8-b56a-1692934e2954",
+                "mediaItems": [
+                  {
+                    "localMediaId": "6",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2098657428074274816"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "ff3decca-745b-4904-b17d-de67b33ea0ec",
+                "mediaItems": [
+                  {
+                    "localMediaId": "8",
+                    "mediaCategory": "AmplifyVideo",
+                    "mediaId": "2098657629560020996"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHR/traBbwAAKAAIAAAAADTIPvwAA",
+          "media_id": "2098657281353433088",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 64.37,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 14.51,
+                  "rgb": {
+                    "blue": 43,
+                    "green": 52,
+                    "red": 201
+                  }
+                },
+                {
+                  "percentage": 4.03,
+                  "rgb": {
+                    "blue": 157,
+                    "green": 158,
+                    "red": 224
+                  }
+                },
+                {
+                  "percentage": 3.7,
+                  "rgb": {
+                    "blue": 146,
+                    "green": 193,
+                    "red": 220
+                  }
+                },
+                {
+                  "percentage": 2.34,
+                  "rgb": {
+                    "blue": 39,
+                    "green": 36,
+                    "red": 230
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1254,
+            "original_img_url": "https://pbs.twimg.com/media/HR_traBbwAAYjnz.jpg",
+            "original_img_width": 1254
+          },
+          "media_key": "3_2098657281353433088"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHR/tw7ybAAAKAAIAAAAADTIPvwAA",
+          "media_id": "2098657376316620800",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.78,
+                  "rgb": {
+                    "blue": 28,
+                    "green": 26,
+                    "red": 25
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2083,
+            "original_img_url": "https://pbs.twimg.com/media/HR_tw7ybAAA5QeT.jpg",
+            "original_img_width": 3833
+          },
+          "media_key": "3_2098657376316620800"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHR/tz8maIAAKAAIAAAAADTIPvwAA",
+          "media_id": "2098657428074274816",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 99.92,
+                  "rgb": {
+                    "blue": 28,
+                    "green": 26,
+                    "red": 25
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2095,
+            "original_img_url": "https://pbs.twimg.com/media/HR_tz8maIAA3OtY.jpg",
+            "original_img_width": 3833
+          },
+          "media_key": "3_2098657428074274816"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAECgABHR/t/rMWoAQKAAIAAAAAAAAAAAAA",
+          "media_id": "2098657629560020996",
+          "media_info": {
+            "__typename": "ApiVideo",
+            "aspect_ratio": {
+              "denominator": 9,
+              "numerator": 16
+            },
+            "duration_millis": 19737,
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 58.55,
+                    "rgb": {
+                      "blue": 3,
+                      "green": 3,
+                      "red": 60
+                    }
+                  },
+                  {
+                    "percentage": 18.26,
+                    "rgb": {
+                      "blue": 15,
+                      "green": 15,
+                      "red": 119
+                    }
+                  },
+                  {
+                    "percentage": 7.19,
+                    "rgb": {
+                      "blue": 106,
+                      "green": 159,
+                      "red": 202
+                    }
+                  },
+                  {
+                    "percentage": 3.99,
+                    "rgb": {
+                      "blue": 35,
+                      "green": 66,
+                      "red": 125
+                    }
+                  },
+                  {
+                    "percentage": 3.06,
+                    "rgb": {
+                      "blue": 199,
+                      "green": 206,
+                      "red": 233
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 1080,
+              "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2098657629560020996/img/kVDy1qFEVJOj3g9K.jpg",
+              "original_img_width": 1920
+            },
+            "variants": [
+              {
+                "bit_rate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2098657629560020996/vid/avc1/640x360/-nDlFFkGcRM2QJwT.mp4?tag=29"
+              },
+              {
+                "bit_rate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2098657629560020996/vid/avc1/1920x1080/aJVjC8xZ9PmJsTTv.mp4?tag=29"
+              },
+              {
+                "bit_rate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2098657629560020996/vid/avc1/480x270/0Tj0QvjRhXv3naka.mp4?tag=29"
+              },
+              {
+                "bit_rate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2098657629560020996/vid/avc1/1280x720/nbAsrLfd7Xz1QT1I.mp4?tag=29"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2098657629560020996/pl/QO0xfT5M6H53pm7S.m3u8?tag=29"
+              }
+            ]
+          },
+          "media_key": "13_2098657629560020996"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

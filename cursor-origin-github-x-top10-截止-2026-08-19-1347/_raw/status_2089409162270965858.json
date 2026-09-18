@@ -1,0 +1,125 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/rauchg/status/2089409162270965858",
+    "id": "2089409162270965858",
+    "text": "You can now host your repos in Cursor Origin and deploy to Vercel via Cursor Origin which is itself hosted on Vercel. And unlike GitHub, it's online 😁",
+    "raw_text": {
+      "text": "You can now host your repos in Cursor Origin and deploy to Vercel via Cursor Origin which is itself hosted on Vercel. And unlike GitHub, it's online 😁",
+      "display_text_range": [
+        0,
+        150
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "rauchg",
+      "url": "https://x.com/rauchg",
+      "id": "15540222",
+      "followers": 796680,
+      "following": 653,
+      "likes": 72891,
+      "media_count": 4890,
+      "name": "Guillermo Rauch",
+      "description": "@vercel CEO",
+      "raw_description": {
+        "text": "@vercel CEO",
+        "facets": []
+      },
+      "location": "San Francisco, CA",
+      "banner_url": "https://pbs.twimg.com/profile_banners/15540222/1696962299",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_200x200.jpg",
+      "joined": "Tue Jul 22 22:54:37 +0000 2008",
+      "protected": false,
+      "website": {
+        "url": "http://rauchg.com",
+        "display_url": "rauchg.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 165,
+    "retweets": 142,
+    "likes": 4450,
+    "bookmarks": 400,
+    "quotes": 51,
+    "created_at": "Mon Aug 17 17:48:58 +0000 2026",
+    "created_timestamp": 1786988938,
+    "views": 325182,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/cursor_ai/status/2089399059488350447",
+      "id": "2089399059488350447",
+      "text": "We've partnered with some of the top GitHub integrations.\n\nVercel, Buildkite, and Depot are already available with more coming soon.",
+      "raw_text": {
+        "text": "We've partnered with some of the top GitHub integrations.\n\nVercel, Buildkite, and Depot are already available with more coming soon.",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "facets": []
+      },
+      "author": {
+        "screen_name": "cursor_ai",
+        "url": "https://x.com/cursor_ai",
+        "id": "1695890961094909952",
+        "followers": 469437,
+        "following": 37,
+        "likes": 597,
+        "media_count": 254,
+        "name": "Cursor",
+        "description": "Coding agent for building ambitious software",
+        "raw_description": {
+          "text": "Coding agent for building ambitious software",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1695890961094909952/1780180766",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1970182748146180096/dhZeXi_X_200x200.jpg",
+        "joined": "Sun Aug 27 20:08:16 +0000 2023",
+        "protected": false,
+        "website": {
+          "url": "http://cursor.com",
+          "display_url": "cursor.com"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "organization"
+        },
+        "avatar_color": null
+      },
+      "replies": 61,
+      "retweets": 67,
+      "likes": 2429,
+      "bookmarks": 137,
+      "quotes": 18,
+      "created_at": "Mon Aug 17 17:08:49 +0000 2026",
+      "created_timestamp": 1786986529,
+      "views": 634759,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": "cursor_ai",
+      "replying_to_status": "2089399057659596847",
+      "source": "Twitter Web App",
+      "twitter_card": "tweet",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

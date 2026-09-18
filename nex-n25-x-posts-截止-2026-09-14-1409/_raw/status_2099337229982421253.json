@@ -1,0 +1,198 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/li9292/status/2099337229982421253",
+    "id": "2099337229982421253",
+    "text": "鹈鹕骑车又刷屏？\n试试鹈鹕骑车背后的作者另外一个benchmark！\n同一句话丢给 6 个大模型：\n\"Write an HTML and JavaScript page implementing space invaders\"\n\n规则很简单：\n每家只写一次,第一次写成什么样就什么样：\n不允许重试,不改一行代码。\n结果 6 个全能玩，但\n有的 40 秒交卷、极简草草了事；\n有的出全套街机复刻：投币动画、音效、计分表。\n你先盲猜:A 到 F 里,分别是哪些模型写的?\n\n答案、各家用时成本、6 个都能玩的链接,都在评论区 👇",
+    "raw_text": {
+      "text": "鹈鹕骑车又刷屏？\n试试鹈鹕骑车背后的作者另外一个benchmark！\n同一句话丢给 6 个大模型：\n\"Write an HTML and JavaScript page implementing space invaders\"\n\n规则很简单：\n每家只写一次,第一次写成什么样就什么样：\n不允许重试,不改一行代码。\n结果 6 个全能玩，但\n有的 40 秒交卷、极简草草了事；\n有的出全套街机复刻：投币动画、音效、计分表。\n你先盲猜:A 到 F 里,分别是哪些模型写的?\n\n答案、各家用时成本、6 个都能玩的链接,都在评论区 👇",
+      "display_text_range": [
+        0,
+        263
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            187,
+            210
+          ],
+          "id": "2099337117046607872",
+          "display": "pic.x.com/meX9BvtieW",
+          "original": "https://t.co/meX9BvtieW",
+          "replacement": "https://x.com/li9292/status/2099337229982421253/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "li9292",
+      "url": "https://x.com/li9292",
+      "id": "1877440800",
+      "followers": 15428,
+      "following": 1518,
+      "likes": 23431,
+      "media_count": 686,
+      "name": "李韭二",
+      "description": "🤓AI-naive builder 🤖Agentic coder \n💻Learning AI in public📈@evermind Growth \n @lijiuer9888 微信同号 Opinions are my own \n📮toyofbob@hotmail.com",
+      "raw_description": {
+        "text": "🤓AI-naive builder 🤖Agentic coder \n💻Learning AI in public📈@evermind Growth \n @lijiuer9888 微信同号 Opinions are my own \n📮toyofbob@hotmail.com",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1877440800/1783960244",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1958447835365707776/pezBwxG9_200x200.jpg",
+      "joined": "Wed Sep 18 00:52:13 +0000 2013",
+      "protected": false,
+      "website": {
+        "url": "https://evermind.ai/",
+        "display_url": "evermind.ai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 21,
+    "retweets": 6,
+    "likes": 26,
+    "bookmarks": 3,
+    "quotes": 4,
+    "created_at": "Mon Sep 14 03:19:34 +0000 2026",
+    "created_timestamp": 1789355974,
+    "possibly_sensitive": false,
+    "views": 2615,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2099337117046607872",
+          "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/1106x720/TMpwnbmxaWrztdiq.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099337117046607872/img/Kly_NOnbg_Wcz0TS.jpg",
+          "duration": 52.8,
+          "width": 1106,
+          "height": 720,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/pl/m22QRCQ45Hp36sUG.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/414x270/mNyw5edJmyDpqirL.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/552x360/Alm7viwOqeKvfd5m.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/1106x720/TMpwnbmxaWrztdiq.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/pl/m22QRCQ45Hp36sUG.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/414x270/mNyw5edJmyDpqirL.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/552x360/Alm7viwOqeKvfd5m.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/1106x720/TMpwnbmxaWrztdiq.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2099337117046607872",
+          "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/1106x720/TMpwnbmxaWrztdiq.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099337117046607872/img/Kly_NOnbg_Wcz0TS.jpg",
+          "duration": 52.8,
+          "width": 1106,
+          "height": 720,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/pl/m22QRCQ45Hp36sUG.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/414x270/mNyw5edJmyDpqirL.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/552x360/Alm7viwOqeKvfd5m.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/1106x720/TMpwnbmxaWrztdiq.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/pl/m22QRCQ45Hp36sUG.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/414x270/mNyw5edJmyDpqirL.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/552x360/Alm7viwOqeKvfd5m.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2099337117046607872/vid/avc1/1106x720/TMpwnbmxaWrztdiq.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

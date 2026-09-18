@@ -1,0 +1,251 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/_cosine_x/status/2086758158492717551",
+    "id": "2086758158492717551",
+    "text": "我的 uu 远程设备 be like\n可以说是网易的难得良心简洁 app 了，在一众国产牛皮藓 app 里，上一个我觉得类似的大厂良心 app 是腾讯的 Lemon 清理（",
+    "raw_text": {
+      "text": "我的 uu 远程设备 be like\n可以说是网易的难得良心简洁 app 了，在一众国产牛皮藓 app 里，上一个我觉得类似的大厂良心 app 是腾讯的 Lemon 清理（ https://t.co/KN0pubqFPD",
+      "display_text_range": [
+        0,
+        86
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            87,
+            110
+          ],
+          "id": "2086758150276075520",
+          "display": "pic.x.com/KN0pubqFPD",
+          "original": "https://t.co/KN0pubqFPD",
+          "replacement": "https://x.com/_cosine_x/status/2086758158492717551/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "_cosine_x",
+      "url": "https://x.com/_cosine_x",
+      "id": "1557653726047109121",
+      "followers": 2870,
+      "following": 2171,
+      "likes": 23356,
+      "media_count": 535,
+      "name": "cosine",
+      "description": "FE / ACG / 手工 / 深色模式强迫症 / INTP /\n兴趣广泛养两只猫的老宅女 / remote / 热爱生活\n前端频道：http://t.me/cosine_front_end\n博客：http://blog.cosine.ren/about\n周刊：http://blog.cosine.ren/weekly",
+      "raw_description": {
+        "text": "FE / ACG / 手工 / 深色模式强迫症 / INTP /\n兴趣广泛养两只猫的老宅女 / remote / 热爱生活\n前端频道：https://t.co/PEiLLQKs5g\n博客：https://t.co/pE7NncQ2Xj\n周刊：https://t.co/XaLFNL5yal",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              67,
+              90
+            ],
+            "original": "https://t.co/PEiLLQKs5g",
+            "replacement": "http://t.me/cosine_front_end",
+            "display": "t.me/cosine_front_e…"
+          },
+          {
+            "type": "url",
+            "indices": [
+              94,
+              117
+            ],
+            "original": "https://t.co/pE7NncQ2Xj",
+            "replacement": "http://blog.cosine.ren/about",
+            "display": "blog.cosine.ren/about"
+          },
+          {
+            "type": "url",
+            "indices": [
+              121,
+              144
+            ],
+            "original": "https://t.co/XaLFNL5yal",
+            "replacement": "http://blog.cosine.ren/weekly",
+            "display": "blog.cosine.ren/weekly"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1557653726047109121/1749899473",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2040669192027054080/z0FjMxRv_200x200.jpg",
+      "joined": "Thu Aug 11 09:02:54 +0000 2022",
+      "protected": false,
+      "website": {
+        "url": "https://blog.cosine.ren/about",
+        "display_url": "blog.cosine.ren/about"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 101,
+    "retweets": 4,
+    "likes": 84,
+    "bookmarks": 22,
+    "quotes": 2,
+    "created_at": "Mon Aug 10 10:14:49 +0000 2026",
+    "created_timestamp": 1786356889,
+    "possibly_sensitive": false,
+    "views": 22888,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2086758150276075520",
+          "url": "https://pbs.twimg.com/media/HPWne0dbUAASxrD.jpg?name=orig",
+          "width": 1280,
+          "height": 2559
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2086758150276075520",
+          "url": "https://pbs.twimg.com/media/HPWne0dbUAASxrD.jpg?name=orig",
+          "width": 1280,
+          "height": 2559
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/yetone/status/2086727188439843227",
+      "id": "2086727188439843227",
+      "text": "用了 UU 远程，任何 coding agent 选型都不需要考虑了，真正的 Agent agnostic 的远程解决方案。我甚至可以在上面验证 GUI 的一些交互。\n\n如果你在工作日的某个咖啡馆里看到一个成年人横着拿着手机低着头在手机上疯狂的指指点点，你不要认为他在玩王者荣耀，他其实是在 Vibe Coding 以及验收结果。",
+      "raw_text": {
+        "text": "用了 UU 远程，任何 coding agent 选型都不需要考虑了，真正的 Agent agnostic 的远程解决方案。我甚至可以在上面验证 GUI 的一些交互。\n\n如果你在工作日的某个咖啡馆里看到一个成年人横着拿着手机低着头在手机上疯狂的指指点点，你不要认为他在玩王者荣耀，他其实是在 Vibe Coding 以及验收结果。",
+        "display_text_range": [
+          0,
+          165
+        ],
+        "facets": []
+      },
+      "author": {
+        "screen_name": "yetone",
+        "url": "https://x.com/yetone",
+        "id": "147786784",
+        "followers": 88262,
+        "following": 4543,
+        "likes": 19431,
+        "media_count": 2300,
+        "name": "yetone",
+        "description": "Built: avante.nvim\n\nBuilding:\n\nhttps://alma.now\n\nhttps://confirmo.love\n\nhttps://swordgame.ai\n\nhttps://yansu.app\n\nhttps://cumora.ai\n\nhttps://killaislop.com",
+        "raw_description": {
+          "text": "Built: avante.nvim\n\nBuilding:\n\nhttps://t.co/pfq9srNgsd\n\nhttps://t.co/fpGnPR5t9C\n\nhttps://t.co/cBN1yzJPIG\n\nhttps://t.co/6ERz2HMx0f\n\nhttps://t.co/QhQRLD4zQo\n\nhttps://t.co/ln9CVeagWC",
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                31,
+                54
+              ],
+              "original": "https://t.co/pfq9srNgsd",
+              "replacement": "https://alma.now",
+              "display": "alma.now"
+            },
+            {
+              "type": "url",
+              "indices": [
+                56,
+                79
+              ],
+              "original": "https://t.co/fpGnPR5t9C",
+              "replacement": "https://confirmo.love",
+              "display": "confirmo.love"
+            },
+            {
+              "type": "url",
+              "indices": [
+                81,
+                104
+              ],
+              "original": "https://t.co/cBN1yzJPIG",
+              "replacement": "https://swordgame.ai",
+              "display": "swordgame.ai"
+            },
+            {
+              "type": "url",
+              "indices": [
+                106,
+                129
+              ],
+              "original": "https://t.co/6ERz2HMx0f",
+              "replacement": "https://yansu.app",
+              "display": "yansu.app"
+            },
+            {
+              "type": "url",
+              "indices": [
+                131,
+                154
+              ],
+              "original": "https://t.co/QhQRLD4zQo",
+              "replacement": "https://cumora.ai",
+              "display": "cumora.ai"
+            },
+            {
+              "type": "url",
+              "indices": [
+                156,
+                179
+              ],
+              "original": "https://t.co/ln9CVeagWC",
+              "replacement": "https://killaislop.com",
+              "display": "killaislop.com"
+            }
+          ]
+        },
+        "location": "无",
+        "banner_url": "https://pbs.twimg.com/profile_banners/147786784/1635109454",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_200x200.jpg",
+        "joined": "Tue May 25 01:52:30 +0000 2010",
+        "protected": false,
+        "website": {
+          "url": "https://github.com/yetone",
+          "display_url": "github.com/yetone"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 68,
+      "retweets": 7,
+      "likes": 281,
+      "bookmarks": 153,
+      "quotes": 12,
+      "created_at": "Mon Aug 10 08:11:45 +0000 2026",
+      "created_timestamp": 1786349505,
+      "views": 102913,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "zh",
+      "replying_to": null,
+      "replying_to_status": null,
+      "source": "Twitter Web App",
+      "twitter_card": "tweet",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter for Android",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

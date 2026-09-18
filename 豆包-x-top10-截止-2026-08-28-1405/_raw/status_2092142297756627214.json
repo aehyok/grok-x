@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/caiyue5/status/2092142297756627214",
+    "id": "2092142297756627214",
+    "text": "豆包新的去脸 Logo 会是一个败笔...你既然都是大众应用了，这样的改动堪比自断双臂",
+    "raw_text": {
+      "text": "豆包新的去脸 Logo 会是一个败笔...你既然都是大众应用了，这样的改动堪比自断双臂",
+      "display_text_range": [
+        0,
+        43
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "caiyue5",
+      "url": "https://x.com/caiyue5",
+      "id": "732437001572474880",
+      "followers": 9886,
+      "following": 542,
+      "likes": 13660,
+      "media_count": 867,
+      "name": "Yue",
+      "description": "Founder of Sup Space",
+      "raw_description": {
+        "text": "Founder of Sup Space",
+        "facets": []
+      },
+      "location": "Earth",
+      "banner_url": "https://pbs.twimg.com/profile_banners/732437001572474880/1734788448",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2018576894258819073/hhWTGjCR_200x200.jpg",
+      "joined": "Tue May 17 05:06:04 +0000 2016",
+      "protected": false,
+      "website": {
+        "url": "https://better-vibe.com",
+        "display_url": "better-vibe.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 72,
+    "retweets": 1,
+    "likes": 108,
+    "bookmarks": 3,
+    "quotes": 0,
+    "created_at": "Tue Aug 25 06:49:28 +0000 2026",
+    "created_timestamp": 1787640568,
+    "views": 43960,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

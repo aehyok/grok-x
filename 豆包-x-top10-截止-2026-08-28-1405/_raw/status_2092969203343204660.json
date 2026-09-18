@@ -1,0 +1,827 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/jinchenma_ai/status/2092969203343204660",
+    "id": "2092969203343204660",
+    "text": "豆包工作目前最屌的功能，就是能天然导出自家抖音的逐字稿！（不是广告哈，是真的屌）\n\n一句话的事，批量导出到飞书多维表格\n\n屌炸天！\n\n新用户免费送一个月会员，赶紧用起来，趁还没封锁。 https://x.com/i/article/2092964203275616256",
+    "raw_text": {
+      "text": "豆包工作目前最屌的功能，就是能天然导出自家抖音的逐字稿！（不是广告哈，是真的屌）\n\n一句话的事，批量导出到飞书多维表格\n\n屌炸天！\n\n新用户免费送一个月会员，赶紧用起来，趁还没封锁。 https://t.co/p2mazoiyMB",
+      "display_text_range": [
+        0,
+        115
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            92,
+            115
+          ],
+          "original": "https://t.co/p2mazoiyMB",
+          "replacement": "https://x.com/i/article/2092964203275616256",
+          "display": "x.com/i/article/2092…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "jinchenma_ai",
+      "url": "https://x.com/jinchenma_ai",
+      "id": "796179107172257792",
+      "followers": 23364,
+      "following": 549,
+      "likes": 5002,
+      "media_count": 1134,
+      "name": "金尘马",
+      "description": "👨‍💻前大厂程序员，想开了，35岁危机前提桶跑路\n30天X破万粉，变现过万🚀写小白用得上的AI教程\n偶尔抽象，时常真诚，把X当朋友圈发👇咨询&合作",
+      "raw_description": {
+        "text": "👨‍💻前大厂程序员，想开了，35岁危机前提桶跑路\n30天X破万粉，变现过万🚀写小白用得上的AI教程\n偶尔抽象，时常真诚，把X当朋友圈发👇咨询&合作",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/796179107172257792/1781209111",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2007049139960385536/3cydt9DH_200x200.jpg",
+      "joined": "Wed Nov 09 02:34:26 +0000 2016",
+      "protected": false,
+      "website": {
+        "url": "https://my.feishu.cn/wiki/D9X4wFttSiqkFpkNvBUcvPbTnJb?from=from_copylink",
+        "display_url": "my.feishu.cn/wiki/D9X4wFttS…"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 71,
+    "retweets": 59,
+    "likes": 291,
+    "bookmarks": 510,
+    "quotes": 19,
+    "created_at": "Thu Aug 27 13:35:18 +0000 2026",
+    "created_timestamp": 1787837718,
+    "possibly_sensitive": false,
+    "views": 45355,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-27T13:35:18.000Z",
+      "modified_at": "2026-08-27T13:35:18.000Z",
+      "id": "2092964203275616256",
+      "title": "屌爆了！开源一个能一句话批量无痛导出抖音视频逐字稿的 Skill！",
+      "preview_text": "朋友们大家好啊，我是金尘马。\n我用了一下豆包工作 APP，真的有点屌啊。\n它终于解决了一个一直困扰我的问题：怎么把抖音视频的逐字稿批量拉下来。（PS：真不是广告嗷，是真的屌，豆包快给我打钱！）",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHQu300abkAAKAAILDJit/JcQAAAA",
+        "media_id": "2092968569894309888",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 88.8,
+                "rgb": {
+                  "blue": 249,
+                  "green": 247,
+                  "red": 247
+                }
+              },
+              {
+                "percentage": 4.9,
+                "rgb": {
+                  "blue": 31,
+                  "green": 29,
+                  "red": 28
+                }
+              },
+              {
+                "percentage": 1.76,
+                "rgb": {
+                  "blue": 253,
+                  "green": 155,
+                  "red": 82
+                }
+              },
+              {
+                "percentage": 1.24,
+                "rgb": {
+                  "blue": 254,
+                  "green": 195,
+                  "red": 139
+                }
+              },
+              {
+                "percentage": 0.32,
+                "rgb": {
+                  "blue": 27,
+                  "green": 15,
+                  "red": 70
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HQu300abkAAMDcJ.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2092968569894309888"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7h99g",
+            "text": "朋友们大家好啊，我是金尘马。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "185oc",
+            "text": "我用了一下豆包工作 APP，真的有点屌啊。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "adsip",
+            "text": "它终于解决了一个一直困扰我的问题：怎么把抖音视频的逐字稿批量拉下来。（PS：真不是广告嗷，是真的屌，豆包快给我打钱！）",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cqsa2",
+            "text": "以前想干这件事，基本就两条路。一条是自己把视频下载下来，提取音频，再转成文字，整条链路很重。另一条是打开豆包 APP，一条一条获取逐字稿，再手动复制下来，没法批量自动化。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 21,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fs591",
+            "text": "现在豆包工作已经可以把这整套流程自动跑完。 给它一个抖音博主主页，它能批量获取视频的公开信息和逐字稿，再配合飞书多维表格直接入库。这一下就太高效了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dah9s",
+            "text": "我顺手把这套流程做成了一个 Skill，现在已经开源了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 5,
+                  "text": "https://github.com/jinchenma94/social-media-data-tools",
+                  "toIndex": 59
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 54,
+                "offset": 5
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "96nlo",
+            "text": "开源地址：https://github.com/jinchenma94/social-media-data-tools",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 29,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7cstv",
+            "text": "我自己实测，采集 10 条视频的逐字稿大概需要 5 分钟。 我还试过一次性采集某个博主的几十条视频，也跑通了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "220c8",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4pele",
+            "text": "这个 Skill 能导出什么",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "blal3",
+            "text": "给它一个抖音博主主页链接，它可以批量整理这个账号的视频信息，包括：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "28omh",
+            "text": "账号名称",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dnfuj",
+            "text": "标题和介绍",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "99pi0",
+            "text": "完整逐字稿",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cuu5v",
+            "text": "点赞、评论和转发数",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dbcfk",
+            "text": "发表日期",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2eb93",
+            "text": "视频链接",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bsreb",
+            "text": "采集完成后，还可以让 AI 根据标题、介绍和逐字稿，自动生成选题方向和一句话主题总结。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "575ss",
+            "text": "这些数据可以直接写入飞书多维表格。后面需要研究某个账号、找选题或者筛内容，在表格里查就可以了。如果不需要飞书，也可以让它保存到本地。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9327d",
+            "text": "使用前准备",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "430ir",
+            "text": "开始前准备好豆包工作 APP，注意嗷，只能是豆包工作APP，其他 Agent 没这么丝滑，因为用到了豆包内置的一个获取逐字稿的能力。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "k8v",
+            "text": "以及一个能登录抖音网页版的账号。如果要把结果同步到飞书，再准备一个飞书多维表格。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "nl8h",
+            "text": "安装 Skill",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "93svj",
+            "text": "打开豆包工作，把下面这句话发给 Agent：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dh74q",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bv627",
+            "text": "豆包工作会自动读取仓库并安装这个 Skill。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6lkdm",
+            "text": "采集第一批视频",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7acci",
+            "text": "安装完成后，需要给 Agent 四项信息：抖音博主主页或单条视频链接、采集数量、是否需要逐字稿，以及数据写到哪里。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2956f",
+            "text": "公开版 Skill 默认采集最新 5 条。想要 10 条或更多，直接在提示词里写清数量就可以了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7og9p",
+            "text": "比如可以这样发：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cmhja",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dtmcj",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2414j",
+            "text": "Skill 会从表格已有的选项中选择 1—3 个选题方向，再给每条视频生成一句话主题总结。其他基础字段如果缺失，Skill 会自动创建。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2j44q",
+            "text": "第一次运行时，豆包工作会打开内置浏览器。如果抖音还没有登录，它会让你接管浏览器完成登录。登录完成后，把控制权交还给 Agent，它就会继续采集。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "as51a",
+            "text": "豆包工作会用内置浏览器读取公开信息，再调用内置工具获取逐字稿，最后完成 AI 总结并写入飞书。逐字稿可以直接从内置工具获取，省掉了下载视频、提取音频和 ASR 转写这几步。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 42,
+                "offset": 14,
+                "style": "Bold"
+              }
+            ],
+            "key": "6rnu6",
+            "text": "我也大概测算了一下额度消耗。目前我已经获取了 100 多个视频的逐字稿，大概用了月额度的 6%，这个还是挺香的。 现在新用户登录会送一个月标准版额度。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fctgu",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "durrb",
+            "text": "按这个消耗速度看，就算以后正常开通标准版，个人用来拉取自己关注的博主数据，一个月的额度基本也够用了，每个月拉1000多个视频逐字稿轻轻松松。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ecclg",
+            "text": "感兴趣的朋友快去试一试。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dihcu",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 56,
+                  "text": "https://x.com/jinchenma_ai",
+                  "toIndex": 82
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 26,
+                "offset": 56
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "d8fk1",
+            "text": "金尘马｜大厂程序员｜30天X破万粉变现过万｜持续分享 AI 搞钱、程序员转型、OPC 心得｜联系方式见主页介绍：https://x.com/jinchenma_ai",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "afc1e8d2-351f-422d-8dd0-e9aad873dc1c",
+                "mediaItems": [
+                  {
+                    "localMediaId": "10",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092968611300466688"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "entityKey": "c8f5a044-acf2-44c5-b94f-94180318f7ca",
+                "mediaItems": [
+                  {
+                    "localMediaId": "6",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092968589422927872"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {},
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "b051a6bc-c310-47b0-a5b0-af26d23c0aab",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092968599933853696"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "url": "https://github.com/jinchenma94/social-media-data-tools"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "markdown": "```text\n请打开下面的 GitHub 仓库，找到其中的 douyin-transcript-exporter Skill，阅读相关文件并完成安装：\n\nhttps://github.com/jinchenma94/social-media-data-tools\n\n安装完成后，请告诉我安装结果。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "url": "https://x.com/jinchenma_ai"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "markdown": "```text\n请采集这个抖音博主最新 10 条视频的公开数据和完整逐字稿，并写入下面的飞书多维表格。\n\n抖音主页：<抖音博主主页链接>\n飞书表格：<飞书多维表格链接>\n\n请同时根据标题、介绍和逐字稿，生成选题方向和主题总结。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQu32kUaoAAKAAILDJit/JcQAAAA",
+          "media_id": "2092968599933853696",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 62.38,
+                  "rgb": {
+                    "blue": 249,
+                    "green": 249,
+                    "red": 249
+                  }
+                },
+                {
+                  "percentage": 16.21,
+                  "rgb": {
+                    "blue": 67,
+                    "green": 63,
+                    "red": 69
+                  }
+                },
+                {
+                  "percentage": 2.67,
+                  "rgb": {
+                    "blue": 69,
+                    "green": 84,
+                    "red": 103
+                  }
+                },
+                {
+                  "percentage": 1.5,
+                  "rgb": {
+                    "blue": 121,
+                    "green": 157,
+                    "red": 159
+                  }
+                },
+                {
+                  "percentage": 1.11,
+                  "rgb": {
+                    "blue": 67,
+                    "green": 126,
+                    "red": 207
+                  }
+                }
+              ]
+            },
+            "original_img_height": 941,
+            "original_img_url": "https://pbs.twimg.com/media/HQu32kUaoAA5b9Q.jpg",
+            "original_img_width": 1672
+          },
+          "media_key": "3_2092968599933853696"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQu33OqbYAAKAAILDJit/JcQAAAA",
+          "media_id": "2092968611300466688",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 86.5,
+                  "rgb": {
+                    "blue": 252,
+                    "green": 252,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 8.08,
+                  "rgb": {
+                    "blue": 89,
+                    "green": 72,
+                    "red": 65
+                  }
+                },
+                {
+                  "percentage": 1.22,
+                  "rgb": {
+                    "blue": 57,
+                    "green": 125,
+                    "red": 197
+                  }
+                },
+                {
+                  "percentage": 0.98,
+                  "rgb": {
+                    "blue": 3,
+                    "green": 54,
+                    "red": 88
+                  }
+                },
+                {
+                  "percentage": 0.38,
+                  "rgb": {
+                    "blue": 9,
+                    "green": 28,
+                    "red": 41
+                  }
+                }
+              ]
+            },
+            "original_img_height": 941,
+            "original_img_url": "https://pbs.twimg.com/media/HQu33OqbYAAek8r.jpg",
+            "original_img_width": 1672
+          },
+          "media_key": "3_2092968611300466688"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQu319KaoAAKAAILDJit/JcQAAAA",
+          "media_id": "2092968589422927872",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.88,
+                  "rgb": {
+                    "blue": 251,
+                    "green": 251,
+                    "red": 251
+                  }
+                },
+                {
+                  "percentage": 1.7,
+                  "rgb": {
+                    "blue": 164,
+                    "green": 164,
+                    "red": 252
+                  }
+                },
+                {
+                  "percentage": 0.85,
+                  "rgb": {
+                    "blue": 121,
+                    "green": 121,
+                    "red": 121
+                  }
+                },
+                {
+                  "percentage": 0.31,
+                  "rgb": {
+                    "blue": 250,
+                    "green": 198,
+                    "red": 168
+                  }
+                },
+                {
+                  "percentage": 0.15,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 113,
+                    "red": 18
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1266,
+            "original_img_url": "https://pbs.twimg.com/media/HQu319KaoAAZNTN.jpg",
+            "original_img_width": 1186
+          },
+          "media_key": "3_2092968589422927872"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

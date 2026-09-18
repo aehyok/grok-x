@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Alibaba_Qwen/status/2088280188362867185",
+    "id": "2088280188362867185",
+    "text": "Performance of Qwen3.8-27B:",
+    "raw_text": {
+      "text": "Performance of Qwen3.8-27B: https://t.co/oTVMJoxWbQ",
+      "display_text_range": [
+        0,
+        27
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            28,
+            51
+          ],
+          "id": "2088279211891195904",
+          "display": "pic.x.com/oTVMJoxWbQ",
+          "original": "https://t.co/oTVMJoxWbQ",
+          "replacement": "https://x.com/Alibaba_Qwen/status/2088280188362867185/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            28,
+            51
+          ],
+          "id": "2088279228957765633",
+          "display": "pic.x.com/oTVMJoxWbQ",
+          "original": "https://t.co/oTVMJoxWbQ",
+          "replacement": "https://x.com/Alibaba_Qwen/status/2088280188362867185/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Alibaba_Qwen",
+      "url": "https://x.com/Alibaba_Qwen",
+      "id": "1753339277386342400",
+      "followers": 273941,
+      "following": 3,
+      "likes": 488,
+      "media_count": 521,
+      "name": "Qwen",
+      "description": "Open foundation models for AGI.",
+      "raw_description": {
+        "text": "Open foundation models for AGI.",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1753339277386342400/1780986224",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_200x200.jpg",
+      "joined": "Fri Feb 02 08:47:32 +0000 2024",
+      "protected": false,
+      "website": {
+        "url": "https://qwen.ai/",
+        "display_url": "qwen.ai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "organization"
+      },
+      "avatar_color": null
+    },
+    "replies": 115,
+    "retweets": 304,
+    "likes": 3293,
+    "bookmarks": 870,
+    "quotes": 323,
+    "created_at": "Fri Aug 14 15:02:49 +0000 2026",
+    "created_timestamp": 1786719769,
+    "possibly_sensitive": false,
+    "views": 1523338,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "tl",
+    "replying_to": "Alibaba_Qwen",
+    "replying_to_status": "2088280182356611304",
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2088279211891195904",
+          "url": "https://pbs.twimg.com/media/HPsO4QibgAAr-sB.jpg?name=orig",
+          "width": 2507,
+          "height": 2190
+        },
+        {
+          "type": "photo",
+          "id": "2088279228957765633",
+          "url": "https://pbs.twimg.com/media/HPsO5QHasAElXUC.jpg?name=orig",
+          "width": 2548,
+          "height": 2448
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2088279211891195904",
+          "url": "https://pbs.twimg.com/media/HPsO4QibgAAr-sB.jpg?name=orig",
+          "width": 2507,
+          "height": 2190
+        },
+        {
+          "type": "photo",
+          "id": "2088279228957765633",
+          "url": "https://pbs.twimg.com/media/HPsO5QHasAElXUC.jpg?name=orig",
+          "width": 2548,
+          "height": 2448
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2088280188362867185/HPsO4QibgAAr-sB/HPsO5QHasAElXUC",
+          "webp": "https://mosaic.fxtwitter.com/webp/2088280188362867185/HPsO4QibgAAr-sB/HPsO5QHasAElXUC"
+        }
+      }
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

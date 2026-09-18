@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/kunchenguid/status/2089417913002586565",
+    "id": "2089417913002586565",
+    "text": "no one is actually building a Github replacement\n\ncursor's origin launch just confirmed this - they are only building a replacement for the _paid_ version of Github, because that's where the money is\n\nif everyone goes after the paid source control business and take that away from Github, Github will not be able to sustain the open source ecosystem\n\ni hope we figure out a viable alternative before that happens..",
+    "raw_text": {
+      "text": "no one is actually building a Github replacement\n\ncursor's origin launch just confirmed this - they are only building a replacement for the _paid_ version of Github, because that's where the money is\n\nif everyone goes after the paid source control business and take that away from Github, Github will not be able to sustain the open source ecosystem\n\ni hope we figure out a viable alternative before that happens..",
+      "display_text_range": [
+        0,
+        414
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "kunchenguid",
+      "url": "https://x.com/kunchenguid",
+      "id": "1433268230819176451",
+      "followers": 26869,
+      "following": 179,
+      "likes": 2905,
+      "media_count": 197,
+      "name": "Kun Chen",
+      "description": "Member of the Technical Community.\nCaptain of @myfirstmate @theSSHHIP\nAuthor of https://axi.md",
+      "raw_description": {
+        "text": "Member of the Technical Community.\nCaptain of @myfirstmate @theSSHHIP\nAuthor of https://t.co/rxk2joB5Ix",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              80,
+              103
+            ],
+            "original": "https://t.co/rxk2joB5Ix",
+            "replacement": "https://axi.md",
+            "display": "axi.md"
+          }
+        ]
+      },
+      "location": "Bellevue, WA",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1433268230819176451/1784583390",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg",
+      "joined": "Thu Sep 02 03:19:30 +0000 2021",
+      "protected": false,
+      "website": {
+        "url": "https://linktr.ee/kunchenguid",
+        "display_url": "linktr.ee/kunchenguid"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 117,
+    "retweets": 58,
+    "likes": 1409,
+    "bookmarks": 136,
+    "quotes": 16,
+    "created_at": "Mon Aug 17 18:23:44 +0000 2026",
+    "created_timestamp": 1786991024,
+    "views": 141764,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

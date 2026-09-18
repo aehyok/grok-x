@@ -1,0 +1,62 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/vincemask/status/2088279662350966958",
+    "id": "2088279662350966958",
+    "text": "无任何广告",
+    "raw_text": {
+      "text": "无任何广告",
+      "display_text_range": [
+        0,
+        5
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "vincemask",
+      "url": "https://x.com/vincemask",
+      "id": "1225819307810029568",
+      "followers": 2491,
+      "following": 503,
+      "likes": 1883,
+      "media_count": 130,
+      "name": "Vince 聊开发",
+      "description": "专注 AI Coding、Agent 工作流与工程实践。",
+      "raw_description": {
+        "text": "专注 AI Coding、Agent 工作流与工程实践。",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1225819307810029568/1780202549",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2087581844393054210/RaRvCWkh_200x200.jpg",
+      "joined": "Fri Feb 07 16:31:20 +0000 2020",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "quotes": 0,
+    "created_at": "Fri Aug 14 15:00:44 +0000 2026",
+    "created_timestamp": 1786719644,
+    "views": 1275,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": "vincemask",
+    "replying_to_status": "2088279542721065390",
+    "source": "Twitter for iPhone",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

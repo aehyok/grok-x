@@ -1,0 +1,157 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/LiuVaayne/status/2086476497678979305",
+    "id": "2086476497678979305",
+    "text": "之前我也是各种折腾手机终端，但是最近变了，因为玩发现怎么样都不好用。\n换 amp orbs 加本地 bb ，直接浏览器完成所有的事情，还能管理多个机器，TUI 方便太多了",
+    "raw_text": {
+      "text": "之前我也是各种折腾手机终端，但是最近变了，因为玩发现怎么样都不好用。\n换 amp orbs 加本地 bb ，直接浏览器完成所有的事情，还能管理多个机器，TUI 方便太多了",
+      "display_text_range": [
+        0,
+        85
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "LiuVaayne",
+      "url": "https://x.com/LiuVaayne",
+      "id": "488300066",
+      "followers": 1513,
+      "following": 1190,
+      "likes": 929,
+      "media_count": 182,
+      "name": "Vaayne",
+      "description": "https://recally.io https://tokenflux.ai",
+      "raw_description": {
+        "text": "https://t.co/7j64WyRCdq https://t.co/30oEZlEixd",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              0,
+              23
+            ],
+            "original": "https://t.co/7j64WyRCdq",
+            "replacement": "https://recally.io",
+            "display": "recally.io"
+          },
+          {
+            "type": "url",
+            "indices": [
+              24,
+              47
+            ],
+            "original": "https://t.co/30oEZlEixd",
+            "replacement": "https://tokenflux.ai",
+            "display": "tokenflux.ai"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1630592684619608064/QpGd6yxb_200x200.jpg",
+      "joined": "Fri Feb 10 09:26:45 +0000 2012",
+      "protected": false,
+      "website": {
+        "url": "https://vaayne.com",
+        "display_url": "vaayne.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 0,
+    "likes": 3,
+    "bookmarks": 1,
+    "quotes": 1,
+    "created_at": "Sun Aug 09 15:35:36 +0000 2026",
+    "created_timestamp": 1786289736,
+    "views": 3587,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/victor_wu/status/2086456372775047301",
+      "id": "2086456372775047301",
+      "text": "我相信大家有不少用手机连接电脑终端，进行vibe coding的需求。\n\n市面上有很多软件可以做这个，我自己用过 Orca 和 Moshi，它们都有一个功能，就是把 TUI 变成 Chat 模式。但是这两家现在做得都不太完美：\n\nOrca：\n它的问题在于，一旦从手机的 TUI 切换成 Chat 模式，就会变得非常卡，基本到不可用的地步。\n它的好处是免费，而且最新版本可以选择不支持 tailscale（这算不算优点不太清楚，反正我都是开着的）。\nMoshi：\n(a) 它的 Chat 模式现在对免费用户限制只能用 5 次。其实付费倒不是问题（当然有些人觉得是问题，反正我无所谓）。\n(b) 它的问题在于有些时候会产生 bug。比如你用了 clear 命令清掉界面之后，它还是会连接到过去的旧界面，而不是显示最新的信息记录。\n© 还有一些时候会碰到兼容问题。比如用 Claude Code 经常会调用 Ask question 等交互工具让你做选择，这时候经常会出现两种情况：要么不显示让你选择的选项，要么你选择之后会出问题。\n\n那在手机上没有 TUI 界面呢？更加难受：\n在电脑上，因为屏幕是横向的，在一个页面下开两个并排的终端窗口是非常合理且好用的。但到了手机上，把两个窗口挤在一起就会变得非常难受，可显示面积变得非常小。\n在手机上，我觉得 TUI 界面还是一屏一页的感觉最好，但这又跟你在电脑端的习惯是不符的。我电脑端处理一个任务可能会开三四个页面，放在同一块屏幕里。\n\n这就是为什么我非常看重手机终端工具能够真正支持 Chat 模式。原因就在于此：我必须要实现在电脑端是一屏多窗口，但在手机上必须是一屏一窗口，这样一个能够同时存在的特性。",
+      "raw_text": {
+        "text": "我相信大家有不少用手机连接电脑终端，进行vibe coding的需求。\n\n市面上有很多软件可以做这个，我自己用过 Orca 和 Moshi，它们都有一个功能，就是把 TUI 变成 Chat 模式。但是这两家现在做得都不太完美：\n\nOrca：\n它的问题在于，一旦从手机的 TUI 切换成 Chat 模式，就会变得非常卡，基本到不可用的地步。\n它的好处是免费，而且最新版本可以选择不支持 tailscale（这算不算优点不太清楚，反正我都是开着的）。\nMoshi：\n(a) 它的 Chat 模式现在对免费用户限制只能用 5 次。其实付费倒不是问题（当然有些人觉得是问题，反正我无所谓）。\n(b) 它的问题在于有些时候会产生 bug。比如你用了 clear 命令清掉界面之后，它还是会连接到过去的旧界面，而不是显示最新的信息记录。\n© 还有一些时候会碰到兼容问题。比如用 Claude Code 经常会调用 Ask question 等交互工具让你做选择，这时候经常会出现两种情况：要么不显示让你选择的选项，要么你选择之后会出问题。\n\n那在手机上没有 TUI 界面呢？更加难受：\n在电脑上，因为屏幕是横向的，在一个页面下开两个并排的终端窗口是非常合理且好用的。但到了手机上，把两个窗口挤在一起就会变得非常难受，可显示面积变得非常小。\n在手机上，我觉得 TUI 界面还是一屏一页的感觉最好，但这又跟你在电脑端的习惯是不符的。我电脑端处理一个任务可能会开三四个页面，放在同一块屏幕里。\n\n这就是为什么我非常看重手机终端工具能够真正支持 Chat 模式。原因就在于此：我必须要实现在电脑端是一屏多窗口，但在手机上必须是一屏一窗口，这样一个能够同时存在的特性。",
+        "display_text_range": [
+          0,
+          723
+        ],
+        "facets": []
+      },
+      "author": {
+        "screen_name": "victor_wu",
+        "url": "https://x.com/victor_wu",
+        "id": "1956753186",
+        "followers": 3508,
+        "following": 2939,
+        "likes": 1861,
+        "media_count": 731,
+        "name": "victor-wu.eth",
+        "description": "- 一个真诚的人 - Vibe Coder -project ：http://www.vibeusage.cc - 宇宙首席 Antigravity 黑子 - 顶级 ai 踩坑大师。\n一流的好奇心，二流的AI PM，三流的智力水平",
+        "raw_description": {
+          "text": "- 一个真诚的人 - Vibe Coder -project ：https://t.co/ktnw1eW1Lb - 宇宙首席 Antigravity 黑子 - 顶级 ai 踩坑大师。\n一流的好奇心，二流的AI PM，三流的智力水平",
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                32,
+                55
+              ],
+              "original": "https://t.co/ktnw1eW1Lb",
+              "replacement": "http://www.vibeusage.cc",
+              "display": "vibeusage.cc"
+            }
+          ]
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1956753186/1622536183",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1574061955522129920/Bsn-l1Dl_200x200.jpg",
+        "joined": "Sat Oct 12 14:38:23 +0000 2013",
+        "protected": false,
+        "website": {
+          "url": "https://www.vibeusage.cc",
+          "display_url": "vibeusage.cc"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 90,
+      "retweets": 0,
+      "likes": 24,
+      "bookmarks": 39,
+      "quotes": 4,
+      "created_at": "Sun Aug 09 14:15:38 +0000 2026",
+      "created_timestamp": 1786284938,
+      "views": 54536,
+      "is_note_tweet": true,
+      "community_note": null,
+      "lang": "zh",
+      "replying_to": null,
+      "replying_to_status": null,
+      "source": "Twitter Web App",
+      "twitter_card": "tweet",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter for iPhone",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

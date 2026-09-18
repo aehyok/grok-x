@@ -1,0 +1,95 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/you1873118/status/2097998014875074781",
+    "id": "2097998014875074781",
+    "text": "Nex 团队发布了开源 Agent \n\n模型 Nex-N2.5\n\n而且这次不是能跑\n\n而是真的开始能工作了\n\n一共三个版本：\n\nMini 35B、Pro 397B、Max 1.6T\n\nMini / Pro 支持多模态和电脑操作\n\nMax 主打复杂推理\n\n还有几个数据比较亮眼：\n\nAutomationBench 上 Max 50.2\n\n基本追平 Claude Opus 5 的 50.3\n\nOSWorld-2 上 Pro 做到 56.4\n\n明显高于 Qwen3.8-Max 的 46.7\n\n演示里我觉得最有含金量的是三个\n\n操作 Blender、连续 468+ 步玩 Pokémon\n生成带动画和交互的前端页面\n\n尤其是长时程电脑操作\n\n不只是会点几下\n\n而是能根据画面持续\n\n判断、纠错、继续执行\n\n这才是 Agent 真正难的地方\n\n还有它支持积累用户的视觉操作习惯\n\n类似把你平时怎么用\n\n电脑慢慢变成可复用技能\n\n权重已经上 Hugging Face 和\n\nModelScope代码也开源了\n\n有的人已经在单张 \n\nRTX 3060 12GB 上跑起来了\n\nQ4 量化后大约 50 tok/s\n\n纯文本上下文最高能到 220K\n\n做视觉电脑操作时\n\n为了避免 OOM，大约降到 130K\n\n所以我觉得\n\n2026 年开源 Agent 的问题\n\n已经不是能不能用\n\n而是开始进入哪些场景\n\n能比闭源更好用\n\n如果你在做 Computer Use\n\n桌面自动化或者本地 Agent\n\nNex-N2.5 很值得测一下\n\n或许有你想不到的惊喜\n\n下方链接⬇️",
+    "raw_text": {
+      "text": "Nex 团队发布了开源 Agent \n\n模型 Nex-N2.5\n\n而且这次不是能跑\n\n而是真的开始能工作了\n\n一共三个版本：\n\nMini 35B、Pro 397B、Max 1.6T\n\nMini / Pro 支持多模态和电脑操作\n\nMax 主打复杂推理\n\n还有几个数据比较亮眼：\n\nAutomationBench 上 Max 50.2\n\n基本追平 Claude Opus 5 的 50.3\n\nOSWorld-2 上 Pro 做到 56.4\n\n明显高于 Qwen3.8-Max 的 46.7\n\n演示里我觉得最有含金量的是三个\n\n操作 Blender、连续 468+ 步玩 Pokémon\n生成带动画和交互的前端页面\n\n尤其是长时程电脑操作\n\n不只是会点几下\n\n而是能根据画面持续\n\n判断、纠错、继续执行\n\n这才是 Agent 真正难的地方\n\n还有它支持积累用户的视觉操作习惯\n\n类似把你平时怎么用\n\n电脑慢慢变成可复用技能\n\n权重已经上 Hugging Face 和\n\nModelScope代码也开源了\n\n有的人已经在单张 \n\nRTX 3060 12GB 上跑起来了\n\nQ4 量化后大约 50 tok/s\n\n纯文本上下文最高能到 220K\n\n做视觉电脑操作时\n\n为了避免 OOM，大约降到 130K\n\n所以我觉得\n\n2026 年开源 Agent 的问题\n\n已经不是能不能用\n\n而是开始进入哪些场景\n\n能比闭源更好用\n\n如果你在做 Computer Use\n\n桌面自动化或者本地 Agent\n\nNex-N2.5 很值得测一下\n\n或许有你想不到的惊喜\n\n下方链接⬇️",
+      "display_text_range": [
+        0,
+        679
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            211,
+            234
+          ],
+          "id": "2097988875612512256",
+          "display": "pic.x.com/kvFIFwGVx1",
+          "original": "https://t.co/kvFIFwGVx1",
+          "replacement": "https://x.com/you1873118/status/2097998014875074781/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "you1873118",
+      "url": "https://x.com/you1873118",
+      "id": "1874127374226513920",
+      "followers": 18470,
+      "following": 7491,
+      "likes": 108864,
+      "media_count": 2558,
+      "name": "serein",
+      "description": "I hope tomorrow will be better! \n\nBluebird Club \n\nJust here for the memes \n\nSharing everything fun",
+      "raw_description": {
+        "text": "I hope tomorrow will be better! \n\nBluebird Club \n\nJust here for the memes \n\nSharing everything fun",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1874127374226513920/1781933632",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1996511612665294848/dhbbYGxp_200x200.jpg",
+      "joined": "Tue Dec 31 16:16:09 +0000 2024",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 73,
+    "retweets": 27,
+    "likes": 26,
+    "bookmarks": 0,
+    "quotes": 11,
+    "created_at": "Thu Sep 10 10:38:00 +0000 2026",
+    "created_timestamp": 1789036680,
+    "possibly_sensitive": false,
+    "views": 2727,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2097988875612512256",
+          "url": "https://pbs.twimg.com/media/HR2NxEma4AAEhTw.jpg?name=orig",
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2097988875612512256",
+          "url": "https://pbs.twimg.com/media/HR2NxEma4AAEhTw.jpg?name=orig",
+          "width": 1254,
+          "height": 1254
+        }
+      ]
+    },
+    "source": "Twitter Web Client",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

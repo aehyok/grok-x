@@ -1,0 +1,2059 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/ai_Goge/status/2092437937829077441",
+    "id": "2092437937829077441",
+    "text": "https://x.com/i/article/2092432724527300608",
+    "raw_text": {
+      "text": "https://t.co/STKtvQKWoa",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            0,
+            23
+          ],
+          "original": "https://t.co/STKtvQKWoa",
+          "replacement": "https://x.com/i/article/2092432724527300608",
+          "display": "x.com/i/article/2092…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "ai_Goge",
+      "url": "https://x.com/ai_Goge",
+      "id": "2060525707756003328",
+      "followers": 2516,
+      "following": 408,
+      "likes": 8494,
+      "media_count": 134,
+      "name": "Kelvin",
+      "description": "探索 AI 时代的财富自由之路，在变化中寻找机会，在实践中验证认知。分享 AI，也分享我对未来的一切探索。\n聚焦：Ai领域、金融股票、Crypto",
+      "raw_description": {
+        "text": "探索 AI 时代的财富自由之路，在变化中寻找机会，在实践中验证认知。分享 AI，也分享我对未来的一切探索。\n聚焦：Ai领域、金融股票、Crypto",
+        "facets": []
+      },
+      "location": "半步神游",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2060525707756003328/1786285388",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2086303946428293120/ptlA1V_i_200x200.jpg",
+      "joined": "Sat May 30 01:13:03 +0000 2026",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 6,
+    "retweets": 9,
+    "likes": 34,
+    "bookmarks": 60,
+    "quotes": 1,
+    "created_at": "Wed Aug 26 02:24:14 +0000 2026",
+    "created_timestamp": 1787711054,
+    "possibly_sensitive": false,
+    "views": 5767,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-26T02:24:14.000Z",
+      "modified_at": "2026-08-26T02:24:14.000Z",
+      "id": "2092432724527300608",
+      "title": "豆包工作完整使用教程",
+      "preview_text": "把 PPT、调研、表格和重复任务，交给 AI 去跑\n\n很多人把豆包当聊天工具：问一个问题，拿一段回答，复制到文档里。\n这只是最浅的一层用法。\n豆包工作官网展示的方向更像能接活的 AI 助手：它能制作",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHQnVD0pbUAAKAAIcmHU2zVtgAAAA",
+        "media_id": "2092437763539030016",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 89.87,
+                "rgb": {
+                  "blue": 225,
+                  "green": 237,
+                  "red": 248
+                }
+              },
+              {
+                "percentage": 4.24,
+                "rgb": {
+                  "blue": 53,
+                  "green": 70,
+                  "red": 89
+                }
+              },
+              {
+                "percentage": 2.3,
+                "rgb": {
+                  "blue": 103,
+                  "green": 116,
+                  "red": 129
+                }
+              },
+              {
+                "percentage": 0.77,
+                "rgb": {
+                  "blue": 91,
+                  "green": 136,
+                  "red": 179
+                }
+              },
+              {
+                "percentage": 0.14,
+                "rgb": {
+                  "blue": 10,
+                  "green": 15,
+                  "red": 15
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HQnVD0pbUAAqark.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2092437763539030016"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "78up6",
+            "text": "把 PPT、调研、表格和重复任务，交给 AI 去跑",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 31,
+                "offset": 1,
+                "style": "Bold"
+              }
+            ],
+            "key": "f7i5p",
+            "text": "\n很多人把豆包当聊天工具：问一个问题，拿一段回答，复制到文档里。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7blbv",
+            "text": "这只是最浅的一层用法。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "djmbp",
+            "text": "豆包工作官网展示的方向更像能接活的 AI 助手：它能制作 PPT、处理文档和表格、做深度调研、设置定时任务、整理本地文件、打开网页完成跨页面操作，还能从创意构思一路做到图片、海报、漫画、视频分镜与成片。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 20,
+                "style": "Bold"
+              }
+            ],
+            "key": "326jo",
+            "text": "你不需要学会复杂指令。真正需要学会的是：别再把模糊的工作扔给它。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "34bt3",
+            "text": "一、豆包工作到底能帮你做什么？",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ai1k4",
+            "text": "官网把它的能力分成几类：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3eij5",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f2c9v",
+            "text": "它不是替你做决定。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "brb3g",
+            "text": "它负责把资料搜齐、把草稿写出来、把重复步骤跑完；你负责判断目标、检查结果、承担最后一公里。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "98e4o",
+            "text": "二、开始前：先下载，再搞清楚你的任务",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "24u8o",
+            "text": "进入豆包工作官网，点击下载豆包工作。官网目前提供下载入口，并标注新用户可领取 30 天订阅权益。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ea51o",
+            "text": "打开后，别急着输入帮我做个 PPT。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5lf23",
+            "text": "先写清这五件事：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6huq9",
+            "text": "你要什么结果",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "59ldu",
+            "text": "是一份汇报 PPT，还是一个研究结论？",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7rkqe",
+            "text": "是要文案，还是要可直接发布的商品详情页？",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "f66p2",
+            "text": "给谁用",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "13p3r",
+            "text": "给老板、客户、同事、用户，表达方式完全不同。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6nuts",
+            "text": "已有资料是什么",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "775l0",
+            "text": "文件、表格、会议纪要、链接、产品参数、旧方案，都应该给它。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "brre7",
+            "text": "有什么限制",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6j3qn",
+            "text": "页数、字数、截止时间、预算、品牌口径、不能碰的内容。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1rfsg",
+            "text": "交付长什么样",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ap00g",
+            "text": "一份 Word 文档、一张表格、一套 PPT 大纲，还是待办清单。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f5ccp",
+            "text": "通用任务模板",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4nsmj",
+            "text": "把下面这段保存下来，以后几乎所有任务都能套：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bssmq",
+            "text": "你现在扮演【角色】。\n\n我要完成的目标是：【具体结果】。\n\n背景和已有资料：【补充信息/上传文件】。\n\n使用对象是：【老板/客户/团队/普通用户】。\n\n限制条件是：【字数、格式、时间、预算、禁忌】。\n\n请交付为：【报告/PPT/表格/文案/行动清单】。\n\n结果必须做到：\n1. 【标准一】\n2. 【标准二】\n3. 【标准三】\n\n不确定的信息请明确标注，不要自行编造。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "73os7",
+            "text": "一条好指令，本质上就是一份清楚的工作 brief。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c3ltv",
+            "text": "三、用豆包工作做 PPT：别直接要成品，先让它搭骨架",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1gp0p",
+            "text": "官网展示了 Office 工具能力，可用于生成专业 PPT、文档和表格。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2rrjv",
+            "text": "很多人让 AI 做 PPT，得到的是一堆正确但没用的话：标题很大，观点很空，翻十页也不知道到底要干什么。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "au11f",
+            "text": "问题不在 AI。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "168jq",
+            "text": "问题在于，你没有告诉它这份 PPT 的决策目标。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "31e1p",
+            "text": "正确流程",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5bu09",
+            "text": "第一步：说清楚汇报对象",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1co6r",
+            "text": "同一个项目，面对不同人，PPT 完全不同。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bftde",
+            "text": "给老板：讲结果、成本、风险、要什么资源。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "es7p3",
+            "text": "给客户：讲问题、方案、案例、为什么选你。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dklh6",
+            "text": "给团队：讲分工、节点、标准、怎么执行。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2panq",
+            "text": "给投资人：讲市场、增长、壁垒、回报。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "65usc",
+            "text": "第二步：先让它出目录",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ci9rd",
+            "text": "不要一上来就让它写 20 页。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "73fkh",
+            "text": "先用这个提示词：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "6tj7m",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "27rl3",
+            "text": "目录通过后，再让它填内容。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5n9c9",
+            "text": "第三步：要求每页只解决一个问题",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "uug7",
+            "text": "继续追问：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "buat4",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "872r3",
+            "text": "第四步：做最后一轮去废话",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1afpi",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6httj",
+            "text": "这样做出来的 PPT，才不会像一份 AI 生成的作业。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "av2tr",
+            "text": "四、用豆包工作处理文档和表格：别只让它总结",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4skjh",
+            "text": "豆包工作可读取、创建、修改本地文件。这个能力最适合拿来处理消耗时间、但不值得你亲手做的杂活。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ch7vk",
+            "text": "1. 整理会议纪要",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4t3at",
+            "text": "把会议记录丢进去，不要问帮我总结。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "14pug",
+            "text": "直接问：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7nmnl",
+            "text": "请读取这份会议纪要，并输出：\n\n1. 已经达成的明确结论；\n2. 还没有达成一致的问题；\n3. 每个人的任务、截止日期和依赖事项；\n4. 会议里提到但没人负责的风险点；\n5. 一份可直接发到工作群里的行动清单。\n\n没有明确责任人的事项，用待指定标出来。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6jlqp",
+            "text": "真正有价值的不是把会议内容缩短。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b3rpb",
+            "text": "而是把谁该做什么、什么时候做、遗漏了什么拎出来。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dd6t9",
+            "text": "2. 分析销售表格",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e0gmt",
+            "text": "如果你有销售数据，不要说分析一下这张表。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bi2ls",
+            "text": "你可以这样写：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 50,
+                "offset": 32,
+                "style": "Bold"
+              }
+            ],
+            "key": "4gkeq",
+            "text": "读取这份销售数据。\n\n请按产品、渠道、地区和月份拆分。\n找出：\n销售额增长最快的部分；\n销售额下滑最明显的部分；\n高销量但低利润的产品；\n退款率或退货率异常的渠道。\n\n每个异常都要回答：\n1. 数据上发生了什么；\n2. 可能是什么原因；\n3. 还需要验证什么；\n4. 下一步建议谁去做什么。\n\n最后输出一页管理层摘要和一张可继续编辑的分析表。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6de47",
+            "text": "别让它只给你漂亮图表。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 20,
+                "offset": 7,
+                "style": "Bold"
+              }
+            ],
+            "key": "2j5nt",
+            "text": "你要逼它回答：问题在哪，为什么会发生，下一步怎么验证。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aq4kn",
+            "text": "3. 批量整理电脑文件",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "209gm",
+            "text": "官网提到，豆包工作可以自动整理文件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1o88f",
+            "text": "适合的任务包括：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "52inj",
+            "text": "下载文件夹分类；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e8i9a",
+            "text": "项目文件统一命名；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "41q0v",
+            "text": "发票、合同、图片、资料归档；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fbs77",
+            "text": "旧版本和重复文件筛查。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f5qdg",
+            "text": "示例：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8m4em",
+            "text": "检查下载文件夹里的文件。\n\n按以下类别整理：\n- 合同\n- 发票\n- 项目资料\n- 图片视频\n- 待处理\n\n命名格式统一为：\n日期_项目名称_文件类型_版本号\n\n不确定如何归类的文件，不要移动。\n先生成待确认清单给我。\n重复文件只标记，不要删除。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1soh4",
+            "text": "文件操作的底线",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4dvra",
+            "text": "涉及文件时，坚持三件事：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8lde2",
+            "text": "批量移动前，先让它预览操作清单；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4qmca",
+            "text": "批量重命名前，先确认命名规则；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cidn7",
+            "text": "删除、覆盖、替换文件，必须人工确认。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b28tb",
+            "text": "自动化不是让它替你乱按。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9ciia",
+            "text": "自动化是把规则明确后，让它稳定执行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6390g",
+            "text": "五、用豆包工作做深度调研：从找资料到帮你判断",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1epns",
+            "text": "官网展示的深入调研分析，适用于复杂问题、跨来源检索和专业研究报告。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f7mfl",
+            "text": "它能帮你搜集信息，但不能替你对事实负责。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b6ehv",
+            "text": "特别是医疗、金融、法律、投资这类场景，AI 可以辅助研究和整理证据，最后判断必须由专业人士或你自己完成。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3l91l",
+            "text": "一份合格的调研任务，至少要有六部分",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3rddp",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "pe3",
+            "text": "示例：做行业研究",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e05pe",
+            "text": "请调研中国 AI 办公软件市场。\n\n我要回答的不是行业是什么，而是：\n现在进入这个市场是否仍有机会？\n\n研究范围：\n- 中国市场；\n- 过去 24 个月；\n- 重点关注个人办公与中小企业场景。\n\n请分析：\n1. 市场增长主要来自哪里；\n2. 主要玩家和产品定位；\n3. 用户愿意付费的具体场景；\n4. 获客和交付的难点；\n5. 现有产品最常被抱怨的问题；\n6. 未来一年可能影响格局的变量。\n\n输出要求：\n- 区分已证实事实行业观点你的推断；\n- 每条关键结论标注来源和时间；\n- 给出建议进入 / 不建议进入 / 继续验证的判断；\n- 最后列出还需要人工核实的 5 个问题。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fp6l9",
+            "text": "这时它才是在协助研究，而不是把网页内容重新排版。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fi0pm",
+            "text": "六、设置定时任务：让豆包替你持续盯住信息",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bgjbv",
+            "text": "官网的定时任务能力，可以按预设时间自动执行分析、报告和汇总。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cnami",
+            "text": "它适合解决一种很耗人的工作：事情不难，但你得反复做。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dlu37",
+            "text": "例如：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fbm13",
+            "text": "每天收集行业新闻；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6t66g",
+            "text": "每周竞品追踪；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d6dn7",
+            "text": "定期汇总销售、运营数据；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4bctq",
+            "text": "跟进政策、论文、公告变化；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fbf09",
+            "text": "每月形成项目复盘初稿。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8i14b",
+            "text": "设置定时任务时，要写清楚四件事",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ffkdd",
+            "text": "1. 什么时候运行",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e5f7q",
+            "text": "别写定期。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9tntk",
+            "text": "写成：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ckd7v",
+            "text": "每天上午 9 点；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "466bl",
+            "text": "每周一上午；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3ftmh",
+            "text": "每月最后一个工作日；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "605tu",
+            "text": "每周五下午，汇总本周数据。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "75uvm",
+            "text": "2. 追踪什么",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "je88",
+            "text": "别写关注行业动态。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7gi61",
+            "text": "写成：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9fbb5",
+            "text": "产品更新；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2alcl",
+            "text": "定价调整；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9v51c",
+            "text": "融资与合作；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "81aha",
+            "text": "政策与监管；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6plnc",
+            "text": "用户负面反馈；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fa48v",
+            "text": "重大技术发布。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2kfp2",
+            "text": "3. 什么值得提醒",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "30v58",
+            "text": "不然它会每天发一堆垃圾链接。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3vgch",
+            "text": "比如：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5nhbd",
+            "text": "只有满足以下任一条件时，才纳入周报：\n- 头部竞品发布新功能；\n- 价格或套餐有变动；\n- 融资金额超过 1000 万元；\n- 出现明确的监管或政策落地信息；\n- 某类用户反馈在多个平台重复出现。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bi2ej",
+            "text": "4. 最终交付什么",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6t5um",
+            "text": "你是要链接集合，还是要判断？",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b05bj",
+            "text": "建议直接要求它输出：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8dgpi",
+            "text": "每条信息按以下格式写：\n发生了什么 → 为什么重要 → 对我们意味着什么 → 建议下一步动作\n\n最后只保留本周最值得跟进的 3 件事。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rsge",
+            "text": "可直接复制：竞品周报任务",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2l7ep",
+            "text": "从今天开始，每周一上午 9 点生成一份 AI 办公产品竞品周报。\n\n追踪对象：\n豆包、Kimi、通义、腾讯元宝、Microsoft Copilot。\n\n追踪内容：\n产品更新、价格变化、企业合作、公开用户反馈、重大行业新闻。\n\n范围：\n只收录过去 7 天的信息。\n\n输出格式：\n每条按发生了什么—为什么重要—对我们意味着什么输出。\n最后列出本周最值得采取行动的 3 件事。\n控制在 1000 字以内。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7budb",
+            "text": "七、让豆包操作电脑和网页：能省时间，也最该设边界",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2nrgo",
+            "text": "官网说明，豆包工作可以读取、创建、修改电脑里的本地文件，也可以自动打开网页、填写信息、完成跨页面操作；不在电脑旁时，也可以通过手机远程派发任务。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6281c",
+            "text": "这类能力适合流程固定、规则清楚、重复频繁的工作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "alt06",
+            "text": "比如：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bdo25",
+            "text": "登录多个后台抄取数据；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7o69j",
+            "text": "把表格信息录入系统；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cgp4p",
+            "text": "下载资料、改名、归档；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5efrq",
+            "text": "收集多个网页上的公开信息；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1no3u",
+            "text": "按固定模板建立项目文档。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3em7j",
+            "text": "正确的任务写法",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 20,
+                "offset": 30,
+                "style": "Bold"
+              },
+              {
+                "length": 91,
+                "offset": 86,
+                "style": "Bold"
+              }
+            ],
+            "key": "67s8s",
+            "text": "打开指定的三个业务后台。\n\n收集 2026 年 8 月的：\n- 订单数；\n- 销售额；\n- 退款率。\n\n将数据填写到月度经营汇总.xlsx 的对应单元格。\n\n执行过程中：\n- 如果出现验证码，停下来让我处理；\n- 如果需要付款、提交合同、发布内容、删除数据，必须先询问我；\n- 完成后告诉我：打开过哪些页面、修改了哪些文件、填入了哪些数据、哪些数据缺失。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cc1ku",
+            "text": "高风险操作，必须人工确认",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "886p8",
+            "text": "以下事情别授权它直接做：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2bavv",
+            "text": "转账、付款、下单；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6vfpl",
+            "text": "发布公开内容；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "512fs",
+            "text": "签署合同；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a3cm6",
+            "text": "删除文件或清空数据；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dg3oq",
+            "text": "提交法律、医疗、财务材料；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "adj5g",
+            "text": "修改客户、员工或隐私信息。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4jral",
+            "text": "它可以做执行助手。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f8dsj",
+            "text": "但不能替你承担不可逆的后果。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "27jko",
+            "text": "八、用豆包工作做创意内容：先想清楚，再生成",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3095i",
+            "text": "官网展示了 Seedream 5.0 Pro 用于图片、海报和漫画创作；Seedance 2.5 用于视频分镜和成片生成，并可根据反馈持续修改。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5r0e2",
+            "text": "适合电商、品牌、内容创作、短视频团队。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b8821",
+            "text": "1. 做电商商品素材",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bt1t9",
+            "text": "官网给出的例子是：为轻薄透气的夏季防晒衣制作淘宝标题、详情文案和图片方案。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cruv6",
+            "text": "你可以把任务写得更具体：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bi2r2",
+            "text": "我要为一款轻薄透气的夏季防晒衣做淘宝商品素材。\n\n目标人群：\n25—35 岁，通勤与轻户外兼顾的女性。\n\n产品卖点：\n轻薄、透气、防晒、好搭配。\n\n请输出：\n1. 10 个淘宝标题；\n2. 一版商品详情页结构；\n3. 首屏卖点文案；\n4. 6 张详情页图片的拍摄或生成方案；\n5. 3 套主图方向。\n\n不要夸大防晒效果。\n文案不要像广告词堆砌，要像用户能听懂的话。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "flko8",
+            "text": "2. 做短视频：先做分镜，不要直接出成片",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 47,
+                "offset": 50,
+                "style": "Bold"
+              }
+            ],
+            "key": "fk9hd",
+            "text": "为这款防晒衣制作一条 30 秒短视频分镜。\n\n目标：\n让观众在前 3 秒意识到夏天怕晒，也怕闷。\n\n请按镜头输出：\n时长；\n画面；\n人物动作；\n旁白；\n字幕；\n音效建议；\n这一镜要传达的卖点。\n\n节奏要像真实短视频，不要每秒都硬塞卖点。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b7ra0",
+            "text": "分镜确认后，再要求生成视觉素材或视频。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "74oq8",
+            "text": "先把要说什么定住，再去做怎么好看。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9dn9t",
+            "text": "九、官网上的专业场景，怎么直接用",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "97u6n",
+            "text": "官网展示了很多可复制的任务方向。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a67r8",
+            "text": "电商客服",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 47,
+                "offset": 31,
+                "style": "Bold"
+              }
+            ],
+            "key": "aoabh",
+            "text": "618 前有用户问：现在买还是等活动？\n\n请写一套客服回复。\n要求：\n不剧透；\n不虚假承诺；\n不制造焦虑；\n让用户感到被认真对待；\n同时尽量促成留存或购买。\n\n给出 5 个不同语气版本，并说明适用场景。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5vo1o",
+            "text": "新媒体内容",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9oo7",
+            "text": "同一篇职场沟通干货，\n分别写出适合公众号、小红书、抖音、知乎的标题和开头。\n\n不要只换几个词。\n每个平台都要符合它自己的用户预期、语气和内容节奏。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3gj97",
+            "text": "去 AI 味文案",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cumk4",
+            "text": "写一条退掉住了三年房子的朋友圈。\n\n情绪是：舍不得，但也有一点轻松。\n像一个普通人在半夜发的，不要故作深情，不要金句堆砌，不要像散文。\n给我三个版本：克制、感性、带一点自嘲。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f24ls",
+            "text": "用户访谈提纲",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 61,
+                "offset": 24,
+                "style": "Bold"
+              }
+            ],
+            "key": "1eln",
+            "text": "为宠物 App 的流失用户设计深度访谈提纲。\n\n必须覆盖：\n当初为什么下载；\n后来为什么不用；\n哪个环节最失望；\n是否转向竞品；\n愿意为什么付费；\n重新使用需要什么条件。\n\n每个主问题后附一个追问。\n避免诱导式提问。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a58ec",
+            "text": "十、把第一次结果改成可用结果：三轮追问法",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9nbev",
+            "text": "AI 第一次给出的，通常只是底稿。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5dje0",
+            "text": "真正能把结果从 60 分推到 90 分的人，会继续追。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bksm9",
+            "text": "第一轮：删废话",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9v6m4",
+            "text": "这版内容太泛。\n删掉没有事实支撑的判断，保留真正影响决策的内容。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ao3mn",
+            "text": "第二轮：补缺口",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ard9a",
+            "text": "你没有回答成本、执行难度和失败风险。\n补上这三部分，并写清楚哪些是假设。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c47c4",
+            "text": "第三轮：改成交付物",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4mtch",
+            "text": "不要继续写分析文字。\n把结果改成我明天开会能直接使用的 PPT 大纲、行动清单和负责人表。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "280d7",
+            "text": "第一次输出只是开始。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dleal",
+            "text": "能不能用，取决于你会不会继续逼问。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6sb5g",
+            "text": "十一、最后的使用原则",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f66nr",
+            "text": "豆包工作真正替你省下来的，不是打字时间。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f5j08",
+            "text": "是搜索、整理、搬运、改格式、反复汇总、重复检查这些本不该占满一天的工作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4atpp",
+            "text": "记住这七句话：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5hc8a",
+            "text": "别问你能做什么，直接交代你要什么结果。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "866hs",
+            "text": "任务越具体，结果越能直接拿去用。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d21t1",
+            "text": "复杂任务先出方案和大纲，再开始执行。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4kuml",
+            "text": "有文件给文件，有数据给数据，别让它猜。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5hjjo",
+            "text": "涉及研究，要求它区分事实、观点和推断。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e9hke",
+            "text": "涉及自动操作，提前划清它能做与不能做的边界。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ebdg7",
+            "text": "第一次结果不是答案，追问才是生产力。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "61ek2",
+            "text": "豆包工作不是让你少思考。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5l6qg",
+            "text": "它是把那些不需要你亲自做的事，从你的时间里清出去。",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "entityKey": "9c3fd0e1-186b-4562-b145-cb752f871147",
+                "mediaItems": [
+                  {
+                    "localMediaId": "9",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092436393763172352"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "0c30f857-01b5-4480-b000-c86cdb051288",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092435262794350592"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "98698e29-b4d8-41c4-8f91-826a26a379ec",
+                "mediaItems": [
+                  {
+                    "localMediaId": "1",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092434310150471680"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "477b5a12-cd6d-4bd9-a1bb-2d0dad1c3a3f",
+                "mediaItems": [
+                  {
+                    "localMediaId": "5",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092435621637922816"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "entityKey": "2d6445e4-d659-4fba-a3eb-4c9291ebe566",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2092435906145984512"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQnR6zxbwAAKAAIcmHU2zVtgAAAA",
+          "media_id": "2092434310150471680",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.51,
+                  "rgb": {
+                    "blue": 27,
+                    "green": 27,
+                    "red": 27
+                  }
+                },
+                {
+                  "percentage": 3.49,
+                  "rgb": {
+                    "blue": 110,
+                    "green": 110,
+                    "red": 110
+                  }
+                }
+              ]
+            },
+            "original_img_height": 476,
+            "original_img_url": "https://pbs.twimg.com/media/HQnR6zxbwAAc5OJ.jpg",
+            "original_img_width": 1296
+          },
+          "media_key": "3_2092434310150471680"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQnT0F1acAAKAAIcmHU2zVtgAAAA",
+          "media_id": "2092436393763172352",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.85,
+                  "rgb": {
+                    "blue": 27,
+                    "green": 27,
+                    "red": 27
+                  }
+                },
+                {
+                  "percentage": 2.15,
+                  "rgb": {
+                    "blue": 111,
+                    "green": 111,
+                    "red": 111
+                  }
+                }
+              ]
+            },
+            "original_img_height": 448,
+            "original_img_url": "https://pbs.twimg.com/media/HQnT0F1acAAkIRn.jpg",
+            "original_img_width": 1290
+          },
+          "media_key": "3_2092436393763172352"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQnTHJcaIAAKAAIcmHU2zVtgAAAA",
+          "media_id": "2092435621637922816",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.28,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 44,
+                    "red": 44
+                  }
+                },
+                {
+                  "percentage": 3.72,
+                  "rgb": {
+                    "blue": 111,
+                    "green": 111,
+                    "red": 111
+                  }
+                }
+              ]
+            },
+            "original_img_height": 256,
+            "original_img_url": "https://pbs.twimg.com/media/HQnTHJcaIAAoZEV.jpg",
+            "original_img_width": 1308
+          },
+          "media_key": "3_2092435621637922816"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQnSyQpbwAAKAAIcmHU2zVtgAAAA",
+          "media_id": "2092435262794350592",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.48,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 44,
+                    "red": 44
+                  }
+                },
+                {
+                  "percentage": 2.52,
+                  "rgb": {
+                    "blue": 109,
+                    "green": 111,
+                    "red": 111
+                  }
+                }
+              ]
+            },
+            "original_img_height": 484,
+            "original_img_url": "https://pbs.twimg.com/media/HQnSyQpbwAAaqRH.jpg",
+            "original_img_width": 1302
+          },
+          "media_key": "3_2092435262794350592"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHQnTXtUaoAAKAAIcmHU2zVtgAAAA",
+          "media_id": "2092435906145984512",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.82,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 44,
+                    "red": 44
+                  }
+                },
+                {
+                  "percentage": 3.18,
+                  "rgb": {
+                    "blue": 112,
+                    "green": 112,
+                    "red": 112
+                  }
+                }
+              ]
+            },
+            "original_img_height": 282,
+            "original_img_url": "https://pbs.twimg.com/media/HQnTXtUaoAAG0hN.jpg",
+            "original_img_width": 1294
+          },
+          "media_key": "3_2092435906145984512"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

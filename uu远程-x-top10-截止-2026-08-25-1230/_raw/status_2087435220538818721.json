@@ -1,0 +1,217 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/jinglian/status/2087435220538818721",
+    "id": "2087435220538818721",
+    "text": "我成功躲过了 Claude 封号潮好几波。\n\n我的 #ClaudeCode  Max  5X，已经安全度过5个月了。我始终坚持只在我的 Mac  主力机器上单设备登录，其它设备全部使用远程。\n\n今年我把 ToDesk 的会员给停了，曾经的屠龙少年，如今变恶龙，吃相难看，那个弹 VIP 真烦人，经常断连，已被我卸载抛弃。\n\n现在我基本只用UU远程，功能全免费，画质随便调，连接稳定延迟低，别的远程软件的付费功能随便用。\n\n现在Mac上的 AI coding 没跑完，我可以随时放心离开，出门前，把 Claude Code、Codex 等任务都跑在 Herdr 里，Herdr 负责保持 Session 和管理多个 Agent。\n\n人在外面，用 UU 远程连回电脑，直接进 Herdr，哪个 Agent 卡住了，就进去处理一下；还在跑的不用管。\n\n说完这个，接下来还有一个超级实用的功能👇",
+    "raw_text": {
+      "text": "我成功躲过了 Claude 封号潮好几波。\n\n我的 #ClaudeCode  Max  5X，已经安全度过5个月了。我始终坚持只在我的 Mac  主力机器上单设备登录，其它设备全部使用远程。\n\n今年我把 ToDesk 的会员给停了，曾经的屠龙少年，如今变恶龙，吃相难看，那个弹 VIP 真烦人，经常断连，已被我卸载抛弃。\n\n现在我基本只用UU远程，功能全免费，画质随便调，连接稳定延迟低，别的远程软件的付费功能随便用。\n\n现在Mac上的 AI coding 没跑完，我可以随时放心离开，出门前，把 Claude Code、Codex 等任务都跑在 Herdr 里，Herdr 负责保持 Session 和管理多个 Agent。\n\n人在外面，用 UU 远程连回电脑，直接进 Herdr，哪个 Agent 卡住了，就进去处理一下；还在跑的不用管。\n\n说完这个，接下来还有一个超级实用的功能👇",
+      "display_text_range": [
+        0,
+        394
+      ],
+      "facets": [
+        {
+          "type": "hashtag",
+          "indices": [
+            26,
+            37
+          ],
+          "original": "ClaudeCode"
+        },
+        {
+          "type": "media",
+          "indices": [
+            161,
+            184
+          ],
+          "id": "2087435193603039232",
+          "display": "pic.x.com/NwB2nXBbwt",
+          "original": "https://t.co/NwB2nXBbwt",
+          "replacement": "https://x.com/jinglian/status/2087435220538818721/video/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "jinglian",
+      "url": "https://x.com/jinglian",
+      "id": "894382598004199425",
+      "followers": 8033,
+      "following": 1278,
+      "likes": 17840,
+      "media_count": 1114,
+      "name": "前端哥Liam",
+      "description": "11年前端开发者 & AI 重度用户｜\nAI工具 + X运营，我踩过的坑都帮你避开｜\nvx：qian_duan_ge\n主页：https://aisparkedu.com",
+      "raw_description": {
+        "text": "11年前端开发者 & AI 重度用户｜\nAI工具 + X运营，我踩过的坑都帮你避开｜\nvx：qian_duan_ge\n主页：https://t.co/WqSzDEUXaJ",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              62,
+              85
+            ],
+            "original": "https://t.co/WqSzDEUXaJ",
+            "replacement": "https://aisparkedu.com",
+            "display": "aisparkedu.com"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/894382598004199425/1775726858",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2087569851522887680/H7EC0nId_200x200.jpg",
+      "joined": "Mon Aug 07 02:20:02 +0000 2017",
+      "protected": false,
+      "website": {
+        "url": "https://www.tobemaster56.me",
+        "display_url": "tobemaster56.me"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 134,
+    "retweets": 19,
+    "likes": 126,
+    "bookmarks": 147,
+    "quotes": 25,
+    "created_at": "Wed Aug 12 07:05:13 +0000 2026",
+    "created_timestamp": 1786518313,
+    "possibly_sensitive": false,
+    "views": 295449,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2087435193603039232",
+          "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/720x1600/ZOdtLrpSSzGCgPVd.mp4?tag=14",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2087435193603039232/img/qtg84I5NeILx0jDN.jpg",
+          "duration": 72.433,
+          "width": 1080,
+          "height": 2400,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/pl/4vItl3cBwiJWzvVR.m3u8?tag=14&v=8fc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/320x710/gl036BbMfid-6cG-.mp4?tag=14",
+              "bitrate": 632000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/480x1066/XQIaXjXkoBNSiqEz.mp4?tag=14",
+              "bitrate": 950000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/720x1600/ZOdtLrpSSzGCgPVd.mp4?tag=14",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/pl/4vItl3cBwiJWzvVR.m3u8?tag=14&v=8fc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/320x710/gl036BbMfid-6cG-.mp4?tag=14",
+              "bitrate": 632000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/480x1066/XQIaXjXkoBNSiqEz.mp4?tag=14",
+              "bitrate": 950000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/720x1600/ZOdtLrpSSzGCgPVd.mp4?tag=14",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2087435193603039232",
+          "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/720x1600/ZOdtLrpSSzGCgPVd.mp4?tag=14",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2087435193603039232/img/qtg84I5NeILx0jDN.jpg",
+          "duration": 72.433,
+          "width": 1080,
+          "height": 2400,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/pl/4vItl3cBwiJWzvVR.m3u8?tag=14&v=8fc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/320x710/gl036BbMfid-6cG-.mp4?tag=14",
+              "bitrate": 632000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/480x1066/XQIaXjXkoBNSiqEz.mp4?tag=14",
+              "bitrate": 950000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/720x1600/ZOdtLrpSSzGCgPVd.mp4?tag=14",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/pl/4vItl3cBwiJWzvVR.m3u8?tag=14&v=8fc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/320x710/gl036BbMfid-6cG-.mp4?tag=14",
+              "bitrate": 632000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/480x1066/XQIaXjXkoBNSiqEz.mp4?tag=14",
+              "bitrate": 950000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2087435193603039232/vid/avc1/720x1600/ZOdtLrpSSzGCgPVd.mp4?tag=14",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "source": "Typefully",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

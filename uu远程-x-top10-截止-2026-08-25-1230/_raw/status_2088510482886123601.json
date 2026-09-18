@@ -1,0 +1,119 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/aronhouyu/status/2088510482886123601",
+    "id": "2088510482886123601",
+    "text": "今日工作，部署qwen 3.8到本地 感谢开源 ，猛猛冲\n\n妈的codex真恐怖，我自己uu远程电脑，然后让codex自动查配置，并且自动安装",
+    "raw_text": {
+      "text": "今日工作，部署qwen 3.8到本地 感谢开源 ，猛猛冲\n\n妈的codex真恐怖，我自己uu远程电脑，然后让codex自动查配置，并且自动安装 https://t.co/sp5ME2bS6e",
+      "display_text_range": [
+        0,
+        71
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            72,
+            95
+          ],
+          "id": "2088510126391164928",
+          "display": "pic.x.com/sp5ME2bS6e",
+          "original": "https://t.co/sp5ME2bS6e",
+          "replacement": "https://x.com/aronhouyu/status/2088510482886123601/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "aronhouyu",
+      "url": "https://x.com/aronhouyu",
+      "id": "1554575293264072705",
+      "followers": 19236,
+      "following": 3055,
+      "likes": 13075,
+      "media_count": 2187,
+      "name": "Aron厚玉",
+      "description": "海外增长｜内容系统｜AI自动化\n\n频道：https://www.youtube.com/@aronhouyu1024\nTG频道：http://t.me/aronhouyu1024",
+      "raw_description": {
+        "text": "海外增长｜内容系统｜AI自动化\n\n频道：https://t.co/eAdfCKLmDO\nTG频道：https://t.co/ZCaENFNiFI",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              20,
+              43
+            ],
+            "original": "https://t.co/eAdfCKLmDO",
+            "replacement": "https://www.youtube.com/@aronhouyu1024",
+            "display": "youtube.com/@aronhouyu1024"
+          },
+          {
+            "type": "url",
+            "indices": [
+              49,
+              72
+            ],
+            "original": "https://t.co/ZCaENFNiFI",
+            "replacement": "http://t.me/aronhouyu1024",
+            "display": "t.me/aronhouyu1024"
+          }
+        ]
+      },
+      "location": "哈尔滨",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1554575293264072705/1781069499",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2064553439850532864/a3JplYRF_200x200.jpg",
+      "joined": "Tue Aug 02 21:10:16 +0000 2022",
+      "protected": false,
+      "website": {
+        "url": "http://aronhouyu.com",
+        "display_url": "aronhouyu.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 22,
+    "retweets": 1,
+    "likes": 18,
+    "bookmarks": 9,
+    "quotes": 1,
+    "created_at": "Sat Aug 15 06:17:56 +0000 2026",
+    "created_timestamp": 1786774676,
+    "possibly_sensitive": false,
+    "views": 12219,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2088510126391164928",
+          "url": "https://pbs.twimg.com/media/HPvg5QFaAAA4wX-.png?name=orig",
+          "width": 1216,
+          "height": 718
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2088510126391164928",
+          "url": "https://pbs.twimg.com/media/HPvg5QFaAAA4wX-.png?name=orig",
+          "width": 1216,
+          "height": 718
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

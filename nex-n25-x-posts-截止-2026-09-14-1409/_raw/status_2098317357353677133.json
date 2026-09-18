@@ -1,0 +1,779 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/JiaMiXingTuan/status/2098317357353677133",
+    "id": "2098317357353677133",
+    "text": "https://x.com/i/article/2098315689174106112",
+    "raw_text": {
+      "text": "https://t.co/91cksorGps",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            0,
+            23
+          ],
+          "original": "https://t.co/91cksorGps",
+          "replacement": "https://x.com/i/article/2098315689174106112",
+          "display": "x.com/i/article/2098…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "JiaMiXingTuan",
+      "url": "https://x.com/JiaMiXingTuan",
+      "id": "1378362094882496513",
+      "followers": 3368,
+      "following": 882,
+      "likes": 1768,
+      "media_count": 577,
+      "name": "团长🎙️Tuan",
+      "description": "YT: https://www.youtube.com/@DeDAO ；\n所有AI测评都是自己体验；\nGithub:https://github.com/TuanVibeCode?tab=repositories",
+      "raw_description": {
+        "text": "YT: https://t.co/5XHf0KYlLb ；\n所有AI测评都是自己体验；\nGithub:https://t.co/FIkuaJOFin",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              4,
+              27
+            ],
+            "original": "https://t.co/5XHf0KYlLb",
+            "replacement": "https://www.youtube.com/@DeDAO",
+            "display": "youtube.com/@DeDAO"
+          },
+          {
+            "type": "url",
+            "indices": [
+              51,
+              74
+            ],
+            "original": "https://t.co/FIkuaJOFin",
+            "replacement": "https://github.com/TuanVibeCode?tab=repositories",
+            "display": "github.com/TuanVibeCode?t…"
+          }
+        ]
+      },
+      "location": "地球3维空间",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1378362094882496513/1785650734",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2046503838782517248/0z1szBYu_200x200.jpg",
+      "joined": "Sat Apr 03 15:02:12 +0000 2021",
+      "protected": false,
+      "website": {
+        "url": "https://t.me/jiamixingtuanofficial",
+        "display_url": "t.me/jiamixingtuano…"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 63,
+    "retweets": 39,
+    "likes": 47,
+    "bookmarks": 5,
+    "quotes": 24,
+    "created_at": "Fri Sep 11 07:46:57 +0000 2026",
+    "created_timestamp": 1789112817,
+    "possibly_sensitive": false,
+    "views": 706050,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-09-11T07:46:57.000Z",
+      "modified_at": "2026-09-11T07:46:57.000Z",
+      "id": "2098315689174106112",
+      "title": "一句话让Nex-N2.5PRO用Blender实现工业级建模！",
+      "preview_text": "我只说了一句话，Nex-N2.5PRO 就自己打开我电脑上的 Blender，把机械臂建出来了！\n \n一句提示词：\n“C:\\Users\\spark\\Downloads\\80f5be23b418695075788d310c9b40ed.avif",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHR63889bgAAKAAITIO0FvVWgAQAA",
+        "media_id": "2098316734185046016",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 83.06,
+                "rgb": {
+                  "blue": 46,
+                  "green": 40,
+                  "red": 35
+                }
+              },
+              {
+                "percentage": 13.47,
+                "rgb": {
+                  "blue": 5,
+                  "green": 78,
+                  "red": 165
+                }
+              },
+              {
+                "percentage": 3.06,
+                "rgb": {
+                  "blue": 15,
+                  "green": 43,
+                  "red": 77
+                }
+              },
+              {
+                "percentage": 0.31,
+                "rgb": {
+                  "blue": 102,
+                  "green": 121,
+                  "red": 175
+                }
+              }
+            ]
+          },
+          "original_img_height": 640,
+          "original_img_url": "https://pbs.twimg.com/media/HR63889bgAAjXyn.jpg",
+          "original_img_width": 1600
+        },
+        "media_key": "3_2098316734185046016"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dcu2q",
+            "text": "我只说了一句话，Nex-N2.5PRO 就自己打开我电脑上的 Blender，把机械臂建出来了！",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "e82ku",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5qjf1",
+            "text": "一句提示词：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f0n8p",
+            "text": "“C:\\Users\\spark\\Downloads\\80f5be23b418695075788d310c9b40ed.avif 用blender给这个建模”图是我从网上随手存的工业机械臂 CAD 线稿，四个视图，正侧斜俯，就一张白底黑线的技术图。没有尺寸，没有材质要求，没说存哪，没说建成什么精度。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1j19p",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ac43q",
+            "text": "然后我就去干别的了。我去吃了个沙县小吃后回来，桌面上躺着两个文件",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cuo0q",
+            "text": "C:\\Users\\spark\\Downloads\\industrial_robot_arm.blend",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "398vh",
+            "text": "C:\\Users\\spark\\Downloads\\industrial_robot_arm_preview.png",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "202s3",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9h5o3",
+            "text": "一个能直接打开的 Blender 工程，一张渲染好的效果图，这张效果图是真的把我惊艳到了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "evt9r",
+            "text": "橙色的工业漆机身，深灰金属结构，黑色线缆，跟那张线稿一个味儿。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "57gju",
+            "text": "这个任务对模型调用工具，Computer Use的能力要求极高，我回看了整个任务日志，那张图是 avif 格式，它读图的工具不认识。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fdc1b",
+            "text": "正常流程到这里有两种走法：一种是原地报错，等你转格式；一种是跑回来问你\"能否提供 png 版本\"。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 72,
+                "offset": 20,
+                "style": "Bold"
+              }
+            ],
+            "key": "i2qs",
+            "text": "NEX-N2.5PRO 的走法是第三条。它先去查文件在不在，再满系统找能转格式的程序，摸到了本机的 ffmpeg，自己把 avif 转成 png 存到临时目录，然后回头再把图看了一遍。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e1aqt",
+            "text": "看懂了。它说：这是一张工业六轴机械臂的多视图线稿。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dc59o",
+            "text": "我当时的感觉是，这不像在和一个聊天机器人对话，更像在派一个会用电脑的实习生干活。他不会因为第一步卡住就回来敲你办公室的门。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dedpn",
+            "text": "然后就是它自己找到了我电脑里的 Blender，Blender 我装是装了，但没加进 PATH。也就是说在命令行里敲 blender 是没反应的。它先试了一下，没输出，没反应。然后它同时探了三条路：系统里有没有这个命令、Python 里有没有 bpy 模块、硬盘上到底装在哪。前两条死路走完，它直接用磁盘扫描命中了 C:\\Program Files\\Blender Foundation\\Blender 5.2\\blender.exe。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5jmp0",
+            "text": "它的 Python 探路也失败了，本机没装 bpy。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "307vc",
+            "text": "它没有在这条死路上反复试，而是立刻切到 Blender 自带的命令行模式。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dineo",
+            "text": "这种判断力才是真的难。模型会不会写代码是一回事，知道\"这条路走不通，别在这耗着\"是另一回事。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3n1ru",
+            "text": "长任务的考验正式开始，模型一次性写出了一个 15,000 字符的 Blender Python 脚本，写完还自己回读检查了一遍。跑起来，报错。再跑，又报错。连着崩了五次。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ccip2",
+            "text": "崩溃原因全是 Blender 5.2 的接口改动：渲染引擎的名字改了、空场景里的世界对象是空的、色彩外观要加前缀、圆环参数不认了、某个属性被删了。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "13cro",
+            "text": "五次崩，五次修好，第六次跑通。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dreq",
+            "text": "五次修复，它改动的代码分别只有 37、112、55、188、252 个字符。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ar2t0",
+            "text": "没有一报错就把那份一万五千字符的脚本整个重写一遍，每次只动命中的那几行。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3sqik",
+            "text": "这一条几乎可以当\"它是不是真看懂了报错\"的判据。瞎重写是撞运气，只改 40 个字符还能连着过关，说明它确实读懂了 traceback，也说明它知道哪些地方不用碰。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "duklv",
+            "text": "我把成品工程重新拆开数了一遍。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c05h8",
+            "text": "89 个零件。六个 PBR 材质分件，橙色漆、拉丝钢、深灰金属、黑线缆、指示玻璃，各归各位。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "achim",
+            "text": "底座法兰、四条地脚、转台、三个关节的壳体轴心、上下臂杆、七片散热格栅、三条走线缆加五个固定卡箍、末端两指夹爪，全部对照线稿逐件建出来并且逐件命名。名字是 Joint_2_Elbow_Housing、Upper_Arm_Rail_Left 这种，工程师打开就看得懂。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "g5q4",
+            "text": "三个关节的旋转轴心，它用空物体单独定义了。意思就是\"这六个自由度装在哪、绕哪转\"提前留好了接口，以后要做动画或者绑骨骼，直接转那个空物体就行，不用重新拆模。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "42gp1",
+            "text": "还有 70 个倒角修改器，它一个都没应用，全留着。意味着尺寸随时能改。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8d768",
+            "text": "用不用得上是一回事，懂不懂行是另一回事。这个模型是懂行的。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4oa0c",
+            "text": "我原本的主观感受：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9d398",
+            "text": "Next-N2.5Pro模型 token 效率高、自主性强、工具调用特别猛。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e7djk",
+            "text": "整场任务，它一共只生成了 16,000 多个 token，其中还包括思考的部分，交付了 89 个零件、6 种材质、一份可复用的脚本、一张渲染图。平均下来，一千个生成 token 换五个多的场景零件。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "oanb",
+            "text": "上下文全程只用了两成多，一次压缩都没触发，一次因为装不下而返工都没有。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ci1fl",
+            "text": "之前说的\"五次修复只改几百个字符\"，就是这种效率最直接的来源。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1pvlf",
+            "text": "整个过程里它被打断了四次，流式响应断了，单步空转五六分钟。它没有从头再来，而是接着往下干，最后照样交付。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3prtu",
+            "text": "我第一次见证模型做到这种事情震惊的不是光是AI 会建模了,会像人一样的使用电脑上的各种工具了，我有一种AI像一个能自己解决问题的员工了，我就像一个老板，只是下了个指令，它负责交付。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fh1im",
+            "text": "它把整条链子走完：看不懂的图自己转格式，找不到的软件自己扫盘，不会用的接口自己查错，写完的成果自己验证，最后把工程文件和效果图放在我指定的目录里，末尾附上完整路径。从头到尾没有问过我一个字。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "lgnf",
+            "text": "这不是一个会聊天的模型。这是一个会用你电脑干活的模型。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 55,
+                  "text": "https://openrouter.ai/nex-agi/nex-n2.5-pro:free#uptime",
+                  "toIndex": 109
+                }
+              ]
+            },
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 55,
+                "offset": 55
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1tjh",
+            "text": "目前 Nex-N2.5 Pro 的 API 正在免费开放中，想体验“草图一键变 3D”的朋友建议抓紧测试。\n\nhttps://openrouter.ai/nex-agi/nex-n2.5-pro:free#uptime ",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "4d710b98-73f4-4891-949f-eeb3cafe52a4",
+                "mediaItems": [
+                  {
+                    "localMediaId": "1",
+                    "mediaCategory": "AmplifyVideo",
+                    "mediaId": "2098315763027476480"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "f6ab4726-393e-4406-a0d6-75b22f53123a",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2098315920582254592"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "1f6879c3-a967-4763-8c1f-0df2f400b98d",
+                "mediaItems": [
+                  {
+                    "localMediaId": "6",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2098316808537374720"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "url": "https://openrouter.ai/nex-agi/nex-n2.5-pro:free#uptime"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAECgABHR63EbHbAAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2098315763027476480",
+          "media_info": {
+            "__typename": "ApiVideo",
+            "aspect_ratio": {
+              "denominator": 9,
+              "numerator": 16
+            },
+            "duration_millis": 48468,
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 55.56,
+                    "rgb": {
+                      "blue": 17,
+                      "green": 20,
+                      "red": 22
+                    }
+                  },
+                  {
+                    "percentage": 38,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 3.16,
+                    "rgb": {
+                      "blue": 5,
+                      "green": 35,
+                      "red": 79
+                    }
+                  },
+                  {
+                    "percentage": 2.3,
+                    "rgb": {
+                      "blue": 123,
+                      "green": 114,
+                      "red": 112
+                    }
+                  },
+                  {
+                    "percentage": 0.37,
+                    "rgb": {
+                      "blue": 56,
+                      "green": 61,
+                      "red": 60
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 1080,
+              "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2098315763027476480/img/umw6qfzAf1kOUED7.jpg",
+              "original_img_width": 1920
+            },
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2098315763027476480/pl/zYjERzk5ePUnfIW9.m3u8?tag=29"
+              },
+              {
+                "bit_rate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2098315763027476480/vid/avc1/640x360/-_R4UbgcmwZZqXIE.mp4?tag=29"
+              },
+              {
+                "bit_rate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2098315763027476480/vid/avc1/480x270/lBOLaubf1_8gOgxc.mp4?tag=29"
+              },
+              {
+                "bit_rate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2098315763027476480/vid/avc1/1280x720/cDclEuny5-mfAvN6.mp4?tag=29"
+              },
+              {
+                "bit_rate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2098315763027476480/vid/avc1/1920x1080/D8MCD9XsNhDZZXzb.mp4?tag=29"
+              }
+            ]
+          },
+          "media_key": "13_2098315763027476480"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHR63NmDaIAAKAAITIO0FvVWgAQAA",
+          "media_id": "2098315920582254592",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 98.88,
+                  "rgb": {
+                    "blue": 255,
+                    "green": 255,
+                    "red": 255
+                  }
+                },
+                {
+                  "percentage": 1.12,
+                  "rgb": {
+                    "blue": 141,
+                    "green": 141,
+                    "red": 141
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1845,
+            "original_img_url": "https://pbs.twimg.com/media/HR63NmDaIAA47-3.png",
+            "original_img_width": 2461
+          },
+          "media_key": "3_2098315920582254592"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHR64BR8aAAAKAAITIO0FvVWgAQAA",
+          "media_id": "2098316808537374720",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 78.27,
+                  "rgb": {
+                    "blue": 50,
+                    "green": 43,
+                    "red": 37
+                  }
+                },
+                {
+                  "percentage": 17.59,
+                  "rgb": {
+                    "blue": 7,
+                    "green": 77,
+                    "red": 165
+                  }
+                },
+                {
+                  "percentage": 3.16,
+                  "rgb": {
+                    "blue": 17,
+                    "green": 43,
+                    "red": 80
+                  }
+                },
+                {
+                  "percentage": 0.89,
+                  "rgb": {
+                    "blue": 92,
+                    "green": 118,
+                    "red": 182
+                  }
+                }
+              ]
+            },
+            "original_img_height": 675,
+            "original_img_url": "https://pbs.twimg.com/media/HR64BR8aAAAkIK_.jpg",
+            "original_img_width": 1200
+          },
+          "media_key": "3_2098316808537374720"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

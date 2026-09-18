@@ -1,0 +1,62 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/KY_SNWAZ/status/2091344611671449940",
+    "id": "2091344611671449940",
+    "text": "讣告\n今有故人奈绪先生\n生前曾接受性别重置手术，术后为使身份证上的性别与自身身份相符，前往深圳市坪山区政务服务中心办理相关变更手续。\n谁知此事一去，竟成遗憾。\n工作人员对办理流程多有疑问，几经询问，甚至一度需要向豆包人工智能咨询办理方式。手续因此反复往返，迟迟未能完成。她本以为自己只是去改一个身份证上的字。后来才发现，需要等待的并不只是一个“字”。术后恢复需要钱，生活需要钱，等待也需要钱。钱花完了，手续还没有办完。最后，她也没有等到那一天。\n生前费尽力气让这个世界承认自己是谁，最终却没能等到一张写着“正确的自己”的身份证。\n谨此讣告。\n愿逝者安息。\n愿后来者办理证件时，工作人员至少知道去问谁。如果实在不知道，可以问豆包。只是希望下一次，答案能比人生来得早一点。\n谨启\n2026年8月22日\n\n本文由豆包AI生成",
+    "raw_text": {
+      "text": "讣告\n今有故人奈绪先生\n生前曾接受性别重置手术，术后为使身份证上的性别与自身身份相符，前往深圳市坪山区政务服务中心办理相关变更手续。\n谁知此事一去，竟成遗憾。\n工作人员对办理流程多有疑问，几经询问，甚至一度需要向豆包人工智能咨询办理方式。手续因此反复往返，迟迟未能完成。她本以为自己只是去改一个身份证上的字。后来才发现，需要等待的并不只是一个“字”。术后恢复需要钱，生活需要钱，等待也需要钱。钱花完了，手续还没有办完。最后，她也没有等到那一天。\n生前费尽力气让这个世界承认自己是谁，最终却没能等到一张写着“正确的自己”的身份证。\n谨此讣告。\n愿逝者安息。\n愿后来者办理证件时，工作人员至少知道去问谁。如果实在不知道，可以问豆包。只是希望下一次，答案能比人生来得早一点。\n谨启\n2026年8月22日\n\n本文由豆包AI生成",
+      "display_text_range": [
+        0,
+        359
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "KY_SNWAZ",
+      "url": "https://x.com/KY_SNWAZ",
+      "id": "1684241711080574976",
+      "followers": 280,
+      "following": 59,
+      "likes": 3616,
+      "media_count": 321,
+      "name": "KY丶SNWAZ",
+      "description": "十七岁/非二元/无业游民/赌博领域大神",
+      "raw_description": {
+        "text": "十七岁/非二元/无业游民/赌博领域大神",
+        "facets": []
+      },
+      "location": "Palma, Spain",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1684241711080574976/1698989454",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1780256438344089600/3ceStlfj_200x200.jpg",
+      "joined": "Wed Jul 26 16:38:20 +0000 2023",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 114,
+    "retweets": 12,
+    "likes": 228,
+    "bookmarks": 45,
+    "quotes": 4,
+    "created_at": "Sun Aug 23 01:59:45 +0000 2026",
+    "created_timestamp": 1787450385,
+    "views": 54503,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter for Android",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/jinglian/status/2098220638909722815",
+    "id": "2098220638909722815",
+    "text": "卧槽，只要一张 2D 蓝图，就能全自动生成高精度的 3D Blender 模型？\n\n我刚刚完成了一次极具历史意义的“时空复刻”，AI 的表现令人惊艳！\n\n这次的主角是著名的【席尔弗顿铁路 100号“欧雷号”】蒸汽机车。\n\n它不仅是一台机器，更是 19 世纪末美国“落基山脉采矿黄金时代”的工程奇迹与西部开发史的见证者。\n\n而现在，我只用了一张平面草图，就让它在 3D 世界里完美重生了。\n\n🛠️ 这是如何发生的？\n\n在 PI Agent 中接入 「Nex-N2.5 Pro」大模型，整个建模过程全自动搞定！\n\n从平面的 2D 蓝图 ➡️ 结构完整的 3D 资产。\n\n这个大模型展现出了跨级别的【空间推理】与【结构理解】能力。\n\n━━━━━\n\nNex‑N2.5 是面向 Agent 场景的新一代模型家族。\n\nNex‑N2.5 Pro 是其中的多模态版本，参数量 397B，支持文本、图片和视频输入，核心能力是视觉理解、Computer Use 与长程操作，产品定位对标 GPT‑6 Astra。\n\n🎁 重点来了：不要错过限时免费福利！👇",
+    "raw_text": {
+      "text": "卧槽，只要一张 2D 蓝图，就能全自动生成高精度的 3D Blender 模型？\n\n我刚刚完成了一次极具历史意义的“时空复刻”，AI 的表现令人惊艳！\n\n这次的主角是著名的【席尔弗顿铁路 100号“欧雷号”】蒸汽机车。\n\n它不仅是一台机器，更是 19 世纪末美国“落基山脉采矿黄金时代”的工程奇迹与西部开发史的见证者。\n\n而现在，我只用了一张平面草图，就让它在 3D 世界里完美重生了。\n\n🛠️ 这是如何发生的？\n\n在 PI Agent 中接入 「Nex-N2.5 Pro」大模型，整个建模过程全自动搞定！\n\n从平面的 2D 蓝图 ➡️ 结构完整的 3D 资产。\n\n这个大模型展现出了跨级别的【空间推理】与【结构理解】能力。\n\n━━━━━\n\nNex‑N2.5 是面向 Agent 场景的新一代模型家族。\n\nNex‑N2.5 Pro 是其中的多模态版本，参数量 397B，支持文本、图片和视频输入，核心能力是视觉理解、Computer Use 与长程操作，产品定位对标 GPT‑6 Astra。\n\n🎁 重点来了：不要错过限时免费福利！👇",
+      "display_text_range": [
+        0,
+        470
+      ],
+      "facets": [
+        {
+          "type": "bold",
+          "indices": [
+            104,
+            108
+          ]
+        },
+        {
+          "type": "media",
+          "indices": [
+            160,
+            183
+          ],
+          "id": "2098194503320629248",
+          "display": "pic.x.com/CDGEaFTGUI",
+          "original": "https://t.co/CDGEaFTGUI",
+          "replacement": "https://x.com/jinglian/status/2098220638909722815/video/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            160,
+            183
+          ],
+          "id": "2098194540633243648",
+          "display": "pic.x.com/CDGEaFTGUI",
+          "original": "https://t.co/CDGEaFTGUI",
+          "replacement": "https://x.com/jinglian/status/2098220638909722815/video/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            160,
+            183
+          ],
+          "id": "2098194579568963584",
+          "display": "pic.x.com/CDGEaFTGUI",
+          "original": "https://t.co/CDGEaFTGUI",
+          "replacement": "https://x.com/jinglian/status/2098220638909722815/video/1"
+        },
+        {
+          "type": "bold",
+          "indices": [
+            195,
+            207
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            225,
+            237
+          ]
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "jinglian",
+      "url": "https://x.com/jinglian",
+      "id": "894382598004199425",
+      "followers": 8054,
+      "following": 1286,
+      "likes": 18429,
+      "media_count": 1151,
+      "name": "前端哥Liam",
+      "description": "11年前端开发者 & AI 重度用户｜\nAI工具 + X运营，我踩过的坑都帮你避开｜\nvx：qian_duan_ge",
+      "raw_description": {
+        "text": "11年前端开发者 & AI 重度用户｜\nAI工具 + X运营，我踩过的坑都帮你避开｜\nvx：qian_duan_ge",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/894382598004199425/1775726858",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2087569851522887680/H7EC0nId_200x200.jpg",
+      "joined": "Mon Aug 07 02:20:02 +0000 2017",
+      "protected": false,
+      "website": {
+        "url": "https://www.tobemaster56.me",
+        "display_url": "tobemaster56.me"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 94,
+    "retweets": 26,
+    "likes": 47,
+    "bookmarks": 10,
+    "quotes": 13,
+    "created_at": "Fri Sep 11 01:22:38 +0000 2026",
+    "created_timestamp": 1789089758,
+    "possibly_sensitive": false,
+    "views": 6426,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2098194503320629248",
+          "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/3200x1800/4YCMAAcrlfruoG-t.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2098194503320629248/img/5eBEX8EMOCE-R4bj.jpg",
+          "duration": 11.303,
+          "width": 3200,
+          "height": 1800,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/pl/JjiiXe1D7iTBYNTV.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/480x270/qzJ_lYSVkCW3odPv.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/640x360/3NpwEvPy3jLh9Wv2.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/1280x720/fBxkWqOgF0PGZ0AX.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/1920x1080/5KDjdJ3X126-l_BW.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/3200x1800/4YCMAAcrlfruoG-t.mp4?tag=29",
+              "bitrate": 25128000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/pl/JjiiXe1D7iTBYNTV.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/480x270/qzJ_lYSVkCW3odPv.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/640x360/3NpwEvPy3jLh9Wv2.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/1280x720/fBxkWqOgF0PGZ0AX.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/1920x1080/5KDjdJ3X126-l_BW.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/3200x1800/4YCMAAcrlfruoG-t.mp4?tag=29",
+              "bitrate": 25128000,
+              "content_type": "video/mp4"
+            }
+          ]
+        },
+        {
+          "type": "photo",
+          "id": "2098194540633243648",
+          "url": "https://pbs.twimg.com/media/HR5I0WgbwAATZAd.png?name=orig",
+          "width": 735,
+          "height": 481
+        },
+        {
+          "type": "photo",
+          "id": "2098194579568963584",
+          "url": "https://pbs.twimg.com/media/HR5I2njbsAAHNS1.jpg?name=orig",
+          "width": 1792,
+          "height": 1308
+        }
+      ],
+      "videos": [
+        {
+          "id": "2098194503320629248",
+          "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/3200x1800/4YCMAAcrlfruoG-t.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2098194503320629248/img/5eBEX8EMOCE-R4bj.jpg",
+          "duration": 11.303,
+          "width": 3200,
+          "height": 1800,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/pl/JjiiXe1D7iTBYNTV.m3u8?tag=29&v=cfc",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/480x270/qzJ_lYSVkCW3odPv.mp4?tag=29",
+              "bitrate": 256000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/640x360/3NpwEvPy3jLh9Wv2.mp4?tag=29",
+              "bitrate": 832000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/1280x720/fBxkWqOgF0PGZ0AX.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/1920x1080/5KDjdJ3X126-l_BW.mp4?tag=29",
+              "bitrate": 10368000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/3200x1800/4YCMAAcrlfruoG-t.mp4?tag=29",
+              "bitrate": 25128000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/pl/JjiiXe1D7iTBYNTV.m3u8?tag=29&v=cfc",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/480x270/qzJ_lYSVkCW3odPv.mp4?tag=29",
+              "bitrate": 256000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/640x360/3NpwEvPy3jLh9Wv2.mp4?tag=29",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/1280x720/fBxkWqOgF0PGZ0AX.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/1920x1080/5KDjdJ3X126-l_BW.mp4?tag=29",
+              "bitrate": 10368000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098194503320629248/vid/avc1/3200x1800/4YCMAAcrlfruoG-t.mp4?tag=29",
+              "bitrate": 25128000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2098194540633243648",
+          "url": "https://pbs.twimg.com/media/HR5I0WgbwAATZAd.png?name=orig",
+          "width": 735,
+          "height": 481
+        },
+        {
+          "type": "photo",
+          "id": "2098194579568963584",
+          "url": "https://pbs.twimg.com/media/HR5I2njbsAAHNS1.jpg?name=orig",
+          "width": 1792,
+          "height": 1308
+        }
+      ],
+      "mosaic": {
+        "type": "mosaic_photo",
+        "formats": {
+          "jpeg": "https://mosaic.fxtwitter.com/jpeg/2098220638909722815/HR5I0WgbwAATZAd/HR5I2njbsAAHNS1",
+          "webp": "https://mosaic.fxtwitter.com/webp/2098220638909722815/HR5I0WgbwAATZAd/HR5I2njbsAAHNS1"
+        }
+      }
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

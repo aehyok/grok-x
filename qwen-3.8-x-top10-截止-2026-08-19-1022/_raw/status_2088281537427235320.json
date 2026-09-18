@@ -1,0 +1,243 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/UnslothAI/status/2088281537427235320",
+    "id": "2088281537427235320",
+    "text": "Qwen3.8-27B can now be run locally! ✨\n\nRun on 17GB RAM via Unsloth Dynamic GGUFs.\n\nQwen3.8-27B is by far the strongest model for its size. We also uploaded NVFP4 quants.\n\nGGUF: https://huggingface.co/unsloth/Qwen3.8-27B-GGUF\nGuide: https://unsloth.ai/docs/models/qwen3.8",
+    "raw_text": {
+      "text": "Qwen3.8-27B can now be run locally! ✨\n\nRun on 17GB RAM via Unsloth Dynamic GGUFs.\n\nQwen3.8-27B is by far the strongest model for its size. We also uploaded NVFP4 quants.\n\nGGUF: https://t.co/xIdNwm7CLQ\nGuide: https://t.co/J2PwgMP6GZ https://t.co/NKFJuPXFyG",
+      "display_text_range": [
+        0,
+        231
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            177,
+            200
+          ],
+          "original": "https://t.co/xIdNwm7CLQ",
+          "replacement": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "display": "huggingface.co/unsloth/Qwen3.…"
+        },
+        {
+          "type": "url",
+          "indices": [
+            208,
+            231
+          ],
+          "original": "https://t.co/J2PwgMP6GZ",
+          "replacement": "https://unsloth.ai/docs/models/qwen3.8",
+          "display": "unsloth.ai/docs/models/qw…"
+        },
+        {
+          "type": "media",
+          "indices": [
+            232,
+            255
+          ],
+          "id": "2088281050711814147",
+          "display": "pic.x.com/NKFJuPXFyG",
+          "original": "https://t.co/NKFJuPXFyG",
+          "replacement": "https://x.com/UnslothAI/status/2088281537427235320/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "UnslothAI",
+      "url": "https://x.com/UnslothAI",
+      "id": "1730159888402395136",
+      "followers": 91704,
+      "following": 475,
+      "likes": 13510,
+      "media_count": 270,
+      "name": "Unsloth AI",
+      "description": "Run and train models locally with the Unsloth Desktop app. 🦥 https://github.com/unslothai/unsloth",
+      "raw_description": {
+        "text": "Run and train models locally with the Unsloth Desktop app. 🦥 https://t.co/2kXqhhvdCD",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              61,
+              84
+            ],
+            "original": "https://t.co/2kXqhhvdCD",
+            "replacement": "https://github.com/unslothai/unsloth",
+            "display": "github.com/unslothai/unsl…"
+          }
+        ]
+      },
+      "location": "San Francisco, CA",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1730159888402395136/1755305669",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2036313340616777728/OLALWB2__200x200.jpg",
+      "joined": "Thu Nov 30 09:40:46 +0000 2023",
+      "protected": false,
+      "website": {
+        "url": "http://unsloth.ai",
+        "display_url": "unsloth.ai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "organization"
+      },
+      "avatar_color": null
+    },
+    "replies": 197,
+    "retweets": 617,
+    "likes": 5116,
+    "bookmarks": 2723,
+    "quotes": 171,
+    "created_at": "Fri Aug 14 15:08:11 +0000 2026",
+    "created_timestamp": 1786720091,
+    "possibly_sensitive": false,
+    "views": 978157,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2088281050711814147",
+          "url": "https://pbs.twimg.com/media/HPsQjSrbcAM41AY.jpg?name=orig",
+          "width": 3654,
+          "height": 4096
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2088281050711814147",
+          "url": "https://pbs.twimg.com/media/HPsQjSrbcAM41AY.jpg?name=orig",
+          "width": 3654,
+          "height": 4096
+        }
+      ]
+    },
+    "quote": {
+      "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+      "id": "2088280182356611304",
+      "text": "We promised open weights for Qwen3.8. Now, time to meet them! 🎉\n\n⚡ Qwen3.8-27B:\n- A native multimodal dense model. With just 27B parameters, it outperforms Qwen3.7-Plus overall and shines in real-world coding & office workflows.\n- 262K native context, easily extendable to 1M tokens via YaRN.\n- Built for builders. Highly efficient, high-quality, and licensed under Apache 2.0.\n\n🚀 The open weights for Qwen3.8-2.4T-A95B (Max-level) have also been released recently.\n\nWhether you're shipping lightweight applications with Qwen3.8-27B locally or building agents with Qwen3.8-2.4T-A95B, they're yours now!\n\nDownload, deploy, and build something we haven't imagined yet. 👀👇\n- Hugging Face：\nhttps://huggingface.co/collections/Qwen/qwen38\n- ModelScope：\nhttps://www.modelscope.cn/collections/Qwen/Qwen38",
+      "raw_text": {
+        "text": "We promised open weights for Qwen3.8. Now, time to meet them! 🎉\n\n⚡ Qwen3.8-27B:\n- A native multimodal dense model. With just 27B parameters, it outperforms Qwen3.7-Plus overall and shines in real-world coding & office workflows.\n- 262K native context, easily extendable to 1M tokens via YaRN.\n- Built for builders. Highly efficient, high-quality, and licensed under Apache 2.0.\n\n🚀 The open weights for Qwen3.8-2.4T-A95B (Max-level) have also been released recently.\n\nWhether you're shipping lightweight applications with Qwen3.8-27B locally or building agents with Qwen3.8-2.4T-A95B, they're yours now!\n\nDownload, deploy, and build something we haven't imagined yet. 👀👇\n- Hugging Face：\nhttps://t.co/4kaAcqYEVj\n- ModelScope：\nhttps://t.co/eRIMZCGkhC",
+        "display_text_range": [
+          0,
+          751
+        ],
+        "facets": [
+          {
+            "type": "media",
+            "indices": [
+              280,
+              303
+            ],
+            "id": "2088274703022768128",
+            "display": "pic.x.com/QuN8oWkG4C",
+            "original": "https://t.co/QuN8oWkG4C",
+            "replacement": "https://x.com/Alibaba_Qwen/status/2088280182356611304/photo/1"
+          },
+          {
+            "type": "url",
+            "indices": [
+              686,
+              709
+            ],
+            "original": "https://t.co/4kaAcqYEVj",
+            "replacement": "https://huggingface.co/collections/Qwen/qwen38",
+            "display": "huggingface.co/collections/Qw…"
+          },
+          {
+            "type": "url",
+            "indices": [
+              724,
+              747
+            ],
+            "original": "https://t.co/eRIMZCGkhC",
+            "replacement": "https://www.modelscope.cn/collections/Qwen/Qwen38",
+            "display": "modelscope.cn/collections/Qw…"
+          }
+        ]
+      },
+      "author": {
+        "screen_name": "Alibaba_Qwen",
+        "url": "https://x.com/Alibaba_Qwen",
+        "id": "1753339277386342400",
+        "followers": 273941,
+        "following": 3,
+        "likes": 488,
+        "media_count": 521,
+        "name": "Qwen",
+        "description": "Open foundation models for AGI.",
+        "raw_description": {
+          "text": "Open foundation models for AGI.",
+          "facets": []
+        },
+        "location": "",
+        "banner_url": "https://pbs.twimg.com/profile_banners/1753339277386342400/1780986224",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_200x200.jpg",
+        "joined": "Fri Feb 02 08:47:32 +0000 2024",
+        "protected": false,
+        "website": {
+          "url": "https://qwen.ai/",
+          "display_url": "qwen.ai"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "organization"
+        },
+        "avatar_color": null
+      },
+      "replies": 814,
+      "retweets": 2116,
+      "likes": 15757,
+      "bookmarks": 4826,
+      "quotes": 953,
+      "created_at": "Fri Aug 14 15:02:48 +0000 2026",
+      "created_timestamp": 1786719768,
+      "possibly_sensitive": false,
+      "views": 5395572,
+      "is_note_tweet": true,
+      "community_note": null,
+      "lang": "en",
+      "replying_to": null,
+      "replying_to_status": null,
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2088274703022768128",
+            "url": "https://pbs.twimg.com/media/HPsKxzsbQAAJa4d.jpg?name=orig",
+            "width": 2048,
+            "height": 1152
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2088274703022768128",
+            "url": "https://pbs.twimg.com/media/HPsKxzsbQAAJa4d.jpg?name=orig",
+            "width": 2048,
+            "height": 1152
+          }
+        ]
+      },
+      "source": "Twitter Web App",
+      "twitter_card": "summary_large_image",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

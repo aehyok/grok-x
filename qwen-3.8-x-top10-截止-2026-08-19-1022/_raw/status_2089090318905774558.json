@@ -1,0 +1,1275 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/0xBakeer/status/2089090318905774558",
+    "id": "2089090318905774558",
+    "text": "Qwen3.8-27B, one DGX Spark: 7.88 -> 75 tok/s solo, 256 aggregate. https://x.com/i/article/2089076470865854466",
+    "raw_text": {
+      "text": "Qwen3.8-27B, one DGX Spark: 7.88 -&gt; 75 tok/s solo, 256 aggregate. https://t.co/UjMRWgASYK",
+      "display_text_range": [
+        0,
+        92
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            69,
+            92
+          ],
+          "original": "https://t.co/UjMRWgASYK",
+          "replacement": "https://x.com/i/article/2089076470865854466",
+          "display": "x.com/i/article/2089…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "0xBakeer",
+      "url": "https://x.com/0xBakeer",
+      "id": "2042588504203374592",
+      "followers": 567,
+      "following": 66,
+      "likes": 867,
+      "media_count": 82,
+      "name": "0xBakeer",
+      "description": "Full-stack dev building with AI · daily notes on models, agents & my homelab · takes - threads - hype",
+      "raw_description": {
+        "text": "Full-stack dev building with AI · daily notes on models, agents & my homelab · takes - threads - hype",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2042588504203374592/1781456828",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2082082465401782272/Y1Tltjaw_200x200.jpg",
+      "joined": "Fri Apr 10 13:01:02 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "https://github.com/0xBakeer",
+        "display_url": "github.com/0xBakeer"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 10,
+    "retweets": 26,
+    "likes": 241,
+    "bookmarks": 429,
+    "quotes": 9,
+    "created_at": "Sun Aug 16 20:42:00 +0000 2026",
+    "created_timestamp": 1786912920,
+    "possibly_sensitive": false,
+    "views": 120370,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "in",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-16T20:42:00.000Z",
+      "modified_at": "2026-08-16T20:42:00.000Z",
+      "id": "2089076470865854466",
+      "title": "Qwen3.8-27B on one DGX Spark: 256 tok/s across 16 parallel requests, 75 tok/s solo",
+      "preview_text": "Sixteen requests running in parallel on one 128 GB desktop machine, 256 tokens per second aggregate, 75 for a single stream, up from a stock baseline of 7.88. Only 1.6× of that came from quantizing",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHP3n+C6WIAAKAAIcWLtsJ1awAAAA",
+        "media_id": "2089080855289274368",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 85.34,
+                "rgb": {
+                  "blue": 49,
+                  "green": 39,
+                  "red": 31
+                }
+              },
+              {
+                "percentage": 6.36,
+                "rgb": {
+                  "blue": 107,
+                  "green": 72,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 3.74,
+                "rgb": {
+                  "blue": 57,
+                  "green": 78,
+                  "red": 116
+                }
+              },
+              {
+                "percentage": 2.45,
+                "rgb": {
+                  "blue": 172,
+                  "green": 166,
+                  "red": 159
+                }
+              },
+              {
+                "percentage": 0.93,
+                "rgb": {
+                  "blue": 62,
+                  "green": 106,
+                  "red": 178
+                }
+              }
+            ]
+          },
+          "original_img_height": 420,
+          "original_img_url": "https://pbs.twimg.com/media/HP3n-C6WIAAWfW-.jpg",
+          "original_img_width": 1049
+        },
+        "media_key": "3_2089080855289274368"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 68,
+                "style": "Bold"
+              },
+              {
+                "length": 2,
+                "offset": 101,
+                "style": "Bold"
+              },
+              {
+                "length": 4,
+                "offset": 254,
+                "style": "Italic"
+              }
+            ],
+            "key": "dmql4",
+            "text": "Sixteen requests running in parallel on one 128 GB desktop machine, 256 tokens per second aggregate, 75 for a single stream, up from a stock baseline of 7.88. Only 1.6× of that came from quantizing the weights to 4 bits, and by the sixteenth stream even that advantage has vanished.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "fbhcl",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3k4ve",
+            "text": "The standard advice for running a large model on a small machine is to quantize it: squeeze the weights to 4 bits, read fewer bytes per token, go faster. It works, and the 75 tok/s at the top of this page is a 4-bit number.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 24,
+                "offset": 38,
+                "style": "Bold"
+              }
+            ],
+            "key": "44j12",
+            "text": "But quantization turned out to be the smallest of three levers, the only one that can change what the model outputs, and the only one whose benefit disappears under load. Here is what 40-odd measured configurations actually showed.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "av453",
+            "text": "Seven times faster before touching the weights",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 17,
+                "style": "Bold"
+              }
+            ],
+            "key": "a6du9",
+            "text": "The baseline was 7.88 tok/s: Qwen3.8-27B-FP8, no speculative decoding, no prefix caching, sole occupant of the device. Stock configuration.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 43,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 71,
+                "style": "Bold"
+              }
+            ],
+            "key": "duj2l",
+            "text": "Turning on speculative decoding took it to 46.8, and a deeper draft to 58.5, 7.4× on the original 8-bit weights. Swapping to 4-bit adds the final step to 75.0.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1dcqg",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aeg8s",
+            "text": "Everything above the dashed line runs the unmodified FP8 checkpoint. Speculative decoding is output-preserving, the full model verifies every drafted token and discards mismatches, so those six rows carry no accuracy question whatsoever.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 1,
+                "offset": 77,
+                "style": "Italic"
+              }
+            ],
+            "key": "6vdpa",
+            "text": "WHY SPECULATION CANNOT CHANGE THE OUTPUT?\n\nA small drafter proposes the next k tokens. The full model checks all of them in one forward pass and keeps a proposal only if it matches what it would have generated itself; the first mismatch is discarded and replaced. Reading the 28.5 GiB of weights is the expensive part, and one pass reads them once whether it emits 1 token or 15. Wrong guesses cost time, never correctness.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a2jh4",
+            "text": "The drafter's shape mattered more than its depth",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 46,
+                "style": "Bold"
+              },
+              {
+                "length": 6,
+                "offset": 184,
+                "style": "Bold"
+              },
+              {
+                "length": 12,
+                "offset": 87,
+                "style": "Italic"
+              }
+            ],
+            "key": "chjdh",
+            "text": "Two speculative methods work with this model. MTP re-runs a single in-checkpoint layer sequentially, paying a full projection over the ~150,000-token vocabulary for every draft token. DSpark is a separate 5-layer, 2.6 GB drafter that emits a block of seven at once.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 44,
+                "style": "Bold"
+              },
+              {
+                "length": 6,
+                "offset": 91,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 127,
+                "style": "Italic"
+              }
+            ],
+            "key": "7vo43",
+            "text": "Derived from measured pass rates: MTP costs 0.153 of a decode step per draft token, DSpark 0.046, 3.3× cheaper. DSpark accepts fewer tokens per pass (7.91 vs 8.95) and is still 46% faster, because each pass costs so much less.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "645ol",
+            "text": "Acceptance rate is the wrong dial to tune",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 1,
+                "offset": 25,
+                "style": "Italic"
+              },
+              {
+                "length": 14,
+                "offset": 160,
+                "style": "Bold"
+              },
+              {
+                "length": 10,
+                "offset": 195,
+                "style": "Bold"
+              }
+            ],
+            "key": "fc5qv",
+            "text": "The intuitive way to set k is to watch draft acceptance and back off when it falls. That intuition is backwards. Raising k from 7 to 14 dropped acceptance from 98.7% to 68.7% and made generation 27% faster.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 128,
+                "style": "Italic"
+              }
+            ],
+            "key": "73n7r",
+            "text": "Acceptance falls because the late draft positions are near-guesses. But the early ones are near-certain, and throughput follows mean tokens per forward pass, which rose from 7.91 to 10.62.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8gl0a",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4oj7e",
+            "text": "The first five proposals are right essentially always; the fourteenth is right 2.7% of the time. A deep draft is a guaranteed win with a cheap lottery ticket bolted on, the tail wastes a little compute, the head carries the gain. Mean accepted length: 10.62 of a possible 15.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fk13v",
+            "text": "The 4-bit advantage decays to zero under concurrency",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "errkp",
+            "text": "Everything above is one request at a time. Serving several at once is a different measurement, and it reverses the conclusion entirely.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 10,
+                "offset": 25,
+                "style": "Bold"
+              },
+              {
+                "length": 5,
+                "offset": 125,
+                "style": "Bold"
+              }
+            ],
+            "key": "4qajm",
+            "text": "At one request, NVFP4 is 27% faster than FP8. At four, 20%. At eight, 10%. At sixteen concurrent requests the two are within 0.2%, indistinguishable.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f3eg1",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bmpu0",
+            "text": "Upper panel: total tokens/sec across N simultaneous requests. Lower panel: the same data as the percentage advantage of 4-bit, which closes completely by 16 streams.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "3381g",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 119,
+                "style": "Bold"
+              }
+            ],
+            "key": "4g2oj",
+            "text": "The mechanism is the one that makes quantization work in the first place, running backwards. Single-stream decoding is memory-bandwidth-bound: the GB10's 273 GB/s is the constraint, so halving the bytes nearly halves the work. As the batch grows, one weight read serves many sequences at once. The bottleneck moves from bandwidth to compute, and byte count stops mattering.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cbbmn",
+            "text": "Quantization is a single-user optimization. At sixteen streams it buys 0.2%.",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7ilhm",
+            "text": "And it costs something at the other end",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "diqil",
+            "text": "SM121 has no native FP4 compute path, so 4-bit weights are dequantized through Marlin before every matrix multiply. Decoding hides that work. Prefill the pass that reads your prompt, pays for it.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8n3c0",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ck4ie",
+            "text": "The penalty is real and grows with prompt length, but it is 7–9% at long context and absent at 8K. If you feed long prompts, part of the decode win is handed back at prefill.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9chtn",
+            "text": "A tuned setting did not survive changing the weights",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "29srm",
+            "text": "Deeper drafting (k=7 → k=14) is worth +21% on a single request regardless of quantization. Its cost under concurrency depends entirely on which weights are loaded, and the difference is not subtle.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ahnpg",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 1,
+                "offset": 269,
+                "style": "Italic"
+              }
+            ],
+            "key": "bc8n",
+            "text": "On 4-bit weights, deeper drafting costs 4.6% of aggregate throughput. On FP8 it costs 43% and k=14 on FP8 is actually slower at c8 than it is at c4. FP8 has 579,525 KV tokens against NVFP4's 1,323,090, so speculative work competes far harder for scheduling capacity. A k tuned on one quantization does not transfer to another.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d4vve",
+            "text": "The configuration that produced these numbers",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ada0b",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 32,
+                "offset": 208,
+                "style": "Bold"
+              }
+            ],
+            "key": "ffk0f",
+            "text": "--enable-prefix-caching is doing more work than it looks. vLLM computes its default asis_prefix_caching_supported and not is_hybrid, and Qwen3.8-27B reports is_hybrid=True, so on this model prefix caching is supported but off unless you ask, and nothing in the startup log says so. Turning it on was worth 14× on a 19K shared prefix and 22× on a 53K one, at the cost of about 22% of KV cache capacity.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4acb",
+            "text": "What I would tell someone starting this",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 42,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1vim5",
+            "text": "Exhaust decode strategy before quantizing. Speculative decoding and prefix caching were worth 7.4× here and cannot alter a single token of output. Quantization was worth 1.6× and changes what the model knows.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 40,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5mb77",
+            "text": "Verify the defaults you assumed were on. Prefix caching had been silently disabled because of an architecture-dependent default.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 38,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 1,
+                "offset": 131,
+                "style": "Italic"
+              }
+            ],
+            "key": "2bkst",
+            "text": "Tune on the workload you actually run. Draft acceptance was 99% when editing existing code and 29% when writing new code. The same k is a large win in one case and a regression in the other.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 33,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5ceeb",
+            "text": "Measure at your real concurrency. The rank order of these configurations changes completely between one request and sixteen, and every published figure quotes a single operating point.",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8pptl",
+            "text": "Everything here is reproducible",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dqcvq",
+            "text": "Both serving recipes and the complete benchmark harness are public. Between them they contain every number in this article, the exact commands that produced them, and the notes that cost the most time to find.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3eqeo",
+            "text": "FP8",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 37,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "av1u7",
+            "text": "Qwen3.8-27B-FP8-on-a-single-DGX-Spark",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "56d8m",
+            "text": "The recipe that gets 7.4× on unmodified weights. Start here, none of it risks output quality.",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 0,
+                  "text": "serve.sh",
+                  "toIndex": 8
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9e3cf",
+            "text": "serve.sh: runnable launcher, every flag annotated with why it is there, and SPEC=dspark|mtp|off to switch drafters",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1pnke",
+            "text": "bench/: three scripts: single-stream, concurrency (--levels=1,4,8,16) and prefill. They emit acceptance rate and mean tokens-per-pass, not just tok/s",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7pfv3",
+            "text": "RESULTS.md: the full sweep: MTP k=3/8/15, DSpark k=7/14, concurrency curve, prefill curve, KV cache sizes",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 1,
+                "offset": 168,
+                "style": "Italic"
+              }
+            ],
+            "key": "1v1jf",
+            "text": "NOTES.md: the prefix-caching default that silently costs you 14–22× on prefill, the drafter cost analysis, the parser-name trap, and the two scheduling limits that cap k",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a7jhc",
+            "text": "NVFP4 & INT4",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 39,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "659ng",
+            "text": "Qwen3.8-27B-4-bit-on-a-single-DGX-Spark",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "900nb",
+            "text": "Two 4-bit checkpoints measured against the FP8 baseline on the same harness, so the quantization gain is isolated.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ehku1",
+            "text": "Checkpoint comparison: NVFP4 vs MixedInt4-AutoRound on decode, concurrency, prefill and KV capacity. They tie on single-stream decode and nowhere else",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 25,
+                "offset": 121,
+                "style": "Italic"
+              }
+            ],
+            "key": "dnh44",
+            "text": "SM121 guidance: why W4A16 beats W4A4 on hardware with no native FP4 path, and the one environment variable that prevents silently incorrect output",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1gcja",
+            "text": "Layer sensitivity: which projections must stay in higher precision on this hybrid architecture, and why a generic \"quantize every Linear\" recipe damages it",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7p485",
+            "text": "LIMITATIONS.md: both repos carry one, stating plainly what was not measured, where sample sizes are thin, and which earlier conclusions the later data overturned",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 35,
+                "style": "Bold"
+              }
+            ],
+            "key": "3cpnn",
+            "text": "If you only read one file, make it NOTES.md in the FP8 repo. Most of what is in there is not in any documentation, it came from reading engine source to work out why a default was not what it appeared to be.",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "url": "https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "markdown": "| CONCURRENCY | FP8 | NVFP4 | ADVANTAGE | NVFP4 PER STREAM |\n|---|---|---|---|---|\n| c1 | 46.91 | 59.79 | +27% | 59.79 |\n| c4 | 134.21 | 161.36 | +20% | 40.34 |\n| c8 | 208.71 | 229.31 | +10% | 28.66 |\n| c16 | 256.08 | 256.47 | +0.2% | 16.03 |"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "url": "https://github.com/0xBakeer/Qwen3.8-27B-4-bit-on-a-single-DGX-Spark"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "caption": "Prefill throughput by prompt length\nUnique content per run so prefix caching cannot serve it · max_tokens=1 · two cold runs per bar, agreeing within 0.05%",
+                "entityKey": "3c37a6e1-f1a7-4a4a-8c46-15527867191f",
+                "mediaItems": [
+                  {
+                    "localMediaId": "10",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2089083286337277952"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "caption": "Same setting, different weights, at 8 concurrent requests\nAggregate tok/s at c8 · DSpark k=7 vs k=14 · max-num-batched-tokens 16384 on all four",
+                "entityKey": "d0817e2f-97ed-425d-af8c-39af1d7bc0aa",
+                "mediaItems": [
+                  {
+                    "localMediaId": "12",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2089083461722140672"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "caption": "Throughput by configuration.\nSingle stream · edit-heavy workload · 3,000 output tokens · temperature 0 · thinking disabled",
+                "entityKey": "f2377eaf-5f92-4d29-a909-d0a715e2bfdf",
+                "mediaItems": [
+                  {
+                    "localMediaId": "4",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2089082016167792640"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "markdown": "| Category | Details |\n|---|---|\n| MODEL | Qwen3.8-27B dense, multimodal, hybrid attention (48 GatedDeltaNet + 16 full-attention layers), 262,144-token native context |\n| 8-BIT | Qwen/Qwen3.8-27B-FP8 28.5 GiB |\n| 4-BIT | unsloth/Qwen3.8-27B-NVFP4 (22.6 GB) · Qwen3.8-27B-MixedInt4-AutoRound (20.8 GB) |\n| DRAFTER | Qwen3.8-27B-DSpark 5 layers, 2.6 GB, block_size 7 |\n| HARDWARE | DGX Spark, GB10 Grace Blackwell, 128 GB unified memory, 273 GB/s, SM121 |\n| ENGINE | vLLM v0.27.1-aarch64, tensor-parallel 1, gpu-memory-utilization 0.85, max-model-len 262144 |"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "caption": "Acceptance probability by draft position\nDSpark k=14 · NVFP4 · edit-heavy workload · engine-reported per-position rates",
+                "entityKey": "1f90e137-44e0-42b2-a1c6-66ce018ef908",
+                "mediaItems": [
+                  {
+                    "localMediaId": "14",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2089088562129932288"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "markdown": "```bash\nvllm serve Qwen/Qwen3.8-27B-FP8 \\\n  --max-model-len 262144 \\\n  --gpu-memory-utilization 0.85 \\\n  --max-num-batched-tokens 16384 \\\n  --enable-prefix-caching \\\n  --reasoning-parser qwen3 --tool-call-parser qwen3_xml \\\n  --speculative-config '{\"method\":\"dspark\",\n    \"model\":\"<dspark-drafter-repo>\",\n    \"num_speculative_tokens\":7,\n    \"draft_sample_method\":\"probabilistic\"}'\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "caption": "Aggregate throughput vs concurrency, and the closing gap\nDistinct prompts per stream · 1,500 output tokens each · DSpark k=7 on both · aggregate tok/s",
+                "entityKey": "f9c3620c-b5b8-4b55-9104-fbcc816b64e7",
+                "mediaItems": [
+                  {
+                    "localMediaId": "8",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2089082841741082624"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHP3qLjRW0AAKAAIcWLtsJ1awAAAA",
+          "media_id": "2089083286337277952",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 81.89,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 251,
+                    "red": 251
+                  }
+                },
+                {
+                  "percentage": 8.51,
+                  "rgb": {
+                    "blue": 208,
+                    "green": 106,
+                    "red": 58
+                  }
+                },
+                {
+                  "percentage": 8.17,
+                  "rgb": {
+                    "blue": 50,
+                    "green": 101,
+                    "red": 217
+                  }
+                },
+                {
+                  "percentage": 1.09,
+                  "rgb": {
+                    "blue": 155,
+                    "green": 179,
+                    "red": 235
+                  }
+                },
+                {
+                  "percentage": 0.34,
+                  "rgb": {
+                    "blue": 234,
+                    "green": 191,
+                    "red": 172
+                  }
+                }
+              ]
+            },
+            "original_img_height": 980,
+            "original_img_url": "https://pbs.twimg.com/media/HP3qLjRW0AAHR-P.jpg",
+            "original_img_width": 1912
+          },
+          "media_key": "3_2089083286337277952"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHP3pBnhWkAAKAAIcWLtsJ1awAAAA",
+          "media_id": "2089082016167792640",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 83.16,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 251,
+                    "red": 251
+                  }
+                },
+                {
+                  "percentage": 10.67,
+                  "rgb": {
+                    "blue": 232,
+                    "green": 179,
+                    "red": 156
+                  }
+                },
+                {
+                  "percentage": 6.11,
+                  "rgb": {
+                    "blue": 151,
+                    "green": 179,
+                    "red": 234
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1024,
+            "original_img_url": "https://pbs.twimg.com/media/HP3pBnhWkAAfkiF.jpg",
+            "original_img_width": 1894
+          },
+          "media_key": "3_2089082016167792640"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHP3pxrBXQAAKAAIcWLtsJ1awAAAA",
+          "media_id": "2089082841741082624",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 97.12,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 252,
+                    "red": 251
+                  }
+                },
+                {
+                  "percentage": 1.44,
+                  "rgb": {
+                    "blue": 50,
+                    "green": 101,
+                    "red": 217
+                  }
+                },
+                {
+                  "percentage": 1.05,
+                  "rgb": {
+                    "blue": 229,
+                    "green": 200,
+                    "red": 190
+                  }
+                },
+                {
+                  "percentage": 0.33,
+                  "rgb": {
+                    "blue": 150,
+                    "green": 175,
+                    "red": 234
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1268,
+            "original_img_url": "https://pbs.twimg.com/media/HP3pxrBXQAASvQ4.jpg",
+            "original_img_width": 1912
+          },
+          "media_key": "3_2089082841741082624"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHP3u+pIWEAAKAAIcWLtsJ1awAAAA",
+          "media_id": "2089088562129932288",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 76.96,
+                  "rgb": {
+                    "blue": 253,
+                    "green": 251,
+                    "red": 251
+                  }
+                },
+                {
+                  "percentage": 21.85,
+                  "rgb": {
+                    "blue": 50,
+                    "green": 101,
+                    "red": 217
+                  }
+                },
+                {
+                  "percentage": 1.19,
+                  "rgb": {
+                    "blue": 143,
+                    "green": 170,
+                    "red": 231
+                  }
+                }
+              ]
+            },
+            "original_img_height": 790,
+            "original_img_url": "https://pbs.twimg.com/media/HP3u-pIWEAAe3JN.jpg",
+            "original_img_width": 1926
+          },
+          "media_key": "3_2089088562129932288"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHP3qVwoXcAAKAAIcWLtsJ1awAAAA",
+          "media_id": "2089083461722140672",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 90.2,
+                  "rgb": {
+                    "blue": 254,
+                    "green": 251,
+                    "red": 251
+                  }
+                },
+                {
+                  "percentage": 3.46,
+                  "rgb": {
+                    "blue": 50,
+                    "green": 101,
+                    "red": 217
+                  }
+                },
+                {
+                  "percentage": 3.44,
+                  "rgb": {
+                    "blue": 208,
+                    "green": 106,
+                    "red": 58
+                  }
+                },
+                {
+                  "percentage": 2.89,
+                  "rgb": {
+                    "blue": 233,
+                    "green": 187,
+                    "red": 165
+                  }
+                }
+              ]
+            },
+            "original_img_height": 882,
+            "original_img_url": "https://pbs.twimg.com/media/HP3qVwoXcAAyL_6.jpg",
+            "original_img_width": 1914
+          },
+          "media_key": "3_2089083461722140672"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

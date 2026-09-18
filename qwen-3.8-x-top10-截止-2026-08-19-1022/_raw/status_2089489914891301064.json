@@ -1,0 +1,598 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/fujikawa/status/2089489914891301064",
+    "id": "2089489914891301064",
+    "text": "Cursor Originの登場やClaude Codeの自律運用、QwenなどのローカルLLM進化により開発環境の主導権争いが加速しています。エージェントの自走やインフラ再編が進む中、僕たちが今選ぶべき実践的な設計と運用の勘所をまとめました。 https://x.com/i/article/2089489623919804416",
+    "raw_text": {
+      "text": "Cursor Originの登場やClaude Codeの自律運用、QwenなどのローカルLLM進化により開発環境の主導権争いが加速しています。エージェントの自走やインフラ再編が進む中、僕たちが今選ぶべき実践的な設計と運用の勘所をまとめました。 https://t.co/cHsXEtRo7y",
+      "display_text_range": [
+        0,
+        146
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            123,
+            146
+          ],
+          "original": "https://t.co/cHsXEtRo7y",
+          "replacement": "https://x.com/i/article/2089489623919804416",
+          "display": "x.com/i/article/2089…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "fujikawa",
+      "url": "https://x.com/fujikawa",
+      "id": "4751461",
+      "followers": 2107,
+      "following": 992,
+      "likes": 6983,
+      "media_count": 2032,
+      "name": "˗ˏˋ 藤川 忠彦 ˎˊ˗",
+      "description": "音楽制作家〜渋谷の複数ＩＴ系企業創業社長〜衰えていく脳力をＡＩで補完する高齢者。ＰC、ＩＴ、ＡＩを黎明期から渡り歩いている。",
+      "raw_description": {
+        "text": "音楽制作家〜渋谷の複数ＩＴ系企業創業社長〜衰えていく脳力をＡＩで補完する高齢者。ＰC、ＩＴ、ＡＩを黎明期から渡り歩いている。",
+        "facets": []
+      },
+      "location": "茅ヶ崎市",
+      "banner_url": "https://pbs.twimg.com/profile_banners/4751461/1772411141",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1912394643582365696/_9kO8O3N_200x200.jpg",
+      "joined": "Sun Apr 15 12:31:11 +0000 2007",
+      "protected": false,
+      "website": {
+        "url": "https://www.fujikawa.com",
+        "display_url": "fujikawa.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "quotes": 0,
+    "created_at": "Mon Aug 17 23:09:51 +0000 2026",
+    "created_timestamp": 1787008191,
+    "possibly_sensitive": false,
+    "views": 2505,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "ja",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-17T23:09:51.000Z",
+      "modified_at": "2026-08-17T23:09:51.000Z",
+      "id": "2089489623919804416",
+      "title": "僕のフォロワーさんたちが、直近24時間でつぶやいたこと",
+      "preview_text": "開発環境の主導権争いがコードの置き場所にまで広がり、ローカルモデルの実用化とエージェントの自律運用が一気に具体化した24時間でした。僕には、単なるモデルの賢さ比べから、日々の作業インフラを誰が握るかとい",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHP9b1RLbAAAKAAIAAAAAAEiAZQAA",
+        "media_id": "2089489722825703424",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 41.84,
+                "rgb": {
+                  "blue": 44,
+                  "green": 38,
+                  "red": 30
+                }
+              },
+              {
+                "percentage": 16.21,
+                "rgb": {
+                  "blue": 159,
+                  "green": 183,
+                  "red": 200
+                }
+              },
+              {
+                "percentage": 5.73,
+                "rgb": {
+                  "blue": 83,
+                  "green": 61,
+                  "red": 21
+                }
+              },
+              {
+                "percentage": 5.16,
+                "rgb": {
+                  "blue": 66,
+                  "green": 92,
+                  "red": 108
+                }
+              },
+              {
+                "percentage": 2.9,
+                "rgb": {
+                  "blue": 21,
+                  "green": 156,
+                  "red": 226
+                }
+              }
+            ]
+          },
+          "original_img_height": 1024,
+          "original_img_url": "https://pbs.twimg.com/media/HP9b1RLbAAAupe2.jpg",
+          "original_img_width": 2560
+        },
+        "media_key": "3_2089489722825703424"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f2c3u",
+            "text": "開発環境の主導権争いがコードの置き場所にまで広がり、ローカルモデルの実用化とエージェントの自律運用が一気に具体化した24時間でした。僕には、単なるモデルの賢さ比べから、日々の作業インフラを誰が握るかという現実的な競争へ潮目が変わったように見えます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 66,
+                  "text": "XFreeze",
+                  "toIndex": 74
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e0rur",
+            "text": "エディタの枠を超えた動きとして僕が最も注目したのが、Cursorが発表したコードホスティング機能のCursor Originです。 @XFreeze さんは、Cursorが単なるAIコーディングツールにとどまらず自らコードをホストする基盤になったと指摘し、GitHub依存からの脱却を予感させると報告していました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 11,
+                  "text": "keitaro_aigc",
+                  "toIndex": 24
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4imtu",
+            "text": "この新機能について、 @keitaro_aigc さんは、コードの置き場所は引っ越しコストが極めて高いため、速さに釣られていきなり本番環境を移すべきではないと釘を刺しています。まずは検証用リポジトリを1本用意し、プルリクエストを1本試すだけで十分見極められるという助言は、僕にとっても非常に実用的だと感じました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 10,
+                  "text": "kinopee_ai",
+                  "toIndex": 21
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1j962",
+            "text": "実際に移行を試した @kinopee_ai さんは、GitHubの障害ダウンに遭遇した経験から、リモートのリポジトリ追加によってプッシュ先を冗長化できる価値を強調しています。内部アプリからOrigin API経由でチェックを投稿し、ルールセットとmerge-when-readyを連携させてサードパーティなしでCI（継続的インテリジェンス）を自動完結させた運用実績は、僕たち開発者にとって心強い具体例です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 32,
+                  "text": "keitaro_aigc",
+                  "toIndex": 45
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ec9du",
+            "text": "開発ツールの進化はCLI（コマンドライン環境）でも進んでおり、 @keitaro_aigc さんはCodex CLI 0.147.0のアップデートを取り上げていました。AgentPluginsの追加や永続セクション機能に加え、自動承認を行う--approve-for-meフラグが実装されたことで、日常的なレビュー作業の摩擦が大幅に減ると僕も実感しています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 23,
+                  "text": "thsottiaux",
+                  "toIndex": 34
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "clro",
+            "text": "モデルの利用環境に関しても重要な変更があり、 @thsottiaux さんはGPT-5.6 Solの100万トークンコンテキストが、APIキーだけでなく通常のChatGPTアカウント経由でも利用可能になったと報告しています。設定ファイルであるconfig.tomlを適切に書き換えることで長大な文脈を扱えるようになる挙動は、僕の作業効率にも直結する朗報でした。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 25,
+                  "text": "aistarjp",
+                  "toIndex": 34
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rhis",
+            "text": "ツールのUI操作についても見逃せない知見があり、 @aistarjp さんはCodexの注釈機能を単なるコメントとしてではなく、リアルタイムプレビューを伴う修正指示として使う手法を紹介していました。画面内で文言や余白を確認しながら一括で指示を飛ばせるため、LP（ランディングページ）全体の調整精度が劇的に上がると僕も感心しました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 37,
+                  "text": "ClaudeCode_UT",
+                  "toIndex": 51
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eilgo",
+            "text": "一方で、Claude Codeの運用設計に踏み込んだ発信も目立ちました。 @ClaudeCode_UT さんは、タスク終了条件を満たすまで自律的に試行を繰り返す/goalコマンドの仕組みを図解し、各ターンの終わりに小型の高速モデルが判定を行うことで無駄のない自走が実現できると解説しており、僕の自動化設計にすぐ取り入れたい内容でした。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 15,
+                  "text": "onofumi_AI",
+                  "toIndex": 26
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3iuba",
+            "text": "設定ファイルの管理について、 @onofumi_AI さんはCLAUDE.mdに動画生成モデルのseedance2.5や720p、アスペクト比16:9といった指定をあらかじめ記述しておく手法を提案しています。プロンプトで毎回モデル名を打つ手間をなくし、いつもの設定を自動適用させるアプローチは、僕も見習うべきスマートな工夫です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 19,
+                  "text": "dansyu_callenge",
+                  "toIndex": 35
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bpqlc",
+            "text": "作業の引き継ぎやすさという観点から、 @dansyu_callenge さんは作業終了時に「やったこと」「決めたこと」「次にやること」を3行から5行で残す習慣を勧めていました。Claude Codeの混雑時にCodexへ切り替えて作業を続行する際にも、この短いメモがあるだけで復帰のスムーズさが段違いになると僕も痛感しています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 31,
+                  "text": "cline",
+                  "toIndex": 37
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f0e98",
+            "text": "ローカル環境で動くオープンウェイトモデルの進展も目覚ましく、 @cline さんはQwen3.8-27BがDeepSeek V4-ProやGPT-5.6 Lunaに匹敵するスコアを記録したと伝えています。ローカルモデルがフロンティアモデルと同等の水準に達したという事実は、僕にとっても計算資源の選び方を考え直す契機になりました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 21,
+                  "text": "shi3z",
+                  "toIndex": 27
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "djiis",
+            "text": "このQwen3.8-27Bを実戦投入した @shi3z さんは、自作のハーネスと組み合わせることで、関数やグラフ描画がリアルタイムで動く表計算ツールを完成させたと報告しています。Web検索機能を持たせず、モデル自身の知識だけで実用的なツールを組み上げられる様子に、僕もローカルLLMの底力を感じました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 16,
+                  "text": "gosrum",
+                  "toIndex": 23
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1c7j7",
+            "text": "同じくローカルモデルを活用する @gosrum さんは、Qwen3.8-27Bは動作速度こそ遅いものの、UIのスクリーンショット撮影やテストを含めて/goalコマンドで最後までやりきってくれる安心感があると評価しています。僕の目にも、速度を犠牲にしてでも確実に自律完結してくれるモデルの価値は高く映ります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 20,
+                  "text": "antirez",
+                  "toIndex": 28
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ft7g8",
+            "text": "ハードウェア限界を突破する試みとして、 @antirez さんはDGX StationとDwarfStar環境でDeepSeek v4 PROを動かし、VRAMとRAMの動的割り当てによって50トークン毎秒のピーク速度を達成したと明かしています。巨大モデルをローカルで実用速度に押し上げる技術的アプローチは、僕にとって非常に刺激的でした。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 23,
+                  "text": "tom_doerr",
+                  "toIndex": 33
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "126r3",
+            "text": "MacBook Pro上での最適化について、 @tom_doerr さんは純粋なC言語とMetalシェーダーを用い、48GBメモリの環境で3970億パラメータのQwen3.5-397B-A17Bを4.4トークン毎秒以上で動作させるリポジトリを紹介しています。大容量モデルを手元のマシンで動かす選択肢が現実味を帯びてきたと僕も感じます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 18,
+                  "text": "NousResearch",
+                  "toIndex": 31
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5priq",
+            "text": "エージェントの構造設計に関しては、 @NousResearch がHermes DesktopにBot Modeを追加したと発表していました。各Botに個別の役割やモデル、メモリ、スキルを割り当て、Bot同士を自律的に対話させられる仕組みは、マルチエージェントをローカルで手軽に組みたい僕の好奇心をくすぐります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 20,
+                  "text": "omarsar0",
+                  "toIndex": 29
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "55ttu",
+            "text": "しかしスキルの乱立には落とし穴もあり、 @omarsar0 さんは56,804件もの公開エージェントスキルが存在する一方で、システムプロンプト内の信頼できるトリガースロットは100未満しかないという研究論文を引用しています。僕たち開発者がどれだけスキルを詰め込んでも、ロングテールは呼び出されないという指摘は耳が痛い話です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 17,
+                  "text": "keitaro_aigc",
+                  "toIndex": 30
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "brnvi",
+            "text": "エージェントの権限管理について、 @keitaro_aigc さんはMCP（モデル・コンテキスト・プロトコル）とスキルの数が増えるほど攻撃対象領域が広がる危険性を訴えています。42種類の攻撃手法と18種類の防御策を分析した論文を引き合いに、「読む・隔離する・人が押す」という3つの境界線を厳格に引く重要性を説いており、僕も深く同意しました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 17,
+                  "text": "LangChain",
+                  "toIndex": 27
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4cv4k",
+            "text": "エージェント間の支払いに着目した @LangChain は、AgentCoreを通じてエージェント自身が利用するAPIの決済を行える仕組みを発表しています。外部ツールの呼び出しだけでなく、資金決済まで自律ループに組み込まれる未来がすぐそこまで来ていることに、僕は驚きを隠せません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 64,
+                  "text": "CharaspowerAI",
+                  "toIndex": 78
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5bkf0",
+            "text": "動画生成AIの領域では、Seedance 2.5とMiniMax H3の2大モデルを巡る検証がタイムラインを席巻していました。 @CharaspowerAI さんは、MiniMax H3がテキスト、画像9枚、動画3本、音声3つを同時に参照できる怪物的な入力を備え、同期したステレオサウンドまで出力できる仕様を絶賛しており、僕もその表現力に圧倒されました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 16,
+                  "text": "kiyoshi_shin",
+                  "toIndex": 29
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3ak5n",
+            "text": "ローカルでの動画生成を追求する @kiyoshi_shin さんは、MiniMax H3コミュニティから登場したContext Loopと呼ばれる手法によって、15秒の生成限界を超えて一貫性を保ったまま長尺動画を延長できるようになったと解説しています。ローカルモデルの拡張スピードの速さは、僕の想像をはるかに超えています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 21,
+                  "text": "fal",
+                  "toIndex": 25
+                },
+                {
+                  "fromIndex": 60,
+                  "text": "pika_labs",
+                  "toIndex": 70
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "568d4",
+            "text": "一方のSeedance 2.5について、 @fal は1080pの高品質エンドポイントの提供開始をアナウンスしました。 @pika_labs さんもAPI経由で他社比最大60%安く1080p出力が可能になったとアピールしており、高解像度な映像生成のコスト破壊が急速に進んでいる様子を僕は実感しています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 20,
+                  "text": "ComfyUI",
+                  "toIndex": 28
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f6eik",
+            "text": "映像制作の実践的なワークフローとして、 @ComfyUI はテクスチャやライティングを排したBlenderの簡易ブロックアウト映像を参照画像と組み合わせ、Seedance 2.5で一発レンダリングする手法を公開しました。3Dのカメラワークや構図を完全に制御しながらAIで質感を乗せるこのパイプラインは、僕にとっても極めて実用的です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 29,
+                  "text": "tatsuki_nowave",
+                  "toIndex": 44
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a0j4u",
+            "text": "ビジネスやプラットフォームの再編も激しさを増しています。 @tatsuki_nowave さんは、決済大手のStripeがAIモデル中継サービスのOpenRouterを70億ドル超（約1.1兆円）で買収する最終合意に達したという報道を整理していました。わずか3カ月前の評価額13億ドルから5倍以上に急騰した背景には、AIのトラフィックと決済の結節点を握る狙いがあると僕も見ています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 15,
+                  "text": "VentureBeat",
+                  "toIndex": 27
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e2cne",
+            "text": "APIコストの変動に関して、 @VentureBeat はDeepSeekがV4 APIの価格を最大1100%引き上げたと報じ、安価な推論コストは恒久的なものではないと警鐘を鳴らしています。モデルルーティングやキャッシュ、スケジューリングを自前で備えるインフラ設計が不可欠になるという見立ては、僕の今後のシステム構成案にも強く影響を与えそうです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 20,
+                  "text": "testingcatalog",
+                  "toIndex": 35
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fkmv7",
+            "text": "データセンターを巡るインフラ投資では、 @testingcatalog さんがOpenAI、SB Energy、NVIDIA、米国エネルギー省の連携によるPORTS-Pikeキャンパスでの8ギガワット規模のIT容量確保計画を伝えています。AIの進化がそのまま国家レベルの電力網や送電制限と衝突している現実を、僕も改めて痛感させられました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 41,
+                  "text": "connect24h",
+                  "toIndex": 52
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bi9bd",
+            "text": "デスクトップの操作履歴をAIが記憶する新機能についても議論が沸き起こっています。 @connect24h さんは、macOS版ChatGPTのComputer Historyがクリックや打鍵から1本のタイムラインを生成し、作業癖の学習や中断作業の引き継ぎに利用される仕組みに対し、業務端末の全操作ログがAIの文脈になる危うさを指摘していました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "mentions": [
+                {
+                  "fromIndex": 12,
+                  "text": "pop_ikeda",
+                  "toIndex": 22
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5oqe3",
+            "text": "このログ活用について、 @pop_ikeda さんは、従来のプロンプトによる指示から、人間の操作ログそのものをAIが観察して仕事を学習するフェーズへ移行したと位置づけています。僕にとっては、作業が劇的に効率化される恩恵と、機密情報がAI基盤へ常時吸い上げられるセキュリティリスクとの間で、どう折り合いをつけるべきか深く考えさせられる話題でした。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ej21s",
+            "text": "今日のタイムラインを振り返ると、個々のプロンプトの工夫やモデル単体の性能差を競うフェーズは終わり、エージェントを自律的に走らせるループ構造や、ローカルとクラウドを組み合わせた実行基盤の設計へと主戦場が完全に移ったことが分かります。僕たちが手にする道具が高度化するほど、何を実行させるかではなく、どの境界線で権限を区切り、どのインフラにデータを預けるかという、アーキテクチャの判断こそが問われているように思えます。",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": []
+      },
+      "media_entities": []
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

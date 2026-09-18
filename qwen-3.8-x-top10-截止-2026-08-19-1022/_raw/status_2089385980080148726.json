@@ -1,0 +1,99 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/OrcaRouter/status/2089385980080148726",
+    "id": "2089385980080148726",
+    "text": "We just shipped our official Qwen 3.8 27B Uncensored MLX build. Local. Uncensored. For🍎\n\n2-bit, 4-bit, 6-bit & 8-bit — pick your poison based on RAM and speed.\n\nNo CUDA. No cloud. Just your Mac and the weights. Have fun!\nhttps://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+    "raw_text": {
+      "text": "We just shipped our official Qwen 3.8 27B Uncensored MLX build. Local. Uncensored. For🍎\n\n2-bit, 4-bit, 6-bit &amp; 8-bit — pick your poison based on RAM and speed.\n\nNo CUDA. No cloud. Just your Mac and the weights. Have fun!\nhttps://t.co/b3gXsHeSdk",
+      "display_text_range": [
+        0,
+        248
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            225,
+            248
+          ],
+          "original": "https://t.co/b3gXsHeSdk",
+          "replacement": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "display": "huggingface.co/orcarouter/Qwe…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "OrcaRouter",
+      "url": "https://x.com/OrcaRouter",
+      "id": "2049258250923810816",
+      "followers": 8360,
+      "following": 34,
+      "likes": 470,
+      "media_count": 175,
+      "name": "OrcaRouter 🐳",
+      "description": "200+ Models. Programmable Routing. 0% Markup. \nUnified Billing. BYOK. Agent Firewall. Guardrails. One Gateway. \nJoin the builders→ https://discord.gg/YEubt8enRA",
+      "raw_description": {
+        "text": "200+ Models. Programmable Routing. 0% Markup. \nUnified Billing. BYOK. Agent Firewall. Guardrails. One Gateway. \nJoin the builders→ https://t.co/JN416venRK",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              131,
+              154
+            ],
+            "original": "https://t.co/JN416venRK",
+            "replacement": "https://discord.gg/YEubt8enRA",
+            "display": "discord.gg/YEubt8enRA"
+          }
+        ]
+      },
+      "location": "San Francisco",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2049258250923810816/1781713007",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2054951018102964224/GLp-Nttr_200x200.jpg",
+      "joined": "Tue Apr 28 22:43:39 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "https://www.orcarouter.ai/",
+        "display_url": "orcarouter.ai"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "organization"
+      },
+      "avatar_color": null
+    },
+    "replies": 137,
+    "retweets": 398,
+    "likes": 5299,
+    "bookmarks": 7862,
+    "quotes": 61,
+    "created_at": "Mon Aug 17 16:16:51 +0000 2026",
+    "created_timestamp": 1786983411,
+    "possibly_sensitive": false,
+    "views": 2405333,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "card": {
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX · Hugging Face",
+      "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "domain": "huggingface.co",
+      "image": {
+        "width": 800,
+        "height": 419,
+        "url": "https://pbs.twimg.com/card_img/2089385981489324032/bpW4WqsZ?format=jpg&name=800x419"
+      }
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

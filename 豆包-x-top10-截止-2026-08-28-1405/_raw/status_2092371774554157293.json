@@ -1,0 +1,1370 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/yang02010/status/2092371774554157293",
+    "id": "2092371774554157293",
+    "text": "卧槽！字节正式放大招，正面硬刚腾讯WorkBuddy！\n\n Agent 工作台「豆包工作」正式上线！\n\n从只会聊天，直接跃迁到 Computer Use 操控电脑！！  深度打通飞书上下文，支持本地虚拟桌面+云电脑，内置200+连接器，还能组建多Agent协作小队！！ https://x.com/i/article/2092365506150019072",
+    "raw_text": {
+      "text": "卧槽！字节正式放大招，正面硬刚腾讯WorkBuddy！\n\n Agent 工作台「豆包工作」正式上线！\n\n从只会聊天，直接跃迁到 Computer Use 操控电脑！！  深度打通飞书上下文，支持本地虚拟桌面+云电脑，内置200+连接器，还能组建多Agent协作小队！！ https://t.co/gRs0CQVNmb",
+      "display_text_range": [
+        0,
+        158
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            135,
+            158
+          ],
+          "original": "https://t.co/gRs0CQVNmb",
+          "replacement": "https://x.com/i/article/2092365506150019072",
+          "display": "x.com/i/article/2092…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "yang02010",
+      "url": "https://x.com/yang02010",
+      "id": "105740846",
+      "followers": 1635,
+      "following": 1850,
+      "likes": 1505,
+      "media_count": 87,
+      "name": "牙仔⇌",
+      "description": "只分享两样东西：\n1️⃣ AI工具\n2️⃣ 高价值工作流",
+      "raw_description": {
+        "text": "只分享两样东西：\n1️⃣ AI工具\n2️⃣ 高价值工作流",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/105740846/1787535706",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2091703158162735104/5qPUTOwi_200x200.jpg",
+      "joined": "Sun Jan 17 09:28:11 +0000 2010",
+      "protected": false,
+      "website": {
+        "url": "https://www.youtube.com/channel/UC8tzdUxeW09PdU84V-y7uPw",
+        "display_url": "youtube.com/channel/UC8tzd…"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 2,
+    "retweets": 1,
+    "likes": 3,
+    "bookmarks": 8,
+    "quotes": 1,
+    "created_at": "Tue Aug 25 22:01:20 +0000 2026",
+    "created_timestamp": 1787695280,
+    "possibly_sensitive": false,
+    "views": 2231,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-25T22:01:20.000Z",
+      "modified_at": "2026-08-25T22:01:20.000Z",
+      "id": "2092365506150019072",
+      "title": "豆包工作完整上手实战教程：从下载安装到让 AI 真正接管电脑替你干活",
+      "preview_text": "工具定位：字节跳动官方发布的独立办公 Agent 工作台，主打 Computer Use 电脑操作、飞书组织上下文继承、云电脑长效托管与多智能体协作。\n官方入口：https://www.doubao.com/work（新用户下载安装可免费领取 30",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHQmVtSQbEAAKAAIAAAAABk16LgAA",
+        "media_id": "2092368107117678592",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 34.38,
+                "rgb": {
+                  "blue": 18,
+                  "green": 2,
+                  "red": 1
+                }
+              },
+              {
+                "percentage": 14.69,
+                "rgb": {
+                  "blue": 74,
+                  "green": 21,
+                  "red": 2
+                }
+              },
+              {
+                "percentage": 11.72,
+                "rgb": {
+                  "blue": 224,
+                  "green": 224,
+                  "red": 224
+                }
+              },
+              {
+                "percentage": 9.25,
+                "rgb": {
+                  "blue": 139,
+                  "green": 47,
+                  "red": 8
+                }
+              },
+              {
+                "percentage": 3.89,
+                "rgb": {
+                  "blue": 2,
+                  "green": 206,
+                  "red": 228
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HQmVtSQbEAAiUhv.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2092368107117678592"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 81,
+                  "text": "https://www.doubao.com/work",
+                  "toIndex": 108
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 4,
+                "offset": 76,
+                "style": "Bold"
+              }
+            ],
+            "key": "5b05n",
+            "text": "工具定位：字节跳动官方发布的独立办公 Agent 工作台，主打 Computer Use 电脑操作、飞书组织上下文继承、云电脑长效托管与多智能体协作。\n官方入口：https://www.doubao.com/work（新用户下载安装可免费领取 30 天订阅权益）。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "des3f",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 19,
+                "offset": 28,
+                "style": "Bold"
+              }
+            ],
+            "key": "1e1ta",
+            "text": "字节跳动正式推出了面向职场与一人公司的全新生产力形态——「豆包工作」（Doubao Work）。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5pmsd",
+            "text": "很多人以为这又是另一个套壳的对话大模型，但实际体验下来，它的定位发生了本质变化：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 63,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fl7cf",
+            "text": "它不再是一个陪你聊天的对话框，而是一个真正具备 Computer Use 能力、能直接操控电脑、读懂组织上下文的“数字员工”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 49,
+                "style": "Bold"
+              }
+            ],
+            "key": "24a7q",
+            "text": "如果你平时用过 Codex 或 Claude 的自动化工作流，你会发现「豆包工作」最大的优势在于：它原生打通了国内的办公生态（尤其是飞书与各类企业连接器），彻底解决了通用大模型“无法触达本地文件、不知道企业内部上下文、只能给建议无法动手执行”的痛点。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3s9kj",
+            "text": "下面是一份完整的从零上手到实战落地指南，文内整理了 5 套可以直接复制套用的真实工作流 Prompt。\n",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9j634",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "21e7n",
+            "text": "01 / 先搞清本质：它到底是什么、和传统 AI 有何不同？",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 8,
+                "style": "Bold"
+              }
+            ],
+            "key": "p85u",
+            "text": "豆包工作的核心是「工作任务（Agent）」模式：你只需要用自然语言描述最终目标，它会自动拆解步骤、调用工具、打开应用、持续推进，直到交付可用结果。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "720bh",
+            "text": "🌟 核心能力清单：",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 3,
+                "length": 2,
+                "offset": 3
+              },
+              {
+                "key": 4,
+                "length": 1,
+                "offset": 114
+              },
+              {
+                "key": 5,
+                "length": 1,
+                "offset": 186
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 27,
+                "offset": 3,
+                "style": "Bold"
+              },
+              {
+                "length": 11,
+                "offset": 114,
+                "style": "Bold"
+              },
+              {
+                "length": 24,
+                "offset": 186,
+                "style": "Bold"
+              }
+            ],
+            "key": "f8l58",
+            "text": "1. 🖥️ 本地与云端 Computer Use（操作电脑）：\n   - 像真人一样模拟视觉识别、鼠标移动、点击、键盘输入；\n   - 能够自主打开浏览器搜索、读取本地指定文件夹、清洗数据并自动填入 Excel 表格。\n\n2. 📱 手机远程跨设备派单：\n   - 人在通勤或出差途中，用手机豆包 App 发送指令，工位电脑在后台自动跑任务，到办公室直接收割成果。\n\n3. 🔌 200+ 专属技能（Skill）与高频连接器：\n   - 原生打通飞书、企业微信、天眼查、同花顺、高德地图、滴滴企业版等；\n   - 支持一键调取财报数据、工商信息、发票报销与路线规划。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 6,
+                "length": 1,
+                "offset": 3
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 34,
+                "offset": 3,
+                "style": "Bold"
+              }
+            ],
+            "key": "5b4tu",
+            "text": "4. 👥 工作伙伴小队（Multi-Agent Swarm 多智能体协同）：\n   - 可在同一个任务中组建由“行业调研员、文案主笔、数据分析师、视觉设计师”组成的 AI 战队分工协同。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 7,
+                "length": 1,
+                "offset": 3
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 3,
+                "style": "Bold"
+              },
+              {
+                "length": 6,
+                "offset": 86,
+                "style": "Bold"
+              }
+            ],
+            "key": "2c9eh",
+            "text": "5. 🎨 多模态一站式生成与精细化局改：\n   - 集成 Seedream（高质量图像生成）与 Seedance（动态视频生成）；\n   - 生成的文档、PPT 和表格支持“指哪改哪”，直接框选局部段落精修，无需重写全文。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 8,
+                "length": 1,
+                "offset": 3
+              }
+            ],
+            "inlineStyleRanges": [
+              {
+                "length": 20,
+                "offset": 3,
+                "style": "Bold"
+              }
+            ],
+            "key": "95qjl",
+            "text": "6. 🏢 深度继承飞书组织上下文（核心护城河）：\n   - 登录飞书账号后，AI 直接继承权限体系，能够安全读取聊天记录、妙记会议纪要、知识库与项目看板。\n",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 9,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9iihh",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ejjlq",
+            "text": "02 / 5 分钟极简上手与安全配置指南",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aq6pd",
+            "text": "步骤 1：下载正版客户端",
+            "type": "header-two"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 7,
+                  "text": "https://www.doubao.com/work",
+                  "toIndex": 34
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8fitr",
+            "text": "访问官网直达：https://www.doubao.com/work；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "85v7f",
+            "text": "下载对应系统的独立安装包（支持 Windows 与 macOS，安装体积约 1GB）；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9vms4",
+            "text": "安装完成后系统右侧会自动集成桌面悬浮球，支持快捷键随时唤起。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a0u5o",
+            "text": "步骤 2：登录与最小化权限授权（重要避坑）",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 6,
+                "offset": 11,
+                "style": "Bold"
+              }
+            ],
+            "key": "ffhbt",
+            "text": "推荐登录方式：优先使用飞书账号登录，这样它才能真正发挥“读懂工作痕迹”的威力；普通个人用户亦可使用手机号登录；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 33,
+                "offset": 25,
+                "style": "Bold"
+              }
+            ],
+            "key": "4gmiq",
+            "text": "最小权限原则：首次使用会弹出文件夹与应用授权弹窗。建议只授权特定工作文件夹（如 D:\\今日素材 或 桌面/工作任务），严禁将包含个人身份证件、财务密码、私密合同的系统根目录全部直接授权。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4fc4q",
+            "text": "步骤 3：熟悉三栏界面与 2 大运行模式",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "adcsf",
+            "text": "左侧栏：项目管理与任务进度列表；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "cdo4k",
+            "text": "中间栏：对话交互、执行思维链（CoT）展开与交付结果预览；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 3,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "cefu",
+            "text": "右侧栏：技能商店（Skill）、外部连接器与工作伙伴小队配置入口。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2tnej",
+            "text": "两大运行模式选择：",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ed2nl",
+            "text": "本地虚拟桌面模式：在电脑后台开辟沙盒静默执行，不抢占前台鼠标，边办公边让 AI 跑任务；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2pagq",
+            "text": "云电脑托管模式：适合耗时极长或定时批量任务（如全网爬取 300 篇竞品图文），电脑关机任务依然在云端持续推进。\n",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 10,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "biugh",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9vb4n",
+            "text": "03 / 5 大高频实战场景与可直接抄的 Prompt 模板",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cdqur",
+            "text": "实操 1：调用飞书上下文自动撰写深度周报/月报",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "58i5e",
+            "text": "核心价值：告别痛苦的凭空回忆，让 AI 自动读取你一周的真实工作痕迹，直接交付可提交的结构化飞书文档。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bauch",
+            "text": "提示词模板：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 11,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2bh8k",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 12,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "1adv7",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ir7m",
+            "text": "实操 2：一键交付“方案 Word + 预算 Excel + 提案 PPT”",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ea4kh",
+            "text": "核心价值：输入一份混乱的原始需求，一次性全自动交付 3 份可直接编辑的标准企业资产。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3nilq",
+            "text": "提示词模板：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 13,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "58mq4",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7esh3",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 14,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "f1431",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1i5q6",
+            "text": "实操 3：跨应用操作：全网自动采集 ➔ 本地截屏匹配 ➔ 推送群聊",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ckl14",
+            "text": "核心价值：通过 Computer Use 自动调用浏览器、文件管理器与即时通讯软件，打通断裂的数据孤岛。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fsfq7",
+            "text": "提示词模板：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 15,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "dlpcc",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cfbtb",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 16,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "13skj",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bdd5b",
+            "text": "实操 4：多 Agent 战队协同 + 定时任务长效托管",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "mo7v",
+            "text": "核心价值：组建由多智能体组成的自动化小队，每天固定时间自动运转。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bd9s0",
+            "text": "战队配置流程：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 17,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "53l1c",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 18,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "c1mod",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8i4td",
+            "text": "实操 5：多模态创意流水线：文字 ➔ Seedream 海报 ➔ Seedance 视频",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "aieo3",
+            "text": "核心价值：打通字节自研的顶尖图像与视频生成模型，实现全流程多模态物料交付。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ahu4m",
+            "text": "提示词模板：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 19,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "14o3e",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "pui7",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 20,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8c4ng",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6b56q",
+            "text": "04 / 实用技巧、权限安全与额度账本",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dq7k9",
+            "text": "1. 权限与数据安全铁律",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 6,
+                "offset": 34,
+                "style": "Bold"
+              }
+            ],
+            "key": "bndg1",
+            "text": "企业敏感数据管理：在涉及客户电话、财务凭证、公户账户时，必须严格保留“人工确认”确认框，防止 AI 误操作；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "c5ulf",
+            "text": "任务回滚意识：在让 AI 批量重命名或删除本地文件前，建议先复制一份副本或让它在临时目录测试。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8gm5v",
+            "text": "2. 额度管理与订阅分析",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 12,
+                "offset": 25,
+                "style": "Bold"
+              }
+            ],
+            "key": "c99sb",
+            "text": "新用户福利：当前下载登录官方客户端通常可直接领取 30 天免费订阅体验权益；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "k1lr",
+            "text": "档位分析：官方提供基础版、加强版与高级版等不同算力档位，对于日常写稿、做表、整理会议纪要，标准额度完全足够；涉及大量多模态视频（Seedance）生成与高频云电脑挂机时再考虑升级高阶算力包。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5l0fs",
+            "text": "3. 工作习惯迁移：从“操作员”到“决策总监”",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1uk8i",
+            "text": "传统工作方式：先打开浏览器查资料 ➔ 打开 Excel 做表 ➔ 打开 Word 写稿；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              },
+              {
+                "length": 8,
+                "offset": 61,
+                "style": "Bold"
+              }
+            ],
+            "key": "962a9",
+            "text": "Agent 时代工作方式：先打开豆包工作 ➔ 一句话派发完整项目 ➔ AI 在后台自动调用软件执行 ➔ 你只负责在关键节点验收、挑刺与决策。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "45f6m",
+            "text": "",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 21,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "8lkfe",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ajcpc",
+            "text": "05 / 总结：工作流围绕 Agent 重构的时代已经到来",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dtqhs",
+            "text": "「豆包工作」的推出，标志着 AI 办公正式告别了“玩具式的闲聊问答”，真正走进了“严肃的业务现场”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 19,
+                "style": "Bold"
+              },
+              {
+                "length": 24,
+                "offset": 31,
+                "style": "Bold"
+              }
+            ],
+            "key": "d2sag",
+            "text": "自媒体人与一人公司的核心竞争力，正在从“亲力亲为拼体力”演进为“搭建与调教一套自动运转的 Agent 流水线”。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8tco2",
+            "text": "建议大家下载后先从最简单的“整理一周文件”或“生成一份会议复盘”开始实测，感受一下把繁重执行交给 AI、自己只保留最终决策权的轻松与高效。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 22,
+                "length": 1,
+                "offset": 12
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "efcme",
+            "text": "先让豆包把电脑跑起来吧！🚀",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "12",
+            "value": {
+              "data": {
+                "entityKey": "808be901-b5f9-4e1c-b7a3-b4eb3be7915f"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "8",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f3e2.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "19",
+            "value": {
+              "data": {
+                "markdown": "```\n根据以下主题“一人公司的极简工作流哲学”：\n\n1. 提炼一句最具视觉冲击力的核心金句；\n2. 调用 Seedream 生成一张 16:9 比例的东方美学/概念手绘风格宣发海报；\n3. 调用 Seedance 将该海报拓展为 15 秒具有自然光影动态的微短视频；\n4. 输出预览后，允许我通过框选局部画面提出修改意见并继续迭代。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "4",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f4f1.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "15",
+            "value": {
+              "data": {
+                "markdown": "```\n请帮我执行以下跨应用自动化任务：\n\n1. 打开浏览器搜索“AI Agent 落地案例”，抓取近 24 小时排名前 5 的热门行业资讯；\n2. 提取每篇文章的核心观点、发布来源与数据支撑，整理成汇总表格；\n3. 从我本地的 `D:\\素材库\\配图` 文件夹中寻找相关的概念截图进行图文匹配；\n4. 汇总生成一份图文精选日报，并自动通过飞书机器人/群聊发送到“增长研讨群”。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "11",
+            "value": {
+              "data": {
+                "markdown": "```\n请结合我本周在飞书中的全部工作上下文（包括群聊重要讨论、参加过的会议妙记录音、编辑过的飞书文档以及看板待办），帮我撰写一份详细的本周工作复盘与下周规划：\n\n1. 本周核心推进事项：提炼出 3 项最关键的项目进展，包含具体的交付产物与关键指标；\n2. 跨部门协作与问题卡点：列出 2 个本周遇到的协作卡点与目前的解决方案；\n3. 下周工作优先级规划：按优先级 P0 / P1 / P2 规划下周的核心待办；\n4. 输出要求：直接生成一份排版美观的飞书文档，重点结论加粗显示。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "9",
+            "value": {
+              "data": {
+                "entityKey": "2b73e8ec-2841-478b-8f6c-fe921a400e91"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "22",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f680.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "13",
+            "value": {
+              "data": {
+                "markdown": "```\n我是项目负责人。请根据我上传的活动 Brief 与供应商报价明细，帮我一站式生成三份可编辑的标准交付文件：\n\n1. 活动策划方案（Word 格式）：包含活动背景、目标受众画像、全流程排期表与应急预案；\n2. 预算与 ROI 分析表（Excel 格式）：包含场地、搭建、宣发、物料等明细分类，自动写入求和公式与各模块占比；\n3. 内部汇报提案（PPT 格式）：生成 16:9 比例的幻灯片大纲，每页必须附带详细的演讲者备注（Speaker Notes）。\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "16",
+            "value": {
+              "data": {
+                "entityKey": "ce44960c-8979-4d0f-80e1-a39747c4e756"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "5",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f50c.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "10",
+            "value": {
+              "data": {
+                "entityKey": "cd7e5a10-1f1b-4c37-94ac-2f2b084d7e66"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "21",
+            "value": {
+              "data": {
+                "entityKey": "7cbfec58-9a84-4435-b316-ae66748eefb9"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "6",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f465.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "c015ea35-4cca-400f-a215-d06a6b52271c"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "17",
+            "value": {
+              "data": {
+                "markdown": "```\n1. 组建战队：\n   • 角色 A（选题捕手）：每天监控小红书与 X 平台的爆款趋势；\n   • 角色 B（事实研究员）：对捕获的热点进行全网事实核查与数据验真；\n   • 角色 C（文案主笔）：按固定的人设立场输出 1 篇深度长文大纲；\n   • 角色 D（排版与质检）：执行排版美化与错别字检查；\n2. 设定触发规则：\n   • 设定为“每个工作日早上 08:30 自动在云电脑中执行”，完成后将报告存入指定文件夹。\n\n```"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "14",
+            "value": {
+              "data": {
+                "entityKey": "b208e65d-ecb0-48e9-a8b3-de1deb206626"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "07274caf-e86e-40f8-965d-e8a0287744d4"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "20",
+            "value": {
+              "data": {
+                "entityKey": "d8d8ac83-e660-4728-a094-07f851f7ff87"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f31f.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "18",
+            "value": {
+              "data": {
+                "entityKey": "32f7ae1c-899e-4ec5-90de-0ea90ccbabd1"
+              },
+              "mutability": "Immutable",
+              "type": "DIVIDER"
+            }
+          },
+          {
+            "key": "7",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f3a8.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          },
+          {
+            "key": "3",
+            "value": {
+              "data": {
+                "url": "https://abs.twimg.com/emoji/v2/svg/1f5a5.svg"
+              },
+              "mutability": "Immutable",
+              "type": "TWEMOJI"
+            }
+          }
+        ]
+      },
+      "media_entities": []
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

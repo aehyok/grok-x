@@ -1,0 +1,229 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/gaoqian2580/status/2098360464799592732",
+    "id": "2098360464799592732",
+    "text": "我做了一个网页是基于 Three.js 的网页 3D Logo 展示，浏览器实时渲染、无需插件，底层用 WebGL，Three.js R185 负责场景与渲染封装。\n\n主体“NEX”由 TextGeometry 立体挤出生成，加载字体并开启倒角，配合 PBR 金属材质与环境反射，呈现蓝色金属质感；字体会轻微摆动，并带呼吸式自发光。\n\n氛围层包含：自转的粒子星海、蓝色线框环、三颗蓝紫发光球环绕，以及高反光平台与网格地面，拓展纵深。灯光由环境光、主光和两盏冷色点光组成，再经 UnrealBloomPass 泛光处理，让高光产生柔和光晕。\n\n交互支持拖拽旋转、滚轮缩放、右键平移与窗口自适应。\n\n来源于 OpenRouter 限时免费使用 Nex-2.5-Pro   https://openrouter.ai/nex-agi \n\n Nex‑N2.5 是一款新一代大模型家族，其中 Nex‑N2.5 Pro 是核心产品，参数量 397B，支持多模态输入（文本 + 图片 + 视频等），它可以自己操作电脑，自己点软件，自己把活干完。\n\nBlender 建模、CAD 画图、浏览器填表、游戏代打，它上手就能用。\n\n397B 参数，能看懂屏幕、能连续干几百步不迷路，对标的是 GPT-6 Astra。",
+    "raw_text": {
+      "text": "我做了一个网页是基于 Three.js 的网页 3D Logo 展示，浏览器实时渲染、无需插件，底层用 WebGL，Three.js R185 负责场景与渲染封装。\n\n主体“NEX”由 TextGeometry 立体挤出生成，加载字体并开启倒角，配合 PBR 金属材质与环境反射，呈现蓝色金属质感；字体会轻微摆动，并带呼吸式自发光。\n\n氛围层包含：自转的粒子星海、蓝色线框环、三颗蓝紫发光球环绕，以及高反光平台与网格地面，拓展纵深。灯光由环境光、主光和两盏冷色点光组成，再经 UnrealBloomPass 泛光处理，让高光产生柔和光晕。\n\n交互支持拖拽旋转、滚轮缩放、右键平移与窗口自适应。\n\n来源于 OpenRouter 限时免费使用 Nex-2.5-Pro   https://t.co/vheVVB8hGq \n\n Nex‑N2.5 是一款新一代大模型家族，其中 Nex‑N2.5 Pro 是核心产品，参数量 397B，支持多模态输入（文本 + 图片 + 视频等），它可以自己操作电脑，自己点软件，自己把活干完。\n\nBlender 建模、CAD 画图、浏览器填表、游戏代打，它上手就能用。\n\n397B 参数，能看懂屏幕、能连续干几百步不迷路，对标的是 GPT-6 Astra。",
+      "display_text_range": [
+        0,
+        541
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            167,
+            190
+          ],
+          "id": "2098338197776564224",
+          "display": "pic.x.com/pWJN7WTBnq",
+          "original": "https://t.co/pWJN7WTBnq",
+          "replacement": "https://x.com/gaoqian2580/status/2098360464799592732/video/1"
+        },
+        {
+          "type": "bold",
+          "indices": [
+            168,
+            269
+          ]
+        },
+        {
+          "type": "url",
+          "indices": [
+            334,
+            357
+          ],
+          "original": "https://t.co/vheVVB8hGq",
+          "replacement": "https://openrouter.ai/nex-agi",
+          "display": "openrouter.ai/nex-agi"
+        },
+        {
+          "type": "bold",
+          "indices": [
+            360,
+            459
+          ]
+        },
+        {
+          "type": "bold",
+          "indices": [
+            500,
+            541
+          ]
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "gaoqian2580",
+      "url": "https://x.com/gaoqian2580",
+      "id": "2047330116808962048",
+      "followers": 8508,
+      "following": 221,
+      "likes": 5429,
+      "media_count": 866,
+      "name": "AI搞钱Hacker",
+      "description": "Vibe coding｜AI编程玩家 💻🚀\nAI 工具与 Agent 工作流实测\n独立开发者 | github 推荐官 | Indie Hacker\nAI工具站 SEO GEO 🛠️ | 📮 商务DM",
+      "raw_description": {
+        "text": "Vibe coding｜AI编程玩家 💻🚀\nAI 工具与 Agent 工作流实测\n独立开发者 | github 推荐官 | Indie Hacker\nAI工具站 SEO GEO 🛠️ | 📮 商务DM",
+        "facets": []
+      },
+      "location": "出海一站式导航➡️",
+      "banner_url": "https://pbs.twimg.com/profile_banners/2047330116808962048/1778078568",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2078492689620979712/XaIbD6yR_200x200.jpg",
+      "joined": "Thu Apr 23 15:03:19 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "http://gaoqian2580.com",
+        "display_url": "gaoqian2580.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 90,
+    "retweets": 40,
+    "likes": 68,
+    "bookmarks": 5,
+    "quotes": 29,
+    "created_at": "Fri Sep 11 10:38:15 +0000 2026",
+    "created_timestamp": 1789123095,
+    "possibly_sensitive": false,
+    "views": 7994,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "id": "2098338197776564224",
+          "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/720x804/icukk973DeSjSNEj.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2098338197776564224/img/Pz7Bhw0F0RWxaLUl.jpg",
+          "duration": 8.266,
+          "width": 720,
+          "height": 804,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/pl/wtYEBEV7MymNKh8z.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/320x356/GLAySC-SD_z9L-wz.mp4?tag=29",
+              "bitrate": 632000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/480x536/_cbfCM_mt2mVqL2w.mp4?tag=29",
+              "bitrate": 950000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/720x804/icukk973DeSjSNEj.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/pl/wtYEBEV7MymNKh8z.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/320x356/GLAySC-SD_z9L-wz.mp4?tag=29",
+              "bitrate": 632000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/480x536/_cbfCM_mt2mVqL2w.mp4?tag=29",
+              "bitrate": 950000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/720x804/icukk973DeSjSNEj.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ],
+      "videos": [
+        {
+          "id": "2098338197776564224",
+          "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/720x804/icukk973DeSjSNEj.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2098338197776564224/img/Pz7Bhw0F0RWxaLUl.jpg",
+          "duration": 8.266,
+          "width": 720,
+          "height": 804,
+          "format": "video/mp4",
+          "type": "video",
+          "formats": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/pl/wtYEBEV7MymNKh8z.m3u8?tag=29",
+              "container": "m3u8"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/320x356/GLAySC-SD_z9L-wz.mp4?tag=29",
+              "bitrate": 632000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/480x536/_cbfCM_mt2mVqL2w.mp4?tag=29",
+              "bitrate": 950000,
+              "container": "mp4",
+              "codec": "h264"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/720x804/icukk973DeSjSNEj.mp4?tag=29",
+              "bitrate": 2176000,
+              "container": "mp4",
+              "codec": "h264"
+            }
+          ],
+          "publisher": null,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/pl/wtYEBEV7MymNKh8z.m3u8?tag=29",
+              "bitrate": 0,
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/320x356/GLAySC-SD_z9L-wz.mp4?tag=29",
+              "bitrate": 632000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/480x536/_cbfCM_mt2mVqL2w.mp4?tag=29",
+              "bitrate": 950000,
+              "content_type": "video/mp4"
+            },
+            {
+              "url": "https://video.twimg.com/amplify_video/2098338197776564224/vid/avc1/720x804/icukk973DeSjSNEj.mp4?tag=29",
+              "bitrate": 2176000,
+              "content_type": "video/mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "twitter_card": "player",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

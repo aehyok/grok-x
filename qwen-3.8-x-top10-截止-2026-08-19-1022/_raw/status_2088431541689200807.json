@@ -1,0 +1,5684 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/superdoccimo/status/2088431541689200807",
+    "id": "2088431541689200807",
+    "text": "Qwen3.8-27Bは、待つモデルから測るモデルへ変わりました。\n重み、設定、ライセンス、評価条件が見えるようになった今、本当に大事なのは最強認定ではなく再現です。\n自分の機材、自分の仕事、自分の失敗例で、ここから検証が始まります。 https://x.com/i/article/2088419676095406080",
+    "raw_text": {
+      "text": "Qwen3.8-27Bは、待つモデルから測るモデルへ変わりました。\n重み、設定、ライセンス、評価条件が見えるようになった今、本当に大事なのは最強認定ではなく再現です。\n自分の機材、自分の仕事、自分の失敗例で、ここから検証が始まります。 https://t.co/GSk5uZxsb4",
+      "display_text_range": [
+        0,
+        141
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            118,
+            141
+          ],
+          "original": "https://t.co/GSk5uZxsb4",
+          "replacement": "https://x.com/i/article/2088419676095406080",
+          "display": "x.com/i/article/2088…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "superdoccimo",
+      "url": "https://x.com/superdoccimo",
+      "id": "145617093",
+      "followers": 20811,
+      "following": 20016,
+      "likes": 262,
+      "media_count": 1258,
+      "name": "美濃加茂まむ",
+      "description": "セミリタイア｜投資歴25年｜AIエージェント実運用ログと相場観｜OpenClaw / Codex ｜AI agents & market signals｜https://youtube.com/@doccimo",
+      "raw_description": {
+        "text": "セミリタイア｜投資歴25年｜AIエージェント実運用ログと相場観｜OpenClaw / Codex ｜AI agents & market signals｜https://t.co/lzCBAueuRU",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              77,
+              100
+            ],
+            "original": "https://t.co/lzCBAueuRU",
+            "replacement": "https://youtube.com/@doccimo",
+            "display": "youtube.com/@doccimo"
+          }
+        ]
+      },
+      "location": "岐阜 美濃加茂市",
+      "banner_url": "https://pbs.twimg.com/profile_banners/145617093/1559570337",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2067054414142337024/8fxPfFRw_200x200.jpg",
+      "joined": "Wed May 19 12:05:35 +0000 2010",
+      "protected": false,
+      "website": {
+        "url": "https://minokamo.tokyo/",
+        "display_url": "minokamo.tokyo"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 0,
+    "likes": 1,
+    "bookmarks": 1,
+    "quotes": 0,
+    "created_at": "Sat Aug 15 01:04:15 +0000 2026",
+    "created_timestamp": 1786755855,
+    "possibly_sensitive": false,
+    "views": 2322,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "ja",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-15T01:04:15.000Z",
+      "modified_at": "2026-08-15T01:04:15.000Z",
+      "id": "2088419676095406080",
+      "title": "【続報】Qwen3.8-27Bの重みが公開 予告から実機検証の段階へ",
+      "preview_text": "Qwen3.8-27B、ついに重み公開。ここからは「期待」ではなく「再現」の勝負になる\n「Qwen3.8-27Bが出るらしい」\nその段階は、もう終わりました。\n2026年8月15日現在、Alibaba Qwenの公式Hugging",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHPuZZLobIAAKAAIAAAAACK3wxQAA",
+        "media_id": "2088431510114476032",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 33.64,
+                "rgb": {
+                  "blue": 49,
+                  "green": 32,
+                  "red": 20
+                }
+              },
+              {
+                "percentage": 13.8,
+                "rgb": {
+                  "blue": 186,
+                  "green": 169,
+                  "red": 161
+                }
+              },
+              {
+                "percentage": 8.49,
+                "rgb": {
+                  "blue": 207,
+                  "green": 153,
+                  "red": 94
+                }
+              },
+              {
+                "percentage": 7.72,
+                "rgb": {
+                  "blue": 89,
+                  "green": 47,
+                  "red": 29
+                }
+              },
+              {
+                "percentage": 5.7,
+                "rgb": {
+                  "blue": 172,
+                  "green": 193,
+                  "red": 223
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HPuZZLobIAA-Xmd.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2088431510114476032"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ot3i",
+            "text": "Qwen3.8-27B、ついに重み公開。ここからは「期待」ではなく「再現」の勝負になる",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b8ihp",
+            "text": "「Qwen3.8-27Bが出るらしい」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "38fjd",
+            "text": "その段階は、もう終わりました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "14i2j",
+            "text": "2026年8月15日現在、Alibaba Qwenの公式Hugging FaceにはQwen3.8-27Bのモデルカードだけでなく、設定ファイル、トークナイザー、画像・動画用preprocessor、そして18分割されたsafetensorsの重みが実際に並んでいます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "47kqv",
+            "text": "リポジトリ表示は約55.6GB。ライセンスはApache-2.0です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5v7m2",
+            "text": "つまり今回の本当のニュースは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 24,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ekgmf",
+            "text": "「27Bモデルが発表された」ことではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4h5db",
+            "text": "同じ重みを取得し、同じ設定を残し、量子化や推論基盤を変えながら、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 36,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "d241g",
+            "text": "自分の機材と、自分の仕事で、品質と速度を比較できる段階へ進んだことです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4p1j8",
+            "text": "Qwen3.8-27Bの評価は、期待を語るフェーズから、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fciuv",
+            "text": "再現できるかを測るフェーズ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "epi1l",
+            "text": "へ移りました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a3fcv",
+            "text": "そして私は、ここからの方がずっと面白いと思っています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "67dtl",
+            "text": "前回の「予告」と、今回の「公開」はまったく違う",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "arhta",
+            "text": "前回Qwen3.8-27Bを取り上げた時点では、27Bクラスのopen-weightモデルが来るという話はあっても、肝心の空欄が残っていました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aj2ck",
+            "text": "本当に重みが公開されるのか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ca3di",
+            "text": "ライセンスは何か",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "626nu",
+            "text": "どんなアーキテクチャなのか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "93pu9",
+            "text": "コンテキスト長はいくつか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3sf53",
+            "text": "thinkingはどう制御するのか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "57mth",
+            "text": "どの推論基盤で扱えるのか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c11u6",
+            "text": "公式評価はどうなっているのか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8tt61",
+            "text": "現在は、そのかなりの部分を公式配布物から確認できます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "93aqa",
+            "text": "公式モデルカードでは、Qwen3.8-27Bは27Bのlanguage modelにVision Encoderを組み合わせたモデルとされ、64層の構成、Multi-Token Prediction（MTP）の訓練、画像・動画理解への対応が明記されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "627n2",
+            "text": "ネイティブコンテキスト長は、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3jrm5",
+            "text": "262,144 tokens",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8nqer",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9v806",
+            "text": "そしてRoPE scaling、具体的にはYaRNを使うことで、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "edclp",
+            "text": "最大1,000,000 tokens",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c0qoa",
+            "text": "まで拡張する方法も公式に案内されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7954q",
+            "text": "さらに、公式配布ページには、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9d1c0",
+            "text": "Hugging Face Transformers",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3q9ud",
+            "text": "vLLM",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b6tht",
+            "text": "SGLang",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1314o",
+            "text": "TokenSpeed",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5uku2",
+            "text": "などでの利用・配備方法が案内されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a940v",
+            "text": "ここまで揃うと、ニュースの意味が変わります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8c5jt",
+            "text": "名前やベンチマークを眺めるだけではなく、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 25,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6llmv",
+            "text": "実際に「AIにお願いする仕事」を流して比較できる。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a9lhh",
+            "text": "ここが大きい。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4fop3",
+            "text": "18分割の重みが本当に置かれている",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2kvrl",
+            "text": "今回、特に重要なのは「open-weight予定」ではなく、配布物が実体として存在していることです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b1sgb",
+            "text": "公式Hugging Faceのファイル一覧には、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1tuor",
+            "text": "model-00001-of-00018.safetensors",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "571lv",
+            "text": "から",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "40ucj",
+            "text": "model-00018-of-00018.safetensors",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "faq4h",
+            "text": "まで、18個のweight shardが並んでいます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b4pvc",
+            "text": "さらに、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "88rn3",
+            "text": "config.json",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "auoik",
+            "text": "generation_config.json",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f2cgl",
+            "text": "chat_template.jinja",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "490bu",
+            "text": "tokenizer.json",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4j78s",
+            "text": "preprocessor_config.json",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "59srk",
+            "text": "video_preprocessor_config.json",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4dl40",
+            "text": "model.safetensors.index.json",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1pqsc",
+            "text": "crc32.txt",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f65s7",
+            "text": "LICENSE",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c8s45",
+            "text": "なども確認できます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8l76s",
+            "text": "これはかなり大切です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4p94p",
+            "text": "「オープンモデル」と一口に言っても、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "epvsn",
+            "text": "紹介ページだけがある状態と、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 38,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ei7l4",
+            "text": "重み、設定、ライセンス、前処理、chat templateまで取得できる状態",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "333cc",
+            "text": "では意味が違います。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a22kj",
+            "text": "後者なら、第三者が同じ出発点から検証できます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9d25r",
+            "text": "Apache-2.0になった意味",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7nomg",
+            "text": "公式Hugging FaceではライセンスがApache-2.0と明記されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2uggq",
+            "text": "これによって、少なくとも「ライセンスが不明だから検証計画すら立てにくい」という状態からは進みました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d1j2i",
+            "text": "もちろん、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 25,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "78oan",
+            "text": "Apache-2.0 = 何をしても考えなくていい",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "30obo",
+            "text": "ではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "275q2",
+            "text": "実際の製品やサービスへ組み込むなら、ライセンス本文、依存物、利用する量子化物、周辺ソフトウェア、自社データの扱いまで確認する必要があります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "741ah",
+            "text": "それでも、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 40,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4l2d5",
+            "text": "ローカルで評価し、自分のシステムへ組み込む可能性を具体的に検討できるようになった",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8v7j8",
+            "text": "という差は大きいでしょう。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c77s9",
+            "text": "実は「27B」だけ見ても、このモデルの特徴は分からない",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "73i7a",
+            "text": "Qwen3.8-27Bは単なるテキスト用27Bモデルではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2ao1e",
+            "text": "公式モデルカードでは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 41,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "apdhr",
+            "text": "Causal Language Model with Vision Encoder",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cdb3v",
+            "text": "とされています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eqq72",
+            "text": "画像と動画をネイティブに理解し、STEM図表、文書、長時間動画なども対象にするモデルとして説明されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ar8md",
+            "text": "さらにQwen側は、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "810n0",
+            "text": "coding",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e0q8q",
+            "text": "professional work",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3bhml",
+            "text": "research",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "du4ug",
+            "text": "long-horizon agentic tasks",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "mla2",
+            "text": "environment feedbackを受けるagent execution",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bp306",
+            "text": "を今回の重点領域として挙げています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fu0uj",
+            "text": "つまり見るべきなのは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1e9pa",
+            "text": "「27Bなのに会話が賢い」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a07fr",
+            "text": "だけではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 41,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "c0ed0",
+            "text": "コードを書き、環境から結果を受け取り、次の操作を決め、複数ステップを進められるか。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c4pak",
+            "text": "こちらが実運用では重要になります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2bgeg",
+            "text": "公式ベンチマークで目立つ「SWE-bench Pro 61.7」",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6g0bs",
+            "text": "公式モデルカードには多数の評価結果が掲載されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dv2r1",
+            "text": "代表的な数字を抜き出すと、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 20,
+                "style": "Bold"
+              }
+            ],
+            "key": "44rkf",
+            "text": "Terminal Bench 2.1: 73.0",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 15,
+                "style": "Bold"
+              }
+            ],
+            "key": "ckq03",
+            "text": "SWE-bench Pro: 61.7",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 13,
+                "style": "Bold"
+              }
+            ],
+            "key": "fc7bn",
+            "text": "DeepSWE 1.1: 42.2",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 13,
+                "style": "Bold"
+              }
+            ],
+            "key": "5fu2s",
+            "text": "CoWorkBench: 70.7",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 9,
+                "style": "Bold"
+              }
+            ],
+            "key": "361ao",
+            "text": "IFBench: 79.5",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 14,
+                "style": "Bold"
+              }
+            ],
+            "key": "48fuv",
+            "text": "GPQA Diamond: 89.2",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 18,
+                "style": "Bold"
+              }
+            ],
+            "key": "9ecpn",
+            "text": "LiveCodeBench v6: 90.3",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5f1jl",
+            "text": "と報告されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8ke5p",
+            "text": "マルチモーダル側でも、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 18,
+                "style": "Bold"
+              }
+            ],
+            "key": "9783s",
+            "text": "OSWorld-Verified: 84.3",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 19,
+                "style": "Bold"
+              }
+            ],
+            "key": "d89jg",
+            "text": "WebArena-Verified: 64.8",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 14,
+                "style": "Bold"
+              }
+            ],
+            "key": "f73bo",
+            "text": "AndroidWorld: 81.9",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 18,
+                "style": "Bold"
+              }
+            ],
+            "key": "bh0gv",
+            "text": "OmniDocBench 1.5: 91.1",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 4,
+                "offset": 13,
+                "style": "Bold"
+              }
+            ],
+            "key": "ebnjq",
+            "text": "RealWorldQA: 85.9",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6ll3h",
+            "text": "などが掲載されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fvrnb",
+            "text": "数字だけを見ると、かなり派手です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9udo5",
+            "text": "しかし、ここで一度ブレーキを踏みます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7g870",
+            "text": "SWE-bench Pro 61.7を、そのまま「自分の仕事の成功率61.7%」とは読めない",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3d2fa",
+            "text": "公式モデルカードには、評価条件についてもかなり重要な注記があります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3gssd",
+            "text": "SWE-bench Proでは、Qwen側のモデルはClaude Code harnessを使い、temperature=1.0、top_p=0.95、256K contextで評価されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2p8ch",
+            "text": "また、問題があると判断されたtaskを修正し、baselineモデルを再評価したと説明されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2c0ve",
+            "text": "一方、比較表に載るOpus4.6 Maxについては、その行だけ公式報告値を利用したと明記されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2o1h1",
+            "text": "つまり、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 44,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2n1ke",
+            "text": "表にモデル名が横一列で並んでいるからといって、すべて完全に同一条件の測定とは限りません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9uca8",
+            "text": "さらにQwenSWEBenchやCoWorkBenchには、Qwen側のin-house benchmarkも含まれています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2qo0i",
+            "text": "これは「数字を信用するな」という話ではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "33n47",
+            "text": "むしろ逆です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "66u8s",
+            "text": "公式値は重要な情報です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1iq7l",
+            "text": "ただし用途は、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2qts5",
+            "text": "採用決定ではなく、検証開始の判断材料",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d8imc",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dfru9",
+            "text": "「61.7だから最強」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cs0e1",
+            "text": "ではなく、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 32,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4v90n",
+            "text": "「このモデルなら自分のコード修正セットでも試す価値がありそうだ」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2hp1g",
+            "text": "くらいに読む。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ag49m",
+            "text": "私はその距離感がちょうどいいと思っています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9ndic",
+            "text": "ベンチマークを見るときは、モデル名よりharnessを見る",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "71lih",
+            "text": "これはQwen3.8-27Bに限った話ではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8851p",
+            "text": "AIエージェント系ベンチマークでは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 23,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4nr7i",
+            "text": "モデルだけが仕事をしているわけではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "csq10",
+            "text": "どのharnessを使うか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "akji",
+            "text": "どんなtoolを渡すか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cb7vh",
+            "text": "contextはいくつか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bg8ju",
+            "text": "timeoutはいくつか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "df3q9",
+            "text": "sampling parameterは何か",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6idhl",
+            "text": "何回試すか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3rqpt",
+            "text": "graderは何か",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6i9sh",
+            "text": "どこまで外部操作できるか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9uf4m",
+            "text": "によって結果が変わります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7np6",
+            "text": "実際、Qwenのモデルカードでも複数の評価についてClaude Code harness、OSWorld scaffold、graderなどの条件が明記されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "usg7",
+            "text": "だからこれからAIエージェントの性能を見るときには、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "co2vn",
+            "text": "MODEL",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ik03",
+            "text": "だけではなく、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 46,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4pga3",
+            "text": "MODEL × HARNESS × TOOLS × SETTINGS × EVALUATOR",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "15dek",
+            "text": "で考えた方がいい。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ot36",
+            "text": "これはローカルLLMを自分のagentへ組み込む場合にも、そのまま当てはまります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cotbv",
+            "text": "thinking modeが標準ON",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6hfb6",
+            "text": "Qwen3.8-27Bは、標準ではthinking modeで動作します。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "egs69",
+            "text": "そして公式に、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f41tb",
+            "text": "reasoning_effort",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8vult",
+            "text": "を使って推論の深さを調整できます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e3cao",
+            "text": "設定は、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "tmua",
+            "text": "xhigh：標準。複雑なタスク向け",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eeumm",
+            "text": "medium：精度と速度のバランス",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5mco7",
+            "text": "low：速度とコストを重視",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3183f",
+            "text": "の3段階です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6dnn7",
+            "text": "さらに、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8ggna",
+            "text": "preserve_thinking",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5kn28",
+            "text": "も標準で有効になっています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a7e4d",
+            "text": "これはマルチターンの会話で、過去メッセージに含まれるthinking blocksを保持し、agent taskでの判断の連続性や重複推論の削減に利用する設計です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e58hv",
+            "text": "ここまでは仕様の話。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ku42",
+            "text": "しかし、もっと重要な一文があります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5cphv",
+            "text": "「lowにすれば仕事が速く終わる」とは限らない",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5e7in",
+            "text": "Qwen自身がモデルカードで注意しています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7prq8",
+            "text": "マルチターンのagentic taskでは、reasoning effortを下げることで1ターンの応答が高速になっても、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5i7ej",
+            "text": "分析不足",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9v9qu",
+            "text": "failure増加",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "313k6",
+            "text": "retry増加",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "biofj",
+            "text": "によって、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 52,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8ton6",
+            "text": "最終的なtask completion timeやtoken consumptionが増える可能性がある",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fiiqj",
+            "text": "と説明しています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2cal0",
+            "text": "これはものすごく重要です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "to43",
+            "text": "LLMを比較するとき、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "97s6b",
+            "text": "「何token/sec出るか」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cadpr",
+            "text": "だけを見てしまいがちです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "mhrj",
+            "text": "でもAIエージェントでは、本当に知りたいのは別です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bk7pc",
+            "text": "仕事が終わるまで何分かかったのか。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3l48d",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1hi3s",
+            "text": "たとえば、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f070k",
+            "text": "Model A",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "96psa",
+            "text": "1回20秒\n成功率95%\nretryほぼなし",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2lgck",
+            "text": "Model B",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "edk8q",
+            "text": "1回10秒\n成功率60%\n何度もやり直し",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6ckls",
+            "text": "なら、Bの方がtoken生成は速くても、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "842pk",
+            "text": "仕事としては遅い",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d1oov",
+            "text": "可能性があります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aa6ht",
+            "text": "これから見るべきは「tokens/sec」ではなく「task/sec」",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fv8p2",
+            "text": "少し極端に言えば、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cc45d",
+            "text": "ローカルAIエージェントでは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 33,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "f5m15",
+            "text": "tokens per secondよりtasks per hour",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7sanv",
+            "text": "の方が重要になるかもしれません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dbvt0",
+            "text": "私は少なくとも、次を一緒に測りたいです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fjjt7",
+            "text": "model load time",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dnhd6",
+            "text": "prompt processing time",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cjs4c",
+            "text": "time to first token",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9il48",
+            "text": "generation speed",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6lk24",
+            "text": "reasoning time",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "encca",
+            "text": "tool execution time",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9jjki",
+            "text": "retry回数",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b4cnt",
+            "text": "最終的なtask completion time",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6frbe",
+            "text": "success rate",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aepcp",
+            "text": "人間が修正した量",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8en2o",
+            "text": "そして最終的には、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 37,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4ilv0",
+            "text": "一つの仕事を終わらせるために、何秒・何token・何回の修正が必要だったか",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "emlt8",
+            "text": "を見る。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bp4v5",
+            "text": "ここまで測ると、reasoning_effortの意味も変わります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5lqsb",
+            "text": "low、medium、xhighを仕事別に試す",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4v7cn",
+            "text": "たとえば自分のagentにQwen3.8-27Bを入れるなら、私は3設定を同じ仕事で比較します。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bkp4t",
+            "text": "単純な抽出",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9or97",
+            "text": "文書から数字を拾う。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "egn6b",
+            "text": "→ lowでも十分かもしれない。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "olvk",
+            "text": "記事作成",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "acil4",
+            "text": "複数資料から事実と解釈を分離する。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dbc",
+            "text": "→ mediumとxhighを比較したい。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4otmh",
+            "text": "コード修正",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1f3fu",
+            "text": "repositoryを読み、原因を探し、編集し、testする。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c8hei",
+            "text": "→ xhighでretryが減るなら、1ターンが遅くても総作業時間は短くなる可能性がある。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "acat5",
+            "text": "長時間agent",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ab506",
+            "text": "toolを何度も使い、途中結果から方針を修正する。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "49imi",
+            "text": "→ preserved thinkingを含めて検証したい。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ekp1i",
+            "text": "つまり、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 23,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9k8p0",
+            "text": "モデルに一つの設定を固定する必要はありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6ac7c",
+            "text": "仕事ごとに適切な推論量を決める方が自然です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fq17g",
+            "text": "262,144 tokensと1,000,000 tokensは、同じ数字ではない",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1b5g7",
+            "text": "ここも非常に重要です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5gn3e",
+            "text": "Qwen3.8-27Bのネイティブコンテキスト長は、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4g5lb",
+            "text": "262,144 tokens",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2qq9b",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "93o1",
+            "text": "最大1,000,000 tokensという数字は、YaRNによるRoPE scalingを使った拡張です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1e5vj",
+            "text": "公式モデルカードには、vLLM、SGLang、TokenSpeedで1M contextを利用するための具体的設定まで掲載されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cr6bt",
+            "text": "しかし同時に警告もあります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dh8v6",
+            "text": "現在の主要open-source frameworkで使われるstatic YaRNでは、入力長にかかわらずscaling factorが固定されるため、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 20,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1e2vl",
+            "text": "短いテキストで性能へ影響する可能性がある",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5vdk9",
+            "text": "とQwen自身が注意しています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5jt19",
+            "text": "そのため、長いcontextが本当に必要な場合だけ設定変更することを推奨しています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "al539",
+            "text": "つまり、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "72jcd",
+            "text": "「1M対応だから最初から1Mにする」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1oe60",
+            "text": "は雑です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5egnt",
+            "text": "最大コンテキストは「常用設定」ではなく「必要時の上限」と考える",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "47h63",
+            "text": "私ならこう試します。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b638s",
+            "text": "普段の入力長を測る",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5offr",
+            "text": "まずnative 262K以内で評価する",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dr718",
+            "text": "32K、64K、128K、262Kと段階的に伸ばす",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6p9s2",
+            "text": "品質と速度とメモリを記録する",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a4c6n",
+            "text": "262Kを本当に超える用途だけYaRNを試す",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5ao2p",
+            "text": "1M設定のまま短い仕事も再評価する",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bpheh",
+            "text": "特にagentでは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "898jn",
+            "text": "巨大コンテキストを全部突っ込むこと",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f8vsk",
+            "text": "と",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3kfgj",
+            "text": "必要な情報を適切に取り出せること",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6idcn",
+            "text": "は別能力です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "27g0h",
+            "text": "RAG、検索、chunking、要約、workspace、memory設計で入力を絞れるなら、その方が効率的な仕事もあります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cq0kc",
+            "text": "1M contextは巨大な倉庫です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9jqg0",
+            "text": "でも倉庫が大きくなっても、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 31,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bc5m",
+            "text": "どの棚に必要な部品があるか分からなければ仕事は速くなりません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9o7dc",
+            "text": "公開直後から量子化と実機測定が始まった",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f2ab7",
+            "text": "open-weightモデルの面白さは、ここです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9clld",
+            "text": "重みが出ると、メーカーの発表だけで時間が止まりません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4sffp",
+            "text": "すぐ第三者が触り始めます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fp86g",
+            "text": "公開当日には、すでにcommunity GGUFや量子化版を使った実機検証が始まっています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f0cqf",
+            "text": "たとえば128GB Strix Haloでの第三者測定では、同一環境でQ5とQ8を比較し、32K contextでのprefillやgeneration速度まで公開されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7s5is",
+            "text": "投稿者自身も、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 54,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bch1d",
+            "text": "これはthroughput測定であり、Qwen3.8がQwen3.6より品質面で優れているかはまだ分からない",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "at39u",
+            "text": "と明記しています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aq8q2",
+            "text": "この姿勢が大切です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2t9rq",
+            "text": "「動いた」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5uo9j",
+            "text": "と",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6g2a7",
+            "text": "「良かった」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eq4f4",
+            "text": "は違います。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3egjg",
+            "text": "さらに、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "avtae",
+            "text": "「私のPCで良かった」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "buap2",
+            "text": "と",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f6pbc",
+            "text": "「あなたのPCでも良い」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5544i",
+            "text": "も違います。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3hjsf",
+            "text": "MTPも「対応している」だけでは評価できない",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2q7ov",
+            "text": "Qwen3.8-27Bは公式モデルカードでMTP、Multi-Token Predictionを複数stepでtrainingしていると説明されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1vtdv",
+            "text": "公開直後のStrix Haloコミュニティでは、llama.cppでMTP speculative decodingを有効にした実測もすでに出始めています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1tp3a",
+            "text": "ある報告では、特定のQ4量子化・特定build・特定prompt条件で、MTPなしから大幅にgeneration速度が伸びた結果が共有されています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "38ebq",
+            "text": "ただし、これもそのまま一般化してはいけません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bjjt5",
+            "text": "MTPの効果は、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1nrqe",
+            "text": "hardware",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7vp62",
+            "text": "quantization",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fcb1j",
+            "text": "llama.cpp build",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d7ln",
+            "text": "draft token数",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2g6gu",
+            "text": "prompt",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cd2rs",
+            "text": "context",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4b4ih",
+            "text": "acceptance rate",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "vvva",
+            "text": "によって変わります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8h2dt",
+            "text": "だから記事で書くべきなのは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eldp3",
+            "text": "「MTPで○倍速い！」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3dbk7",
+            "text": "ではなく、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3nhdh",
+            "text": "「MTPを評価対象へ追加できるようになった」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1m6j1",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4teb0",
+            "text": "量子化も「何bitなら動くか」で終わらせない",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bjune",
+            "text": "Qwen3.8-27Bが公開されたことで、すでに複数のcommunity quantizationが作られています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "be9ls",
+            "text": "ある公開当日の比較では、同じマシン・同じharnessへ複数のcommunity GGUFを通し、元のBF16変換を基準として量子化誤差を比較する試みまで出ています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4t4hs",
+            "text": "ここも面白い。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b8ct5",
+            "text": "量子化ではよく、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fd5a0",
+            "text": "「16GBに入った」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a6o79",
+            "text": "「Q4なら動く」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4fflu",
+            "text": "という話だけになりがちです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "67dnm",
+            "text": "でも本当に知りたいのは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 17,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "mo8h",
+            "text": "入ったあとに、仕事が壊れていないか",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3ic0f",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "27dp2",
+            "text": "低bit化してVRAMに収まっても、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7mmfs",
+            "text": "tool callを壊す",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4b9eo",
+            "text": "JSONを壊す",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fc11n",
+            "text": "長文で指示を落とす",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8j9s1",
+            "text": "reasoningが崩れる",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ce7oo",
+            "text": "coding success rateが下がる",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "atupa",
+            "text": "retryが増える",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8gj7f",
+            "text": "なら、実用上は安くなっていない可能性があります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "39pbn",
+            "text": "同じモデルでも「量子化」は別モデルくらいのつもりで測る",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cnpru",
+            "text": "私はローカルLLMを評価するとき、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5demd",
+            "text": "BF16 Qwen3.8-27B",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bgvjn",
+            "text": "と",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5ckek",
+            "text": "Q4 Qwen3.8-27B",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3ant0",
+            "text": "を、単純に「同じモデル」と考えすぎない方がいいと思っています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "as014",
+            "text": "もちろん元の重みは同じです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3dtlo",
+            "text": "しかし実運用上知りたいのは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "cqr84",
+            "text": "その配備形態で仕事が成功するか",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6p3ng",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "93bja",
+            "text": "だから、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a53kb",
+            "text": "BF16",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "16qu2",
+            "text": "FP8",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ar56g",
+            "text": "Q8",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fr6td",
+            "text": "Q6",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fqu2g",
+            "text": "Q5",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "18dv6",
+            "text": "Q4",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fcg7d",
+            "text": "を変えたら、代表タスクを同じように回す。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "49png",
+            "text": "モデル名ではなく、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 24,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6j9m2",
+            "text": "deployment configuration",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f0d6s",
+            "text": "を評価単位にする。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f4qa7",
+            "text": "ここから私ならこう検証する",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "71iu2",
+            "text": "大規模なベンチマーク環境がなくてもできます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8n1e5",
+            "text": "普段AIにお願いしている仕事から、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "98l65",
+            "text": "10〜30件",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "26h8e",
+            "text": "だけ選びます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "51k6s",
+            "text": "たとえば、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d35pq",
+            "text": "コード修正",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3nooe",
+            "text": "GitHub Issue調査",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "70aoh",
+            "text": "長文資料の整理",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1786u",
+            "text": "OSSの一次資料調査",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1paqc",
+            "text": "X記事作成",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "28tv8",
+            "text": "JSON生成",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "86k15",
+            "text": "tool calling",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fn3ul",
+            "text": "画像付き文書解析",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dguoo",
+            "text": "などです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1q35i",
+            "text": "そして現在使っているモデルとQwen3.8-27Bを、同じ合格条件で比較します。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9kqjr",
+            "text": "① まず取得物を固定する",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9o67f",
+            "text": "記録するのはモデル名だけではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f6qe1",
+            "text": "最低限、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "79lq6",
+            "text": "Model ID",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cl3bt",
+            "text": "revision / commit",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4d4ou",
+            "text": "weight形式",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "58vah",
+            "text": "quantization",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6n7uu",
+            "text": "推論基盤",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9n1fa",
+            "text": "推論基盤version",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "h5v1",
+            "text": "chat template",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "36h1g",
+            "text": "context length",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dgm8a",
+            "text": "reasoning_effort",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ap5bb",
+            "text": "preserve_thinking",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "81b0j",
+            "text": "sampling parameters",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e324s",
+            "text": "を残します。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "chen3",
+            "text": "Qwen公式配布にはcrc32.txtも含まれています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eau26",
+            "text": "つまり、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 34,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ee15",
+            "text": "「Qwen3.8-27Bで試した」だけでは再現記録として足りません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1k1f3",
+            "text": "② 品質と速度を一緒に測る",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9qodj",
+            "text": "私は次を同じ表へ入れます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bjfoi",
+            "text": "品質",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d3l03",
+            "text": "success / fail",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6vf9a",
+            "text": "人間の修正量",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a6agh",
+            "text": "指示遵守",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ao6mn",
+            "text": "hallucination",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a002a",
+            "text": "tool call成功率",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cq5ho",
+            "text": "構造化出力成功率",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7q24",
+            "text": "時間",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3l7i5",
+            "text": "load",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3mr1p",
+            "text": "prefill",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "j64b",
+            "text": "first token",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2i84d",
+            "text": "generation",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "qn2q",
+            "text": "tool execution",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ec038",
+            "text": "total completion time",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c4l1l",
+            "text": "コスト",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5kfds",
+            "text": "input tokens",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1veme",
+            "text": "reasoning tokens",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dkkdt",
+            "text": "output tokens",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1ii9a",
+            "text": "retry回数",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7l40c",
+            "text": "VRAM / RAM",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3b43a",
+            "text": "こうすると、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "20thk",
+            "text": "「生成は速いけれど仕事は遅いモデル」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4hv9p",
+            "text": "を見破れます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6n5eg",
+            "text": "③ reasoning_effortを3段階で回す",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c7alm",
+            "text": "同じtaskを、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9bnbu",
+            "text": "low",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2ff83",
+            "text": "medium",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aaq4u",
+            "text": "xhigh",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2blsl",
+            "text": "で回す。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a2ilj",
+            "text": "見るのはtoken量だけではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "2terl",
+            "text": "最終的な成功率と総作業時間",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3oaef",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b2kbr",
+            "text": "もしxhighが1回あたり2倍遅くても、retryを半分以下にできるなら、agent運用ではxhighの方が安い可能性があります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dtg82",
+            "text": "これはQwen自身がモデルカードで警告している論点でもあります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "60m0t",
+            "text": "④ 失敗したtaskを捨てない",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7vkdt",
+            "text": "ここが一番大事です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "68um2",
+            "text": "モデル評価で成功例だけ保存しても、あまり資産になりません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5jajk",
+            "text": "むしろ、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "21vo",
+            "text": "JSONが壊れた",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8fkm5",
+            "text": "指定ファイル以外を編集した",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5mrt4",
+            "text": "testを実行しなかった",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a69av",
+            "text": "存在しない事実を補った",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "frp7v",
+            "text": "toolを二重実行した",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6lrm1",
+            "text": "長文途中の条件を忘れた",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ave2c",
+            "text": "途中でtaskを完了扱いした",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "db03e",
+            "text": "reasoning loopに入った",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9ns0d",
+            "text": "といった失敗を保存します。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1ahp2",
+            "text": "これを、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3jnjp",
+            "text": "failure regression set",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3qv8i",
+            "text": "にする。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "523fm",
+            "text": "次に、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "392ba",
+            "text": "新しいquant",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aoed2",
+            "text": "新しいllama.cpp",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5cjp9",
+            "text": "新しいvLLM",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b6grt",
+            "text": "新しいprompt",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eiqpu",
+            "text": "reasoning_effort変更",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8ff61",
+            "text": "context設定変更",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8kuce",
+            "text": "を試したら、同じ失敗セットを再実行する。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4pprc",
+            "text": "すると評価が「なんとなく賢い」から、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6ivn5",
+            "text": "前よりこの失敗が減った",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "k0hs",
+            "text": "へ変わります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3s4jd",
+            "text": "⑤ 長いcontextも段階的に壊す",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bkaef",
+            "text": "262Kや1Mを試すなら、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "25g6g",
+            "text": "最初から巨大文書を投げて「読めました」で終わらせない。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3hkvo",
+            "text": "たとえば同じ重要情報を、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4ch3p",
+            "text": "8K",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "48dfn",
+            "text": "32K",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dm0to",
+            "text": "64K",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "50lfl",
+            "text": "128K",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "flq38",
+            "text": "256K",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c0o4v",
+            "text": "の異なる位置へ埋め込みます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f2j9j",
+            "text": "そして、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2i85g",
+            "text": "正確に回収できたか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "efqg9",
+            "text": "複数条件を同時保持できたか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5g0kb",
+            "text": "冒頭の指示を最後まで守ったか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a76di",
+            "text": "tool selectionへ反映できたか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ds5qv",
+            "text": "を見る。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 40,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ffebp",
+            "text": "context windowの大きさと、contextを使いこなす能力は別です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3hti7",
+            "text": "⑥ Agentでは「結果」だけでなく途中も見る",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a00ap",
+            "text": "コードagentなら、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4rqmh",
+            "text": "最終的にtestが通ったかだけでは弱い。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "61jph",
+            "text": "途中で、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c5cjh",
+            "text": "どのファイルを読んだか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "38qtc",
+            "text": "何回検索したか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3ds1k",
+            "text": "どのtoolを使ったか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "80sk",
+            "text": "不必要な変更をしていないか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6g0ve",
+            "text": "同じ処理を繰り返していないか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "efu7f",
+            "text": "test failureをどう扱ったか",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bjdun",
+            "text": "を見る。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8p4p9",
+            "text": "ローカルモデルは、自分で推論環境を持てるからこそ、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "cd9jt",
+            "text": "途中の挙動まで評価資産にしやすい",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2d3tm",
+            "text": "という強みがあります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3k39",
+            "text": "⑦ 人間の承認点はモデル性能と別に設計する",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5q8u5",
+            "text": "Qwen3.8-27Bがどれだけ性能向上していても、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "20vbe",
+            "text": "モデル更新を理由に、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "r6dd",
+            "text": "投稿",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "epkum",
+            "text": "公開",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1h75a",
+            "text": "メール送信",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "468c6",
+            "text": "削除",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f52um",
+            "text": "購入",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a8plp",
+            "text": "課金",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bu1km",
+            "text": "権限変更",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9fmsh",
+            "text": "本番環境変更",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6ea7l",
+            "text": "まで自動化する必要はありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e7uua",
+            "text": "AIには、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 23,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "63j5h",
+            "text": "調査、比較、候補作成、下書き、修正案、test",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "89v8",
+            "text": "までお願いする。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bvlml",
+            "text": "現実へ影響するところで人間が承認する。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b6b1h",
+            "text": "モデル能力と操作権限は分ける。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9nam7",
+            "text": "これは強いモデルになるほど重要になります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9pco9",
+            "text": "「ローカルだから無料」という考え方にも注意",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cejmu",
+            "text": "open-weightの魅力は大きいです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2ooai",
+            "text": "APIの呼び出し回数を気にせず、自分の環境で大量に試すこともできます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1oag4",
+            "text": "しかし、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6nk0t",
+            "text": "ローカル = コストゼロ",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b1ct",
+            "text": "ではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5s262",
+            "text": "必要になるのは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c3g6m",
+            "text": "GPU / unified memory",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5rv0c",
+            "text": "RAM",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "333u5",
+            "text": "storage",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9e9hb",
+            "text": "電力",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fchr4",
+            "text": "model download",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "de4n6",
+            "text": "serving環境",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fgd2q",
+            "text": "更新",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4sv9b",
+            "text": "monitoring",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f8s2j",
+            "text": "security",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a7ldr",
+            "text": "backup",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "46ua4",
+            "text": "evaluation",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9en1l",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cou9i",
+            "text": "さらにagentなら、失敗したときの人間の修正時間もコストです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "256b3",
+            "text": "だからクラウドAPIとローカルLLMを比較するときも、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f00q3",
+            "text": "1M tokensあたりの単価だけではなく、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "4b6q3",
+            "text": "仕事一件あたりの総コスト",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fqjii",
+            "text": "で比べた方がいい。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bosoc",
+            "text": "ローカルLLMの本当の強みは「安さ」だけではない",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ffq9h",
+            "text": "私がQwen3.8-27Bで一番注目しているのは、API代が安くなる可能性だけではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2oc3f",
+            "text": "もっと大きいのは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "3kj77",
+            "text": "同じ重みを固定して検証できること",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3qnkq",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "es92k",
+            "text": "クラウド型サービスでは、モデルの内部更新やサービス仕様変更が入ることがあります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cabdf",
+            "text": "open-weightなら、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2b4nd",
+            "text": "同じweight",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "q851",
+            "text": "同じrevision",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2sf10",
+            "text": "同じruntime",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5r53p",
+            "text": "同じprompt",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ar976",
+            "text": "同じ評価セット",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "72ue6",
+            "text": "を保存しやすい。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8pp0k",
+            "text": "だから、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "8d56j",
+            "text": "再現可能なAI運用",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fuera",
+            "text": "を作りやすい。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a0d5i",
+            "text": "これはagentを長期間運用するほど効いてきます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fv167",
+            "text": "私の立ち位置",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "10mn7",
+            "text": "私はQwen3.8-27Bを見て、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8aat",
+            "text": "「これが新しい最強モデルだ」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f30v0",
+            "text": "と宣言するつもりはありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1siod",
+            "text": "公式ベンチマークはQwen自身が公開した値です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "31f1j",
+            "text": "公開当日の実機結果は、特定のユーザー、特定のhardware、特定のquantization、特定のruntimeで得られた結果です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9cj2d",
+            "text": "262K nativeと1M YaRN extensionも分けて考える必要があります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "eubm1",
+            "text": "そして私はまだ、自分の実運用セットでQwen3.8-27Bを検証した結果を持っているわけではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "781hh",
+            "text": "だから今の結論は、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 18,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "fqeac",
+            "text": "「最強」ではなく「検証可能になった」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b95s",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cdga6",
+            "text": "でも、これは小さな変化ではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2i0mu",
+            "text": "「評価できるモデル」が増えること自体に価値がある",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1vgmp",
+            "text": "AIの世界では、新モデルが出るたびに順位表が作られます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "25dq0",
+            "text": "しかし本当に欲しいのは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "a21gg",
+            "text": "世界一のモデル",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4jrsr",
+            "text": "でしょうか。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e9b3d",
+            "text": "私なら違います。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ddqr2",
+            "text": "欲しいのは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 25,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "7plen",
+            "text": "自分の仕事を、どこまで安心してAIにお願いできるか",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1qegd",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e4lj2",
+            "text": "コード修正なら、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "co96d",
+            "text": "「testを通した」で終わらず、余計な変更をしていないか。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3722p",
+            "text": "調査なら、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1lap6",
+            "text": "確認済み事実と推測を分けられるか。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e0arp",
+            "text": "記事作成なら、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7dilb",
+            "text": "一次資料の数字を勝手に一般化しないか。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ecu5u",
+            "text": "agentなら、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1r1i",
+            "text": "toolを正しく使い、途中で仕事を投げ出さないか。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dq7lm",
+            "text": "そこを測りたい。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ffvih",
+            "text": "Qwen3.8-27Bは、その評価対象として実物が降りてきました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c0641",
+            "text": "重みの公開はゴールではない",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8pivi",
+            "text": "むしろ、ここからがスタートです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 123,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ef9qp",
+            "text": "RELEASE\n↓\nDOWNLOAD\n↓\nFIX CONDITIONS\n↓\nQUANTIZE\n↓\nBENCHMARK\n↓\nRUN REAL TASKS\n↓\nSAVE FAILURES\n↓\nCOMPARE\n↓\nDECIDE WHERE TO USE",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7u0bg",
+            "text": "このループを回せることが、open-weightの面白さです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f5cs6",
+            "text": "公開された瞬間に、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "v320",
+            "text": "「勝った」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4thbk",
+            "text": "「負けた」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "37emh",
+            "text": "「最強」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "caqh8",
+            "text": "と決める必要はありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "838kv",
+            "text": "量子化する。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "43l64",
+            "text": "実機で測る。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7thj6",
+            "text": "自分の仕事を流す。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2tn8e",
+            "text": "失敗を保存する。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e198c",
+            "text": "条件を変えてもう一度測る。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aaiae",
+            "text": "そうすれば、他人のランキングではなく、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 13,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "dl001",
+            "text": "自分専用のAIモデル選定表",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fiiee",
+            "text": "が作れます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7mbbt",
+            "text": "今回のQwen3.8-27Bで本当に変わったこと",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6hffp",
+            "text": "整理すると、今回の差分はこうです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "33th8",
+            "text": "予告段階",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "be1ib",
+            "text": "「27B open-weightモデルが来る」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "c192r",
+            "text": "↓",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d8e4k",
+            "text": "現在",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1dtgv",
+            "text": "公式重みが存在する",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bki1q",
+            "text": "18分割safetensorsを取得できる",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cfble",
+            "text": "Apache-2.0を確認できる",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "b1i5k",
+            "text": "27B＋Vision Encoderの構成を確認できる",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bhd1s",
+            "text": "native 262,144 tokensを確認できる",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f9aps",
+            "text": "YaRNによる1M拡張方法を確認できる",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8tf91",
+            "text": "thinking ON/OFFを制御できる",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9e6od",
+            "text": "reasoning_effortを変更できる",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5jq1t",
+            "text": "preserve_thinkingを制御できる",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8o3vh",
+            "text": "vLLM / SGLang / TokenSpeed等で試せる",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5adne",
+            "text": "公式benchmark条件を読める",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "druir",
+            "text": "community quantizationを比較できる",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "847u0",
+            "text": "実機結果が出始めている",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "14mu1",
+            "text": "つまり、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 22,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "bsq3o",
+            "text": "「待つモデル」から「測るモデル」へ変わった。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "atsmn",
+            "text": "これが今回のニュースです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5cjg3",
+            "text": "最後に",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5qhvj",
+            "text": "Qwen3.8-27BのSWE-bench Pro 61.7は目を引きます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "65vim",
+            "text": "262K native contextも、最大1Mへの拡張も目を引きます。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "28fr5",
+            "text": "27Bで画像・動画まで扱えることも面白い。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e2obh",
+            "text": "MTPやreasoning_effortも面白い。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "alkh",
+            "text": "でも、私はそこだけを見たくありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5tj7o",
+            "text": "一番価値があるのは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 28,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "1l172",
+            "text": "重みが手元に来たことで、自分自身で疑えるようになったこと",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ad383",
+            "text": "です。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9sj32",
+            "text": "公式ベンチマークを疑える。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d4rva",
+            "text": "量子化による劣化を疑える。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3lop",
+            "text": "1M contextの実用性を疑える。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f2sq2",
+            "text": "lowが本当に速いのか疑える。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4r510",
+            "text": "MTPが自分の機材でも効くのか疑える。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "6gesv",
+            "text": "そして全部、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "eiri5",
+            "text": "実際に測れる。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bdkm9",
+            "text": "open-weightモデルの強さは、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7cra1",
+            "text": "「信じられること」ではなく、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 9,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "648v",
+            "text": "「検証できること」",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f8g46",
+            "text": "なのかもしれません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ebnqq",
+            "text": "Qwen3.8-27Bは、ついにその対象になりました。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fa6mr",
+            "text": "予告を待っていた人が次にやるべきなのは、最強認定ではありません。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "ft5q",
+            "text": "自分の評価セットを作ることです。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "40eg2",
+            "text": "それができれば、次にQwen3.9が来ても、別のモデルが来ても、他人のベンチマークだけに振り回されなくなります。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9gu4v",
+            "text": "モデルを集めるのではなく、",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "5ff1a",
+            "text": "検証資産を積み上げる。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "541l5",
+            "text": "私は、その方が長く使えると思っています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "51k8s",
+            "text": "参考資料",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 31,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "9a2a7",
+            "text": "Qwen公式 Hugging Face：Qwen3.8-27B",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 17,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "5d9sr",
+            "text": "Qwen3.8-27B Files",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2nvnb",
+            "text": "公開当日のcommunity実測についてはLocalLLaMA / Strix Halo等の報告も参照しました。ただし、第三者の実機測定は公式保証ではなく、hardware・quantization・runtime・設定を含む個別事例として扱っています。",
+            "type": "unstyled"
+          },
+          {
+            "data": {
+              "hashtags": [
+                {
+                  "fromIndex": 0,
+                  "text": "Qwen",
+                  "toIndex": 5
+                },
+                {
+                  "fromIndex": 6,
+                  "text": "Qwen38",
+                  "toIndex": 13
+                },
+                {
+                  "fromIndex": 14,
+                  "text": "Alibaba",
+                  "toIndex": 22
+                },
+                {
+                  "fromIndex": 23,
+                  "text": "LLM",
+                  "toIndex": 27
+                },
+                {
+                  "fromIndex": 28,
+                  "text": "ローカルLLM",
+                  "toIndex": 36
+                },
+                {
+                  "fromIndex": 37,
+                  "text": "生成AI",
+                  "toIndex": 42
+                },
+                {
+                  "fromIndex": 43,
+                  "text": "AIエージェント",
+                  "toIndex": 52
+                },
+                {
+                  "fromIndex": 53,
+                  "text": "OpenWeight",
+                  "toIndex": 64
+                },
+                {
+                  "fromIndex": 65,
+                  "text": "OSS",
+                  "toIndex": 69
+                },
+                {
+                  "fromIndex": 70,
+                  "text": "機械学習",
+                  "toIndex": 75
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bvbtb",
+            "text": "#Qwen #Qwen38 #Alibaba #LLM #ローカルLLM #生成AI #AIエージェント #OpenWeight #OSS #機械学習",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "url": "https://huggingface.co/Qwen/Qwen3.8-27B/tree/main"
+              },
+              "mutability": "Mutable",
+              "type": "LINK"
+            }
+          }
+        ]
+      },
+      "media_entities": []
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

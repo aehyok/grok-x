@@ -1,0 +1,226 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/taresky/status/2086733035211522268",
+    "id": "2086733035211522268",
+    "text": "#AI \n\n目前看 UU 远程是唯一一个有能力全链路解决 Remote Agent 的产品。\n\n因为 Agent 客户端多人都能写。解决网络问题，门槛却很高。\n\n未来远程桌面可能被称为“兼容模式”，兼容的是互联网从业者的使用习惯。\n\n现在 ssh 连过去是 herdr，不过我觉得最终会变成 Chat App，俗称 AI 原生模式。",
+    "raw_text": {
+      "text": "#AI \n\n目前看 UU 远程是唯一一个有能力全链路解决 Remote Agent 的产品。\n\n因为 Agent 客户端多人都能写。解决网络问题，门槛却很高。\n\n未来远程桌面可能被称为“兼容模式”，兼容的是互联网从业者的使用习惯。\n\n现在 ssh 连过去是 herdr，不过我觉得最终会变成 Chat App，俗称 AI 原生模式。",
+      "display_text_range": [
+        0,
+        166
+      ],
+      "facets": [
+        {
+          "type": "hashtag",
+          "indices": [
+            0,
+            3
+          ],
+          "original": "AI"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "taresky",
+      "url": "https://x.com/taresky",
+      "id": "368245720",
+      "followers": 55156,
+      "following": 359,
+      "likes": 31930,
+      "media_count": 3025,
+      "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "description": "🧩 自营 𝙜𝙥𝙩 token/号池 to B/中转站\n\n💰 套利 1~100x | 2021~2025.6\n\n🌊 定居日本 | 2024~\n\n📨 羊毛 https://t.me/wxjdqtg\n\n🔗 推荐 https://aff.taresky.me\n\n🌽 出售 http://sol.bot",
+      "raw_description": {
+        "text": "🧩 自营 𝙜𝙥𝙩 token/号池 to B/中转站\n\n💰 套利 1~100x | 2021~2025.6\n\n🌊 定居日本 | 2024~\n\n📨 羊毛 https://t.co/lfDM0SW1Gz\n\n🔗 推荐 https://t.co/wd52lPsNcl\n\n🌽 出售 https://t.co/OGndi1djUD",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              76,
+              99
+            ],
+            "original": "https://t.co/lfDM0SW1Gz",
+            "replacement": "https://t.me/wxjdqtg",
+            "display": "t.me/wxjdqtg"
+          },
+          {
+            "type": "url",
+            "indices": [
+              106,
+              129
+            ],
+            "original": "https://t.co/wd52lPsNcl",
+            "replacement": "https://aff.taresky.me",
+            "display": "aff.taresky.me"
+          },
+          {
+            "type": "url",
+            "indices": [
+              136,
+              159
+            ],
+            "original": "https://t.co/OGndi1djUD",
+            "replacement": "http://sol.bot",
+            "display": "sol.bot"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/368245720/1701600715",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_200x200.jpg",
+      "joined": "Mon Sep 05 09:55:55 +0000 2011",
+      "protected": false,
+      "website": {
+        "url": "https://taresky.com",
+        "display_url": "taresky.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 83,
+    "retweets": 0,
+    "likes": 27,
+    "bookmarks": 26,
+    "quotes": 1,
+    "created_at": "Mon Aug 10 08:34:59 +0000 2026",
+    "created_timestamp": 1786350899,
+    "views": 14842,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/yetone/status/2086729000429445422",
+      "id": "2086729000429445422",
+      "text": "我都想好了 slogan —— 用 UU 远程才是真正的远程工作。",
+      "raw_text": {
+        "text": "我都想好了 slogan —— 用 UU 远程才是真正的远程工作。",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "facets": []
+      },
+      "author": {
+        "screen_name": "yetone",
+        "url": "https://x.com/yetone",
+        "id": "147786784",
+        "followers": 88262,
+        "following": 4543,
+        "likes": 19431,
+        "media_count": 2300,
+        "name": "yetone",
+        "description": "Built: avante.nvim\n\nBuilding:\n\nhttps://alma.now\n\nhttps://confirmo.love\n\nhttps://swordgame.ai\n\nhttps://yansu.app\n\nhttps://cumora.ai\n\nhttps://killaislop.com",
+        "raw_description": {
+          "text": "Built: avante.nvim\n\nBuilding:\n\nhttps://t.co/pfq9srNgsd\n\nhttps://t.co/fpGnPR5t9C\n\nhttps://t.co/cBN1yzJPIG\n\nhttps://t.co/6ERz2HMx0f\n\nhttps://t.co/QhQRLD4zQo\n\nhttps://t.co/ln9CVeagWC",
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                31,
+                54
+              ],
+              "original": "https://t.co/pfq9srNgsd",
+              "replacement": "https://alma.now",
+              "display": "alma.now"
+            },
+            {
+              "type": "url",
+              "indices": [
+                56,
+                79
+              ],
+              "original": "https://t.co/fpGnPR5t9C",
+              "replacement": "https://confirmo.love",
+              "display": "confirmo.love"
+            },
+            {
+              "type": "url",
+              "indices": [
+                81,
+                104
+              ],
+              "original": "https://t.co/cBN1yzJPIG",
+              "replacement": "https://swordgame.ai",
+              "display": "swordgame.ai"
+            },
+            {
+              "type": "url",
+              "indices": [
+                106,
+                129
+              ],
+              "original": "https://t.co/6ERz2HMx0f",
+              "replacement": "https://yansu.app",
+              "display": "yansu.app"
+            },
+            {
+              "type": "url",
+              "indices": [
+                131,
+                154
+              ],
+              "original": "https://t.co/QhQRLD4zQo",
+              "replacement": "https://cumora.ai",
+              "display": "cumora.ai"
+            },
+            {
+              "type": "url",
+              "indices": [
+                156,
+                179
+              ],
+              "original": "https://t.co/ln9CVeagWC",
+              "replacement": "https://killaislop.com",
+              "display": "killaislop.com"
+            }
+          ]
+        },
+        "location": "无",
+        "banner_url": "https://pbs.twimg.com/profile_banners/147786784/1635109454",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_200x200.jpg",
+        "joined": "Tue May 25 01:52:30 +0000 2010",
+        "protected": false,
+        "website": {
+          "url": "https://github.com/yetone",
+          "display_url": "github.com/yetone"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 47,
+      "retweets": 4,
+      "likes": 43,
+      "bookmarks": 14,
+      "quotes": 2,
+      "created_at": "Mon Aug 10 08:18:57 +0000 2026",
+      "created_timestamp": 1786349937,
+      "views": 30979,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "zh",
+      "replying_to": null,
+      "replying_to_status": null,
+      "source": "Twitter Web App",
+      "twitter_card": "tweet",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

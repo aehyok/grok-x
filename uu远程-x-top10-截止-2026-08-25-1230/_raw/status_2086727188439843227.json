@@ -1,0 +1,217 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/yetone/status/2086727188439843227",
+    "id": "2086727188439843227",
+    "text": "用了 UU 远程，任何 coding agent 选型都不需要考虑了，真正的 Agent agnostic 的远程解决方案。我甚至可以在上面验证 GUI 的一些交互。\n\n如果你在工作日的某个咖啡馆里看到一个成年人横着拿着手机低着头在手机上疯狂的指指点点，你不要认为他在玩王者荣耀，他其实是在 Vibe Coding 以及验收结果。",
+    "raw_text": {
+      "text": "用了 UU 远程，任何 coding agent 选型都不需要考虑了，真正的 Agent agnostic 的远程解决方案。我甚至可以在上面验证 GUI 的一些交互。\n\n如果你在工作日的某个咖啡馆里看到一个成年人横着拿着手机低着头在手机上疯狂的指指点点，你不要认为他在玩王者荣耀，他其实是在 Vibe Coding 以及验收结果。",
+      "display_text_range": [
+        0,
+        165
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "yetone",
+      "url": "https://x.com/yetone",
+      "id": "147786784",
+      "followers": 88262,
+      "following": 4543,
+      "likes": 19431,
+      "media_count": 2300,
+      "name": "yetone",
+      "description": "Built: avante.nvim\n\nBuilding:\n\nhttps://alma.now\n\nhttps://confirmo.love\n\nhttps://swordgame.ai\n\nhttps://yansu.app\n\nhttps://cumora.ai\n\nhttps://killaislop.com",
+      "raw_description": {
+        "text": "Built: avante.nvim\n\nBuilding:\n\nhttps://t.co/pfq9srNgsd\n\nhttps://t.co/fpGnPR5t9C\n\nhttps://t.co/cBN1yzJPIG\n\nhttps://t.co/6ERz2HMx0f\n\nhttps://t.co/QhQRLD4zQo\n\nhttps://t.co/ln9CVeagWC",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              31,
+              54
+            ],
+            "original": "https://t.co/pfq9srNgsd",
+            "replacement": "https://alma.now",
+            "display": "alma.now"
+          },
+          {
+            "type": "url",
+            "indices": [
+              56,
+              79
+            ],
+            "original": "https://t.co/fpGnPR5t9C",
+            "replacement": "https://confirmo.love",
+            "display": "confirmo.love"
+          },
+          {
+            "type": "url",
+            "indices": [
+              81,
+              104
+            ],
+            "original": "https://t.co/cBN1yzJPIG",
+            "replacement": "https://swordgame.ai",
+            "display": "swordgame.ai"
+          },
+          {
+            "type": "url",
+            "indices": [
+              106,
+              129
+            ],
+            "original": "https://t.co/6ERz2HMx0f",
+            "replacement": "https://yansu.app",
+            "display": "yansu.app"
+          },
+          {
+            "type": "url",
+            "indices": [
+              131,
+              154
+            ],
+            "original": "https://t.co/QhQRLD4zQo",
+            "replacement": "https://cumora.ai",
+            "display": "cumora.ai"
+          },
+          {
+            "type": "url",
+            "indices": [
+              156,
+              179
+            ],
+            "original": "https://t.co/ln9CVeagWC",
+            "replacement": "https://killaislop.com",
+            "display": "killaislop.com"
+          }
+        ]
+      },
+      "location": "无",
+      "banner_url": "https://pbs.twimg.com/profile_banners/147786784/1635109454",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_200x200.jpg",
+      "joined": "Tue May 25 01:52:30 +0000 2010",
+      "protected": false,
+      "website": {
+        "url": "https://github.com/yetone",
+        "display_url": "github.com/yetone"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 68,
+    "retweets": 7,
+    "likes": 281,
+    "bookmarks": 153,
+    "quotes": 12,
+    "created_at": "Mon Aug 10 08:11:45 +0000 2026",
+    "created_timestamp": 1786349505,
+    "views": 102913,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "quote": {
+      "url": "https://x.com/imwritingbugs/status/2086627878410842194",
+      "id": "2086627878410842194",
+      "text": "我试了一圈还是回归到了古法 rustdesk\n搞来搞去还是电脑最好用，tui 和 gui 都能玩……\n另外 uu 远程做的真不错，我有几台机器用的uu 😂",
+      "raw_text": {
+        "text": "我试了一圈还是回归到了古法 rustdesk\n搞来搞去还是电脑最好用，tui 和 gui 都能玩……\n另外 uu 远程做的真不错，我有几台机器用的uu 😂",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "facets": []
+      },
+      "author": {
+        "screen_name": "imwritingbugs",
+        "url": "https://x.com/imwritingbugs",
+        "id": "15490641",
+        "followers": 2714,
+        "following": 1408,
+        "likes": 4740,
+        "media_count": 575,
+        "name": "Duskzhen | 夕阳针",
+        "description": "DeepChat https://github.com/ThinkInAIXYZ/deepchat\nDimAgent http://dimagent.com/\nVokie https://vokie.com/",
+        "raw_description": {
+          "text": "DeepChat https://t.co/8whJ55KF9h\nDimAgent https://t.co/obSHCqBgSh\nVokie https://t.co/7vuseFPnWE",
+          "facets": [
+            {
+              "type": "url",
+              "indices": [
+                9,
+                32
+              ],
+              "original": "https://t.co/8whJ55KF9h",
+              "replacement": "https://github.com/ThinkInAIXYZ/deepchat",
+              "display": "github.com/ThinkInAIXYZ/d…"
+            },
+            {
+              "type": "url",
+              "indices": [
+                42,
+                65
+              ],
+              "original": "https://t.co/obSHCqBgSh",
+              "replacement": "http://dimagent.com/",
+              "display": "dimagent.com"
+            },
+            {
+              "type": "url",
+              "indices": [
+                72,
+                95
+              ],
+              "original": "https://t.co/7vuseFPnWE",
+              "replacement": "https://vokie.com/",
+              "display": "vokie.com"
+            }
+          ]
+        },
+        "location": "Shanghai",
+        "banner_url": "https://pbs.twimg.com/profile_banners/15490641/1782893824",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2078371448146866176/As446v9m_200x200.jpg",
+        "joined": "Sat Jul 19 06:47:49 +0000 2008",
+        "protected": false,
+        "website": {
+          "url": "https://github.com/sponsors/zerob13",
+          "display_url": "github.com/sponsors/zerob…"
+        },
+        "verification": {
+          "verified": true,
+          "verified_at": null,
+          "type": "individual"
+        },
+        "avatar_color": null
+      },
+      "replies": 58,
+      "retweets": 0,
+      "likes": 16,
+      "bookmarks": 10,
+      "quotes": 1,
+      "created_at": "Mon Aug 10 01:37:08 +0000 2026",
+      "created_timestamp": 1786325828,
+      "views": 63757,
+      "is_note_tweet": false,
+      "community_note": null,
+      "lang": "zh",
+      "replying_to": null,
+      "replying_to_status": null,
+      "source": "Twitter Web App",
+      "twitter_card": "tweet",
+      "color": null,
+      "provider": "twitter",
+      "reposted_by": null
+    },
+    "source": "Twitter Web App",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

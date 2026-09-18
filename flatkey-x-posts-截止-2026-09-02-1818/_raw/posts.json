@@ -1,0 +1,469 @@
+[
+  {
+    "rank": 1,
+    "id": "2094984724767006839",
+    "handle": "servasyy_ai",
+    "name": "huangserva",
+    "url": "https://x.com/servasyy_ai/status/2094984724767006839",
+    "time": "Wed, 02 Sep 2026 03:04:15 GMT",
+    "views": 57563,
+    "likes": 18,
+    "reposts": 3,
+    "quotes": 2,
+    "replies": 37,
+    "bookmarks": 11,
+    "quoted": true,
+    "media": [
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLhekhaQAARviM.jpg"}
+    ],
+    "hook": "体验记录 + Seedance 按秒价目表",
+    "text": "Flatkey 体验记录：一个 Key 打通所有大模型，视频生成价格被打下来了\n\n入口体验\n点官方推里的链接进控制台，第一屏就是「兑换额度」，活动 X_SG，输兑换码额度就到钱包。没有绑卡，没有充值门槛，直接拿着免费额度开始测。\n\n模型聚合\nGPT、Claude、Gemini、DeepSeek 都在一个 Key 下，接口一套，账单一张，标签里还标了 Gemini 兼容，现有代码基本不用改。最近最热的几个也都在列，Claude-5.1、Qwen 3.8MAX、OxAlpha（也就是 GLM 5.3 flash）都能直接调，不用再到处开号。\n\n视频模型价格（最惊到我的部分）\n\n模型                                           | 折后价               | 换算\nseedance-2.0-fast             |  $0.0285 / 秒 | 约 2 毛一秒\nseedance-2.0（标准版） | $0.0372 / 秒 | 约 2 毛 6 一秒\nseedance-2.0-mini            | $0.0182 / 秒 | 约 1 毛 3 一秒\nseedance-2.0-pro              | $0.0372 / 秒 | 约 2 毛 6 一秒\nMinimax H3                           | $0.08 / 秒 | 约 5 毛6 一秒\n\n也就是说一条 10 秒的 Seedance 2.0 视频，fast 版不到 2 块，标准版不到 3 块。之前以为这个档位的视频模型得按几十块一条来算，看到「PER SECOND」那一栏我真的愣了一下。以上 Seedance 系列都是省 10% 的折后价。\n\n多模态覆盖\n不止 Seedance 2.0 这一档：\n\n视频：Seedance 2.5，Seedance 2 的 Pro、mini、fast 三个版本，还有 Minimax H3\n\n图片：gpt-image-2 和 nano-banana-pro\n\n文本、视频、图片一个 Key 全包，做内容的不用在三四个平台之间来回切。\n\n本周活动\nDeepSeek V4 Flash 免费\nDeepSeek V4 Pro 和 GLM 5.3 Flash 打 45 折\n其他主流通用模型从 8 折起\n\n如果正在到处开 API Key，或者想低成本试试 Seedance，先去领免费额度跑一跑再说。链接在原推。",
+    "replies_top": [
+      {"handle": "Qingcai999", "text": "视频按秒卖到两毛这个档，真正变的不是便宜，是试错成本塌了。以前一条片子要想三遍才敢渲，现在能连渲十版再挑。瓶颈从钱挪到了审美和敢不敢删上。"},
+      {"handle": "LufzzLiz", "text": "咋没比一下sd 2.5"},
+      {"handle": "zyailive", "text": "价格的确很低，现在都在做聚合平台"}
+    ]
+  },
+  {
+    "rank": 2,
+    "id": "2094995292546601156",
+    "handle": "yaohui12138",
+    "name": "超级个体｜柿子",
+    "url": "https://x.com/yaohui12138/status/2094995292546601156",
+    "time": "Wed, 02 Sep 2026 03:46:15 GMT",
+    "views": 40580,
+    "likes": 48,
+    "reposts": 3,
+    "quotes": 10,
+    "replies": 39,
+    "bookmarks": 70,
+    "quoted": false,
+    "media": [
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLq1gOagAAHUAf.jpg"}
+    ],
+    "hook": "宝藏中转 + 账单 47→21 刀",
+    "text": "又发现一个宝藏聚合中转平台！！\n\n先说价格，因为这个是真炸裂：\n\n1、DeepSeek V4 Flash，免费。\n\n对，你没看错，直接免费调，不限量\n\n2、DeepSeek V4 Pro 和 GLM 5.3 Flash（就是 OxAlpha 那个底座），打5.5折，官方价格直接砍一半还多!!\n\n3、新出的Claude-5.1、Qwen 3.8MAX 这些热门模型，至少打8折起\n\n4、多模态也全有：Seedance 2.5、Seedance 2 Pro / mini / fast、Minimax H3、gpt-image-2、nano-banana-pro，生图生视频一个 key 全搞定\n\n我把之前跑 DeepSeek V4 Pro 的那个数据清洗任务切过去，同样的 prompt 同样的量，账单直接从 47 刀掉到 21 刀\n\n然后又拿 Claude-5.1 跑了一轮代码审查，也便宜了大概两成\n\n关键是只要一个 key，所有模型、所有工具走一个余额，月底看一张账单就行。对我这种同时开好几个模型订阅的人来说，简直不要太方便！\n\n这个平台是 @flatkey101 ，100 多个主流模型 + 1000 多个工具，一个 key 全通！\n\n现在搞促销力度确实大，尤其 DeepSeek V4 Flash 免费这个，不知道能持续多久，能薅的先薅吧\n\n通过官方邀请链接，前 2000 名直接兑换 $5 使用额度：",
+    "replies_top": [
+      {"handle": "luoxingxing369", "text": "与https://B.AI"},
+      {"handle": "happy20250912", "text": "卧槽 DeepSeek V4 Flash 居然免费还不限量？刚还在官方那抠额度呢~"},
+      {"handle": "rogue30481577", "text": "一个 Key 聚合所有模型确实方便"}
+    ]
+  },
+  {
+    "rank": 3,
+    "id": "2094980238455492744",
+    "handle": "GoSailGlobal",
+    "name": "Jason Zhu",
+    "url": "https://x.com/GoSailGlobal/status/2094980238455492744",
+    "time": "Wed, 02 Sep 2026 02:46:26 GMT",
+    "views": 32464,
+    "likes": 32,
+    "reposts": 3,
+    "quotes": 0,
+    "replies": 29,
+    "bookmarks": 15,
+    "quoted": true,
+    "media": [
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLdbH3bIAA0olA.jpg"}
+    ],
+    "hook": "跑 Agent 最怕月底账单",
+    "text": "跑 Agent 最怕什么？月底看账单\n\nFlatkey本周搞了波狠的：\n\n· DeepSeek V4 Flash —— 限时免费，零成本跑推理\n· DeepSeek V4 Pro —— 省 55%\n· GLM 5.3 Flash —— 省 55%\n· Claude Fable 5.1 —— 8 折\n· 其他模型 —— 全线 20%+\n\n充值还叠加额外 80% off\n\n算一笔账：\n如果你现在用 DeepSeek V4 Pro 跑 Agent pipeline，成本直接砍一半多\n\n如果轻量任务用 V4 Flash，这周直接白嫖 再把 Fable 5.1 挂在攻坚层做 escalation，8 折拿到最强推理\n\n适合：\n→ 跑 Coding Agent、搭 AI 产品的团队，推理账单是大头\n→ 做出海 SaaS 的，API 成本直接影响毛利结构\n→ 个人开发者想试新模型，免费的 V4 Flash 没有门槛\n\n🔗",
+    "replies_top": [
+      {"handle": "shitunote", "text": "话说DeepSeek V4 Flash  限时免费，还能用上Claude Fable 5.1 这些挺诱人的 哈哈"},
+      {"handle": "DongTao57263", "text": "跑 Agent 最怕的就是月底账单突然炸开。轻量任务用免费 Flash 顶着，难的再丢给打折后的 Pro / Fable，成本结构会好看很多"},
+      {"handle": "iEarth432", "text": "现在各家模型价格战打得这么凶，学会利用中转聚合网关做混合调度，可以大幅降低单位调用成本，还能把出海 SaaS 的毛利空间真正撑起来 。省下的每一分钱都是实打实的净利润"}
+    ]
+  },
+  {
+    "rank": 4,
+    "id": "2095002215543153105",
+    "handle": "bozhou_ai",
+    "name": "泊舟",
+    "url": "https://x.com/bozhou_ai/status/2095002215543153105",
+    "time": "Wed, 02 Sep 2026 04:13:46 GMT",
+    "views": 28394,
+    "likes": 18,
+    "reposts": 2,
+    "quotes": 6,
+    "replies": 19,
+    "bookmarks": 13,
+    "quoted": true,
+    "media": [
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLxWssbEAAGED3.jpg"},
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLxZU9bgAAcXl3.jpg"}
+    ],
+    "hook": "新模型到位 + 三档任务分流",
+    "text": "这周几个热门新模型基本都到位了：Claude Fable 5.1、Qwen 3.8 Max、GLM-5.3 Flash，连多模态的 Seedance 2.5、Minimax H3、gpt-image-2 和 nano-banana-pro 也都在。\n\n经常折腾 AI 的都知道，现在最麻烦的往往不是找模型，而是每出一家新模型，就要重新注册、绑卡充值，还得在不同项目里维护一堆不同的 Key 和 Base URL。特别是文案、生图、生视频各跨一家公司，后台和账单碎得一塌糊涂。\n\n看到 @Flatkey_SG 已经把这批模型全接进去了。他们主打的就是新模型 24 小时内快速跟进，把 100+ 官方模型收进同一把 Key 和一份余额里，支持各种支付渠道，省掉到处开号对账的麻烦。\n\n本周他们正好有大促，这波折扣建议直接按任务类型来分流：\n1. 免费跑量：DeepSeek V4 Flash 免费，特别适合拿来做长文本提取、格式转换、数据清洗，或者给 Agent 跑批量循环。\n\n2. 高性价比日常（立省 55%）：DeepSeek V4 Pro / GLM-5.3 Flash，常规代码和批量内容的高性价比档。\n\n3. 顶配尝鲜（立省 20% 起）：Claude Fable 5.1 / Qwen 3.8 Max 等主流模型，专啃复杂架构和难活。\n多模态生图生视频：Seedance 2 系列（Pro / mini / fast）、Minimax H3、nano-banana-pro 也能直接一把 Key 调通，不用去各家平台单独买额度包。\n\n想尝鲜新模型或者正好想把手头 API 入口统一收纳的朋友，可以直接领免费额度试一轮：",
+    "replies_top": [
+      {"handle": "momo_peggy", "text": "正愁workbuddy没法接海外模型了，感觉这个可以啊"},
+      {"handle": "youguqi2023", "text": "非常棒，就文字理解上我都有冲动马上注册个账号跑一边这个聚合了，适用不适用试试就知道"},
+      {"handle": "dage1332", "text": "这波确实密。我的做法是固定一两个自己的真实任务做基准，新模型上来就跑这几题，差别一下就看出来了。"}
+    ]
+  },
+  {
+    "rank": 5,
+    "id": "2095018872713961776",
+    "handle": "nopinduoduo",
+    "name": "我真的没有拼多多",
+    "url": "https://x.com/nopinduoduo/status/2095018872713961776",
+    "time": "Wed, 02 Sep 2026 05:19:57 GMT",
+    "views": 13095,
+    "likes": 19,
+    "reposts": 1,
+    "quotes": 8,
+    "replies": 17,
+    "bookmarks": 14,
+    "quoted": true,
+    "media": [
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRMAhUNbMAALdq5.jpg"}
+    ],
+    "hook": "DeepSeek V4 Flash 免费可薅",
+    "text": "兄弟们，又挖到一个现在挺值得薅的 AI 中转平台。\nDeepSeek V4 Flash 直接免费。\n\n不是打折，是现在真的可以免费调。\n\n然后 Claude 5.1、Qwen 3.8 MAX、OxAlpha（GLM 5.3 Flash）这些最近刚出的热门模型，也基本都已经上了。\n\n我看了一下 Flatkey 这周的活动，价格确实有点狠：\n\n🔥 DeepSeek V4 Flash：免费\n🔥 DeepSeek V4 Pro / GLM 5.3 Flash：直接省 55%\n🔥 Claude 5.1、Qwen 3.8 MAX 等其他主流模型：省 20% 起\n\n如果平时 API 用量比较大，这个折扣其实挺明显的。\n\n尤其 DeepSeek V4 Pro、GLM 5.3 这种，本来就是适合大量跑任务的模型，直接砍掉一半多成本。\n\n而且它不只是聚合大模型。\n\n最近这些多模态模型也基本都接进去了：\nSeedance 2.5\nSeedance 2 Pro / mini / fast\nMiniMax H3\nGPT-image-2\nnano-banana-pro\n\n也就是说现在一把 Key，基本可以把：\nClaude / GPT / Gemini / DeepSeek / Qwen / GLM + 生图 + 生视频\n\n全串起来。\n\n不用一个平台注册一次，不用每个平台单独充值，也不用项目里维护一堆不同的 API Key。\n\n这个对经常切模型的人其实比单纯便宜更舒服。\n\n比如 Claude 5.1 跑 Coding，DeepSeek V4 跑批量任务，GPT-image-2 生图，再接 Seedance 做视频，直接走同一个余额就行。\n\nFlatkey 目前是 100+ 主流模型 + 1000+ 工具，一个 API Key 全通。\n\n而且现在还有一波新用户活动：\n\n通过官方邀请链接，前 2000 名可以直接兑换 $5 使用额度：\nhttps://t.co/tPz9XuEHQk\n\n如果本来就在折腾 Claude Code、Codex、Agent 或者各种 AI 工作流，我觉得可以先把免费额度领了。\n\n尤其 DeepSeek V4 Flash 现在免费，拿来跑一些批量任务是真的香。\n\n不知道这个免费活动能持续多久，能薅先薅。",
+    "thread": [
+      {"handle": "nopinduoduo", "text": "有人反馈2000个名额用完了，可以再用这个链接试一下的\nhttps://console.flatkey.ai/redeem?from=X_SG"}
+    ],
+    "replies_top": [
+      {"handle": "shitunote", "text": "一把 Key调用多个模型 这一功能确实很棒 👍"}
+    ]
+  },
+  {
+    "rank": 6,
+    "id": "2095038908937732456",
+    "handle": "Pluvio9yte",
+    "name": "雪踏乌云",
+    "url": "https://x.com/Pluvio9yte/status/2095038908937732456",
+    "time": "Wed, 02 Sep 2026 06:39:34 GMT",
+    "views": 9322,
+    "likes": 35,
+    "reposts": 0,
+    "quotes": 0,
+    "replies": 45,
+    "bookmarks": 6,
+    "quoted": false,
+    "media": [
+      {"type": "video", "url": "https://video.twimg.com/amplify_video/2095036380338638848/vid/avc1/3840x2092/uaYbXffVNokohMFB.mp4", "duration_ms": 25200}
+    ],
+    "hook": "视频工作流卡在按秒定价",
+    "text": "现在跑 AI 视频的工作流，最大的卡点早就不是模型能力，是高昂的 API 调用成本。\n\n今天看了下 Flatkey 新出的活动帖，大部分人的关注点都在“一把 Key 接入 200+ 模型”上。但我花时间把它的计费底表刨了一遍，发现它真正有价值的，其实是藏在视频模型里的按秒定价。\n\n我们直接算账：它的价格表里，到底哪几款值得你立刻做进工作流\n\n这张表里性价比最高、最适合高密度调用的，是Seedance 2.0 的按秒计费系列：\n\n• seedance-2.0-mini：约 1 毛 3（$0.0182/秒）\n•seedance−2.0−fast：约2毛（$0.0285秒）\n• seedance-2.0 / pro：约 2 毛 6（$0.0372/秒）\n\n一条 10 秒的 2.0-fast 成本两块出头。玩过 AI 视频的都知道，满意的首帧和运镜全是靠废图堆出来的。只有单价压到这个水位，你才敢在代码里放开手去抽卡试错。\n\n除此之外，生成首尾帧的GPT-Image-2和Google系列图片模型也有。\n\n除了视频模型，它文本侧的羊毛也可以顺手薅一下：本周 DeepSeek V4 Flash 纯免费，V4 Pro 和 GLM 5.3 系列大约 4.5 折。\n\n通过官方邀请链接，前 2000 名直接兑换 $5 使用额度：",
+    "note": "抓取时正文在邀请链接处截断",
+    "replies_top": [
+      {"handle": "albloushi12a", "text": "按秒定价这个点确实比按量买实在"},
+      {"handle": "0x10Me", "text": "mini一毛三能冲"},
+      {"handle": "Lin102588", "text": "成本下来工作流才跑得动"}
+    ]
+  },
+  {
+    "rank": 7,
+    "id": "2094995875332567548",
+    "handle": "yanhua1010",
+    "name": "Yanhua",
+    "url": "https://x.com/yanhua1010/status/2094995875332567548",
+    "time": "Wed, 02 Sep 2026 03:48:34 GMT",
+    "views": 7851,
+    "likes": 12,
+    "reposts": 0,
+    "quotes": 0,
+    "replies": 8,
+    "bookmarks": 9,
+    "quoted": true,
+    "media": [
+      {"type": "video", "url": "https://video.twimg.com/amplify_video/2094995524567113728/vid/avc1/1894x1080/IwKsxvlNgrdb8tP2.mp4", "duration_ms": 42709}
+    ],
+    "hook": "Fable 5.1 一把过直升机 3D，<$2",
+    "text": "还没用到fable 5.1的赶紧看过来了，这是我用@Flatkey_SG 中fable 5.1模型做的测试👇\n\n用 Three.js 制作的空客 H145 直升机 3D 模型。\n\n一把过，且成本不到$2, 现在价格比官方低 20%。\n\n另外DeepSeek V4 Flash 现在免费，V4 Pro、GLM 5.3 和 GLM 5.3 Flash 都是 55% off，其他主流模型 20% 折扣。\n\n想第一时间体验的赶紧来领取免费额度：https://t.co/AkUpT45Aj9",
+    "thread": [
+      {"handle": "yanhua1010", "text": "完整提示词：\n在 Three.js 中创建一个逼真的空客 H145 直升机 3D 模型。采用标准工厂演示机的配色方案，突出紧凑的机身、涵道式尾桨（Fenestron 封闭式尾旋翼）以及精细的旋翼组件。使用干净的几何体、逼真的 PBR 材质、柔和的影棚灯光，并在 Three.js 中设置中性背景。\n\n灵感来源：@HarshithLucky3"}
+    ],
+    "replies_top": [
+      {"handle": "feelfeelhan", "text": "不错不错👍"}
+    ]
+  },
+  {
+    "rank": 8,
+    "id": "2094982812634120595",
+    "handle": "cellinlab",
+    "name": "Cell 细胞",
+    "url": "https://x.com/cellinlab/status/2094982812634120595",
+    "time": "Wed, 02 Sep 2026 02:56:40 GMT",
+    "views": 6255,
+    "likes": 23,
+    "reposts": 7,
+    "quotes": 8,
+    "replies": 18,
+    "bookmarks": 15,
+    "quoted": true,
+    "media": [
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLfws_bIAAu_SI.jpg"},
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLfw6IboAAN9dJ.jpg"},
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLfxCfbYAEPLzT.jpg"}
+    ],
+    "hook": "卧槽 Fable 5.1 来了 + 24h 上新",
+    "text": "卧槽，终于！Claude Fable 5.1 也来了 🔥\n\nFlatkey 刚刚接入 Claude Fable 5.1，\nQwen 3.8 Max、GLM-5.3 Flash 这些新模型也已在目录！\n\n现在模型迭代越来越快！真正麻烦的往往不是找不到模型，而是每家分别注册、充值，再维护不同的 Key 和余额。\n\n@flatkey101 给出的上新节奏是：新模型正式发布后 24 小时内上线⚡️\n\n把 100+ 官方模型收进一把 Key 和一份余额，\n不必再为每家单独维护一套入口 🤯\n\n这周更直接的重点是：价格！价格！还是特么的价格！\n\nDeepSeek V4 Flash 免费\nDeepSeek V4 Pro / GLM-5.3 Flash 立省 55%\nClaude Fable 5.1 / Qwen 3.8 Max 立省 20%\n\n如果你本来就会在 Claude、Qwen、GLM、DeepSeek 之间来回切，这种“模型上新后不用重做一套接入，余额也不用分开管”的体验，也要比单纯便宜更省心！🏖️\n\n注册查看最新活动和模型目录 👉\nhttps://t.co/DcVXqdbLGb\n\n这波你最想先测哪个模型？准备用它跑什么？",
+    "thread": [
+      {"handle": "cellinlab", "text": "对了 ，通过 这个链接注册可以领 5$ 🤫\nhttps://console.flatkey.ai/redeem?from=X_SG"}
+    ],
+    "replies_top": [
+      {"handle": "jin_zhong5", "text": "赶紧 试试先，免费的不错，现在还在用V4 PRO."}
+    ]
+  },
+  {
+    "rank": 9,
+    "id": "2094981519958028329",
+    "handle": "LufzzLiz",
+    "name": "岚叔",
+    "url": "https://x.com/LufzzLiz/status/2094981519958028329",
+    "time": "Wed, 02 Sep 2026 02:51:31 GMT",
+    "views": 5211,
+    "likes": 16,
+    "reposts": 0,
+    "quotes": 1,
+    "replies": 16,
+    "bookmarks": 21,
+    "quoted": true,
+    "media": [
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLeYQWbgAAW5J6.jpg"},
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLecqXbcAAcf3F.jpg"},
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLeeXqbEAELAnV.jpg"},
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLegaSaMAAcAN5.jpg"}
+    ],
+    "hook": "亲测 + 控制台/CLI 截图",
+    "text": "发现了一个不错的AI 聚合平台，已经上了fable 5.1 ，亲测好使\n\n一个 API Key，可接入 GPT / Claude / Gemini / DeepSeek 等主流模型，也有Seedance 2.5等生视频模型\n\n本周有限时专属优惠：\nDeepSeek V4 Flash：免费\nDeepSeek V4 Pro / GLM 5.3系列：- 55%\n其他主流通用模型：- 20% 起\n\n而且居然也有订阅计划，也不贵\n目前注册还可以便宜$5刀，看了支持各种支付渠道，感兴趣的朋友可以试试\nhttps://t.co/2dyrPacaPD\n\n操作配置简单方便，具体见评论👇",
+    "thread": [
+      {"handle": "LufzzLiz", "text": "安装配置页：\nhttps://console.flatkey.ai/dashboard/overview 四种方式可以自己选\n操作也简单直接，推荐用他家的flatkey ，非常方便", "media": [
+        "https://pbs.twimg.com/media/HRLeRmBaQAAeiGh.jpg",
+        "https://pbs.twimg.com/media/HRLeTnvaIAAFbTA.jpg"
+      ]}
+    ],
+    "replies_top": [
+      {"handle": "zyailive", "text": "它自家的Cli工具也很好用"}
+    ]
+  },
+  {
+    "rank": 10,
+    "id": "2094987538247372943",
+    "handle": "Adam38363368936",
+    "name": "Adam也叫吉米",
+    "url": "https://x.com/Adam38363368936/status/2094987538247372943",
+    "time": "Wed, 02 Sep 2026 03:15:26 GMT",
+    "views": 4756,
+    "likes": 19,
+    "reposts": 0,
+    "quotes": 11,
+    "replies": 18,
+    "bookmarks": 18,
+    "quoted": true,
+    "media": [
+      {"type": "video", "url": "https://video.twimg.com/amplify_video/2094987273544835072/vid/avc1/1080x1440/EoBKxfP06kjR0EXm.mp4", "duration_ms": 5066},
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLj4oMaMAAGvan.jpg"},
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLj7RfbkAAtvDf.jpg"}
+    ],
+    "hook": "Seedance 2.5 古风视频实测",
+    "text": "Seedance 2.5 这次真的有点超出我预期。\n\n我在 Flatkey 里直接跑了一条古风视频，成片的光影、人物质感和整体氛围都挺不错，尤其是偏写实的人像场景，完成度比我预想的高。\n\n然后又看到 DeepSeek V4 Flash 现在可以免费用，顺手拿经典的洗车问题测了一下，果然没让我失望哈哈。\n\n这次用 Flatkey 最大的感受就是省事。一个 Key 里可以直接切 DeepSeek、Claude、Qwen、GLM、Seedance、MiniMax H3、gpt-image-2 等一堆模型。对经常测新模型、做图片、跑视频或者处理不同任务的人来说，不用来回换平台确实方便很多。\n\n这周价格也挺狠：\nDeepSeek V4 Flash 免费\nDeepSeek V4 Pro / GLM 5.3 Flash -55%\n其他主流模型 -20% 起\n\n最近正好想测新模型，或者手上有一些 AI 任务要跑的，可以趁这波试一下。\n戳这里还有 $5 免费额度可以领取：",
+    "replies_top": [
+      {"handle": "dage1332", "text": "古风人像确实是这代模型比较稳的题材。视频我一般先跑低分辨率试镜头，成了再重出高清，省时间也省额度。"},
+      {"handle": "zhibudaoba", "text": "一个 Key 能直接切这么多模型，确实省太多事了。而且还有限时优惠，可以冲一把了"},
+      {"handle": "JunSongYoung", "text": "一个 Key 切多模型确实适合横向测试。更想看同一提示词在质量、延迟和实际成本上的并排对比，这比模型数量更有参考价值。"}
+    ]
+  },
+  {
+    "rank": 11,
+    "id": "2094979681342931156",
+    "handle": "jinglian",
+    "name": "前端哥Liam",
+    "url": "https://x.com/jinglian/status/2094979681342931156",
+    "time": "Wed, 02 Sep 2026 02:44:13 GMT",
+    "views": 4669,
+    "likes": 24,
+    "reposts": 2,
+    "quotes": 6,
+    "replies": 28,
+    "bookmarks": 11,
+    "quoted": true,
+    "media": [
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLc6hta0AA6an-.png"},
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLc6prbMAAXECg.jpg"},
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRLc6xha0AAc4jt.jpg"}
+    ],
+    "hook": "受够了在 1Password 翻 Key",
+    "text": "说真的，我彻底受够了在 1Password 里翻找几十个大模型的 API Key。\n\n每次开发测试都要切来切去找各种密钥，这种碎片化的折磨该结束了 🤦‍♂️\n\n最近发现了一个很好用的新平台【Flatkey】。\nFlat，就是「便宜」的意思。\n\n你只需要 1 个 API Key，就能直接接入 GPT / Claude / Gemini / DeepSeek 等所有主流模型 🔑\n\n除了帮你把繁琐的接入和账单统统拉平，它的硬核实力更戳开发者的痛点：\n\n🔹 拒绝黑盒：文本、视频与音频统一走官方端点，每次调用都有 SLA 协议保障\n🔹 毫秒调度：内置 1000+ 工具，支持毫秒级结构化自动路由与调度\n🔹 极简账单：全局统一且清晰的消费明细，再也不用到处开卡充值\n\n🎁 本周限时专属福利👇\n\n✅ DeepSeek V4 Flash：完全免费\n✅ DeepSeek V4 Pro / GLM 5.3：立减 55%\n✅ 其他主流通用模型：直降 20% 起\n\n刚发布的 Claude fable 5.1 也已经光速上架了，优惠 20%\n\n👉 立即注册领取免费调用额度：https://t.co/pperjdjMVE\n\n#Flatkey  #API",
+    "replies_top": [
+      {"handle": "shitunote", "text": "我已经用这个平台跑起任务来啦 😃\n\n谢前端哥推荐"},
+      {"handle": "fanleiLex", "text": "有免费的就是好啊，一大波福利来袭"},
+      {"handle": "ModengSir", "text": "有免费的额度还？这个平台不错 薅起来"}
+    ]
+  },
+  {
+    "rank": 12,
+    "id": "2095013973821448568",
+    "handle": "ModengSir",
+    "name": "Modengsir AI",
+    "url": "https://x.com/ModengSir/status/2095013973821448568",
+    "time": "Wed, 02 Sep 2026 05:00:29 GMT",
+    "views": 2851,
+    "likes": 23,
+    "reposts": 1,
+    "quotes": 8,
+    "replies": 14,
+    "bookmarks": 19,
+    "quoted": true,
+    "media": [
+      {"type": "video", "url": "https://video.twimg.com/amplify_video/2095013782896660480/vid/avc1/1280x720/OXKvl8VUApwr0NK3.mp4", "duration_ms": 5041},
+      {"type": "video", "url": "https://video.twimg.com/amplify_video/2095013869991428096/vid/avc1/1344x768/LfjiXd6abVvTzYDV.mp4", "duration_ms": 6583},
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRL8CFmbEAApZg0.jpg"},
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRL8C80bEAAQrP1.jpg"}
+    ],
+    "hook": "Codex 一 Key 连跑两个视频模型账单",
+    "text": "我让 Codex 用一个 Key 连跑两款 AI 视频模型，\n不到5分钟，账单出来了\n\nAI视频模型越来越多，但如果真要批量做内容，我最关心的已经不只是画质：\n生成一条视频，到底烧多少钱？\n\n这次我在MacBook的Codex Desktop里，让Codex使用同一个Flatkey Key，连续调用：\nSeedance 2.5&MiniMax H3\n不打开网页生成、不手动复制任务ID，Codex负责提交任务、查询状态、下载视频和记录耗时。\n\n【测试条件】\n两个模型使用同一个汽车广告提示词、16:9比例，\n都是文生视频：\nSeedance 2.5：720p、5秒\nMiniMax H3：768P、6秒\n720p和768P比较接近，但并不是完全相同的参数；视频时长也相差1秒。\n\n所以这次不是严格的“谁画质更强”，重点是看两款模型能否共用一个Key，以及每次生成的实际消耗。\n\n【实测结果】\n两次任务都一次完成，没有自动重试：\nSeedance 2.5：耗时2分18秒，实际扣费 $1.413\nMiniMax H3：耗时2分29秒，实际扣费 $0.48\n两次完整跑完不到5分钟，总费用 $1.893\n\nAI视频存在随机性，而且两次生成的清晰度、时长并不完全一致，所以我不会根据一次结果就下“全面碾压”的结论。\n\n这次让我感受最明显的，反而不是哪个模型赢了。\n以前测试两个AI视频模型，通常要注册两个平台、准备两份余额，再分别打开后台算费用。\n\n这次我只在Codex里发出一次任务，两个模型就共用了：\n一个Flatkey Key\n同一份账户余额\n同一个调用入口\n同一张Usage账单\n生成的视频也直接保存到了本地。\n\n这不能证明Flatkey一定比所有平台会员都便宜，因为会员订阅和API按次调用不是一种计费方式。\n\n但对经常横向测试模型、批量做AI视频或者搭建自动化工作流的人来说，每次调用花了多少钱都能集中看到，不用再维护一堆账号和余额，这点确实很实用。\n\n一个Key跑两个AI视频模型，你觉得哪一段效果更好？\n这么方便的操作方式，得试试啦。\n\n最最主要的是一个 API Key，接入 GPT / Claude / Gemini / DeepSeek 等主流模型 ，便宜的同时账单明细还清晰。\n好消息是这周还有限时专属优惠：\n\n✅DeepSeek V4 Flash：免费\n✅DeepSeek V4 Pro / GLM 5.3：- 55%\n✅其他主流通用模型：- 20% 起\n\n到处开通 API Key 的麻烦，只有Flatkey懂你，它帮你把接入，而且还便宜。\n\n官方还限时免费送额度5刀，手慢无 https://t.co/ld98cERVbh\n\n官推： @flatkey101 官网：https://t.co/FzrAxSlkC0",
+    "replies_top": [
+      {"handle": "happy20250912", "text": "同样是汽车广告提示词，H3 才 0.48，Seedance 2.5 到 1.4，差距确实不小。"},
+      {"handle": "Kaixiny_7", "text": "Codex负责提交查询下载，视频直接落到本地，比开两个后台省事"},
+      {"handle": "smark0428", "text": "我的眼睛只看到了免费，其他都看不进去了"}
+    ]
+  },
+  {
+    "rank": 13,
+    "id": "2095058952224423969",
+    "handle": "Zesee",
+    "name": "Rachel🥥",
+    "url": "https://x.com/Zesee/status/2095058952224423969",
+    "time": "Wed, 02 Sep 2026 07:59:13 GMT",
+    "views": 2685,
+    "likes": 36,
+    "reposts": 0,
+    "quotes": 0,
+    "replies": 27,
+    "bookmarks": 10,
+    "quoted": true,
+    "media": [
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRMlAKtXkAACkET.jpg"}
+    ],
+    "hook": "新模型快，麻烦的是注册充值对账",
+    "text": "AI时代，新模型上得很快，对开发者和 AI 产品团队来说，麻烦的不只是选模型，而且是每个平台都要单独注册、充值、管理 API Key，最后账单还分散在不同地方。\n\nFlatkey @Flatkey_SG 把 GPT、Claude、Gemini、DeepSeek 等主流模型接到一个 API Key 里，模型切换、路由和账单都能统一处理。\n\n这周的价格也很直接：\nDeepSeek V4 Flash：免费\nDeepSeek V4 Pro / GLM 5.3 Flash：省 55%，只需要付原价的 45%\n其他主流通用模型：至少省 20%\n\n多模态这边已经覆盖 Seedance 2.5、Seedance 2 Pro / mini / fast、Minimax H3、gpt-image-2、nano-banana-pro\n\nClaude-5.1、Qwen 3.8MAX、OxAlpha 这些热点模型也已经接入。无论是快速试新模型、做横向对比，还是给现有产品补一套多模型能力，都不用再为每个模型单独开账号和切换 Key。\n\n活动前 2000 名用户还能领 $5 免费额度。最近准备测新模型，或者 API 用量比较大，可以先把额度领了：",
+    "replies_top": [
+      {"handle": "Gutenberg1450", "text": "我去，这个是刚需啊。"},
+      {"handle": "Mengmengeth", "text": "这个太实用了，不用来回注册好多账号，省事不少👍"},
+      {"handle": "QT9277", "text": "Flatkey 真香，省心又省钱！"}
+    ]
+  },
+  {
+    "rank": 14,
+    "id": "2095039467509707219",
+    "handle": "duange6099",
+    "name": "程序员端哥",
+    "url": "https://x.com/duange6099/status/2095039467509707219",
+    "time": "Wed, 02 Sep 2026 06:41:47 GMT",
+    "views": 2470,
+    "likes": 28,
+    "reposts": 1,
+    "quotes": 11,
+    "replies": 20,
+    "bookmarks": 19,
+    "quoted": true,
+    "media": [
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRMTQVhbwAApM5d.jpg"}
+    ],
+    "hook": "失败不扣费 / SLA / 子 Key",
+    "text": "最近发现一个挺适合开发者和 AI 重度用户的模型中转平台：https://Flatkey.ai\n它最近有一波限时活动，其中比较值得关注的是：\n🔥 DeepSeek V4 Flash：限时免费\n🔥 DeepSeek V4 Pro、GLM 5.3 Flash：限时 55% OFF\n🔥 其他主流模型也有不同程度优惠\n真正方便的地方不只是价格，而是一个 API Key 就能调用多家模型。\n目前官网显示已经覆盖 GPT、Claude、Gemini、DeepSeek、Qwen、GLM 等 100+ 模型，同时还整合了 1000+ AI 工具。文本、图片和视频调用使用同一个账户余额，不需要分别注册平台、充值和维护一堆密钥。\n例如可以这样搭配：\nClaude / GPT 处理编程和复杂任务\nDeepSeek V4 跑批量推理\nGPT-image-2、nano-banana-pro 生成图片\nSeedance 2.5、MiniMax H3 生成视频\n对使用 Codex、Claude Code、OpenClaw，或者自己搭 Agent 工作流的人来说，接入和切换模型会省事很多。\n另外几个比较实用的点：\n失败的 Flatkey 侧调用不扣余额\n模型和工具共用一个账单\n支持自动故障转移\n官网标注提供 99.5% SLA\n可以创建带预算和模型白名单的子 Key\n新用户目前还能通过活动链接兑换额度，感兴趣可以先领额度、小额测试，确认速度、稳定性和实际计费符合自己的需求后，再决定是否充值。\n\n👉 领取 Flatkey 新用户额度\n如果你平时需要频繁切换 Claude、GPT、DeepSeek、\nQwen，或者正在搭建包含生图、生视频能力的 AI 工作\n流，这类“一把 Key 全接入”的平台确实值得体验一下。\n活动价格和免费政策可能随时调整，具体以 Flatkey 官网实\n时页面为准。",
+    "replies_top": [
+      {"handle": "ModengSir", "text": "最主要问题是便宜，还可以一个key调用所有模型 ，赞一个"},
+      {"handle": "mowangweb", "text": "调用失败不扣钱这点实在，中转最怕钱扣了结果没回来"},
+      {"handle": "cc1996314", "text": "Flatkey这波羊毛必须得薅上，DeepSeek V4 Flash目前免费调用"}
+    ]
+  },
+  {
+    "rank": 15,
+    "id": "2095022891901628685",
+    "handle": "shitunote",
+    "name": "马识途",
+    "url": "https://x.com/shitunote/status/2095022891901628685",
+    "time": "Wed, 02 Sep 2026 05:35:55 GMT",
+    "views": 2458,
+    "likes": 44,
+    "reposts": 5,
+    "quotes": 16,
+    "replies": 44,
+    "bookmarks": 23,
+    "quoted": true,
+    "media": [
+      {"type": "video", "url": "https://video.twimg.com/amplify_video/2095022556239867904/vid/avc1/966x720/LcqlCZ2_w7rD4IKm.mp4", "duration_ms": 62113}
+    ],
+    "hook": "Fable 5.1 生成鹈鹕骑车 SVG",
+    "text": "还在被一堆 API 密钥搞得焦头烂额吗？\n\n切换不同大模型就要新增一套密钥，各家账单分散独立，token 调用成本居高不下，这应该是很多 AI 开发者共同的痛点。\n\n最近发现了一个很好用的新平台 Flatkey , 可以帮你解决这个问题——仅需一把 Key，就可以调用 GPT、Claude、Gemini、DeepSeek、Qwen、GML 等一众主流大模型。在同一个任务里可以调用多种模型，跑通完整Agent工作流。\n\n🔥最近的热点模型：\n.Anthropic刚刚发布的Claude Fable 5.1\n.Qwen 3.8MAX\n.OxAlpha (“牛来”，GLM 5.3 flash)\n等等全都有\n\n🎁 这个平台当前限时优惠（本周）力度也拉满了：\n✅DeepSeek V4 Flash：完全免费使用\n✅DeepSeek V4 Pro / GLM 5.3：直降 55%\n✅Claude Fable 5.1 —— 8 折\n✅其余主流通用模型：优惠 20% 起\n\n我已经用Flatkey跑一些日常任务以及测试Claude Fable 5.1了。以下为使用Flatkey中的Claude Fable 5.1生成的鹈鹕骑自行车SVG动画，生成速度飞快，效果也很棒👍\n\n👉 你也可以试试！现在注册前2000名，有 $5 免费额度可以领取：https://t.co/qYia1HVBXW",
+    "replies_top": [
+      {"handle": "AIPonderx", "text": "Using one key for multiple models——this is indeed fantastic 😃"},
+      {"handle": "Shenxiao123971", "text": "对于有需要的人来说，简直是太方便了"},
+      {"handle": "MingFire520", "text": "不错，密钥管理确实很繁琐"}
+    ]
+  },
+  {
+    "rank": 16,
+    "id": "2095019719225143574",
+    "handle": "onehopeA9",
+    "name": "OneHopeA9",
+    "url": "https://x.com/onehopeA9/status/2095019719225143574",
+    "time": "Wed, 02 Sep 2026 05:23:19 GMT",
+    "views": 1971,
+    "likes": 11,
+    "reposts": 0,
+    "quotes": 7,
+    "replies": 8,
+    "bookmarks": 11,
+    "quoted": true,
+    "media": [
+      {"type": "photo", "url": "https://pbs.twimg.com/media/HRMAWjfaMAAYD7u.jpg"}
+    ],
+    "hook": "CLI 一命令登录，Key 都可以不配",
+    "text": "我靠，发现一个宝藏应用，简单使用连API Key都可以不配置！\n现在接 AI 模型，最烦的往往不是调用，而是每家都要单独注册、充值、管理 API Key。\n最近在用 Flatkey，一个 API Key 就能接入 GPT、Claude、Gemini、DeepSeek、GLM 等主流模型，切换模型方便，账单也能统一查看，不用再到处充余额。\n\n关键是价格确实便宜，本周限时优惠：\n✅ DeepSeek V4 Flash：免费\n✅ DeepSeek V4 Pro / GLM 5.3系列：低至 45 折\n✅ 其他主流通用模型：8 折起\n除了省钱，它还集成了 1000+ 工具，支持结构化路由和毫秒级自动调度。开发时不用反复改接口、换 Key，模型和费用也更容易管理。\n一句话：更便宜、更省事，也更适合同时使用多个模型的人。\n在CLI中，一个命令登录，就可使用，API Key都可以不用配置！\n现在前2000名还有免费额度，这兄弟们不可错过:",
+    "replies_top": [
+      {"handle": "lxfeng999", "text": "冲呀，朋友们， 2000 的免费额度，它不香吗？能薅就薅，别等到没了又要用的时候就晚了，或是花了没必要的冤枉钱🤔"},
+      {"handle": "zhibudaoba", "text": "一个key 串起多种模型，可以随便切，这个点太实用了。更何况现在还可以免费薅 DeepSeek V4 Flash 模型"},
+      {"handle": "IPFS15", "text": "不用来回申请 Key 和充值，这点对经常切模型的人太友好了。"}
+    ]
+  },
+  {
+    "rank": 17,
+    "id": "2094988880931893750",
+    "handle": "zyailive",
+    "name": "张禹",
+    "url": "https://x.com/zyailive/status/2094988880931893750",
+    "time": "Wed, 02 Sep 2026 03:20:46 GMT",
+    "views": 1527,
+    "likes": 6,
+    "reposts": 0,
+    "quotes": 1,
+    "replies": 6,
+    "bookmarks": 1,
+    "quoted": true,
+    "media": [
+      {"type": "video", "url": "https://video.twimg.com/amplify_video/2094984686145781760/vid/avc1/1662x1080/DpMT21Vdi9RRjpLQ.mp4", "duration_ms": 77100}
+    ],
+    "hook": "CLI 工作流：Flash 免费 + Mini $0.15",
+    "text": "用 Flatkey CLI 跑了一次完整 AI 视频生成工作流，成本低到有点夸张。\n\n我的流程：\n\n剧情生成 → DeepSeek V4 Flash（免费调用）\n\n视频生成 → Seedance 2.0 Mini（仅消耗 $0.15）\n\n一个完整的视频创作流程，只花了不到一杯咖啡的钱。\n\nFlatkey CLI 可以统一调用多个模型，不需要维护多个 API Key，也不用反复切换平台。\n\n对 AI Agent、Vibe Coding、自动化内容创作来说，这种低成本多模型组合非常实用。\n\n🎁 目前 Flatkey 还有限时优惠：\n✅ DeepSeek V4 Flash 免费\n✅ DeepSeek V4 Pro / GLM 5.3 & 5.3-flash -55%\n✅ 其他主流模型 -20% 起\n\n前 2000 名用户可领取 $5 免费额度。",
+    "replies_top": [
+      {"handle": "jinglian", "text": "这个真的很方便，我的大模型api key 都记了几十个了，翻来翻去烦死了"},
+      {"handle": "LufzzLiz", "text": "能串成一个流程就很方便"},
+      {"handle": "QT9277", "text": "这波操作稳赚不赔啊！"}
+    ]
+  },
+  {
+    "rank": 18,
+    "id": "2095055234125197615",
+    "handle": "Soranlan",
+    "name": "Soran",
+    "url": "https://x.com/Soranlan/status/2095055234125197615",
+    "time": "Wed, 02 Sep 2026 07:44:26 GMT",
+    "views": 259,
+    "likes": 1,
+    "reposts": 0,
+    "quotes": 0,
+    "replies": 0,
+    "bookmarks": 0,
+    "quoted": true,
+    "media": [
+      {"type": "video", "url": "https://video.twimg.com/amplify_video/2094940515393499136/vid/avc1/1080x1350/6eJ8i0M2TFrECF7B.mp4", "duration_ms": 23680}
+    ],
+    "hook": "复述官方折扣，无独特信息",
+    "text": "https://t.co/uzFTgeJCEa\n最近新模型上线太快，Claude Fable 5.1、Qwen 3.8 Max、GLM 5.3 Flash……每个都想试一遍，最后最先顶不住的通常不是模型，而是 API 账单。\n\n所以 Flatkey @Flatkey_SG\n\nDeepSeek V4 Flash，本周免费。\n\n活动期间模型调用价格就是 $0。先把免费档用起来，能不花的钱就别花。免费的还要什么自行车。\n\n需要更高一档的模型，价格也砍得够狠：\n\nDeepSeek V4 Pro：省 55%\nGLM 5.3 Flash：省 55%\n省 55% 是什么概念？原本 $100 的调用成本，现在相当于 $45，已经不是普通促销，基本就是直接打到半价以下。\n想追刚上线的新模型，也不用一直按原价硬扛。Claude Fable 5.1、Qwen 3.8 Max 等其他主流模型，本周省 20% 起。\n\n这次活动的选择很简单：想零成本用就上 DeepSeek V4 Flash；想用 Pro 或 GLM 5.3 Flash，就趁 55% 优惠；其他热门新模型，也至少能省下一截调用费。\n\n反正 DeepSeek V4 Flash 都已经免费了，先把额度领到手再说：",
+    "replies_top": []
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/mrloldev/status/2066927951212609863",
+    "id": "2066927951212609863",
+    "text": "cursor just launched their GitHub replacement\n\ncalled origin",
+    "raw_text": {
+      "text": "cursor just launched their GitHub replacement\n\ncalled origin https://t.co/bF0mVDU0J2",
+      "display_text_range": [
+        0,
+        60
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            61,
+            84
+          ],
+          "id": "2066927920707506176",
+          "display": "pic.x.com/bF0mVDU0J2",
+          "original": "https://t.co/bF0mVDU0J2",
+          "replacement": "https://x.com/mrloldev/status/2066927951212609863/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "mrloldev",
+      "url": "https://x.com/mrloldev",
+      "id": "1154694118544744448",
+      "followers": 2381,
+      "following": 9015,
+      "likes": 131559,
+      "media_count": 514,
+      "name": "Leonardo",
+      "description": "19yo chief slop officer @withdelphi & doing stuff at @hackspain26 | prev swe @get_wildfire & founder @Turing_AI_ (acq, 768k users)\n\n🇪🇸/🇧🇷\n\n42",
+      "raw_description": {
+        "text": "19yo chief slop officer @withdelphi & doing stuff at @hackspain26 | prev swe @get_wildfire & founder @Turing_AI_ (acq, 768k users)\n\n🇪🇸/🇧🇷\n\n42",
+        "facets": []
+      },
+      "location": "San Francisco, CA",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1154694118544744448/1763655068",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1840591268075728896/ah2skpkx_200x200.jpg",
+      "joined": "Fri Jul 26 10:05:05 +0000 2019",
+      "protected": false,
+      "website": {
+        "url": "https://mrlol.dev/",
+        "display_url": "mrlol.dev"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 108,
+    "retweets": 117,
+    "likes": 3588,
+    "bookmarks": 568,
+    "quotes": 54,
+    "created_at": "Tue Jun 16 16:56:39 +0000 2026",
+    "created_timestamp": 1781628999,
+    "possibly_sensitive": false,
+    "views": 327187,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2066927920707506176",
+          "url": "https://pbs.twimg.com/media/HK8z_iobkAAIVgZ.jpg?name=orig",
+          "width": 2048,
+          "height": 1536
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2066927920707506176",
+          "url": "https://pbs.twimg.com/media/HK8z_iobkAAIVgZ.jpg?name=orig",
+          "width": 2048,
+          "height": 1536
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

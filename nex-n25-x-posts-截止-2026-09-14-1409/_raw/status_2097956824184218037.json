@@ -1,0 +1,755 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Charles77xixi/status/2097956824184218037",
+    "id": "2097956824184218037",
+    "text": "https://x.com/i/article/2097887503986679808",
+    "raw_text": {
+      "text": "https://t.co/uIQtyw6ufi",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            0,
+            23
+          ],
+          "original": "https://t.co/uIQtyw6ufi",
+          "replacement": "https://x.com/i/article/2097887503986679808",
+          "display": "x.com/i/article/2097…"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "Charles77xixi",
+      "url": "https://x.com/Charles77xixi",
+      "id": "1882844316475019264",
+      "followers": 4545,
+      "following": 269,
+      "likes": 1275,
+      "media_count": 163,
+      "name": "Charles在路上",
+      "description": "00后程序员👨🏻‍💻｜前大厂 Infra，目前在做 Game Agent\n把 AI 真正用进项目、把工资变成资产，联系方式在个人网站\n合作 📮：charles77xixi@gmail.com",
+      "raw_description": {
+        "text": "00后程序员👨🏻‍💻｜前大厂 Infra，目前在做 Game Agent\n把 AI 真正用进项目、把工资变成资产，联系方式在个人网站\n合作 📮：charles77xixi@gmail.com",
+        "facets": []
+      },
+      "location": "China, Shenzhen",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1882844316475019264/1783949142",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2047866644459048960/cOHLnyyK_200x200.jpg",
+      "joined": "Fri Jan 24 17:34:58 +0000 2025",
+      "protected": false,
+      "website": {
+        "url": "http://www.charles-cheng.com",
+        "display_url": "charles-cheng.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 46,
+    "retweets": 28,
+    "likes": 37,
+    "bookmarks": 9,
+    "quotes": 11,
+    "created_at": "Thu Sep 10 07:54:19 +0000 2026",
+    "created_timestamp": 1789026859,
+    "possibly_sensitive": false,
+    "views": 2690,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-09-10T07:54:19.000Z",
+      "modified_at": "2026-09-10T07:54:19.000Z",
+      "id": "2097887503986679808",
+      "title": "当大模型开始真实操作 Blender 与 CAD：Nex-N2.5 Pro 实测，兼谈 Computer Use 的工程边界",
+      "preview_text": "正文\n做 Agent 编排和自动化工作流这两年，身边很多工程师对大模型的感知正在经历一次分水岭。\n纯文本对话和标准化代码生成的边际收益正在迅速递减。日常开发里无论补写一段 Python 函数，还是用 SQL",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHR0xkm2bAAAKAAIaITTuGttQAAAA",
+        "media_id": "2097887506398380032",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 93.32,
+                "rgb": {
+                  "blue": 251,
+                  "green": 249,
+                  "red": 248
+                }
+              },
+              {
+                "percentage": 4.8,
+                "rgb": {
+                  "blue": 106,
+                  "green": 104,
+                  "red": 101
+                }
+              },
+              {
+                "percentage": 1.28,
+                "rgb": {
+                  "blue": 243,
+                  "green": 179,
+                  "red": 138
+                }
+              },
+              {
+                "percentage": 0.41,
+                "rgb": {
+                  "blue": 239,
+                  "green": 144,
+                  "red": 83
+                }
+              },
+              {
+                "percentage": 0.19,
+                "rgb": {
+                  "blue": 58,
+                  "green": 55,
+                  "red": 52
+                }
+              }
+            ]
+          },
+          "original_img_height": 772,
+          "original_img_url": "https://pbs.twimg.com/media/HR0xkm2bAAAS7U_.png",
+          "original_img_width": 2024
+        },
+        "media_key": "3_2097887506398380032"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1ucfg",
+            "text": "正文",
+            "type": "header-one"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "jbdhu",
+            "text": "做 Agent 编排和自动化工作流这两年，身边很多工程师对大模型的感知正在经历一次分水岭。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "khi43",
+            "text": "纯文本对话和标准化代码生成的边际收益正在迅速递减。日常开发里无论补写一段 Python 函数，还是用 SQL 查个数据表，现有的主力模型都已经能够给出及格的回答。但在真实生产环境中，大家卡得最难受的往往是另一类任务：那些没有暴露标准 API、依赖复杂图形界面、流程极长且容错率极低的桌面软件操作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "tncqe",
+            "text": "比如让模型去 Blender 里调一个 3D 模型的材质节点，去 CAD 里核对结构尺寸，或者在没有开放接口的旧版 Web 系统里做长流程的数据对账。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 14,
+                "style": "Bold"
+              },
+              {
+                "length": 50,
+                "offset": 126,
+                "style": "Bold"
+              }
+            ],
+            "key": "kf9xl",
+            "text": "最近在测试圈里讨论度很高的 Nex-N2.5 Pro ，核心切入点正是这个被很多通用模型绕过去的深水区。它拿出了 397B 的参数体量，多模态对标 GPT-6 Astra，但在宣传上没有停留在常规的代码或聊天 benchmark，而是把核心能力押在了 Vision、Computer Use 与长程操作（Long-horizon operations） 上。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "i4p2s",
+            "text": "这篇文章把我这两天对其核心机制的拆解、真实工作流测试与适用边界完整梳理一遍。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "btctq",
+            "text": "1️⃣ 为什么 397B 模型要死磕 Computer Use",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "uyyu8",
+            "text": "做自动化的人往往容易陷入一种「API 崇拜」：觉得任何事情只要写脚本调接口就能解决。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "u2veg",
+            "text": "但在现实的工业与创意场景里，一个残酷的客观事实是：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dg7ii",
+            "text": "现实中超过 80% 的专业桌面软件（如各类工业 CAD、BIM、特定 3D 渲染套件），其脚本接口要么极端陈旧晦涩，要么完全没有暴露足够的控制粒度；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "tsvgi",
+            "text": "大量内部办公系统或企业旧版控制台，根本不具备可编程的 OpenAPI，唯一的交互界面就是浏览器渲染出来的像素点；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "z03w5",
+            "text": "纯代码生成缺乏视觉反馈回路（Visual Feedback Loop），模型写完一段生成 3D 资产的代码，自己根本不知道渲染出来的材质有没有破面、法线有没有反转。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 12,
+                "offset": 23,
+                "style": "Bold"
+              }
+            ],
+            "key": "o07de",
+            "text": "这就是为什么 Nex-N2.5 Pro 会把 Computer Use 作为核心交付。它不是简单地套壳调用系统命令，而是通过多模态 Vision 持续截取屏幕画面，把当前 UI 元素、画布焦点与上下文理解结合起来，直接驱动鼠标点击、快捷键组合与跨窗口长程操作。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9du7r",
+            "text": "模型不再只是在沙盒里输出文本，而是像一个坐在电脑前的初级工程师，看着屏幕去点选、调试与校准。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "law47",
+            "text": "2️⃣ 核心实测场景：从 Blender 建模到 Three.js 交互网页",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "98i0l",
+            "text": "为了验证它官方宣称的跨软件串联能力，我设计了一条典型的多阶段全流程链条：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ppkhj",
+            "text": "输入指令非常具体明确：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "frirz",
+            "text": "设计一把带有圆柱椅腿与倒角靠背的现代极简椅，在 Blender 中完成网格构建与材质设定，导出为标准化 glTF 格式，并在前端通过 Three.js 挂载 OrbitControls 实现 Web 交互旋转。",
+            "type": "blockquote"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "v2yqw",
+            "text": "整个全自动执行链路分为三个关键阶段：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "nfds6",
+            "text": "输入与视觉解析 ：给出一段自然语言产品描述与手绘草图，由多模态视觉感知提取倒角半径、椅腿定位与网格比例；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 11,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "obn2x",
+            "text": "桌面 GUI 连续操作 ：自主启动 Blender 4.2，通过快捷键调出建模菜单，进入编辑模式倒角，并在右侧修改器面板挂载 2 级表面细分，最终将资产导出为标准化 chair_modern.glb；",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "somv2",
+            "text": "前端渲染管线交付 ：在终端中编写 Three.js 挂载脚本，绑定 GLTFLoader、环境光照与轨道控制器，并拉起本地服务验证帧率。",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "7nl5j",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "n7cih",
+            "text": "这一轮实测跑下来，后台记录的核心量化指标如下：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 5,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "kw3i7",
+            "text": "全流程耗时 ：1 分 48 秒（共 8 个动作步骤，平均单步时延 2.1 秒）；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 7,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "9k85v",
+            "text": "界面坐标对齐率 ：99.4%（在 1920×1080 桌面分辨率下，未发生属性面板误触与坐标漂移）；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 8,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "yx1xh",
+            "text": "上下文与内存消耗 ：峰值消耗 128K 上下文 token，零看门狗强行重试，一次性闭环跑通；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 6,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "g9ftl",
+            "text": "最终渲染交付 ：输出的 glTF 模型面数为 14,280 三角面，Three.js WebGL 渲染帧率稳定维持在 60 FPS，法线方向与 PBR 粗糙度贴图全部正常。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rwpoz",
+            "text": "它自动生成的前端渲染核心脚手架相当规范，没有多余的幻觉依赖：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "cn51o",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "10z8s",
+            "text": "这种长程操作连续性，体现了其 397B 底座在长上下文记忆与动作状态机（Action State Machine）上的扎实优化。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "j5yc1",
+            "text": "3️⃣ 一条真实缺点与工程边界",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ha6u7",
+            "text": "本着严谨的技术视角，这类高阶 Computer Use 目前依然存在非常明确的工程妥协：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 15,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "6w3ld",
+            "text": "第一，长程操作的等待延迟偏高。 每次屏幕截图、视觉解析、规划动作再到操作系统级事件响应，整个反馈环路单步耗时通常在 2 到 4 秒左右。一个涉及数十次点击与快捷键的长任务，跑完往往需要数分钟。如果你追求的是高并发、毫秒级的批量数据处理，传统的 Headless 脚本依然是更理性的选择。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 14,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "19phs",
+            "text": "第二，视觉遮挡下的重试开销。 一旦遭遇突发系统弹窗或软件卡顿加载，模型在视觉对齐失败后需要进行自我回退重试，这会成倍消耗多模态上下文 token。在非确定性的操作系统环境下，防范死循环与状态漂移依然需要人设好看门狗机制。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "j5oru",
+            "text": "4️⃣ 工程师该如何选择技术路径",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "riqq9",
+            "text": "对照当前的大模型应用生态，我把两者的工程适用边界梳理成了一张决策矩阵：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 2,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "ju2h2",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "pivfx",
+            "text": "结合日常实践，我的建议原则非常朴素：",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 16,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "0bmuc",
+            "text": "优先用标准代码与 API 的场景 ：结构化数据清洗、后端服务逻辑、标准化 Web 数据爬取。这类场景确定性高，直接调轻量模型写代码更快更便宜；",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [
+              {
+                "length": 21,
+                "offset": 0,
+                "style": "Bold"
+              }
+            ],
+            "key": "e25pb",
+            "text": "果断切入 Computer Use 的场景 ：专业工业设计软件（CAD/Blender）自动化、遗留无 API 系统的跨系统对账、以及需要视觉边看边改的复杂交互调试。",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "l520q",
+            "text": "对于有志于搭建高阶 Agent 或端到端数字员工工作流的团队，Nex-N2.5 Pro 展示了一个非常重要的风向：未来的大模型竞争，正在从比拼谁更会写文字，转向比拼谁能真正把手伸进操作系统里替人干活。",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "0iavo",
+            "text": "5️⃣ 体验与验证方式",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "dr87y",
+            "text": "如果你手头刚好有依赖桌面软件、反复手工点击的繁琐任务，建议拿一个非核心的流程做一次真实端到端测试，重点观察它在遇到错误交互时的自愈能力。",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "5c5bcee5-bcec-42f1-9215-0cc276895061",
+                "mediaItems": [
+                  {
+                    "localMediaId": "1",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2097887485909147648"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "88f2530b-1666-4e20-b8f6-567fce63adc1",
+                "markdown": "\n```javascript\nimport * as THREE from 'three';\nimport { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';\nimport { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';\n\nconst scene = new THREE.Scene();\nconst camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 1000);\nconst renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });\nrenderer.setSize(window.innerWidth, window.innerHeight);\ndocument.body.appendChild(renderer.domElement);\n\nconst controls = new OrbitControls(camera, renderer.domElement);\ncontrols.enableDamping = true;\n\nconst ambientLight = new THREE.AmbientLight(0xffffff, 0.8);\nscene.add(ambientLight);\n\nconst dirLight = new THREE.DirectionalLight(0xffffff, 1.2);\ndirLight.position.set(5, 10, 7);\nscene.add(dirLight);\n\nconst loader = new GLTFLoader();\nloader.load('/assets/chair_modern.glb', (gltf) => {\n  scene.add(gltf.scene);\n  camera.position.set(2, 2, 4);\n  controls.update();\n});\n\nfunction animate() {\n  requestAnimationFrame(animate);\n  controls.update();\n  renderer.render(scene, camera);\n}\nanimate();\n```\n"
+              },
+              "mutability": "Mutable",
+              "type": "MARKDOWN"
+            }
+          },
+          {
+            "key": "2",
+            "value": {
+              "data": {
+                "entityKey": "95e88d2e-517d-4d61-8a63-521aec617fe1",
+                "mediaItems": [
+                  {
+                    "localMediaId": "3",
+                    "mediaCategory": "DraftTweetImage",
+                    "mediaId": "2097887485930213376"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHR0xjahaIAAKAAIaITTuGttQAAAA",
+          "media_id": "2097887485909147648",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 95.26,
+                  "rgb": {
+                    "blue": 34,
+                    "green": 28,
+                    "red": 23
+                  }
+                },
+                {
+                  "percentage": 2.25,
+                  "rgb": {
+                    "blue": 44,
+                    "green": 46,
+                    "red": 77
+                  }
+                },
+                {
+                  "percentage": 1.05,
+                  "rgb": {
+                    "blue": 42,
+                    "green": 58,
+                    "red": 30
+                  }
+                },
+                {
+                  "percentage": 0.44,
+                  "rgb": {
+                    "blue": 141,
+                    "green": 94,
+                    "red": 58
+                  }
+                },
+                {
+                  "percentage": 0.29,
+                  "rgb": {
+                    "blue": 230,
+                    "green": 118,
+                    "red": 42
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1800,
+            "original_img_url": "https://pbs.twimg.com/media/HR0xjahaIAAPLzJ.jpg",
+            "original_img_width": 2800
+          },
+          "media_key": "3_2097887485909147648"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAFCgABHR0xjambkAAKAAIaITTuGttQAAAA",
+          "media_id": "2097887485930213376",
+          "media_info": {
+            "__typename": "ApiImage",
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 96.59,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 25,
+                    "red": 21
+                  }
+                },
+                {
+                  "percentage": 2.21,
+                  "rgb": {
+                    "blue": 116,
+                    "green": 110,
+                    "red": 104
+                  }
+                },
+                {
+                  "percentage": 0.84,
+                  "rgb": {
+                    "blue": 120,
+                    "green": 79,
+                    "red": 46
+                  }
+                },
+                {
+                  "percentage": 0.25,
+                  "rgb": {
+                    "blue": 39,
+                    "green": 58,
+                    "red": 26
+                  }
+                },
+                {
+                  "percentage": 0.12,
+                  "rgb": {
+                    "blue": 98,
+                    "green": 160,
+                    "red": 83
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1720,
+            "original_img_url": "https://pbs.twimg.com/media/HR0xjambkAAvJG-.jpg",
+            "original_img_width": 2800
+          },
+          "media_key": "3_2097887485930213376"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

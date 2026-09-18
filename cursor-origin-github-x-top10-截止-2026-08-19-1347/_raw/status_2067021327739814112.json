@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/Polymarket/status/2067021327739814112",
+    "id": "2067021327739814112",
+    "text": "JUST IN: Cursor unveils “Origin,” a new code storage & git hosting platform built to take on GitHub.",
+    "raw_text": {
+      "text": "JUST IN: Cursor unveils “Origin,” a new code storage &amp; git hosting platform built to take on GitHub.",
+      "display_text_range": [
+        0,
+        104
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "Polymarket",
+      "url": "https://x.com/Polymarket",
+      "id": "1261335549215989760",
+      "followers": 1881841,
+      "following": 5616,
+      "likes": 91981,
+      "media_count": 5916,
+      "name": "Polymarket",
+      "description": "The World's Largest Prediction Market. Trade politics, news, crypto, culture, sports, tech, & more. Discord: http://polymarket.com/r/discord",
+      "raw_description": {
+        "text": "The World's Largest Prediction Market. Trade politics, news, crypto, culture, sports, tech, & more. Discord: https://t.co/tzKrbDfF3x",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              109,
+              132
+            ],
+            "original": "https://t.co/tzKrbDfF3x",
+            "replacement": "http://polymarket.com/r/discord",
+            "display": "polymarket.com/r/discord"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1261335549215989760/1773844633",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_200x200.jpg",
+      "joined": "Fri May 15 16:40:13 +0000 2020",
+      "protected": false,
+      "website": {
+        "url": "https://polymarket.com/",
+        "display_url": "polymarket.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "organization"
+      },
+      "avatar_color": null
+    },
+    "replies": 136,
+    "retweets": 231,
+    "likes": 4065,
+    "bookmarks": 397,
+    "quotes": 64,
+    "created_at": "Tue Jun 16 23:07:42 +0000 2026",
+    "created_timestamp": 1781651262,
+    "views": 298859,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter for iPhone",
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

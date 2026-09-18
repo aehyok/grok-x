@@ -1,0 +1,129 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/indie_maker_fox/status/2086990476734062749",
+    "id": "2086990476734062749",
+    "text": "已经连续 3 天用 UU 远程操控家里的 Mac mini\n\n不只救了我的副业，也把我的主业一起拉了回来\n\n画面清晰、操作顺滑，顺滑到让我几乎忘了自己在远程操控",
+    "raw_text": {
+      "text": "已经连续 3 天用 UU 远程操控家里的 Mac mini\n\n不只救了我的副业，也把我的主业一起拉了回来\n\n画面清晰、操作顺滑，顺滑到让我几乎忘了自己在远程操控 https://t.co/u5vdzwCZzH",
+      "display_text_range": [
+        0,
+        80
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            81,
+            104
+          ],
+          "id": "2086990472665591808",
+          "display": "pic.x.com/u5vdzwCZzH",
+          "original": "https://t.co/u5vdzwCZzH",
+          "replacement": "https://x.com/indie_maker_fox/status/2086990476734062749/photo/1"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "indie_maker_fox",
+      "url": "https://x.com/indie_maker_fox",
+      "id": "1865299069092139008",
+      "followers": 15410,
+      "following": 1177,
+      "likes": 10845,
+      "media_count": 1528,
+      "name": "Indie Fox",
+      "description": "🔥 TanStack boilerplate：http://TanStarter.dev\n🚀 AI SaaS boilerplate：http://MkSaaS.com\n🎉 AI Image SaaS boilerplate：http://MkImage.ai\n👨‍💻 独立开发，公开构建，AI 实战派\n🤑 产品出海，2 年收入破 10 万美刀",
+      "raw_description": {
+        "text": "🔥 TanStack boilerplate：https://t.co/EOxhRbrenE\n🚀 AI SaaS boilerplate：https://t.co/VyNtTs0jSX\n🎉 AI Image SaaS boilerplate：https://t.co/bJaO3RX3xe\n👨‍💻 独立开发，公开构建，AI 实战派\n🤑 产品出海，2 年收入破 10 万美刀",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              23,
+              46
+            ],
+            "original": "https://t.co/EOxhRbrenE",
+            "replacement": "http://TanStarter.dev",
+            "display": "TanStarter.dev"
+          },
+          {
+            "type": "url",
+            "indices": [
+              69,
+              92
+            ],
+            "original": "https://t.co/VyNtTs0jSX",
+            "replacement": "http://MkSaaS.com",
+            "display": "MkSaaS.com"
+          },
+          {
+            "type": "url",
+            "indices": [
+              121,
+              144
+            ],
+            "original": "https://t.co/bJaO3RX3xe",
+            "replacement": "http://MkImage.ai",
+            "display": "MkImage.ai"
+          }
+        ]
+      },
+      "location": "欢迎加入出海交流社群 (~3000人) 👉",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1865299069092139008/1748222129",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1905643474952880129/HiunneWW_200x200.jpg",
+      "joined": "Sat Dec 07 07:35:39 +0000 2024",
+      "protected": false,
+      "website": {
+        "url": "https://mksaas.link/discord",
+        "display_url": "mksaas.link/discord"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 60,
+    "retweets": 7,
+    "likes": 86,
+    "bookmarks": 84,
+    "quotes": 1,
+    "created_at": "Tue Aug 11 01:37:58 +0000 2026",
+    "created_timestamp": 1786412278,
+    "possibly_sensitive": false,
+    "views": 27907,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "zh",
+    "replying_to": null,
+    "replying_to_status": null,
+    "media": {
+      "all": [
+        {
+          "type": "photo",
+          "id": "2086990472665591808",
+          "url": "https://pbs.twimg.com/media/HPZ6xwzbcAAnrR8.jpg?name=orig",
+          "width": 2602,
+          "height": 1700
+        }
+      ],
+      "photos": [
+        {
+          "type": "photo",
+          "id": "2086990472665591808",
+          "url": "https://pbs.twimg.com/media/HPZ6xwzbcAAnrR8.jpg?name=orig",
+          "width": 2602,
+          "height": 1700
+        }
+      ]
+    },
+    "source": "Typefully",
+    "twitter_card": "summary_large_image",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

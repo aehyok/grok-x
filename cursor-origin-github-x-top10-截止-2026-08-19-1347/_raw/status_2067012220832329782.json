@@ -1,0 +1,88 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/cursor_ai/status/2067012220832329782",
+    "id": "2067012220832329782",
+    "text": "We're launching code storage and git hosting.\n\nOrigin gives teams and agents a place to host, review, and collaborate on code.\n\nAvailable this fall. Join the waitlist.\n\nhttps://cursor.com/origin-waitlist",
+    "raw_text": {
+      "text": "We're launching code storage and git hosting.\n\nOrigin gives teams and agents a place to host, review, and collaborate on code.\n\nAvailable this fall. Join the waitlist.\n\nhttps://t.co/uamaIarJXY",
+      "display_text_range": [
+        0,
+        192
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            169,
+            192
+          ],
+          "original": "https://t.co/uamaIarJXY",
+          "replacement": "https://cursor.com/origin-waitlist",
+          "display": "cursor.com/origin-waitlist"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "cursor_ai",
+      "url": "https://x.com/cursor_ai",
+      "id": "1695890961094909952",
+      "followers": 469437,
+      "following": 37,
+      "likes": 597,
+      "media_count": 254,
+      "name": "Cursor",
+      "description": "Coding agent for building ambitious software",
+      "raw_description": {
+        "text": "Coding agent for building ambitious software",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1695890961094909952/1780180766",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1970182748146180096/dhZeXi_X_200x200.jpg",
+      "joined": "Sun Aug 27 20:08:16 +0000 2023",
+      "protected": false,
+      "website": {
+        "url": "http://cursor.com",
+        "display_url": "cursor.com"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "organization"
+      },
+      "avatar_color": null
+    },
+    "replies": 579,
+    "retweets": 1293,
+    "likes": 14623,
+    "bookmarks": 3298,
+    "quotes": 829,
+    "created_at": "Tue Jun 16 22:31:31 +0000 2026",
+    "created_timestamp": 1781649091,
+    "possibly_sensitive": false,
+    "views": 5659728,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "card": {
+      "url": "https://cursor.com/origin-waitlist",
+      "title": "Cursor · Origin",
+      "description": "A git forge for the agentic era.",
+      "domain": "cursor.com",
+      "image": {
+        "width": 800,
+        "height": 419,
+        "url": "https://pbs.twimg.com/card_img/2089843095747600384/HGzXmf2v?format=jpg&name=800x419"
+      }
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}
